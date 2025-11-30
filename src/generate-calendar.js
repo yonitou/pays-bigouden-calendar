@@ -4,36 +4,90 @@ import { writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
+// Configuration
+const CONFIG = {
+  agendaUrl: 'https://www.destination-paysbigouden.com/a-voir-a-faire/agenda',
+  baseUrl: 'https://www.destination-paysbigouden.com',
+  calendar: {
+    name: 'Agenda Pays Bigouden',
+    description: 'Événements du Pays Bigouden - Bretagne',
+    timezone: 'Europe/Paris',
+  },
+  filters: {
+    excludedTypes: ['EXPOSITION'],
+    maxOccurrences: 20,
+    maxDurationDays: 60,
+  },
+  scraping: {
+    maxPages: 50,
+    maxConsecutiveEmpty: 2,
+  },
+  defaultEventDurationHours: 2,
+};
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const AGENDA_URL = 'https://www.destination-paysbigouden.com/a-voir-a-faire/agenda';
-const BASE_URL = 'https://www.destination-paysbigouden.com';
+const MS_PER_DAY = 1000 * 60 * 60 * 24;
 
-async function fetchEventsFromPage(page) {
-  const url = page === 1 ? AGENDA_URL : `${AGENDA_URL}?listpage=${page}`;
-  const response = await fetch(url);
-  const html = await response.text();
-
-  const match = html.match(/var\s+itemsData\s*=\s*(\[[\s\S]*?\]);/);
-  if (!match) {
-    return [];
+function getEventDurationDays(event) {
+  if (!event.dates?.[0]?.start?.startDate || !event.dates?.[0]?.end?.endDate) {
+    return 0;
   }
-
-  try {
-    return JSON.parse(match[1]);
-  } catch (e) {
-    console.warn(`⚠️ Erreur parsing page ${page}: ${e.message}`);
-    return [];
-  }
+  const start = new Date(event.dates[0].start.startDate);
+  const end = new Date(event.dates[0].end.endDate);
+  return (end - start) / MS_PER_DAY;
 }
 
-async function fetchEvents() {
-  console.log('📡 Récupération des événements (pagination)...');
+function shouldExcludeEvent(event) {
+  const type = event.type?.toUpperCase();
+  if (CONFIG.filters.excludedTypes.includes(type)) {
+    return true;
+  }
+
+  const occurrences = event.dates?.length || 0;
+  if (occurrences > CONFIG.filters.maxOccurrences) {
+    return true;
+  }
+
+  const durationDays = getEventDurationDays(event);
+  if (durationDays > CONFIG.filters.maxDurationDays) {
+    return true;
+  }
+
+  return false;
+}
+
+function extractItemsDataFromHtml(html) {
+  const match = html.match(/var\s+itemsData\s*=\s*(\[[\s\S]*?\]);/);
+  if (!match) {
+    return null;
+  }
+  return JSON.parse(match[1]);
+}
+
+async function fetchEventsFromPage(page) {
+  const url = page === 1
+    ? CONFIG.agendaUrl
+    : `${CONFIG.agendaUrl}?listpage=${page}`;
+
+  const response = await fetch(url);
+  if (!response.ok) {
+    return [];
+  }
+
+  const html = await response.text();
+  const events = extractItemsDataFromHtml(html);
+
+  return events || [];
+}
+
+async function fetchAllEvents() {
+  console.log('📡 Récupération des événements...');
 
   const allEvents = new Map();
   let page = 1;
   let consecutiveEmpty = 0;
 
-  while (consecutiveEmpty < 2) {
+  while (consecutiveEmpty < CONFIG.scraping.maxConsecutiveEmpty && page <= CONFIG.scraping.maxPages) {
     const events = await fetchEventsFromPage(page);
 
     if (events.length === 0) {
@@ -51,9 +105,6 @@ async function fetchEvents() {
     }
 
     page++;
-
-    // Limite de sécurité
-    if (page > 50) break;
   }
 
   const result = Array.from(allEvents.values());
@@ -61,114 +112,123 @@ async function fetchEvents() {
   return result;
 }
 
-function buildEventUrl(event) {
-  // Construire l'URL de la fiche événement
-  // Format typique : /fiche/[bordereau]/[sheetId]/[slug]
-  const slug = event.title
+function slugify(text) {
+  return text
     .toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
-
-  return `${BASE_URL}/fiche/${event.bordereau}/${event.sheetId}/${slug}`;
 }
 
-function parseEventDates(event) {
-  const parsedDates = [];
+function buildEventUrl(event) {
+  const slug = slugify(event.title);
+  return `${CONFIG.baseUrl}/fiche/${event.bordereau}/${event.sheetId}/${slug}`;
+}
 
-  if (!event.dates || event.dates.length === 0) {
-    return parsedDates;
-  }
+function parseTime(timeString) {
+  const match = timeString?.match(/(\d{1,2})[h:](\d{2})?/);
+  if (!match) return null;
+  return {
+    hours: parseInt(match[1], 10),
+    minutes: parseInt(match[2] || '0', 10),
+  };
+}
 
-  for (const dateInfo of event.dates) {
-    try {
-      const startDateStr = dateInfo.start?.startDate;
-      const endDateStr = dateInfo.end?.endDate;
+function parseDateOccurrence(dateInfo) {
+  const startDateStr = dateInfo.start?.startDate;
+  if (!startDateStr) return null;
 
-      if (!startDateStr) continue;
+  const endDateStr = dateInfo.end?.endDate;
+  let startDate = new Date(startDateStr);
+  let endDate = endDateStr ? new Date(endDateStr) : new Date(startDate);
 
-      let startDate = new Date(startDateStr);
-      let endDate = endDateStr ? new Date(endDateStr) : new Date(startDate);
-
-      // Extraire l'heure si disponible
-      const startTime = dateInfo.start?.startTime;
-      if (startTime) {
-        const timeMatch = startTime.match(/(\d{1,2})[h:](\d{2})?/);
-        if (timeMatch) {
-          const hours = parseInt(timeMatch[1], 10);
-          const minutes = parseInt(timeMatch[2] || '0', 10);
-          startDate.setHours(hours, minutes, 0, 0);
-
-          // Par défaut, événement de 2h si pas d'heure de fin
-          if (!endDateStr || dateInfo.oneday) {
-            endDate = new Date(startDate);
-            endDate.setHours(hours + 2, minutes, 0, 0);
-          }
-        }
-      }
-
-      // Vérifier que l'événement n'est pas déjà passé
-      if (endDate >= new Date()) {
-        parsedDates.push({ start: startDate, end: endDate });
-      }
-    } catch (e) {
-      console.warn(`⚠️ Erreur parsing date pour "${event.title}":`, e.message);
+  const time = parseTime(dateInfo.start?.startTime);
+  if (time) {
+    startDate.setHours(time.hours, time.minutes, 0, 0);
+    if (!endDateStr || dateInfo.oneday) {
+      endDate = new Date(startDate);
+      endDate.setHours(time.hours + CONFIG.defaultEventDurationHours, time.minutes, 0, 0);
     }
   }
 
-  return parsedDates;
+  if (endDate < new Date()) {
+    return null;
+  }
+
+  return { start: startDate, end: endDate };
+}
+
+function parseEventDates(event) {
+  if (!event.dates?.length) {
+    return [];
+  }
+
+  return event.dates
+    .map(parseDateOccurrence)
+    .filter(Boolean);
+}
+
+function buildEventDescription(event, eventUrl) {
+  const parts = [];
+  if (event.description) {
+    parts.push(event.description);
+  }
+  if (event.phone?.number) {
+    parts.push(`📞 ${event.phone.number}`);
+  }
+  parts.push(`🔗 ${eventUrl}`);
+  return parts.join('\n\n');
+}
+
+function buildEventLocation(event) {
+  const parts = [];
+  if (event.address) {
+    parts.push(event.address.replace(/\n/g, ', '));
+  }
+  if (event.town && !event.address?.includes(event.town)) {
+    parts.push(event.town);
+  }
+  return parts.join(' - ');
+}
+
+function buildEventGeo(event) {
+  if (!event.gps?.latitude || !event.gps?.longitude) {
+    return undefined;
+  }
+  return {
+    lat: parseFloat(event.gps.latitude),
+    lon: parseFloat(event.gps.longitude),
+  };
 }
 
 function generateCalendar(events) {
   console.log('📅 Génération du calendrier iCal...');
 
   const calendar = ical({
-    name: 'Agenda Pays Bigouden',
-    description: 'Événements du Pays Bigouden - Bretagne',
-    timezone: 'Europe/Paris',
+    name: CONFIG.calendar.name,
+    description: CONFIG.calendar.description,
+    timezone: CONFIG.calendar.timezone,
     prodId: { company: 'Pays Bigouden Calendar', product: 'Events' },
-    url: AGENDA_URL
+    url: CONFIG.agendaUrl,
   });
 
   let addedCount = 0;
 
   for (const event of events) {
     const dates = parseEventDates(event);
-
     if (dates.length === 0) continue;
 
     const eventUrl = buildEventUrl(event);
+    const description = buildEventDescription(event, eventUrl);
+    const location = buildEventLocation(event);
+    const geo = buildEventGeo(event);
 
-    // Construire la description
-    const descriptionParts = [];
-    if (event.description) {
-      descriptionParts.push(event.description);
-    }
-    if (event.phone?.number) {
-      descriptionParts.push(`📞 ${event.phone.number}`);
-    }
-    descriptionParts.push(`🔗 ${eventUrl}`);
-
-    const description = descriptionParts.join('\n\n');
-
-    // Construire le lieu
-    const locationParts = [];
-    if (event.address) {
-      locationParts.push(event.address.replace(/\n/g, ', '));
-    }
-    if (event.town && !event.address?.includes(event.town)) {
-      locationParts.push(event.town);
-    }
-    const location = locationParts.join(' - ');
-
-    // Créer un événement pour chaque date
     for (let i = 0; i < dates.length; i++) {
       const { start, end } = dates[i];
-      const uid = `${event.sheetId}-${i}@pays-bigouden-calendar`;
 
       calendar.createEvent({
-        id: uid,
+        id: `${event.sheetId}-${i}@pays-bigouden-calendar`,
         start,
         end,
         summary: event.title,
@@ -176,34 +236,38 @@ function generateCalendar(events) {
         location,
         url: eventUrl,
         categories: event.type ? [{ name: event.type }] : undefined,
-        geo: event.gps?.latitude && event.gps?.longitude ? {
-          lat: parseFloat(event.gps.latitude),
-          lon: parseFloat(event.gps.longitude)
-        } : undefined
+        geo,
       });
 
       addedCount++;
     }
   }
 
-  console.log(`✅ ${addedCount} occurrences d'événements ajoutées au calendrier`);
+  console.log(`✅ ${addedCount} occurrences ajoutées au calendrier`);
   return calendar;
 }
 
 async function main() {
-  try {
-    const events = await fetchEvents();
-    const calendar = generateCalendar(events);
+  const events = await fetchAllEvents();
 
-    const outputPath = join(__dirname, '..', 'pays-bigouden.ics');
-    writeFileSync(outputPath, calendar.toString());
+  const filteredEvents = events.filter(e => !shouldExcludeEvent(e));
+  const excludedCount = events.length - filteredEvents.length;
+  console.log(`⏭️  ${excludedCount} événements exclus`);
 
-    console.log(`\n🎉 Calendrier généré avec succès !`);
-    console.log(`📁 Fichier : ${outputPath}`);
-  } catch (error) {
-    console.error('❌ Erreur:', error.message);
-    process.exit(1);
-  }
+  const calendar = generateCalendar(filteredEvents);
+
+  const icsPath = join(__dirname, '..', 'pays-bigouden.ics');
+  const jsonPath = join(__dirname, '..', 'events.json');
+
+  writeFileSync(icsPath, calendar.toString());
+  writeFileSync(jsonPath, JSON.stringify(filteredEvents, null, 2));
+
+  console.log(`\n🎉 Calendrier généré !`);
+  console.log(`📁 ICS: ${icsPath}`);
+  console.log(`📁 JSON: ${jsonPath}`);
 }
 
-main();
+main().catch(error => {
+  console.error('❌ Erreur:', error.message);
+  process.exit(1);
+});
