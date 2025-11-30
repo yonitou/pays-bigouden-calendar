@@ -1,0 +1,16 @@
+{
+  "name": "pays-bigouden-calendar",
+  "version": "1.0.0",
+  "description": "Génère un calendrier iCal des événements du Pays Bigouden",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/generate-calendar.js"
+  },
+  "dependencies": {
+    "ical-generator": "^8.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
