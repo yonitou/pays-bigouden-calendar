@@ -10,7 +10,7 @@ Génère automatiquement un calendrier iCal (.ics) des événements du [Pays Big
 2. Sélectionne **Autre** > **Ajouter un calendrier avec abonnement**
 3. Entre l'URL du calendrier :
    ```
-   https://raw.githubusercontent.com/yonitou/pays-bigouden-calendar/main/dist/pays-bigouden.ics
+   https://yonitou.github.io/pays-bigouden-calendar/pays-bigouden.ics
    ```
 4. Valide et configure les options (nom, couleur, alertes...)
 
@@ -45,7 +45,7 @@ npm install
 npm run generate
 ```
 
-Le fichier sera généré dans `dist/pays-bigouden.ics`.
+Le fichier sera généré dans `pays-bigouden.ics`.
 
 ## Fonctionnalités
 

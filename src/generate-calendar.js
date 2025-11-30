@@ -195,7 +195,7 @@ async function main() {
     const events = await fetchEvents();
     const calendar = generateCalendar(events);
 
-    const outputPath = join(__dirname, '..', 'dist', 'pays-bigouden.ics');
+    const outputPath = join(__dirname, '..', 'pays-bigouden.ics');
     writeFileSync(outputPath, calendar.toString());
 
     console.log(`\n🎉 Calendrier généré avec succès !`);
