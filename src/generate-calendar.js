@@ -14,7 +14,13 @@ const CONFIG = {
     timezone: 'Europe/Paris',
   },
   filters: {
-    excludedTypes: ['EXPOSITION'],
+    excludedTypes: [
+      'EXPOSITION',
+      'HUMOUR',
+      'CONFÉRENCE',
+      'COMPÉTITION SPORTIVE',
+      'FORUM / RENCONTRE / DÉDICACE',
+    ],
     maxOccurrences: 20,
     maxDurationDays: 60,
   },
