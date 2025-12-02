@@ -1,135 +1,206 @@
-import fetch from 'node-fetch';
-import ical from 'ical-generator';
-import { writeFileSync } from 'fs';
-import { join, dirname } from 'path';
-import { fileURLToPath } from 'url';
+import fetch from "node-fetch";
+import ical from "ical-generator";
+import { writeFileSync } from "fs";
+import { join, dirname } from "path";
+import { fileURLToPath } from "url";
 
 // Configuration
 const CONFIG = {
-  agendaUrl: 'https://www.destination-paysbigouden.com/a-voir-a-faire/agenda',
-  baseUrl: 'https://www.destination-paysbigouden.com',
+  sitemapUrls: [
+    "https://www.destination-paysbigouden.com/sitemap-1.xml",
+    "https://www.destination-paysbigouden.com/sitemap-2.xml",
+  ],
+  baseUrl: "https://www.destination-paysbigouden.com",
   calendar: {
-    name: 'Agenda Pays Bigouden',
-    description: 'Événements du Pays Bigouden - Bretagne',
-    timezone: 'Europe/Paris',
-  },
-  filters: {
-    excludedTypes: [
-      'EXPOSITION',
-      'HUMOUR',
-      'CONFÉRENCE',
-      'COMPÉTITION SPORTIVE',
-      'FORUM / RENCONTRE / DÉDICACE',
-    ],
-    maxOccurrences: 20,
-    maxDurationDays: 60,
+    name: "Agenda Pays Bigouden",
+    description: "Événements du Pays Bigouden - Bretagne",
+    timezone: "Europe/Paris",
   },
   scraping: {
-    maxPages: 50,
-    maxConsecutiveEmpty: 2,
+    concurrency: 10,
+    delayMs: 100,
   },
   defaultEventDurationHours: 2,
 };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const MS_PER_DAY = 1000 * 60 * 60 * 24;
 
-function getEventDurationDays(event) {
-  if (!event.dates?.[0]?.start?.startDate || !event.dates?.[0]?.end?.endDate) {
-    return 0;
-  }
-  const start = new Date(event.dates[0].start.startDate);
-  const end = new Date(event.dates[0].end.endDate);
-  return (end - start) / MS_PER_DAY;
-}
-
-function shouldExcludeEvent(event) {
-  const type = event.type?.toUpperCase();
-  if (CONFIG.filters.excludedTypes.includes(type)) {
-    return true;
-  }
-
-  const occurrences = event.dates?.length || 0;
-  if (occurrences > CONFIG.filters.maxOccurrences) {
-    return true;
-  }
-
-  const durationDays = getEventDurationDays(event);
-  if (durationDays > CONFIG.filters.maxDurationDays) {
-    return true;
-  }
-
-  return false;
-}
-
-function extractItemsDataFromHtml(html) {
-  const match = html.match(/var\s+itemsData\s*=\s*(\[[\s\S]*?\]);/);
-  if (!match) {
+function extractHwSheetFromHtml(html) {
+  const startIndex = html.indexOf("HwSheet = {");
+  if (startIndex === -1) {
     return null;
   }
-  return JSON.parse(match[1]);
+
+  let braceCount = 0;
+  let endIndex = startIndex + 10;
+  let started = false;
+
+  for (let i = startIndex; i < html.length; i++) {
+    if (html[i] === "{") {
+      braceCount++;
+      started = true;
+    } else if (html[i] === "}") {
+      braceCount--;
+      if (started && braceCount === 0) {
+        endIndex = i + 1;
+        break;
+      }
+    }
+  }
+
+  try {
+    const jsonStr = html.substring(startIndex + 10, endIndex);
+    return JSON.parse(jsonStr);
+  } catch {
+    return null;
+  }
 }
 
-async function fetchEventsFromPage(page) {
-  const url = page === 1
-    ? CONFIG.agendaUrl
-    : `${CONFIG.agendaUrl}?listpage=${page}`;
+function transformHwSheetToEvent(hwSheet, url) {
+  const periods = hwSheet.openingPeriods?.periods || [];
+  const dates = periods.map((period) => {
+    const startDate = period.startDate || period._startDate;
+    const endDate = period.endDate || period._endDate;
+    const startTime =
+      period._formated_days?.[0]?.schedules?.[0]?.startTime ||
+      period.days?.[0]?.days?.[0]?.schedules?.[0]?.startTime;
 
-  const response = await fetch(url);
+    return {
+      oneday: period._isOneDay || false,
+      start: {
+        startDate,
+        startTime: startTime
+          ? `à ${startTime.substring(0, 5).replace(":", "h")}`
+          : null,
+      },
+      end: {
+        endDate,
+      },
+    };
+  });
+
+  return {
+    sheetId: hwSheet.sheetId,
+    bordereau: hwSheet.bordereau,
+    title: hwSheet.businessName,
+    type: hwSheet.type,
+    description: hwSheet.description,
+    town: hwSheet.locality,
+    address: hwSheet.contacts?.establishment?.address1 ||
+      hwSheet.contacts?.establishment?.address2 ||
+      (hwSheet.contacts?.establishment?.zipCode
+        ? `${hwSheet.contacts.establishment.zipCode} ${hwSheet.contacts.establishment.commune || ''}`
+        : null),
+    gps: hwSheet.geolocations
+      ? {
+          latitude: hwSheet.geolocations.latitude,
+          longitude: hwSheet.geolocations.longitude,
+        }
+      : null,
+    phone: hwSheet.contacts?.establishment?.phones?.[0]
+      ? {
+          number: hwSheet.contacts.establishment.phones[0],
+        }
+      : null,
+    dates,
+    url,
+  };
+}
+
+async function fetchUrlsFromSitemap(sitemapUrl) {
+  const response = await fetch(sitemapUrl);
   if (!response.ok) {
     return [];
   }
 
-  const html = await response.text();
-  const events = extractItemsDataFromHtml(html);
+  const xml = await response.text();
+  const urls = xml.match(/<loc>([^<]+)<\/loc>/g) || [];
+  return urls.map((u) => u.replace(/<\/?loc>/g, ""));
+}
 
-  return events || [];
+async function fetchEventFromUrl(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      return null;
+    }
+
+    const html = await response.text();
+    const hwSheet = extractHwSheetFromHtml(html);
+
+    if (!hwSheet || hwSheet.bordereau !== "FMA") {
+      return null;
+    }
+
+    return transformHwSheetToEvent(hwSheet, url);
+  } catch {
+    return null;
+  }
 }
 
 async function fetchAllEvents() {
-  console.log('📡 Récupération des événements...');
+  console.log("📡 Récupération des URLs depuis les sitemaps...");
+
+  const allUrls = [];
+  for (const sitemapUrl of CONFIG.sitemapUrls) {
+    const urls = await fetchUrlsFromSitemap(sitemapUrl);
+    const offreUrls = urls.filter((u) => u.includes("/offres/"));
+    allUrls.push(...offreUrls);
+    console.log(`  ${sitemapUrl}: ${offreUrls.length} URLs d'offres`);
+  }
+
+  console.log(
+    `\n📡 Récupération des événements (${allUrls.length} pages à analyser)...`
+  );
 
   const allEvents = new Map();
-  let page = 1;
-  let consecutiveEmpty = 0;
+  let processed = 0;
+  let eventCount = 0;
 
-  while (consecutiveEmpty < CONFIG.scraping.maxConsecutiveEmpty && page <= CONFIG.scraping.maxPages) {
-    const events = await fetchEventsFromPage(page);
+  for (let i = 0; i < allUrls.length; i += CONFIG.scraping.concurrency) {
+    const batch = allUrls.slice(i, i + CONFIG.scraping.concurrency);
+    const results = await Promise.all(batch.map(fetchEventFromUrl));
 
-    if (events.length === 0) {
-      consecutiveEmpty++;
-    } else {
-      consecutiveEmpty = 0;
-      let newCount = 0;
-      for (const event of events) {
-        if (!allEvents.has(event.sheetId)) {
-          allEvents.set(event.sheetId, event);
-          newCount++;
-        }
+    for (const event of results) {
+      if (event && !allEvents.has(event.sheetId)) {
+        allEvents.set(event.sheetId, event);
+        eventCount++;
       }
-      console.log(`  Page ${page}: ${events.length} événements (${newCount} nouveaux)`);
     }
 
-    page++;
+    processed += batch.length;
+    if (processed % 50 === 0 || processed === allUrls.length) {
+      console.log(
+        `  Progression: ${processed}/${allUrls.length} pages (${eventCount} événements)`
+      );
+    }
+
+    if (i + CONFIG.scraping.concurrency < allUrls.length) {
+      await new Promise((r) => setTimeout(r, CONFIG.scraping.delayMs));
+    }
   }
 
   const result = Array.from(allEvents.values());
-  console.log(`✅ ${result.length} événements uniques trouvés`);
+  console.log(`✅ ${result.length} événements trouvés`);
   return result;
 }
 
 function slugify(text) {
   return text
     .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
 }
 
 function buildEventUrl(event) {
-  const slug = slugify(event.title);
-  return `${CONFIG.baseUrl}/fiche/${event.bordereau}/${event.sheetId}/${slug}`;
+  return (
+    event.url ||
+    `${CONFIG.baseUrl}/offres/${slugify(event.title)}-${
+      event.town?.toLowerCase() || "bigouden"
+    }-fr-${event.sheetId}/`
+  );
 }
 
 function parseTime(timeString) {
@@ -137,7 +208,7 @@ function parseTime(timeString) {
   if (!match) return null;
   return {
     hours: parseInt(match[1], 10),
-    minutes: parseInt(match[2] || '0', 10),
+    minutes: parseInt(match[2] || "0", 10),
   };
 }
 
@@ -154,7 +225,12 @@ function parseDateOccurrence(dateInfo) {
     startDate.setHours(time.hours, time.minutes, 0, 0);
     if (!endDateStr || dateInfo.oneday) {
       endDate = new Date(startDate);
-      endDate.setHours(time.hours + CONFIG.defaultEventDurationHours, time.minutes, 0, 0);
+      endDate.setHours(
+        time.hours + CONFIG.defaultEventDurationHours,
+        time.minutes,
+        0,
+        0
+      );
     }
   }
 
@@ -170,9 +246,7 @@ function parseEventDates(event) {
     return [];
   }
 
-  return event.dates
-    .map(parseDateOccurrence)
-    .filter(Boolean);
+  return event.dates.map(parseDateOccurrence).filter(Boolean);
 }
 
 function buildEventDescription(event, eventUrl) {
@@ -184,18 +258,18 @@ function buildEventDescription(event, eventUrl) {
     parts.push(`📞 ${event.phone.number}`);
   }
   parts.push(`🔗 ${eventUrl}`);
-  return parts.join('\n\n');
+  return parts.join("\n\n");
 }
 
 function buildEventLocation(event) {
   const parts = [];
   if (event.address) {
-    parts.push(event.address.replace(/\n/g, ', '));
+    parts.push(event.address.replace(/\n/g, ", "));
   }
   if (event.town && !event.address?.includes(event.town)) {
     parts.push(event.town);
   }
-  return parts.join(' - ');
+  return parts.join(" - ");
 }
 
 function buildEventGeo(event) {
@@ -209,14 +283,13 @@ function buildEventGeo(event) {
 }
 
 function generateCalendar(events) {
-  console.log('📅 Génération du calendrier iCal...');
+  console.log("📅 Génération du calendrier iCal...");
 
   const calendar = ical({
     name: CONFIG.calendar.name,
     description: CONFIG.calendar.description,
     timezone: CONFIG.calendar.timezone,
-    prodId: { company: 'Pays Bigouden Calendar', product: 'Events' },
-    url: CONFIG.agendaUrl,
+    prodId: { company: "Pays Bigouden Calendar", product: "Events" },
   });
 
   let addedCount = 0;
@@ -256,24 +329,20 @@ function generateCalendar(events) {
 async function main() {
   const events = await fetchAllEvents();
 
-  const filteredEvents = events.filter(e => !shouldExcludeEvent(e));
-  const excludedCount = events.length - filteredEvents.length;
-  console.log(`⏭️  ${excludedCount} événements exclus`);
+  const calendar = generateCalendar(events);
 
-  const calendar = generateCalendar(filteredEvents);
-
-  const icsPath = join(__dirname, '..', 'pays-bigouden.ics');
-  const jsonPath = join(__dirname, '..', 'events.json');
+  const icsPath = join(__dirname, "..", "pays-bigouden.ics");
+  const jsonPath = join(__dirname, "..", "events.json");
 
   writeFileSync(icsPath, calendar.toString());
-  writeFileSync(jsonPath, JSON.stringify(filteredEvents, null, 2));
+  writeFileSync(jsonPath, JSON.stringify(events, null, 2));
 
   console.log(`\n🎉 Calendrier généré !`);
   console.log(`📁 ICS: ${icsPath}`);
   console.log(`📁 JSON: ${jsonPath}`);
 }
 
-main().catch(error => {
-  console.error('❌ Erreur:', error.message);
+main().catch((error) => {
+  console.error("❌ Erreur:", error.message);
   process.exit(1);
 });
