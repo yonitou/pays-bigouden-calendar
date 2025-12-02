@@ -282,7 +282,7 @@ function parseEventDates(event) {
   return event.dates.map(parseDateOccurrence).filter(Boolean);
 }
 
-function buildEventDescription(event, eventUrl) {
+function buildEventDescription(event) {
   const parts = [];
   if (event.description) {
     parts.push(event.description);
@@ -290,7 +290,6 @@ function buildEventDescription(event, eventUrl) {
   if (event.phone?.number) {
     parts.push(`📞 ${event.phone.number}`);
   }
-  parts.push(`🔗 ${eventUrl}`);
   return parts.join("\n\n");
 }
 
@@ -332,7 +331,7 @@ function generateCalendar(events) {
     if (dates.length === 0) continue;
 
     const eventUrl = buildEventUrl(event);
-    const description = buildEventDescription(event, eventUrl);
+    const description = buildEventDescription(event);
     const location = buildEventLocation(event);
     const geo = buildEventGeo(event);
 
