@@ -3,11 +3,8 @@ name: Update Calendar
 on:
   schedule:
     # Exécution tous les jours à 6h du matin (UTC)
-    - cron: '0 6 * * *'
+    - cron: "0 6 * * *"
   workflow_dispatch: # Permet de déclencher manuellement
-  push:
-    branches:
-      - master
 
 jobs:
   update:
@@ -22,8 +19,8 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
 
       - name: Install dependencies
         run: npm ci
