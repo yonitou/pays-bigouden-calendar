@@ -9,9 +9,9 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:5426174-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260601T000000
-DTEND:20260930T235959
+DTSTAMP:20251202T124551
+DTSTART:20260531T220000
+DTEND:20260930T215959
 SUMMARY:Festival Photo 15ème édition - Les Femmes et la Mer
 LOCATION:29730 Guilvinec
 DESCRIPTION:Chaque année\, les rues du Guilvinec et de Léchiagat\, les q
@@ -44,9 +44,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426397-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T203000
-DTEND:20251206T223000
+DTSTAMP:20251202T124551
+DTSTART:20251205T203000
+DTEND:20251205T223000
 SUMMARY:Concert - Stéphane
 LOCATION:Rue Méjour Bihan - Guilvinec
 DESCRIPTION:Auteure compositrice et interprète à l’univers musical pop
@@ -61,9 +61,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426444-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251209T100000
-DTEND:20251209T120000
+DTSTAMP:20251202T124551
+DTSTART:20251208T100000
+DTEND:20251208T120000
 SUMMARY:Atelier de cuisine à l'Hatelier - Menu de Fêtes
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Animé par Klervi Berrou du restaurant Le Poisson d'Avril au G
@@ -79,9 +79,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426447-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251210T100000
-DTEND:20251210T120000
+DTSTAMP:20251202T124551
+DTSTART:20251209T100000
+DTEND:20251209T120000
 SUMMARY:Atelier de cuisine à l'Hatelier - Menu de Fêtes
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Animé par Michel Bouyer.\nL'atelier se termine par la dégust
@@ -96,9 +96,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426448-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251221T140000
-DTEND:20251221T160000
+DTSTAMP:20251202T124551
+DTSTART:20251220T140000
+DTEND:20251220T160000
 SUMMARY:Noël en fête
 LOCATION:Place des Anciens Combattants - Loctudy
 DESCRIPTION:Plus de 20 exposants seront présents : créateurs\, artisans 
@@ -125,9 +125,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426454-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251228T110000
-DTEND:20251228T130000
+DTSTAMP:20251202T124551
+DTSTART:20251227T110000
+DTEND:20251227T130000
 SUMMARY:Baignade collective - Le bain des sirènes
 LOCATION:Plage de Langoz - Loctudy
 DESCRIPTION:Plongez dans la tradition hivernale !\nPrêts pour un grand bo
@@ -156,9 +156,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426481-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T100000
-DTEND:20251220T120000
+DTSTAMP:20251202T124551
+DTSTART:20251219T100000
+DTEND:20251219T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
 LOCATION:8 rue Jean Jaurès - Plobannalec-Lesconil
 DESCRIPTION:Venez chiner et faire de bonnes affaires à la braderie du Sec
@@ -172,9 +172,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T110000
-DTEND:20251206T130000
+DTSTAMP:20251202T124551
+DTSTART:20251205T110000
+DTEND:20251205T130000
 SUMMARY:Marché de Noël
 LOCATION:29740 Plobannalec-Lesconil
 DESCRIPTION:Le traditionnel Marché de Noël de Plobannalec-Lesconil aura 
@@ -214,9 +214,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426636-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T100000
-DTEND:20251207T120000
+DTSTAMP:20251202T124551
+DTSTART:20251206T100000
+DTEND:20251206T120000
 SUMMARY:Marché de Noël
 LOCATION:29740 Plobannalec-Lesconil
 DESCRIPTION:Le traditionnel Marché de Noël de Plobannalec-Lesconil aura 
@@ -256,9 +256,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426639-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T170000
-DTEND:20251213T190000
+DTSTAMP:20251202T124551
+DTSTART:20251212T170000
+DTEND:20251212T190000
 SUMMARY:Le Père noël Maritime - Le Noël de Bag Leskon
 LOCATION:Quai Est - Plobannalec-Lesconil
 DESCRIPTION:Rendez-vous à 16h30 au chantier Le Cœur\, contes de Noël pa
@@ -276,9 +276,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426666-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251218T000000
-DTEND:20251224T235959
+DTSTAMP:20251202T124551
+DTSTART:20251217T230000
+DTEND:20251224T225959
 SUMMARY:Expo peinture - Marie Sizun et Jean-Michel Merour
 LOCATION:12 rue de la Pointe - Île-Tudy
 DESCRIPTION:Deux artistes à découvrir à la Maison de la pointe.\n\n📞
@@ -291,9 +291,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426669-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251211T000000
-DTEND:20251217T235959
+DTSTAMP:20251202T124551
+DTSTART:20251210T230000
+DTEND:20251217T225959
 SUMMARY:Expo peinture - Mirella Huon
 LOCATION:12 rue de la Pointe - Île-Tudy
 DESCRIPTION:À découvrir à la Maison de la pointe.\n\n📞 02 98 56 42 5
@@ -306,9 +306,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426688-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251204T110000
-DTEND:20251210T235959
+DTSTAMP:20251202T124551
+DTSTART:20251203T110000
+DTEND:20251210T225959
 SUMMARY:Expo peinture - Daniel Larvol
 LOCATION:12 rue de la Pointe - Île-Tudy
 DESCRIPTION:Daniel Larvol est né en 1949 à Quimper\, et réside depuis 2
@@ -337,9 +337,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426785-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260307T203000
-DTEND:20260307T223000
+DTSTAMP:20251202T124551
+DTSTART:20260306T203000
+DTEND:20260306T223000
 SUMMARY:Spectacle hypnose - Kent
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Kent Hypnose\, l'Hypnotiseur Breton est de retour avec un nouv
@@ -368,9 +368,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426868-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251127T103000
-DTEND:20251203T235959
+DTSTAMP:20251202T124551
+DTSTART:20251126T103000
+DTEND:20251203T225959
 SUMMARY:Expo peinture\, sculpture et photographie - Le Reun\, Jaffray Quei
  nnec et Lebret
 LOCATION:12 rue de la Pointe - Île-Tudy
@@ -387,9 +387,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T090000
-DTEND:20251207T110000
+DTSTAMP:20251202T124551
+DTSTART:20251206T090000
+DTEND:20251206T110000
 SUMMARY:Vente solidaire par Solidarité Bigoudène
 LOCATION:Place de la République - Saint-Jean-Trolimon
 DESCRIPTION:Solidarité Bigoudène propose le premier dimanche de chaque m
@@ -407,9 +407,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772401-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251221T150000
-DTEND:20251221T170000
+DTSTAMP:20251202T124551
+DTSTART:20251220T150000
+DTEND:20251220T170000
 SUMMARY:Concert de Noël
 LOCATION:Rue de Poulpeye - Loctudy
 DESCRIPTION:L'association des Amis de l'orgue propose un concert de Noël 
@@ -422,9 +422,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772687-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250101T000000
-DTEND:20251231T235959
+DTSTAMP:20251202T124551
+DTSTART:20241231T230000
+DTEND:20251231T225959
 SUMMARY:Devenez un petit fermier !
 LOCATION:Route de Pont-l'Abbé - Plonéour-Lanvern
 DESCRIPTION:Possibilité d'assister à la traite des vaches 17h/18h et de 
@@ -440,9 +440,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772695-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250201T000000
-DTEND:20251231T235959
+DTSTAMP:20251202T124551
+DTSTART:20250131T230000
+DTEND:20251231T225959
 SUMMARY:Visite et dégustation de Mammen distillerie
 LOCATION:29710 Pouldreuzic
 DESCRIPTION:Poussez la porte et découvrez le métier de distillateur ! \n
@@ -458,8 +458,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250101T000000
+DTSTAMP:20251202T124551
+DTSTART:20241231T000000
 DTEND:20251231T235959
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
 LOCATION:29720 Plonéour-Lanvern
@@ -475,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
+DTSTAMP:20251202T124551
 DTSTART:20260101T000000
 DTEND:20260101T020000
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
@@ -492,8 +492,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260101T000000
+DTSTAMP:20251202T124551
+DTSTART:20251231T000000
 DTEND:20261231T235959
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
 LOCATION:29720 Plonéour-Lanvern
@@ -509,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
+DTSTAMP:20251202T124551
 DTSTART:20270101T000000
 DTEND:20270101T020000
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
@@ -526,8 +526,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-4@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20270101T000000
+DTSTAMP:20251202T124551
+DTSTART:20261231T000000
 DTEND:20271231T235959
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
 LOCATION:29720 Plonéour-Lanvern
@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772708-5@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
+DTSTAMP:20251202T124551
 DTSTART:20280101T000000
 DTEND:20280101T020000
 SUMMARY:Visite libre du Manoir de Trevilit - Extérieurs
@@ -560,9 +560,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772940-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250101T000000
-DTEND:20251231T235959
+DTSTAMP:20251202T124551
+DTSTART:20241231T230000
+DTEND:20251231T225959
 SUMMARY:Visite guidée du jardin de plantes aromatiques et médicinales.
 LOCATION:Kerouanquen - Plogastel-Saint-Germain
 DESCRIPTION:Vous y découvrirez une cinquantaine de plantes sauvages et cu
@@ -579,9 +579,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5773082-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250101T160000
-DTEND:20251231T235959
+DTSTAMP:20251202T124551
+DTSTART:20241231T160000
+DTEND:20251231T225959
 SUMMARY:Devenez un petit fermier\, assistez à la traite !
 LOCATION:Lieu-dit Pendréo - Plogastel-Saint-Germain
 DESCRIPTION:Possibilité d'assister à la traite\, de déguster des glaces
@@ -595,9 +595,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5773096-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T110000
-DTEND:20251213T130000
+DTSTAMP:20251202T124551
+DTSTART:20251212T110000
+DTEND:20251212T130000
 SUMMARY:Marché de Noël
 LOCATION:39 Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Magie de Noël avant l'heure :  des idées cadeaux présentée
@@ -611,9 +611,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5773120-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T100000
-DTEND:20251214T235959
+DTSTAMP:20251202T124551
+DTSTART:20251212T100000
+DTEND:20251214T225959
 SUMMARY:Marché de Noël et exposition de vitrail
 LOCATION:11 rue Pierre Loti - Plobannalec-Lesconil
 DESCRIPTION:Un vin chaud sera servi à tous les visiteurs.\nOuvert à tous
@@ -627,9 +627,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5774233-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T090000
-DTEND:20251206T110000
+DTSTAMP:20251202T124551
+DTSTART:20251205T090000
+DTEND:20251205T110000
 SUMMARY:Repair café
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Venez apprendre à réparer et à entretenir votre vélo et le
@@ -643,9 +643,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5780622-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251108T000000
-DTEND:20251207T235959
+DTSTAMP:20251202T124551
+DTSTART:20251107T230000
+DTEND:20251207T225959
 SUMMARY:Expo photo de Didier et Christine GERVY
 LOCATION:Place de la mairie - Plobannalec-Lesconil
 DESCRIPTION:Horaires : \nLundi : 10h00-12h30\, 13h30-16h00\nMardi : 10h00-
@@ -661,9 +661,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882469-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260208T170000
-DTEND:20260208T190000
+DTSTAMP:20251202T124551
+DTSTART:20260207T170000
+DTEND:20260207T190000
 SUMMARY:Concert - Gogo Penguin
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:GoGo Penguin est un groupe de jazz originaire de Manchester au
@@ -682,9 +682,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882738-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260124T203000
-DTEND:20260124T223000
+DTSTAMP:20251202T124551
+DTSTART:20260123T203000
+DTEND:20260123T223000
 SUMMARY:Concert Alan Stivell
 LOCATION:avenue de Skibbereen - Penmarch
 DESCRIPTION:A l’âge de dix ans\, Alan Stivell faisait résonner dans la
@@ -706,9 +706,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907736-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260124T200000
-DTEND:20260124T220000
+DTSTAMP:20251202T124551
+DTSTART:20260123T200000
+DTEND:20260123T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
 LOCATION:39 bis Av. Georges le Bail\, 29710 Plozé - Plozévet
 DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre 
@@ -737,9 +737,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907737-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260125T160000
-DTEND:20260125T180000
+DTSTAMP:20251202T124551
+DTSTART:20260124T160000
+DTEND:20260124T180000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
 LOCATION:39 Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre 
@@ -768,9 +768,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907741-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260123T200000
-DTEND:20260123T220000
+DTSTAMP:20251202T124551
+DTSTART:20260122T200000
+DTEND:20260122T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
 LOCATION:39 Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre 
@@ -799,9 +799,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907742-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260130T200000
-DTEND:20260130T220000
+DTSTAMP:20251202T124551
+DTSTART:20260129T200000
+DTEND:20260129T220000
 SUMMARY:CIRCONOVA : La Pointe du Compas
 LOCATION:39 Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre 
@@ -827,9 +827,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5912275-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250109T163000
-DTEND:20271230T235959
+DTSTAMP:20251202T124551
+DTSTART:20250108T163000
+DTEND:20271230T225959
 SUMMARY:Marché à la ferme du collectif Tête-bêche
 LOCATION:Lieu-dit Kerlagadec - Plozévet
 DESCRIPTION:Pain\, légumes\, fruits \, fromages ...\n\n🔗 https://www.d
@@ -841,9 +841,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5938098-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251101T150000
-DTEND:20260331T235959
+DTSTAMP:20251202T124551
+DTSTART:20251031T150000
+DTEND:20260331T215959
 SUMMARY:Atelier cuisine et infos sur les algues alimentaires par Scarlette
   Le Corre
 LOCATION:11 bis rue du Général de Gaulle - Guilvinec
@@ -861,9 +861,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5938088-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251101T110000
-DTEND:20260331T235959
+DTSTAMP:20251202T124551
+DTSTART:20251031T110000
+DTEND:20260331T215959
 SUMMARY:Atelier cuisine du poisson par Scarlette Le Corre
 LOCATION:11 bis rue du Général de Gaulle - Guilvinec
 DESCRIPTION:Scarlette Le Corre\, marin-pêcheur\, vous fait une présentat
@@ -880,9 +880,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5947625-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260412T140000
-DTEND:20260412T160000
+DTSTAMP:20251202T124551
+DTSTART:20260411T140000
+DTEND:20260411T160000
 SUMMARY:Méga loto des loups de Plonéour
 LOCATION:Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:N'hésitez pas à venir tenter votre chance et qui sait  gagne
@@ -896,9 +896,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5949101-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260823T090000
-DTEND:20260823T110000
+DTSTAMP:20251202T124551
+DTSTART:20260822T090000
+DTEND:20260822T110000
 SUMMARY:Marathon des Étoiles de la Baie
 LOCATION:Lieu-dit An Dorchenn - Plomeur
 DESCRIPTION:Marathon caritatif en soutien aux enfants atteints de cancer. 
@@ -915,9 +915,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251212T190000
-DTEND:20251212T210000
+DTSTAMP:20251202T124551
+DTSTART:20251211T190000
+DTEND:20251211T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -935,9 +935,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260109T190000
-DTEND:20260109T210000
+DTSTAMP:20251202T124551
+DTSTART:20260108T190000
+DTEND:20260108T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -955,9 +955,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260206T190000
-DTEND:20260206T210000
+DTSTAMP:20251202T124551
+DTSTART:20260205T190000
+DTEND:20260205T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -975,9 +975,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260313T190000
-DTEND:20260313T210000
+DTSTAMP:20251202T124551
+DTSTART:20260312T190000
+DTEND:20260312T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -995,9 +995,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-4@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260410T190000
-DTEND:20260410T210000
+DTSTAMP:20251202T124551
+DTSTART:20260409T190000
+DTEND:20260409T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1015,9 +1015,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965290-5@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260501T190000
-DTEND:20260501T210000
+DTSTAMP:20251202T124551
+DTSTART:20260430T190000
+DTEND:20260430T210000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1035,8 +1035,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20250315T103000
+DTSTAMP:20251202T124551
+DTSTART:20250314T103000
 DTEND:20251231T235959
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
@@ -1055,9 +1055,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T103000
-DTEND:20251214T123000
+DTSTAMP:20251202T124551
+DTSTART:20251213T103000
+DTEND:20251213T123000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1075,9 +1075,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
+DTSTAMP:20251202T124551
 DTSTART:20260101T103000
-DTEND:20260315T235959
+DTEND:20260315T225959
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1095,9 +1095,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260111T103000
-DTEND:20260111T123000
+DTSTAMP:20251202T124551
+DTSTART:20260110T103000
+DTEND:20260110T123000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1115,9 +1115,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-4@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260208T103000
-DTEND:20260208T123000
+DTSTAMP:20251202T124551
+DTSTART:20260207T103000
+DTEND:20260207T123000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1135,9 +1135,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965292-5@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260412T103000
-DTEND:20260412T123000
+DTSTAMP:20251202T124551
+DTSTART:20260411T103000
+DTEND:20260411T123000
 SUMMARY:Yoga du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Yoga du rire organisée par l'association Pouldreuz
@@ -1155,9 +1155,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T103000
-DTEND:20251213T123000
+DTSTAMP:20251202T124551
+DTSTART:20251212T103000
+DTEND:20251212T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1173,9 +1173,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260110T103000
-DTEND:20260110T123000
+DTSTAMP:20251202T124551
+DTSTART:20260109T103000
+DTEND:20260109T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1191,9 +1191,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260124T103000
-DTEND:20260124T123000
+DTSTAMP:20251202T124551
+DTSTART:20260123T103000
+DTEND:20260123T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1209,9 +1209,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260207T103000
-DTEND:20260207T123000
+DTSTAMP:20251202T124551
+DTSTART:20260206T103000
+DTEND:20260206T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1227,9 +1227,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-4@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260221T103000
-DTEND:20260221T123000
+DTSTAMP:20251202T124551
+DTSTART:20260220T103000
+DTEND:20260220T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1245,9 +1245,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-5@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260307T103000
-DTEND:20260314T235959
+DTSTAMP:20251202T124551
+DTSTART:20260306T103000
+DTEND:20260314T225959
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1263,9 +1263,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-6@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260411T103000
-DTEND:20260411T123000
+DTSTAMP:20251202T124551
+DTSTART:20260410T103000
+DTEND:20260410T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1281,9 +1281,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-7@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260425T103000
-DTEND:20260502T235959
+DTSTAMP:20251202T124551
+DTSTART:20260424T103000
+DTEND:20260502T215959
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1299,9 +1299,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-8@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260516T103000
-DTEND:20260516T123000
+DTSTAMP:20251202T124551
+DTSTART:20260515T103000
+DTEND:20260515T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1317,9 +1317,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-9@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260606T103000
-DTEND:20260606T123000
+DTSTAMP:20251202T124551
+DTSTART:20260605T103000
+DTEND:20260605T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1335,9 +1335,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5965312-10@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260620T103000
-DTEND:20260620T123000
+DTSTAMP:20251202T124551
+DTSTART:20260619T103000
+DTEND:20260619T123000
 SUMMARY:Séance Vô Mo
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Séance de Vô mo organisée par l'association Pouldreuzic Loi
@@ -1353,9 +1353,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5967665-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260503T000000
-DTEND:20260503T235959
+DTSTAMP:20251202T124551
+DTSTART:20260502T220000
+DTEND:20260503T215959
 SUMMARY:3 ème édition de la fête du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Le rire dans tous ces états !\n\n📞 06 60 31 22 64\n\n🔗 
@@ -1366,39 +1366,11 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/3-eme-editio
  n-de-la-fete-du-rire-pouldreuzic-fr-5967665/
 END:VEVENT
 BEGIN:VEVENT
-UID:5969941-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251202T200000
-DTEND:20251202T220000
-SUMMARY:Concert - MÿA – Robinson Khoury / Lynn Adib
-LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
-DESCRIPTION:Robinson Khoury est un jeune et talentueux artiste : trombonis
- te\, chanteur et compositeur\, il multiplie les expériences au sein d’o
- rchestres prestigieux et collabore entre autres régulièrement avec Ibrah
- im Maalouf ou encore le Sacre du tympan.\n\nMÿa est une création oniriqu
- e qui puise du côté de mélodies anciennes\, de chants grégoriens\, de 
- rythmes sur peaux comme de maqâmat de la musique arabe… et y ajoute une
-  dimension électronique\, analogique et modulaire pour représenter l’i
- nconnu des temps oubliés.\n\nAux percussions digitales et à la voix : An
- issa Nehari\, musicienne au dynamisme sensible\, envoûtante et envoûtée
-  par les rythmes du monde. Au piano\, synthétiseurs et voix c’est Léo 
- Jassef\, un artiste toucheà-tout d’une grande sensibilité qu’on a pu
-  entendre aux côtés de Yom. Robinson Khoury complète ce trio au trombon
- e\, différents instruments à embouchure\, à la voix et au synthétiseur
-  modulaire. En guest\, la voix lumineuse de la chanteuse syrienne Lynn Adi
- b.\n\n📞 02 98 66 00 40\n\n🔗 https://www.destination-paysbigouden.com
- /offres/concert-mya-robinson-khoury-lynn-adib-pont-labbe-fr-5969941/
-CATEGORIES:Musique
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-mya-
- robinson-khoury-lynn-adib-pont-labbe-fr-5969941/
-END:VEVENT
-BEGIN:VEVENT
 UID:5969947-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260118T163000
-DTEND:20260118T183000
+DTSTAMP:20251202T124551
+DTSTART:20260117T163000
+DTEND:20260117T183000
 SUMMARY:Ciné Doc : Terres Boréales
 LOCATION:Bourg - Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Alaska\, Groenland\, Spitzberg\, Sibérie \, un film de Jacque
@@ -1419,9 +1391,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969935-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T170000
-DTEND:20251214T190000
+DTSTAMP:20251202T124551
+DTSTART:20251213T170000
+DTEND:20251213T190000
 SUMMARY:festival Théâtre à tous âges - Le poisson qui vivait dans les 
  arbres
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
@@ -1443,9 +1415,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969933-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260308T163000
-DTEND:20260308T183000
+DTSTAMP:20251202T124551
+DTSTART:20260307T163000
+DTEND:20260307T183000
 SUMMARY:Ciné Doc : La Loire
 LOCATION:Bourg - Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Royale & Rebelle\n Un FILM de Dong WEI et Jean CHARBONNEAU\n\n
@@ -1466,9 +1438,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969934-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T203000
-DTEND:20251220T223000
+DTSTAMP:20251202T124551
+DTSTART:20251219T203000
+DTEND:20251219T223000
 SUMMARY:Spectacle illusionniste - French twins
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:Les jumeaux illusionnistes 3.0 d’America’s Got Talent\, La
@@ -1489,9 +1461,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969932-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260208T163000
-DTEND:20260208T183000
+DTSTAMP:20251202T124551
+DTSTART:20260207T163000
+DTEND:20260207T183000
 SUMMARY:Ciné Doc : L'extraordinaire tournée du facteur Maignan
 LOCATION:Bourg - Place Corentin Hénaff - Pouldreuzic
 DESCRIPTION:Un film de Patrick SOULABAILLE  Production Iroise / France 3\,
@@ -1512,9 +1484,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969971-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T173000
-DTEND:20251207T193000
+DTSTAMP:20251202T124551
+DTSTART:20251206T173000
+DTEND:20251206T193000
 SUMMARY:Concert Thaléa
 LOCATION:11 Rue d'Audierne - Plozévet
 DESCRIPTION:Venez découvrir un chef d’œuvre imposant du début du baro
@@ -1537,26 +1509,11 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-thal
  ea-plozevet-fr-5969971/
 END:VEVENT
 BEGIN:VEVENT
-UID:5972574-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251202T150000
-DTEND:20251202T170000
-SUMMARY:Lecture partage
-LOCATION:2 Rue du Stade - Combrit
-DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.\n\n📞 02 98 51 90 81\n\n🔗 https://www
- .destination-paysbigouden.com/offres/lecture-partage-combrit-fr-5972574/
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
- age-combrit-fr-5972574/
-END:VEVENT
-BEGIN:VEVENT
 UID:5972583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251216T143000
-DTEND:20251216T163000
+DTSTAMP:20251202T124551
+DTSTART:20251215T143000
+DTEND:20251215T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
@@ -1569,9 +1526,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5972614-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T100000
-DTEND:20251220T120000
+DTSTAMP:20251202T124551
+DTSTART:20251219T100000
+DTEND:20251219T120000
 SUMMARY:Matinée en breton - Causerie en breton
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:La municipalité\, en collaboration avec le Bagad et cercle ce
@@ -1586,9 +1543,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975259-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260115T180000
-DTEND:20260115T200000
+DTSTAMP:20251202T124551
+DTSTART:20260114T180000
+DTEND:20260114T200000
 SUMMARY:Conférence - Pascal Dareths\, sous la mer\, invisibles
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:La vie dans un sous-marin de la Marine nationale\, c’est un 
@@ -1609,9 +1566,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975272-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251218T180000
-DTEND:20251218T200000
+DTSTAMP:20251202T124551
+DTSTART:20251217T180000
+DTEND:20251217T200000
 SUMMARY:Conférence - Traiteur de la mer\, Claudine cuisine la mer
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Claudine\, c’est l’âme derrière le Traiteur de la Mer\, 
@@ -1632,9 +1589,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975262-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260319T180000
-DTEND:20260319T200000
+DTSTAMP:20251202T124551
+DTSTART:20260318T180000
+DTEND:20260318T200000
 SUMMARY:Conférence - Étape du Festival Pêcheurs du monde
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Pour la seconde fois\, les Conférences du Jeudi accueillent l
@@ -1653,9 +1610,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975263-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260416T180000
-DTEND:20260416T200000
+DTSTAMP:20251202T124551
+DTSTART:20260415T180000
+DTEND:20260415T200000
 SUMMARY:Conférence - Chantier naval Gléhen Hénaff\, construire des bate
  aux
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
@@ -1676,9 +1633,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975267-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260521T180000
-DTEND:20260521T200000
+DTSTAMP:20251202T124551
+DTSTART:20260520T180000
+DTEND:20260520T200000
 SUMMARY:Conférence - Le grand banquet\, la saga Larzul
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Haliotika poursuit sa série « saga familiale bretonne » ave
@@ -1698,9 +1655,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979115-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251222T103000
-DTEND:20251222T123000
+DTSTAMP:20251202T124551
+DTSTART:20251221T103000
+DTEND:20251221T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
@@ -1715,9 +1672,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979115-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251228T140000
-DTEND:20251228T160000
+DTSTAMP:20251202T124551
+DTSTART:20251227T140000
+DTEND:20251227T160000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
@@ -1732,9 +1689,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979119-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251228T103000
-DTEND:20251228T123000
+DTSTAMP:20251202T124551
+DTSTART:20251227T103000
+DTEND:20251227T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
@@ -1749,9 +1706,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979116-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251215T103000
-DTEND:20251215T123000
+DTSTAMP:20251202T124551
+DTSTART:20251214T103000
+DTEND:20251214T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
@@ -1766,9 +1723,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979113-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251204T183000
-DTEND:20251204T203000
+DTSTAMP:20251202T124551
+DTSTART:20251203T183000
+DTEND:20251203T203000
 SUMMARY:Atelier - Création et décoration de noël
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Illuminez les fêtes par vos pièces chaleureuses\, Fabriquez 
@@ -1782,9 +1739,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979117-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251211T183000
-DTEND:20251211T203000
+DTSTAMP:20251202T124551
+DTSTART:20251210T183000
+DTEND:20251210T203000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
@@ -1799,9 +1756,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986578-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260321T193000
-DTEND:20260321T213000
+DTSTAMP:20251202T124551
+DTSTART:20260320T193000
+DTEND:20260320T213000
 SUMMARY:Concert de la Saint-Patrick - Tribute to U2\, Achtung babies
 LOCATION:Rue Méjour Bihan - Guilvinec
 DESCRIPTION:ACHTUNG BABIES a débuté en 1993 à Rome. Ils ont fait leurs 
@@ -1845,9 +1802,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986611-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260303T143000
-DTEND:20260303T163000
+DTSTAMP:20251202T124551
+DTSTART:20260302T143000
+DTEND:20260302T163000
 SUMMARY:Projection film documentaire - La Loire
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
@@ -1867,9 +1824,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986580-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251203T143000
-DTEND:20251203T163000
+DTSTAMP:20251202T124551
+DTSTART:20251202T143000
+DTEND:20251202T163000
 SUMMARY:Ciné docs - Himalaya\, entre Bhoutan et Myanmar
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Entre Bhoutan et Myanmar\, Himalaya méconnu est la découvert
@@ -1897,9 +1854,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986607-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260210T143000
-DTEND:20260210T163000
+DTSTAMP:20251202T124551
+DTSTART:20260209T143000
+DTEND:20260209T163000
 SUMMARY:Projection film documentaire - Les Terres boréales
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
@@ -1919,38 +1876,11 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
  ilm-documentaire-les-terres-boreales-combrit-fr-5986607/
 END:VEVENT
 BEGIN:VEVENT
-UID:5986612-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251202T143000
-DTEND:20251202T163000
-SUMMARY:Projection film documentaire - L'Himalaya
-LOCATION:2 Rue du Stade - Combrit
-DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
-  à l’espace sportif de Croas-Ver\, à l’initiative du CCAS. Les réal
- isateurs\, membres de l’association Le Cercle des Voyageurs\, sont prés
- ents lors des projections.\n\nAujourd'hui\, direction l’Himalaya avec Al
- ain Wodey. \nSitué entre Bhoutan et Myanmar\, Himalaya est un État très
-  discret du nord est de l’Inde. Plusieurs séjours ont été nécessaire
- s pour que se dévoile cette « Porte de la Sérénité »\, État surveil
- lé de près par son grand voisin chinois qui en revendique toujours une p
- artie. Ce sera l’occasion pour les spectateurs de partager des chaleureu
- x moments de vie parmi des communautés de culture tibétaine et certaines
-  populations tribales dépositaires de riches\, étonnantes et très vari
- ées traditions culturelles\, mais aussi religieuses. Un film étonnant su
- r un État indien à la forte personnalité.\n\n📞 02 98 56 74 19\n\n
- 🔗 https://www.destination-paysbigouden.com/offres/projection-film-docum
- entaire-lhimalaya-combrit-fr-5986612/
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
- ilm-documentaire-lhimalaya-combrit-fr-5986612/
-END:VEVENT
-BEGIN:VEVENT
 UID:5986609-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260113T143000
-DTEND:20260113T163000
+DTSTAMP:20251202T124551
+DTSTART:20260112T143000
+DTEND:20260112T163000
 SUMMARY:Projection film documentaire - Le Pérou
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
@@ -1972,9 +1902,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988571-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260410T203000
-DTEND:20260410T223000
+DTSTAMP:20251202T124551
+DTSTART:20260409T203000
+DTEND:20260409T223000
 SUMMARY:Humour - Paul de St-Sernin
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Quand je me suis lancé dans le stand-up\, un mec m’a dit : 
@@ -1997,9 +1927,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260131T203000
-DTEND:20260131T223000
+DTSTAMP:20251202T124551
+DTSTART:20260130T203000
+DTEND:20260130T223000
 SUMMARY:Théâtre - Les aventuriers de minuit
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Quand Jules Verne et Arthur Conan Doyle défient le crime !\n1
@@ -2024,9 +1954,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988562-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260214T203000
-DTEND:20260214T223000
+DTSTAMP:20251202T124551
+DTSTART:20260213T203000
+DTEND:20260213T223000
 SUMMARY:Concert - The Celtic Social Club
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Chaque concert du Celtic Social Club est une expérience : une
@@ -2048,9 +1978,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988586-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260304T143000
-DTEND:20260304T163000
+DTSTAMP:20251202T124551
+DTSTART:20260303T143000
+DTEND:20260303T163000
 SUMMARY:Ciné docs - Australie\, du grand Ouest à la Tasmanie
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:L’Ouest sauvage\, du Pilbara rouge aux récifs coraliens où
@@ -2074,9 +2004,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988573-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260412T170000
-DTEND:20260412T190000
+DTSTAMP:20251202T124551
+DTSTART:20260411T170000
+DTEND:20260411T190000
 SUMMARY:Théâtre - Trois femmes au bord de la crise de mère
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Sandrine\, 45 ans\, a une folle envie de vivre seule. Mais ell
@@ -2099,9 +2029,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988576-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260122T190000
-DTEND:20260122T210000
+DTSTAMP:20251202T124551
+DTSTART:20260121T190000
+DTEND:20260121T210000
 SUMMARY:Cirque - Biographies
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Cie EA EO / Neta Oren & Pierre Laloge.\nConfidences spectacula
@@ -2126,9 +2056,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988587-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260228T000000
-DTEND:20260301T235959
+DTSTAMP:20251202T124551
+DTSTART:20260227T230000
+DTEND:20260301T225959
 SUMMARY:Concert Neodance contest
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:Neodance contest\nLe Neodance Contest -Édition 2025 est un co
@@ -2152,9 +2082,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988575-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260403T203000
-DTEND:20260403T223000
+DTSTAMP:20251202T124551
+DTSTART:20260402T203000
+DTEND:20260402T223000
 SUMMARY:Humour - Akim Omiri
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Dans son deuxième spectacle\, Akim scrute avec sarcasme les q
@@ -2173,9 +2103,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260121T143000
-DTEND:20260121T163000
+DTSTAMP:20251202T124551
+DTSTART:20260120T143000
+DTEND:20260120T163000
 SUMMARY:Ciné docs - Irlande\, carrément à l'Ouest
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:L’Irlande\, c’est avant tout une beauté sauvage\, un roc 
@@ -2203,9 +2133,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988584-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260107T143000
-DTEND:20260107T163000
+DTSTAMP:20251202T124551
+DTSTART:20260106T143000
+DTEND:20260106T163000
 SUMMARY:Ciné docs - Peuples du froid\, Sibérie\, Mongolie\, Himalaya
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Nomades Nénètses de Sibérie\, Mongols et Kazakhs d'Asie cen
@@ -2225,9 +2155,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988581-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260325T143000
-DTEND:20260325T163000
+DTSTAMP:20251202T124551
+DTSTART:20260324T143000
+DTEND:20260324T163000
 SUMMARY:Ciné docs - Guyane\, une pépite en Amazonie
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Dans cette lointaine région d’outre-mer\, nous embarquons p
@@ -2258,9 +2188,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988579-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260408T143000
-DTEND:20260408T163000
+DTSTAMP:20251202T124551
+DTSTART:20260407T143000
+DTEND:20260407T163000
 SUMMARY:Ciné docs - Odyslande\, quatre saisons en Islande à vélo
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
@@ -2284,9 +2214,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5992241-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251219T180000
-DTEND:20251219T200000
+DTSTAMP:20251202T124551
+DTSTART:20251218T180000
+DTEND:20251218T200000
 SUMMARY:Soirée philo
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Atelier de philosophie animé par Jean-Yves Boudéhen. \nLa di
@@ -2300,9 +2230,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994147-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260507T203000
-DTEND:20260507T223000
+DTSTAMP:20251202T124551
+DTSTART:20260506T203000
+DTEND:20260506T223000
 SUMMARY:Spectacle - Philippe Manoeuvre
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Philippe Manoeuvre\, figure emblématique du journalisme music
@@ -2321,9 +2251,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994189-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T100000
-DTEND:20251206T120000
+DTSTAMP:20251202T124551
+DTSTART:20251205T100000
+DTEND:20251205T120000
 SUMMARY:Braderie du Secours Populaire
 LOCATION:165 rue Lucien Le Lay - Penmarch
 DESCRIPTION:Vente de vêtements\, jouets\, meubles\, livres\, vaisselle…
@@ -2337,9 +2267,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6000455-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251204T140000
-DTEND:20251204T160000
+DTSTAMP:20251202T124551
+DTSTART:20251203T140000
+DTEND:20251203T160000
 SUMMARY:Atelier créations de Noël avec Sophie Jamelot
 LOCATION:1 Rue Jean Baudry - Guilvinec
 DESCRIPTION:L’artiste Sophie Jamelot expose actuellement ses oeuvres dan
@@ -2359,9 +2289,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015560-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260403T203000
-DTEND:20260403T223000
+DTSTAMP:20251202T124551
+DTSTART:20260402T203000
+DTEND:20260402T223000
 SUMMARY:Spectacle - Marion Mezadorian - Craquage
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:La comédienne revient avec un nouveau spectacle\, rempli d'hu
@@ -2382,9 +2312,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015561-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260221T203000
-DTEND:20260221T223000
+DTSTAMP:20251202T124551
+DTSTART:20260220T203000
+DTEND:20260220T223000
 SUMMARY:Concert caritatif Association Mamgdala - Les Vrillés
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Concert de rock Celtique.\n\n19h : ouverture des portes.\n19h3
@@ -2404,9 +2334,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015574-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260328T200000
-DTEND:20260328T220000
+DTSTAMP:20251202T124551
+DTSTART:20260327T200000
+DTEND:20260327T220000
 SUMMARY:Comédie - Sortez moi de là
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Quand l'enterrement de vie de jeune fille part en vrille\, les
@@ -2428,9 +2358,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015572-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260605T200000
-DTEND:20260605T220000
+DTSTAMP:20251202T124551
+DTSTART:20260604T200000
+DTEND:20260604T220000
 SUMMARY:Comédie - L'art du couple
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:S'aimer c'est facile\, mais se supporter ?\nL'amour est une é
@@ -2452,9 +2382,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6020995-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251125T100000
-DTEND:20260103T235959
+DTSTAMP:20251202T124551
+DTSTART:20251124T100000
+DTEND:20260103T225959
 SUMMARY:Expo Anette COLOMB
 LOCATION:37 Lieu-dit Mesmeur - Pouldreuzic
 DESCRIPTION:Croqueurs de pommes\n Annette Collomb\, artiste installée à 
@@ -2472,9 +2402,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021033-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251205T093000
-DTEND:20251205T113000
+DTSTAMP:20251202T124551
+DTSTART:20251204T093000
+DTEND:20251204T113000
 SUMMARY:Marche aquatique
 LOCATION:2 Rue Victor Hugo - Plobannalec-Lesconil
 DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
@@ -2503,9 +2433,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021031-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T103000
-DTEND:20251206T123000
+DTSTAMP:20251202T124551
+DTSTART:20251205T103000
+DTEND:20251205T123000
 SUMMARY:Marche aquatique
 LOCATION:2 Rue Victor Hugo - Plobannalec-Lesconil
 DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
@@ -2534,9 +2464,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021012-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251203T150000
-DTEND:20251203T170000
+DTSTAMP:20251202T124551
+DTSTART:20251202T150000
+DTEND:20251202T170000
 SUMMARY:Atelier en famille :  Fabrication d’un savon de Noël avec Delph
  ine de Bulles de Roses !
 LOCATION:37 Lieu-dit Mesmeur - Pouldreuzic
@@ -2554,9 +2484,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021030-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251212T160000
-DTEND:20251212T180000
+DTSTAMP:20251202T124551
+DTSTART:20251211T160000
+DTEND:20251211T180000
 SUMMARY:Marche aquatique
 LOCATION:2 Rue Victor Hugo - Plobannalec-Lesconil
 DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
@@ -2585,9 +2515,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031550-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260522T000000
-DTEND:20260523T235959
+DTSTAMP:20251202T124551
+DTSTART:20260521T220000
+DTEND:20260523T215959
 SUMMARY:Courts Of Chaos Festival - Heavy metal
 LOCATION:39 bis Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Pour découvrir ou redécouvrir des genres musicaux cathartiqu
@@ -2601,9 +2531,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031545-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T090000
-DTEND:20251207T110000
+DTSTAMP:20251202T124551
+DTSTART:20251206T090000
+DTEND:20251206T110000
 SUMMARY:Troc et puces du collège Notre Dame De Penhors
 LOCATION:Hent Kreisker - Pouldreuzic
 DESCRIPTION:C'est le bon moment pour faire des bonnes affaires !\nBuvette 
@@ -2617,9 +2547,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031547-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260521T180000
-DTEND:20260521T200000
+DTSTAMP:20251202T124551
+DTSTART:20260520T180000
+DTEND:20260520T200000
 SUMMARY:Avant premiére : Warm up Courts Of Chaos Festival
 LOCATION:39 bis Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Concerts de Heavy Métal\n\n📞 06 86 23 56 26\n\n🔗 https:
@@ -2632,9 +2562,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6033985-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T000000
-DTEND:20251207T235959
+DTSTAMP:20251202T124551
+DTSTART:20251205T230000
+DTEND:20251207T225959
 SUMMARY:Marché de Noël
 LOCATION:29710 Landudec
 DESCRIPTION:Plongez dans la magie de Noël !\n\nMarché avec des artisans 
@@ -2649,9 +2579,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6034017-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260227T170000
-DTEND:20260228T235959
+DTSTAMP:20251202T124551
+DTSTART:20260226T170000
+DTEND:20260228T225959
 SUMMARY:Shaker Fest - Nouvelle Orléans des années 20
 LOCATION:Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:Bienvenue dans l’univers envoûtant des cabarets du New Orle
@@ -2666,9 +2596,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6037199-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251021T000000
-DTEND:20251220T235959
+DTSTAMP:20251202T124551
+DTSTART:20251020T220000
+DTEND:20251220T225959
 SUMMARY:Exposition - La fabrique du livre L'invention des dimanches de Gw
  énaëlle Abolivier et Marie Détrée
 LOCATION:30 Avenue Georges Le Bail - Plozévet
@@ -2689,9 +2619,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6039198-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T100000
-DTEND:20251213T120000
+DTSTAMP:20251202T124551
+DTSTART:20251212T100000
+DTEND:20251212T120000
 SUMMARY:Matinée jeux de société
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Matinée jeux de société ouverte à tous. \n\nEntrée libre.
@@ -2704,9 +2634,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044522-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260807T000000
-DTEND:20260807T235959
+DTSTAMP:20251202T124551
+DTSTART:20260806T220000
+DTEND:20260807T215959
 SUMMARY:Jazz In Loc - Master class pour enfants
 LOCATION:21 Rue du Phare - Loctudy
 DESCRIPTION:Aurélien initiera à nouveau les plus jeunes aux claquettes e
@@ -2720,9 +2650,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044528-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260806T000000
-DTEND:20260806T235959
+DTSTAMP:20251202T124551
+DTSTART:20260805T220000
+DTEND:20260806T215959
 SUMMARY:Concert - Jazz In Loc
 LOCATION:Manoir de Kervereguen - Loctudy
 DESCRIPTION:Aurélien Lehmann présentera son tout nouveau spectacle\, une
@@ -2738,9 +2668,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044526-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260807T000000
-DTEND:20260807T235959
+DTSTAMP:20251202T124551
+DTSTART:20260806T220000
+DTEND:20260807T215959
 SUMMARY:Concert - Jazz In Loc
 LOCATION:21 Rue du Phare - Loctudy
 DESCRIPTION:Émilie Hédou et le Soul Serenade\, c’est un formidable bai
@@ -2756,9 +2686,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044534-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T140000
-DTEND:20260104T235959
+DTSTAMP:20251202T124551
+DTSTART:20251219T140000
+DTEND:20260104T225959
 SUMMARY:Expo - Jacques de Thézac\, photographe\, portraits de familles
 LOCATION:13 Quai Jacques de Thézac - Combrit
 DESCRIPTION:Jacques de Thézac (1862 – 1936) s’est profondément dévo
@@ -2802,9 +2732,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044535-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251106T140000
-DTEND:20251219T235959
+DTSTAMP:20251202T124551
+DTSTART:20251105T140000
+DTEND:20251219T225959
 SUMMARY:Expo - Jacques de Thézac\, photographe\, portraits de familles
 LOCATION:13 Quai Jacques de Thézac - Combrit
 DESCRIPTION:Jacques de Thézac (1862 – 1936) s’est profondément dévo
@@ -2847,9 +2777,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044536-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T100000
-DTEND:20251206T120000
+DTSTAMP:20251202T124551
+DTSTART:20251205T100000
+DTEND:20251205T120000
 SUMMARY:Vente de livres
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Livres de poche\, romans\, bd\, romans policiers et littératu
@@ -2863,9 +2793,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044541-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251018T140000
-DTEND:20251213T235959
+DTSTAMP:20251202T124551
+DTSTART:20251017T140000
+DTEND:20251213T225959
 SUMMARY:Expo : L'invitation au voyage
 LOCATION:2 Hent Kreisker - Plovan
 DESCRIPTION:A travers la bande-dessinée\, évadez-vous ! Partez en voyage
@@ -2882,9 +2812,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6045460-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260412T090000
-DTEND:20260412T110000
+DTSTAMP:20251202T124551
+DTSTART:20260411T090000
+DTEND:20260411T110000
 SUMMARY:Vide jardin de printemps
 LOCATION:Rue de l'Ecole - Tréméoc
 DESCRIPTION:L’association « Loisirs pour tous » organise son vide jard
@@ -2898,9 +2828,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772809-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260621T090000
-DTEND:20260621T110000
+DTSTAMP:20251202T124551
+DTSTART:20260620T090000
+DTEND:20260620T110000
 SUMMARY:Rando des bois
 LOCATION:29710 Plozévet
 DESCRIPTION:Le comité de Sauvegarde de la chapelle Saint-Ronan organise d
@@ -2923,9 +2853,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6049334-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260920T090000
-DTEND:20260920T110000
+DTSTAMP:20251202T124551
+DTSTART:20260919T090000
+DTEND:20260919T110000
 SUMMARY:Salon Bigouden du Disque
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:le Rdv des passionnés de disque! Porgramme à venir.\n\n📞 
@@ -2938,9 +2868,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061271-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260201T090000
-DTEND:20260201T110000
+DTSTAMP:20251202T124551
+DTSTART:20260131T090000
+DTEND:20260131T110000
 SUMMARY:Exposition - Bourse d'oiseaux et volailles
 LOCATION:11 Rue Pierre Brossolette - Plonéour-Lanvern
 DESCRIPTION:Des éleveurs passionnés vous accueilleront et répondront au
@@ -2955,9 +2885,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061302-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251216T200000
-DTEND:20251216T220000
+DTSTAMP:20251202T124551
+DTSTART:20251215T200000
+DTEND:20251215T220000
 SUMMARY:Ensemble Matheus - Les maîtres du baroque
 LOCATION:Place de l'Église - Plozévet
 DESCRIPTION:L’Ensemble Matheus\, dirigé par le chef d'orchestre Jean-Ch
@@ -2974,9 +2904,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061324-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T100000
-DTEND:20251206T120000
+DTSTAMP:20251202T124551
+DTSTART:20251205T100000
+DTEND:20251205T120000
 SUMMARY:Fête de Noël
 LOCATION:4 Allée de Kergoz - Guilvinec
 DESCRIPTION:Fête de Noël dans un lieu atypique avec la présence d'artis
@@ -2993,9 +2923,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061298-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260117T140000
-DTEND:20260117T160000
+DTSTAMP:20251202T124551
+DTSTART:20260116T140000
+DTEND:20260116T160000
 SUMMARY:Finsit'aire de jeux
 LOCATION:Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
@@ -3017,9 +2947,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061298-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260118T100000
-DTEND:20260118T120000
+DTSTAMP:20251202T124551
+DTSTART:20260117T100000
+DTEND:20260117T120000
 SUMMARY:Finsit'aire de jeux
 LOCATION:Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
@@ -3041,9 +2971,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6067747-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251029T110000
-DTEND:20260330T235959
+DTSTAMP:20251202T124551
+DTSTART:20251028T110000
+DTEND:20260330T215959
 SUMMARY:Atelier repas autour des algues alimentaires
 LOCATION:11 bis rue du Général de Gaulle - Guilvinec
 DESCRIPTION:Femme patron pêcheur et personnage haut en couleur\, Scarlett
@@ -3060,9 +2990,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6069754-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T133000
-DTEND:20251213T153000
+DTSTAMP:20251202T124551
+DTSTART:20251212T133000
+DTEND:20251212T153000
 SUMMARY:Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12è
  me édition
 LOCATION:Rue Méjou Bihan - Guilvinec
@@ -3081,9 +3011,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6069754-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T100000
-DTEND:20251214T120000
+DTSTAMP:20251202T124551
+DTSTART:20251213T100000
+DTEND:20251213T120000
 SUMMARY:Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12è
  me édition
 LOCATION:Rue Méjou Bihan - Guilvinec
@@ -3102,9 +3032,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6071903-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260214T200000
-DTEND:20260214T220000
+DTSTAMP:20251202T124551
+DTSTART:20260213T200000
+DTEND:20260213T220000
 SUMMARY:Humour - Yann Guillarme - LIBRE
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Libre *\nAdjectif. Se dit d’une personne qui a le pouvoir\, 
@@ -3129,9 +3059,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6076284-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251108T093000
-DTEND:20251220T235959
+DTSTAMP:20251202T124551
+DTSTART:20251107T093000
+DTEND:20251220T225959
 SUMMARY:Comprendre les tout-petits : ateliers\, conférence\, rencontres
 LOCATION:2a Rue de la Mer - Pouldreuzic
 DESCRIPTION:Qui a dit que c'est facile d'être parent ? De grandir ? Certa
@@ -3151,9 +3081,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6076320-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T143000
-DTEND:20260104T235959
+DTSTAMP:20251202T124551
+DTSTART:20251219T143000
+DTEND:20260104T225959
 SUMMARY:Expo de Noël - Peintures\, aquarelles\, photographies et sculptur
  es
 LOCATION:Rue des Glénans - Combrit
@@ -3171,9 +3101,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6076318-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251204T180000
-DTEND:20251204T200000
+DTSTAMP:20251202T124551
+DTSTART:20251203T180000
+DTEND:20251203T200000
 SUMMARY:Générations numériques : Information\, fake news et théorie du
   complot
 LOCATION:1 Hent Pont Iliz - Peumérit
@@ -3192,9 +3122,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6077971-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251203T170000
-DTEND:20251203T190000
+DTSTAMP:20251202T124551
+DTSTART:20251202T170000
+DTEND:20251202T190000
 SUMMARY:Spectacle SOURIS ! Par la Cie Toutito Treatro
 LOCATION:39 bis Avenue Georges le Bail - Plozévet
 DESCRIPTION:Rendez-vous pour un spectacle familial dès 4 ans par la Cie T
@@ -3210,9 +3140,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6077958-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251219T170000
-DTEND:20251219T190000
+DTSTAMP:20251202T124551
+DTSTART:20251218T170000
+DTEND:20251218T190000
 SUMMARY:Marché de Noël à Trevannec
 LOCATION:Chemin de Trevannec - Pont-l'Abbé
 DESCRIPTION:Marché de créateurs et d'artisans locaux avec musique concer
@@ -3226,9 +3156,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6077939-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251104T103000
-DTEND:20260115T235959
+DTSTAMP:20251202T124551
+DTSTART:20251103T103000
+DTEND:20260115T225959
 SUMMARY:Exposition peinture - Jacques Godin - Du Nord au Sud
 LOCATION:6 Bis Rue Carnot - Pont-l'Abbé
 DESCRIPTION:Exposition Jacques Godin « Du Nord au Sud » \, une trentaine
@@ -3243,9 +3173,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260512T194200
-DTEND:20260512T214200
+DTSTAMP:20251202T124551
+DTSTART:20260511T194200
+DTEND:20260511T214200
 SUMMARY:Redadeg 2026 - Course de relais solidaire
 LOCATION:Quélarn - Plobannalec-Lesconil
 DESCRIPTION:La Redadeg est une course de relais solidaire\, festive et pop
@@ -3280,9 +3210,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079918-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T160000
-DTEND:20251213T180000
+DTSTAMP:20251202T124551
+DTSTART:20251212T160000
+DTEND:20251212T180000
 SUMMARY:Concert du groupe vocal Jack et les Anémones
 LOCATION:396 rue Lucien Le Lay - Penmarch
 DESCRIPTION:Jack et les Anémones est un groupe vocal créé en pays Bigou
@@ -3311,9 +3241,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079926-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260106T143000
-DTEND:20260106T163000
+DTSTAMP:20251202T124551
+DTSTART:20260105T143000
+DTEND:20260105T163000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
@@ -3326,9 +3256,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079930-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260103T090000
-DTEND:20260103T110000
+DTSTAMP:20251202T124551
+DTSTART:20260102T090000
+DTEND:20260102T110000
 SUMMARY:Repair café
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Venez apprendre à réparer et à entretenir votre vélo et le
@@ -3342,9 +3272,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260512T205300
-DTEND:20260512T225300
+DTSTAMP:20251202T124551
+DTSTART:20260511T205300
+DTEND:20260511T225300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
 LOCATION:Lanfian - Tréméoc
 DESCRIPTION:La Redadeg est une course de relais solidaire\, festive et pop
@@ -3379,9 +3309,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260512T192300
-DTEND:20260512T212300
+DTSTAMP:20251202T124551
+DTSTART:20260511T192300
+DTEND:20260511T212300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
 LOCATION:Kervillogan - Treffiagat
 DESCRIPTION:La Redadeg est une course de relais solidaire\, festive et pop
@@ -3416,9 +3346,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260512T211700
-DTEND:20260512T231700
+DTSTAMP:20251202T124551
+DTSTART:20260511T211700
+DTEND:20260511T231700
 SUMMARY:Redadeg 2026 - Course de relais solidaire
 LOCATION:Corroac'h - Combrit
 DESCRIPTION:La Redadeg est une course de relais solidaire\, festive et pop
@@ -3453,9 +3383,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260512T202000
-DTEND:20260512T222000
+DTSTAMP:20251202T124551
+DTSTART:20260511T202000
+DTEND:20260511T222000
 SUMMARY:Redadeg 2026 - Course de relais solidaire
 LOCATION:29120 Pont-l'Abbé
 DESCRIPTION:La Redadeg est une course de relais solidaire\, festive et pop
@@ -3490,9 +3420,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6086716-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260228T203000
-DTEND:20260228T223000
+DTSTAMP:20251202T124551
+DTSTART:20260227T203000
+DTEND:20260227T223000
 SUMMARY:Comédie - Vive Bouchon !
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:La troupe de théatre "Six Pieds sur Scène" présente une nou
@@ -3515,9 +3445,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087333-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251212T163000
-DTEND:20251212T183000
+DTSTAMP:20251202T124551
+DTSTART:20251211T163000
+DTEND:20251211T183000
 SUMMARY:Marché de Noël de l'Ecole Notre Dame de Lorette
 LOCATION:9 Rue de l'École des Filles - Pouldreuzic
 DESCRIPTION:En attendant le père Noël...\n\nL'APEL Notre Dame de Lorette
@@ -3536,9 +3466,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20261121T203000
-DTEND:20261121T223000
+DTSTAMP:20251202T124551
+DTSTART:20261120T203000
+DTEND:20261120T223000
 SUMMARY:Concert - The Stranglers
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Le groupe mythique THE STRANGLERS\, revient à Cap Caval pour 
@@ -3567,9 +3497,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090921-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260612T170000
-DTEND:20260614T235959
+DTSTAMP:20251202T124551
+DTSTART:20260611T170000
+DTEND:20260614T215959
 SUMMARY:Festival God Save The Kouign Vol.7
 LOCATION:Stade Municipal Jos Péron - Penmarch
 DESCRIPTION:À l’affiche de cette 7ème édition : annonce de la program
@@ -3588,9 +3518,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251221T150000
-DTEND:20251221T170000
+DTSTAMP:20251202T124551
+DTSTART:20251220T150000
+DTEND:20251220T170000
 SUMMARY:Concert de Noël - Bombarde chants et orgue
 LOCATION:Rue de Poulpeye - Loctudy
 DESCRIPTION:André Le Meut et Philippe Bataille n'ont pas leur pareil pour
@@ -3615,9 +3545,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091420-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260118T093000
-DTEND:20260125T235959
+DTSTAMP:20251202T124551
+DTSTART:20260117T093000
+DTEND:20260125T225959
 SUMMARY:Stage de vannerie
 LOCATION:113 Rue Lucien le Lay - Penmarch
 DESCRIPTION:Réalisation d’un objet vannerie en rotin. Les fournitures s
@@ -3631,9 +3561,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091394-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251218T093000
-DTEND:20251218T113000
+DTSTAMP:20251202T124551
+DTSTART:20251217T093000
+DTEND:20251217T113000
 SUMMARY:Stage de vannerie
 LOCATION:113 Rue Lucien le Lay - Penmarch
 DESCRIPTION:Réalisation d’un objet vannerie en rotin. Les fournitures s
@@ -3647,9 +3577,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091431-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260105T000000
-DTEND:20260403T235959
+DTSTAMP:20251202T124551
+DTSTART:20260104T230000
+DTEND:20260403T215959
 SUMMARY:Concours de nouvelles en breton
 LOCATION:Rue Lucien le Lay - Penmarch
 DESCRIPTION:Pour la deuxième année consécutive\, le Goéland Masqué\, 
@@ -3684,9 +3614,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091436-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251115T000000
-DTEND:20260124T235959
+DTSTAMP:20251202T124551
+DTSTART:20251114T230000
+DTEND:20260124T225959
 SUMMARY:Exposition céramique et tissage - La terre et le fil
 LOCATION:1 Rue Pasteur - Pont-l'Abbé
 DESCRIPTION:Venez découvrir la collection d'œuvres unique façonnées à
@@ -3702,9 +3632,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6093370-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T183000
-DTEND:20251220T203000
+DTSTAMP:20251202T124551
+DTSTART:20251219T183000
+DTEND:20251219T203000
 SUMMARY:Concert - Chorale Da Capo
 LOCATION:Le Bourg - Guilvinec
 DESCRIPTION:La chorale Da Capo interprétera un florilège de chants de No
@@ -3719,9 +3649,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6096311-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T200000
-DTEND:20251220T220000
+DTSTAMP:20251202T124551
+DTSTART:20251219T200000
+DTEND:20251219T220000
 SUMMARY:Concert avec le duo Hoboes
 LOCATION:9 Rue de Pont l'Abbé - Pouldreuzic
 DESCRIPTION:Le duo Hoboes (folk\, blues et country traditionnelle) vous pr
@@ -3737,9 +3667,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6101836-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T190000
-DTEND:20251213T210000
+DTSTAMP:20251202T124551
+DTSTART:20251212T190000
+DTEND:20251212T210000
 SUMMARY:concert - 120 ans de la Laïcité
 LOCATION:Rue Jules Ferry - Pont-l'Abbé
 DESCRIPTION:Pour fêter les 120 ans de la Laïcité\, concert organisé av
@@ -3754,9 +3684,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6101840-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T193000
-DTEND:20251206T213000
+DTSTAMP:20251202T124551
+DTSTART:20251205T193000
+DTEND:20251205T213000
 SUMMARY:Telethon - Grande soirée diner cabaret
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:Au profit du TELETHON .\nVenez passer une bonne soirée tout e
@@ -3773,9 +3703,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260919T140000
-DTEND:20260920T235959
+DTSTAMP:20251202T124551
+DTSTART:20260918T140000
+DTEND:20260920T215959
 SUMMARY:Festival au pré
 LOCATION:Lieu-dit Saint-Germain - Plogastel-Saint-Germain
 DESCRIPTION:Festival qui mêle patrimoine et culture.\nProgramme à venir\
@@ -3788,9 +3718,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125003-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T090000
-DTEND:20251207T110000
+DTSTAMP:20251202T124551
+DTSTART:20251206T090000
+DTEND:20251206T110000
 SUMMARY:Marché de Noël
 LOCATION:Salle Cap Caval - Penmarch
 DESCRIPTION:Une quarantaine d’artisans\, commerçants et associations so
@@ -3817,9 +3747,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125004-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T103000
-DTEND:20251207T123000
+DTSTAMP:20251202T124551
+DTSTART:20251206T103000
+DTEND:20251206T123000
 SUMMARY:Marché de Noël des petits lutins
 LOCATION:5 rue Ar Vigoudenn - Combrit
 DESCRIPTION:Venez partager un moment convivial\, trouver vos cadeaux et pr
@@ -3841,9 +3771,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125005-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T170000
-DTEND:20251206T190000
+DTSTAMP:20251202T124551
+DTSTART:20251205T170000
+DTEND:20251205T190000
 SUMMARY:Conférence médicale - Les pathologies digestives hautes - Dr Kam
  al Gergès
 LOCATION:13 rue Principale - Île-Tudy
@@ -3861,9 +3791,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125006-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T163000
-DTEND:20251214T183000
+DTSTAMP:20251202T124551
+DTSTART:20251213T163000
+DTEND:20251213T183000
 SUMMARY:Concert - Chorale Kanerien Kergoz
 LOCATION:Route de Saint-Jean-Trolimon - Plomeur
 DESCRIPTION:Sous la direction de sa cheffe de chœur Jackie le Bihan\, la 
@@ -3878,9 +3808,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125008-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251231T140000
-DTEND:20251231T160000
+DTSTAMP:20251202T124551
+DTSTART:20251230T140000
+DTEND:20251230T160000
 SUMMARY:Atelier nature du Nouvel An
 LOCATION:65 route de Saint-Vio - Tréguennec
 DESCRIPTION:Quoi de mieux qu’un bol d’air en famille\, autour de la Ma
@@ -3900,9 +3830,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125010-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T140000
-DTEND:20251223T160000
+DTSTAMP:20251202T124551
+DTSTART:20251222T140000
+DTEND:20251222T160000
 SUMMARY:Atelier nature de Noël
 LOCATION:65 route de Saint-Vio - Tréguennec
 DESCRIPTION:Quoi de mieux qu’un bol d’air en famille\, autour de Maiso
@@ -3922,9 +3852,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125009-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251229T100000
-DTEND:20251229T120000
+DTSTAMP:20251202T124551
+DTSTART:20251228T100000
+DTEND:20251228T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
 LOCATION:65 route de St-Vio - Tréguennec
 DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
@@ -3942,9 +3872,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125011-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251231T100000
-DTEND:20251231T120000
+DTSTAMP:20251202T124551
+DTSTART:20251230T100000
+DTEND:20251230T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
 LOCATION:65 route de St-Vio - Tréguennec
 DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
@@ -3962,9 +3892,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125012-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260102T200000
-DTEND:20260102T220000
+DTSTAMP:20251202T124551
+DTSTART:20260101T200000
+DTEND:20260101T220000
 SUMMARY:Balade nature - Au clair de lune autour de Tronoën
 LOCATION:Rue de Tronoën - Saint-Jean-Trolimon
 DESCRIPTION:En marchant le soir au clair de lune\, les paysages de la palu
@@ -3988,9 +3918,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125013-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251230T100000
-DTEND:20251230T120000
+DTSTAMP:20251202T124551
+DTSTART:20251229T100000
+DTEND:20251229T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
 LOCATION:65 route de St-Vio - Tréguennec
 DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
@@ -4008,9 +3938,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125014-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T110000
-DTEND:20251223T130000
+DTSTAMP:20251202T124551
+DTSTART:20251222T110000
+DTEND:20251222T130000
 SUMMARY:Atelier créatif de Noël - 6/10 ans
 LOCATION:8 impasse du Nord - Loctudy
 DESCRIPTION:Pendant les vacances scolaires\, nous proposons à vos enfants
@@ -4026,9 +3956,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125015-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251224T110000
-DTEND:20251224T130000
+DTSTAMP:20251202T124551
+DTSTART:20251223T110000
+DTEND:20251223T130000
 SUMMARY:Visite sensorielle - 3/6 ans
 LOCATION:8 impasse du Nord - Loctudy
 DESCRIPTION:Pendant les vacances scolaires\, nous proposons à vos enfants
@@ -4047,9 +3977,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125016-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251226T110000
-DTEND:20251226T130000
+DTSTAMP:20251202T124551
+DTSTART:20251225T110000
+DTEND:20251225T130000
 SUMMARY:Animation jeux de société
 LOCATION:8 impasse du Nord - Loctudy
 DESCRIPTION:Pour les enfants et adultes de 4 à 99 ans !\nGratuit - Sur in
@@ -4062,9 +3992,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125018-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260408T143000
-DTEND:20260408T163000
+DTSTAMP:20251202T124551
+DTSTART:20260407T143000
+DTEND:20260407T163000
 SUMMARY:TEST 2 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
  lo
 LOCATION:Rue Méjou Bihan - Guilvinec
@@ -4089,9 +4019,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260408T143000
-DTEND:20260408T163000
+DTSTAMP:20251202T124551
+DTSTART:20260407T143000
+DTEND:20260407T163000
 SUMMARY:TEST- Ciné docs - Odyslande\, quatre saisons en Islande à vélo
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
@@ -4115,9 +4045,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125020-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260408T143000
-DTEND:20260410T235959
+DTSTAMP:20251202T124551
+DTSTART:20260407T143000
+DTEND:20260410T215959
 SUMMARY:TEST 3 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
  lo
 LOCATION:Rue Méjou Bihan - Guilvinec
@@ -4142,9 +4072,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125020-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260408T143000
-DTEND:20260408T163000
+DTSTAMP:20251202T124551
+DTSTART:20260407T143000
+DTEND:20260407T163000
 SUMMARY:TEST 3 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
  lo
 LOCATION:Rue Méjou Bihan - Guilvinec
@@ -4169,9 +4099,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T090000
-DTEND:20251223T110000
+DTSTAMP:20251202T124551
+DTSTART:20251222T090000
+DTEND:20251222T110000
 SUMMARY:Les rendez-vous nature - Initiation au monde des oiseaux
 LOCATION:Rosquerno - Pont-l'Abbé
 DESCRIPTION:Découverte de nids d’oiseaux suivie d'une balade dans le bo
@@ -4191,9 +4121,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125022-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T140000
-DTEND:20251223T160000
+DTSTAMP:20251202T124551
+DTSTART:20251222T140000
+DTEND:20251222T160000
 SUMMARY:Les rendez-vous nature - Initiation au monde des oiseaux
 LOCATION:Rosquerno - Pont-l'Abbé
 DESCRIPTION:Découverte de nids d’oiseaux suivie d'une balade dans le bo
@@ -4213,9 +4143,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T100000
-DTEND:20251214T120000
+DTSTAMP:20251202T124551
+DTSTART:20251213T100000
+DTEND:20251213T120000
 SUMMARY:Marché de Noël
 LOCATION:13 rue Principale - Île-Tudy
 DESCRIPTION:Nombreux exposants\, petite restauration (crêpes\, kouigns & 
@@ -4229,9 +4159,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260801T140000
-DTEND:20260801T160000
+DTSTAMP:20251202T124551
+DTSTART:20260731T140000
+DTEND:20260731T160000
 SUMMARY:La Balade des Arts - Promenade artistique
 LOCATION:Rue de la pointe - Treffiagat
 DESCRIPTION:Venez rencontrer les "Talents de la Pointe" : la Balade des Ar
@@ -4246,9 +4176,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260802T100000
-DTEND:20260802T120000
+DTSTAMP:20251202T124551
+DTSTART:20260801T100000
+DTEND:20260801T120000
 SUMMARY:La Balade des Arts - Promenade artistique
 LOCATION:Rue de la pointe - Treffiagat
 DESCRIPTION:Venez rencontrer les "Talents de la Pointe" : la Balade des Ar
@@ -4263,9 +4193,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125025-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251205T100000
-DTEND:20251205T120000
+DTSTAMP:20251202T124551
+DTSTART:20251204T100000
+DTEND:20251204T120000
 SUMMARY:Atelier - Mon Post -Partum sur l'allaitement
 LOCATION:23 Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:Thème du jour : «L’allaitement : se préparer\, s’écout
@@ -4297,9 +4227,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125027-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T100000
-DTEND:20251213T120000
+DTSTAMP:20251202T124551
+DTSTART:20251212T100000
+DTEND:20251212T120000
 SUMMARY:Marché de Noël
 LOCATION:2 rue des écoles - Treffiagat
 DESCRIPTION:Présence d'une trentaine d'artisans locaux\, spectacle des en
@@ -4314,9 +4244,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125028-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T090000
-DTEND:20251206T110000
+DTSTAMP:20251202T124551
+DTSTART:20251205T090000
+DTEND:20251205T110000
 SUMMARY:Téléthon - Activités sportives
 LOCATION:8 Rue du Général de Gaulle - Combrit
 DESCRIPTION:De Combrit à Pont-l’Abbé\, à  pied ou à vélo… Ensembl
@@ -4342,9 +4272,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125029-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T100000
-DTEND:20251214T120000
+DTSTAMP:20251202T124551
+DTSTART:20251213T100000
+DTEND:20251213T120000
 SUMMARY:Noël à Tréméoc
 LOCATION:Rue de l'École - Tréméoc
 DESCRIPTION:Rendez-vous pour une grande journée festive pleine de surpris
@@ -4366,9 +4296,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125030-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251128T150000
-DTEND:20251214T235959
+DTSTAMP:20251202T124551
+DTSTART:20251127T150000
+DTEND:20251214T225959
 SUMMARY:Exposition peinture - Talou - Trèfle de baluzerne
 LOCATION:15 Rue Victor Hugo - Pont-l'Abbé
 DESCRIPTION:J’ai baigné dans la peinture abstraite « depuis ma plus te
@@ -4413,9 +4343,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125032-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T090000
-DTEND:20251207T110000
+DTSTAMP:20251202T124551
+DTSTART:20251206T090000
+DTEND:20251206T110000
 SUMMARY:Arrivée du Père Noël à Penmarc'h
 LOCATION:Avenue de Skibbereen - Penmarch
 DESCRIPTION:45 échoppes de Noël dont 40 artisans locaux proposeront des 
@@ -4433,9 +4363,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125033-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260615T100000
-DTEND:20260615T120000
+DTSTAMP:20251202T124551
+DTSTART:20260614T100000
+DTEND:20260614T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rue de la plage - Treffiagat
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4453,9 +4383,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125034-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260501T100000
-DTEND:20260501T120000
+DTSTAMP:20251202T124551
+DTSTART:20260430T100000
+DTEND:20260430T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rue de la plage - Treffiagat
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4473,9 +4403,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125035-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T160000
-DTEND:20251214T180000
+DTSTAMP:20251202T124551
+DTSTART:20251213T160000
+DTEND:20251213T180000
 SUMMARY:Concert - Dremmwel
 LOCATION:396 rue Lucien Le Lay - Penmarch
 DESCRIPTION:En concert chez Cathy\, le groupe de musique bretonne Dremmwel
@@ -4490,9 +4420,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260801T100000
-DTEND:20260801T120000
+DTSTAMP:20251202T124551
+DTSTART:20260731T100000
+DTEND:20260731T120000
 SUMMARY:Fête du Patrimoine
 LOCATION:lieu dit Saint Germain - Plogastel-Saint-Germain
 DESCRIPTION:Programme à venir\n\n📞 06 62 13 76 24\n\n🔗 https://www.
@@ -4505,9 +4435,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125038-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T090000
-DTEND:20251206T110000
+DTSTAMP:20251202T124551
+DTSTART:20251205T090000
+DTEND:20251205T110000
 SUMMARY:Opération déstockage au Secours populaire
 LOCATION:203 rue du Gén de Penfentenyo - Loctudy
 DESCRIPTION:Vente de vêtements\, objets\, livres.\n\n🔗 https://www.des
@@ -4520,9 +4450,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125037-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T160000
-DTEND:20251207T180000
+DTSTAMP:20251202T124551
+DTSTART:20251206T160000
+DTEND:20251206T180000
 SUMMARY:Contes Le Café de l'Excelsior
 LOCATION:Bar Chez Cathy - Penmarch
 DESCRIPTION:Conte théâtral d'après le roman de Philippe Claudel\nLibre 
@@ -4536,9 +4466,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125040-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T140000
-DTEND:20251206T160000
+DTSTAMP:20251202T124551
+DTSTART:20251205T140000
+DTEND:20251205T160000
 SUMMARY:Café philo - Suis-je le produit de mon passé ?
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:Café philo \nAncien professeur de philosophie à Quimper et C
@@ -4559,9 +4489,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125039-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251202T000000
-DTEND:20251202T235959
+DTSTAMP:20251202T124551
+DTSTART:20251201T230000
+DTEND:20251202T225959
 SUMMARY:Exposition - Hop pop-up
 LOCATION:Place Benjamin Delessert - Pont-l'Abbé
 DESCRIPTION:Exposition « Hop pop-up »\n\nPour clore cette année 2025\, 
@@ -4579,9 +4509,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125041-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251205T180000
-DTEND:20251205T200000
+DTSTAMP:20251202T124551
+DTSTART:20251204T180000
+DTEND:20251204T200000
 SUMMARY:Spectacle enfant - Pop Up
 LOCATION:Place Benjamin Delessert - Pont-l'Abbé
 DESCRIPTION:Spectacle « Pop Up »\n\nAvec Amandine Dolé & Sébastien Pro
@@ -4602,9 +4532,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125044-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260422T133000
-DTEND:20260422T153000
+DTSTAMP:20251202T124551
+DTSTART:20260421T133000
+DTEND:20260421T153000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rdv parking rue Jules Guesde - Guilvinec
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4622,9 +4552,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125042-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260515T090000
-DTEND:20260515T110000
+DTSTAMP:20251202T124551
+DTSTART:20260514T090000
+DTEND:20260514T110000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rdv parking rue Jules Guesde - Guilvinec
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4642,9 +4572,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125043-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260120T190000
-DTEND:20260120T210000
+DTSTAMP:20251202T124551
+DTSTART:20260119T190000
+DTEND:20260119T210000
 SUMMARY:Passeurs de Bulles - Table ronde - BD sur ordonnance
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:BD sur ordonnance\n\nComment la bande dessinée peut-elle acco
@@ -4662,9 +4592,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125046-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260102T090000
-DTEND:20260102T110000
+DTSTAMP:20251202T124551
+DTSTART:20260101T090000
+DTEND:20260101T110000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rue de la plage - Treffiagat
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4682,9 +4612,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125045-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260321T100000
-DTEND:20260321T120000
+DTSTAMP:20251202T124551
+DTSTART:20260320T100000
+DTEND:20260320T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rue de la plage - Treffiagat
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4702,9 +4632,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260418T100000
-DTEND:20260418T120000
+DTSTAMP:20251202T124551
+DTSTART:20260417T100000
+DTEND:20260417T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rue de la plage - Treffiagat
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4722,9 +4652,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125048-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251210T100000
-DTEND:20251210T120000
+DTSTAMP:20251202T124551
+DTSTART:20251209T100000
+DTEND:20251209T120000
 SUMMARY:Jeux de société
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:Jeux de société\n\nValentine de la Maison Pour Tous – Cent
@@ -4739,9 +4669,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T160000
-DTEND:20251223T180000
+DTSTAMP:20251202T124551
+DTSTART:20251222T160000
+DTEND:20251222T180000
 SUMMARY:Ciné-vacances - Spécial films de noël
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
@@ -4757,9 +4687,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251226T160000
-DTEND:20251227T235959
+DTSTAMP:20251202T124551
+DTSTART:20251225T160000
+DTEND:20251227T225959
 SUMMARY:Ciné-vacances - Spécial films de noël
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
@@ -4775,9 +4705,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251230T160000
-DTEND:20251230T180000
+DTSTAMP:20251202T124551
+DTSTART:20251229T160000
+DTEND:20251229T180000
 SUMMARY:Ciné-vacances - Spécial films de noël
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
@@ -4793,9 +4723,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260102T160000
-DTEND:20260103T235959
+DTSTAMP:20251202T124551
+DTSTART:20260101T160000
+DTEND:20260103T225959
 SUMMARY:Ciné-vacances - Spécial films de noël
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
@@ -4811,9 +4741,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125049-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251210T150000
-DTEND:20251210T170000
+DTSTAMP:20251202T124551
+DTSTART:20251209T150000
+DTEND:20251209T170000
 SUMMARY:Atelier DIY - Oh pop-up
 LOCATION:Place Benjamin Delessert - Pont-l'Abbé
 DESCRIPTION:Atelier DIY « Oh pop-up ! »\n\nJulien Laparade vous propose 
@@ -4833,9 +4763,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125053-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251217T110000
-DTEND:20251217T130000
+DTSTAMP:20251202T124551
+DTSTART:20251216T110000
+DTEND:20251216T130000
 SUMMARY:L'heure du conte 3-8 ans - Spécial livres Pop up
 LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:Anne accueille les enfants pour un moment de lecture de livres
@@ -4851,9 +4781,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125052-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260416T093000
-DTEND:20260416T113000
+DTSTAMP:20251202T124551
+DTSTART:20260415T093000
+DTEND:20260415T113000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rdv parking rue Jules Guesde - Guilvinec
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4871,9 +4801,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125050-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251223T110000
-DTEND:20251223T130000
+DTSTAMP:20251202T124551
+DTSTART:20251222T110000
+DTEND:20251222T130000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rdv parking rue Jules Guesde - Guilvinec
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4891,9 +4821,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125054-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260218T100000
-DTEND:20260218T120000
+DTSTAMP:20251202T124551
+DTSTART:20260217T100000
+DTEND:20260217T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
 LOCATION:Rdv parking rue Jules Guesde - Guilvinec
 DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
@@ -4911,9 +4841,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125056-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251214T173000
-DTEND:20251214T193000
+DTSTAMP:20251202T124551
+DTSTART:20251213T173000
+DTEND:20251213T193000
 SUMMARY:Concert  - Flûte guitare - Alain Ehkirch et Michel Grizard
 LOCATION:Rue de l'Église - Île-Tudy
 DESCRIPTION:Autour de deux instruments populaires\, la flûte et la guitar
@@ -4931,9 +4861,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125055-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251213T140000
-DTEND:20251213T160000
+DTSTAMP:20251202T124551
+DTSTART:20251212T140000
+DTEND:20251212T160000
 SUMMARY:Atelier d'écriture
 LOCATION:Place Benjamin Delessert - Pont-l'Abbé
 DESCRIPTION:Une envie d’écrire et de partager ses textes et réflexions
@@ -4952,9 +4882,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125057-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260207T163000
-DTEND:20260207T183000
+DTSTAMP:20251202T124551
+DTSTART:20260206T163000
+DTEND:20260206T183000
 SUMMARY:Ciné docs - PÉROU – des civilisations et des hommes
 LOCATION:Rue Méjou Bihan - Guilvinec
 DESCRIPTION:Le Pérou\, qui n’a pas rêvé en entendant ce nom\, synonym
@@ -4980,9 +4910,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125058-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251205T170000
-DTEND:20251205T190000
+DTSTAMP:20251202T124551
+DTSTART:20251204T170000
+DTEND:20251204T190000
 SUMMARY:Téléthon - Animations diverses
 LOCATION:29710 Pouldreuzic
 DESCRIPTION:Cette année encore l'équipe de Pouldreuzic participe au Tél
@@ -4998,9 +4928,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125059-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251206T090000
-DTEND:20251206T110000
+DTSTAMP:20251202T124551
+DTSTART:20251205T090000
+DTEND:20251205T110000
 SUMMARY:Téléthon - Animations diverses
 LOCATION:29710 Pouldreuzic
 DESCRIPTION:A partir de 9 H vente de crêpes\, gâteaux\, café\, thé\, c
@@ -5020,9 +4950,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125059-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260106T000000
-DTEND:20260106T235959
+DTSTAMP:20251202T124551
+DTSTART:20260105T230000
+DTEND:20260106T225959
 SUMMARY:Téléthon - Animations diverses
 LOCATION:29710 Pouldreuzic
 DESCRIPTION:A partir de 9 H vente de crêpes\, gâteaux\, café\, thé\, c
@@ -5042,9 +4972,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125632-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260203T143000
-DTEND:20260203T163000
+DTSTAMP:20251202T124551
+DTSTART:20260202T143000
+DTEND:20260202T163000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
@@ -5057,9 +4987,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260120T143000
-DTEND:20260120T163000
+DTSTAMP:20251202T124551
+DTSTART:20260119T143000
+DTEND:20260119T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
@@ -5072,9 +5002,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125634-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260303T150000
-DTEND:20260303T170000
+DTSTAMP:20251202T124551
+DTSTART:20260302T150000
+DTEND:20260302T170000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
@@ -5087,9 +5017,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125633-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260130T180000
-DTEND:20260130T200000
+DTSTAMP:20251202T124551
+DTSTART:20260129T180000
+DTEND:20260129T200000
 SUMMARY:Soirée philo
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:L'atelier de philosophie\, animé par Jean-Yves Boudéhen\, po
@@ -5103,9 +5033,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125635-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260217T143000
-DTEND:20260217T163000
+DTSTAMP:20251202T124551
+DTSTART:20260216T143000
+DTEND:20260216T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
@@ -5118,9 +5048,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125637-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20260317T143000
-DTEND:20260317T163000
+DTSTAMP:20251202T124551
+DTSTART:20260316T143000
+DTEND:20260316T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
@@ -5133,9 +5063,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125643-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T170000
-DTEND:20251207T190000
+DTSTAMP:20251202T124551
+DTSTART:20251206T170000
+DTEND:20251206T190000
 SUMMARY:Théatre : Comment qu'c'est ?
 LOCATION:39 Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Au profit du Téléthon - Pièce de Jérôme GUIOMACH\n\n📞 
@@ -5148,9 +5078,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125641-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T140000
-DTEND:20251207T160000
+DTSTAMP:20251202T124551
+DTSTART:20251206T140000
+DTEND:20251206T160000
 SUMMARY:Hip Hop
 LOCATION:Rue Jules Ferry - Pont-l'Abbé
 DESCRIPTION:L’association Hip hop New School organise des ateliers autou
@@ -5166,9 +5096,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125669-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251201T093000
-DTEND:20251231T235959
+DTSTAMP:20251202T124551
+DTSTART:20251130T093000
+DTEND:20251231T225959
 SUMMARY:Exposition Quimper et coiffes Bretonnes - Jean Simon
 LOCATION:13 Rue du Centre - Plozévet
 DESCRIPTION:Visites libres pendant les heures d'ouverture.\nPeintures\n\n
@@ -5181,9 +5111,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125647-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251227T193000
-DTEND:20251227T213000
+DTSTAMP:20251202T124551
+DTSTART:20251226T193000
+DTEND:20251226T213000
 SUMMARY:Soirée DJ SET
 LOCATION:3 Avenue du Port - Treffiagat
 DESCRIPTION:Soirée DJ SET avec DJ Bapt' !\n\n📞 06 48 10 97 44\n\n🔗 
@@ -5196,9 +5126,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125652-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T190000
-DTEND:20251220T210000
+DTSTAMP:20251202T124551
+DTSTART:20251219T190000
+DTEND:20251219T210000
 SUMMARY:Rencontre-Dédicace avec Franck BESSIERE
 LOCATION:1 Rue Jean Baudry - Guilvinec
 DESCRIPTION:« Quand l`identité transcende les limites de l`espèce. Un r
@@ -5226,9 +5156,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125650-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251231T190000
-DTEND:20251231T210000
+DTSTAMP:20251202T124551
+DTSTART:20251230T190000
+DTEND:20251230T210000
 SUMMARY:Concert - Do & Volga
 LOCATION:3 Avenue du Port - Treffiagat
 DESCRIPTION:Do & Volga\, c’est la rencontre entre un guitariste de Pont 
@@ -5247,9 +5177,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125653-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251220T190000
-DTEND:20251220T210000
+DTSTAMP:20251202T124551
+DTSTART:20251219T190000
+DTEND:20251219T210000
 SUMMARY:Rencontre-Dédicace avec Franck BESSIERE
 LOCATION:1 Rue Jean Baudry - Guilvinec
 DESCRIPTION:« Quand l`identité transcende les limites de l`espèce. Un r
@@ -5276,9 +5206,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125656-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T134230
-DTSTART:20251207T150000
-DTEND:20251207T170000
+DTSTAMP:20251202T124551
+DTSTART:20251206T150000
+DTEND:20251206T170000
 SUMMARY:Telethon - concerts
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:Venez assister au concert de Gwen Aod et leur de chants de mar
