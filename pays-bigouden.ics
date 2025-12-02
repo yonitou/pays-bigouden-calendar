@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:5426397-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T203000
 DTEND:20251206T223000
 SUMMARY:Concert - Stéphane
@@ -17,7 +17,7 @@ LOCATION:Rue Méjour Bihan - Guilvinec
 DESCRIPTION:Auteure compositrice et interprète à l’univers musical pop
   teinté de rock et d’électro.\nDernière date de la tournée !\n\nRés
  ervation sur : FNAC\, BilletRéduc\, Coeur de scène\, BilletWeb. Tarif en
-  fonction du site.\n\n📞 02 98 82 83 56
+  fonction du site.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-step
  hane-guilvinec-fr-5426397/
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426444-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251209T100000
 DTEND:20251209T120000
 SUMMARY:Atelier de cuisine à l'Hatelier - Menu de Fêtes
@@ -33,7 +33,7 @@ LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Animé par Klervi Berrou du restaurant Le Poisson d'Avril au G
  uilvinec.\nL'atelier se termine par la dégustation des plats cuisinés en
   compagnie du chef\, un moment convivial et gourmand ! \nMinimum 4 partici
- pants.\n\n📞 02 98 58 28 38
+ pants.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-de-c
  uisine-a-lhatelier-menu-de-fetes-guilvinec-fr-5426444/
@@ -41,14 +41,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426447-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251210T100000
 DTEND:20251210T120000
 SUMMARY:Atelier de cuisine à l'Hatelier - Menu de Fêtes
 LOCATION:Le Port - Terrasse panoramique - Guilvinec
 DESCRIPTION:Animé par Michel Bouyer.\nL'atelier se termine par la dégust
  ation des plats cuisinés en compagnie du chef\, un moment convivial et go
- urmand ! \nMinimum 4 participants.\n\n📞 02 98 58 28 38
+ urmand ! \nMinimum 4 participants.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-de-c
  uisine-a-lhatelier-menu-de-fetes-guilvinec-fr-5426447/
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426448-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251221T140000
 DTEND:20251221T160000
 SUMMARY:Noël en fête
@@ -75,8 +75,7 @@ DESCRIPTION:Plus de 20 exposants seront présents : créateurs\, artisans
  n• Attractions gratuites : manège\, déambulation d’un clown-magicien
   ...\n• Et moment phare : l’arrivée magique du Père Noël à 17h30\,
   à bord de la vedette SNSM\nMargodig.\n\nLa journée se terminera par un 
- feu d’artifice féerique pour enchanter petits et grands.\n\n📞 06 08 
- 98 10 53
+ feu d’artifice féerique pour enchanter petits et grands.
 CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/noel-en-fete
  -loctudy-fr-5426448/
@@ -84,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426454-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251228T110000
 DTEND:20251228T130000
 SUMMARY:Baignade collective - Le bain des sirènes
@@ -105,7 +104,7 @@ DESCRIPTION:Plongez dans la tradition hivernale !\nPrêts pour un grand bo
  a page de l’année\nAmbiance détendue\, fous rires\, photos souvenirs e
  t esprit collectif : le Bain des Sirènes\, c’est\nl’occasion parfaite
   de partager un moment inoubliable avant le passage à la nouvelle année.
- \n\nÀ vos maillots !\n\n📞 06 08 98 10 53
+ \n\nÀ vos maillots !
 CATEGORIES:Insolite
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/baignade-col
  lective-le-bain-des-sirenes-loctudy-fr-5426454/
@@ -113,13 +112,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426481-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T100000
 DTEND:20251220T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
 LOCATION:8 rue Jean Jaurès - Plobannalec-Lesconil
 DESCRIPTION:Venez chiner et faire de bonnes affaires à la braderie du Sec
- ours populaire !\n\n📞 07 86 43 68 87
+ ours populaire !
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/journee-port
  es-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-5426481/
@@ -127,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T110000
 DTEND:20251206T130000
 SUMMARY:Marché de Noël
@@ -159,8 +158,7 @@ DESCRIPTION:Le traditionnel Marché de Noël de Plobannalec-Lesconil aura
  onner un sens à leur vie en leur apportant les clés pour qu'ils soient c
  réateurs de leur avenir. \n\nEntrée et parking gratuits – Salle omnisp
  orts de Pont-Plat à Plobannalec-Lesconil.\n\nContact : jumelage.plobannal
- ec.lesconil@gmail.com – Denis Jeanson – 06 58 82 93 80\n\n📞 06 58 8
- 2 93 80
+ ec.lesconil@gmail.com – Denis Jeanson – 06 58 82 93 80
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-de-no
  el-plobannalec-lesconil-fr-5426636/
@@ -168,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426636-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T100000
 DTEND:20251207T120000
 SUMMARY:Marché de Noël
@@ -200,8 +198,7 @@ DESCRIPTION:Le traditionnel Marché de Noël de Plobannalec-Lesconil aura
  onner un sens à leur vie en leur apportant les clés pour qu'ils soient c
  réateurs de leur avenir. \n\nEntrée et parking gratuits – Salle omnisp
  orts de Pont-Plat à Plobannalec-Lesconil.\n\nContact : jumelage.plobannal
- ec.lesconil@gmail.com – Denis Jeanson – 06 58 82 93 80\n\n📞 06 58 8
- 2 93 80
+ ec.lesconil@gmail.com – Denis Jeanson – 06 58 82 93 80
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-de-no
  el-plobannalec-lesconil-fr-5426636/
@@ -209,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426639-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T170000
 DTEND:20251213T190000
 SUMMARY:Le Père noël Maritime - Le Noël de Bag Leskon
@@ -219,7 +216,7 @@ DESCRIPTION:Rendez-vous à 16h30 au chantier Le Cœur\, contes de Noël pa
  ur des Petits à 17h00 au port de Lesconil (Quai Est) avec vin chaud\, cho
  colat chaud\, kouign.... Et distribution de chocolat aux enfants  sages.\n
  En cas de mauvais temps le Père Noël arrivera au chantier Le Cœur par l
- e jardin.\nProgrammation à confirmer.\n\n📞 02 98 82 37 99
+ e jardin.\nProgrammation à confirmer.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/le-pere-noel
  -maritime-le-noel-de-bag-leskon-plobannalec-lesconil-fr-5426639/
@@ -227,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426785-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260307T203000
 DTEND:20260307T223000
 SUMMARY:Spectacle hypnose - Kent
@@ -248,8 +245,7 @@ DESCRIPTION:Kent Hypnose\, l'Hypnotiseur Breton est de retour avec un nouv
  s fous en totale immersion ?\nAvec Kent\, toujours dans le respect et la b
  ienveillance : ouvrez les portes de votre inconscient !\n\nAlors qui de vo
  s proches\, amis\, famille seront hypnotisés ?\nAvec Kent Hypnose prépar
- ez-vous à vivre une aventure hors du commun\, ouvrez les portes...\n\n
- 📞 02 98 58 60 19
+ ez-vous à vivre une aventure hors du commun\, ouvrez les portes...
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-hy
  pnose-kent-penmarch-fr-5426785/
@@ -257,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5426897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T090000
 DTEND:20251207T110000
 SUMMARY:Vente solidaire par Solidarité Bigoudène
@@ -267,7 +263,7 @@ DESCRIPTION:Solidarité Bigoudène propose le premier dimanche de chaque m
  e bonnes affaires !\nVêtements de seconde main\, livres\, petits meubles\
  , vaisselle\, tissus... une occasion de se faire plaisir par une action so
  lidaire\, mais aussi de réfléchir et de lutter contre la surconsommation
- .\n\n📞 06 33 75 11 05
+ .
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/vente-solida
  ire-par-solidarite-bigoudene-saint-jean-trolimon-fr-5426897/
@@ -275,13 +271,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772401-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251221T150000
 DTEND:20251221T170000
 SUMMARY:Concert de Noël
 LOCATION:Rue de Poulpeye - Loctudy
 DESCRIPTION:L'association des Amis de l'orgue propose un concert de Noël 
- orgue et bombarde.\n\n📞 02.98.87.53.78
+ orgue et bombarde.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-de-n
  oel-loctudy-fr-5772401/
@@ -289,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5773096-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T110000
 DTEND:20251213T130000
 SUMMARY:Marché de Noël
@@ -304,14 +300,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5774233-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T090000
 DTEND:20251206T110000
 SUMMARY:Repair café
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Venez apprendre à réparer et à entretenir votre vélo et le
   petit matériel électroménager lors du Repair Café\, animé par la ré
- serve civique communale.\n\n📞 02 98 56 33 14
+ serve civique communale.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/repair-cafe-
  combrit-fr-5774233/
@@ -319,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882469-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260208T170000
 DTEND:20260208T190000
 SUMMARY:Concert - Gogo Penguin
@@ -330,8 +326,7 @@ DESCRIPTION:GoGo Penguin est un groupe de jazz originaire de Manchester au
  ent pour leurs rythmes imprévisibles\, les mélodies contagieuses du pian
  o\, la puissance de leur basse  ainsi que leurs riffs très entraînants. 
  Apparentés au nu jazz\, ils composent\, partagent leurs idées et jouent 
- avec synergie pour créer un son unique.\nInvité spécial Daudi Matsiko.\
- n\n📞 02 98 58 60 19
+ avec synergie pour créer un son unique.\nInvité spécial Daudi Matsiko.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-gogo
  -penguin-penmarch-fr-5882469/
@@ -339,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882738-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Concert Alan Stivell
@@ -354,7 +349,7 @@ DESCRIPTION:A l’âge de dix ans\, Alan Stivell faisait résonner dans la
   adaptée à ce retour aux sources : son chant et sa dernière harpe – c
  onçue par l’artiste lui-même\, offrant la pureté cristalline autant q
  ue les possibilités de l'électronique\, accompagné par Tangi Miossec\, 
- claviériste hors pair.\n\n📞 02 98 58 60 19
+ claviériste hors pair.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-alan
  -stivell-penmarch-fr-5882738/
@@ -362,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907736-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260124T200000
 DTEND:20260124T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -383,8 +378,7 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
  raintes. Un cabaret insolite à consommer sans modération. Vous réservez
   votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Éc
  riture\, mise en scène\, scénographie Julien Candy Interprétation Julie
- tte Christmann\, Julien Candy\, Lady et des convives.\n\n📞 02 98 54 49 
- 04
+ tte Christmann\, Julien Candy\, Lady et des convives.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-le
  -cabaret-renverse-plozevet-fr-5907736/
@@ -392,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907737-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260125T160000
 DTEND:20260125T180000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -413,8 +407,7 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
  aintes. Un cabaret insolite à consommer sans modération. Vous réservez 
  votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écr
  iture\, mise en scène\, scénographie Julien Candy Interprétation Juliet
- te Christmann\, Julien Candy\, Lady et des convives.\n\n📞 02 98 54 49 0
- 4
+ te Christmann\, Julien Candy\, Lady et des convives.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-le
  -cabaret-renverse-plozevet-fr-5907737/
@@ -422,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907741-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260123T200000
 DTEND:20260123T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -443,8 +436,7 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
  aintes. Un cabaret insolite à consommer sans modération. Vous réservez 
  votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écr
  iture\, mise en scène\, scénographie Julien Candy Interprétation Juliet
- te Christmann\, Julien Candy\, Lady et des convives.\n\n📞 02 98 54 49 0
- 4
+ te Christmann\, Julien Candy\, Lady et des convives.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-le
  -cabaret-renverse-plozevet-fr-5907741/
@@ -452,7 +444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907742-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260130T200000
 DTEND:20260130T220000
 SUMMARY:CIRCONOVA : La Pointe du Compas
@@ -470,8 +462,7 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
  fant des injonctions\, elle lutte\, se débat et se révolte pour inventer
   sa propre voie. Ses acrobaties virtuoses accompagnent le combat intime d
  ’une jeune fille sur le chemin de son accomplissement.\n\nÉcriture Anne
-  Rehbinder Mise en scène Antoine Colnot Interprète Mélodie Morin\n\n
- 📞 02 98 54 49 04
+  Rehbinder Mise en scène Antoine Colnot Interprète Mélodie Morin
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-la
  -pointe-du-compas-plozevet-fr-5907742/
@@ -479,14 +470,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5947625-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260412T140000
 DTEND:20260412T160000
 SUMMARY:Méga loto des loups de Plonéour
 LOCATION:Rue René Le Berre - Plonéour-Lanvern
 DESCRIPTION:N'hésitez pas à venir tenter votre chance et qui sait  gagne
- r le gros lot ! \nLoto\, Bingo\, Perso Plus de 7000€ de lots\n\n📞 06 
- 22 90 80 95
+ r le gros lot ! \nLoto\, Bingo\, Perso Plus de 7000€ de lots
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/mega-loto-de
  s-loups-de-ploneour-ploneour-lanvern-fr-5947625/
@@ -494,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5949101-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260823T090000
 DTEND:20260823T110000
 SUMMARY:Marathon des Étoiles de la Baie
@@ -503,7 +493,7 @@ DESCRIPTION:Marathon caritatif en soutien aux enfants atteints de cancer.
  \n\nSolo: 42\, 195km -  relais duo : 2x 21\,1 km - relais trio : 3 x 14 km
  . \n\nDécouvrez le Pays bigouden\, ses paluds\, ses calvaires\, ses chape
  lles\, ses ports\, ses phares\, ses plages en courant une magnifique boucl
- e sur le plus beau stade du monde.\n\n📞 06 31 29 61 93
+ e sur le plus beau stade du monde.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marathon-des
  -etoiles-de-la-baie-plomeur-fr-5949101/
@@ -511,12 +501,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5967665-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260503T000000
 DTEND:20260503T235959
 SUMMARY:3 ème édition de la fête du rire
 LOCATION:Place Corentin Hénaff - Pouldreuzic
-DESCRIPTION:Le rire dans tous ces états !\n\n📞 06 60 31 22 64
+DESCRIPTION:Le rire dans tous ces états !
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/3-eme-editio
  n-de-la-fete-du-rire-pouldreuzic-fr-5967665/
@@ -524,7 +514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969941-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251202T200000
 DTEND:20251202T220000
 SUMMARY:Concert - MÿA – Robinson Khoury / Lynn Adib
@@ -543,7 +533,7 @@ DESCRIPTION:Robinson Khoury est un jeune et talentueux artiste : trombonis
   entendre aux côtés de Yom. Robinson Khoury complète ce trio au trombon
  e\, différents instruments à embouchure\, à la voix et au synthétiseur
   modulaire. En guest\, la voix lumineuse de la chanteuse syrienne Lynn Adi
- b.\n\n📞 02 98 66 00 40
+ b.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-mya-
  robinson-khoury-lynn-adib-pont-labbe-fr-5969941/
@@ -551,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969947-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260118T163000
 DTEND:20260118T183000
 SUMMARY:Ciné Doc : Terres Boréales
@@ -565,7 +555,7 @@ DESCRIPTION:Alaska\, Groenland\, Spitzberg\, Sibérie \, un film de Jacque
  nga\, découverte du mammouth Jarkov - Migration avec les Baloks tirés pa
  r les rennes\n\n Échange après le film\n Le film débute après la prés
  entation par l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn ava
- nt la séance\n\n📞 06 77 45 00 87
+ nt la séance
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-doc-ter
  res-boreales-pouldreuzic-fr-5969947/
@@ -573,7 +563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969935-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T170000
 DTEND:20251214T190000
 SUMMARY:festival Théâtre à tous âges - Le poisson qui vivait dans les 
@@ -586,7 +576,7 @@ DESCRIPTION:Avec ce second projet destiné à un jeune public\, Sylvain Ri
  cette aventure\, drôle et poétique\, animaux et humains se rencontrent\,
   fusionnent\, sans barrière de langage\, ni limite à l’imaginaire.\n\n
  Cette représentation est organisée dans le cadre du festival Théâtre 
- à Tout Âge.\n\n📞 02 98 66 00 40
+ à Tout Âge.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/festival-the
  atre-a-tous-ages-le-poisson-qui-vivait-dans-les-arbres-pont-labbe-fr-59699
@@ -595,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969933-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260308T163000
 DTEND:20260308T183000
 SUMMARY:Ciné Doc : La Loire
@@ -609,7 +599,7 @@ DESCRIPTION:Royale & Rebelle\n Un FILM de Dong WEI et Jean CHARBONNEAU\n\n
  les - joutes nautiques - grandes villes riveraines et châteaux - paquebot
  s.\n\n Échange après le film\n Le film débute après la présentation p
  ar l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séa
- nce\n\n📞 06 77 45 00 87
+ nce
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-doc-la-
  loire-pouldreuzic-fr-5969933/
@@ -617,7 +607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969934-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T203000
 DTEND:20251220T223000
 SUMMARY:Spectacle illusionniste - French twins
@@ -630,7 +620,7 @@ DESCRIPTION:Les jumeaux illusionnistes 3.0 d’America’s Got Talent\, La
  rez un show unique très visuel et très interactif où des objets travers
  ent et apparaissent d’un écran géant\, les spectateurs sont acteurs du
   spectacle et participent\, offrant des illusions digitales et des hologra
- mmes jamais vus en France.\n\n📞 02 98 66 00 40
+ mmes jamais vus en France.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-il
  lusionniste-french-twins-pont-labbe-fr-5969934/
@@ -638,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969932-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260208T163000
 DTEND:20260208T183000
 SUMMARY:Ciné Doc : L'extraordinaire tournée du facteur Maignan
@@ -651,8 +641,7 @@ DESCRIPTION:Un film de Patrick SOULABAILLE  Production Iroise / France 3\,
  ’empêcher de reprendre sa tournée. Ces 185 jours retracent l’épopé
  e d’un homme ordinaire qui réalise un rêve extraordinaire. \n\n Échan
  ge après le film\n Le film débute après la présentation par l’auteur
-  d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance\n\n📞 0
- 6 77 45 00 87
+  d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-doc-lex
  traordinaire-tournee-du-facteur-maignan-pouldreuzic-fr-5969932/
@@ -660,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969971-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T173000
 DTEND:20251207T193000
 SUMMARY:Concert Thaléa
@@ -677,7 +666,7 @@ DESCRIPTION:Venez découvrir un chef d’œuvre imposant du début du baro
  ispose le compositeur baroque : éclairage dramatique\, mouvements dans l
  ’espace afin de valoriser la rhétorique du texte et de la musique.\n\nN
  'oubliez pas de réserver vos places en ligne pour ce concert impromptu (v
- oir le lien sous le numéro de téléphone) !\n\n📞 06 89 62 35 05
+ oir le lien sous le numéro de téléphone) !
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-thal
  ea-plozevet-fr-5969971/
@@ -685,13 +674,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5972574-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251202T150000
 DTEND:20251202T170000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.\n\n📞 02 98 51 90 81
+  littéraires.\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
  age-combrit-fr-5972574/
@@ -699,13 +688,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5972583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251216T143000
 DTEND:20251216T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
- igatoire.\n\n📞 02 98 51 90 81
+ igatoire.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-combrit-fr-5972583/
@@ -713,14 +702,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5972614-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T100000
 DTEND:20251220T120000
 SUMMARY:Matinée en breton - Causerie en breton
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:La municipalité\, en collaboration avec le Bagad et cercle ce
  ltique de Combrit\, propose une nouvelle matinée en breton.\n\nUne causer
- ie ouverte sur différents sujets.\n\n📞 02 98 56 33 14
+ ie ouverte sur différents sujets.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/matinee-en-b
  reton-causerie-en-breton-combrit-fr-5972614/
@@ -728,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975259-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260115T180000
 DTEND:20260115T200000
 SUMMARY:Conférence - Pascal Dareths\, sous la mer\, invisibles
@@ -741,7 +730,7 @@ DESCRIPTION:La vie dans un sous-marin de la Marine nationale\, c’est un
   promiscuité et la rigueur des missions stratégiques.\n\n Conférence an
  imée par Pascal Dareths\, capitaine de frégate et commandant de la base 
  Fusco de Lorient.\n\nSur réservation\, nombre de place limitées dans l'a
- uditorium.\n\n📞 02 98 58 28 38
+ uditorium.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-p
  ascal-dareths-sous-la-mer-invisibles-guilvinec-fr-5975259/
@@ -749,7 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975272-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251218T180000
 DTEND:20251218T200000
 SUMMARY:Conférence - Traiteur de la mer\, Claudine cuisine la mer
@@ -761,8 +750,7 @@ DESCRIPTION:Claudine\, c’est l’âme derrière le Traiteur de la Mer\,
  une vague tiède et les petites créations iodées qui sentent bon la côt
  e. \nElle vient nous faire partager sa passion de la cuisine de la mer : r
  ecettes et dégustation au programme de cette conférence de fin d’anné
- e.\n\nSur réservation\, nombre de place limitées dans l'auditorium.\n\n
- 📞 02 98 58 28 38
+ e.\n\nSur réservation\, nombre de place limitées dans l'auditorium.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-t
  raiteur-de-la-mer-claudine-cuisine-la-mer-guilvinec-fr-5975272/
@@ -770,7 +758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975262-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260319T180000
 DTEND:20260319T200000
 SUMMARY:Conférence - Étape du Festival Pêcheurs du monde
@@ -781,7 +769,7 @@ DESCRIPTION:Pour la seconde fois\, les Conférences du Jeudi accueillent l
  avers une quarantaine de films inédits chaque année — documentaires\, 
  fictions ou animations et nourrit les débats entre réalisateurs\, scient
  ifiques\, pêcheurs et public.\n\n Sur réservation\, nombre de place limi
- tées dans l'auditorium.\n\n📞 02 98 58 28 38
+ tées dans l'auditorium.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-e
  tape-du-festival-pecheurs-du-monde-guilvinec-fr-5975262/
@@ -789,7 +777,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975263-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260416T180000
 DTEND:20260416T200000
 SUMMARY:Conférence - Chantier naval Gléhen Hénaff\, construire des bate
@@ -802,7 +790,7 @@ DESCRIPTION:Ils construisent des bateaux au Guilvinec depuis un siècle :
  artisanale et a obtenu le label Entreprise du Patrimoine Vivant (EPV) en 2
  020. \nLeurs dirigeants viendront nous parler de leur activité passée\, 
  présente et à venir.\n\n Sur réservation\, nombre de place limitées da
- ns l'auditorium.\n\n📞 02 98 58 28 38
+ ns l'auditorium.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-c
  hantier-naval-glehen-henaff-construire-des-bateaux-guilvinec-fr-5975263/
@@ -810,7 +798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975267-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Conférence - Le grand banquet\, la saga Larzul
@@ -823,7 +811,7 @@ DESCRIPTION:Haliotika poursuit sa série « saga familiale bretonne » ave
  nce de dédicace de l’ouvrage " Le Grand banquet - Larzul "\, un siècle
   dans une conserverie bretonne\, avec notre partenaire De l’Encre à l
  ’Écran.\n\n Sur réservation\, nombre de place limitées dans l'auditor
- ium.\n\n📞 02 98 58 28 38
+ ium.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-l
  e-grand-banquet-la-saga-larzul-guilvinec-fr-5975267/
@@ -831,15 +819,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979115-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251222T103000
 DTEND:20251222T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
  bol)\, un set apéro (une planche de présentation et un bol) ou set cocoo
- ning en créant un mug et un bougeoir.\n\nRéservation obligatoire\n\n📞
-  02 98 66 83 51
+ ning en créant un mug et un bougeoir.\n\nRéservation obligatoire
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-dobjets-hygge-pont-labbe-fr-5979115/
@@ -847,15 +834,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979115-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251228T140000
 DTEND:20251228T160000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
  bol)\, un set apéro (une planche de présentation et un bol) ou set cocoo
- ning en créant un mug et un bougeoir.\n\nRéservation obligatoire\n\n📞
-  02 98 66 83 51
+ ning en créant un mug et un bougeoir.\n\nRéservation obligatoire
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-dobjets-hygge-pont-labbe-fr-5979115/
@@ -863,15 +849,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979119-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251228T103000
 DTEND:20251228T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
  bol)\, un set apéro (une planche de présentation et un bol) ou set cocoo
- ning en créant un mug et un bougeoir.\n\nRéservation obligatoire\n\n📞
-  02 98 66 83 51
+ ning en créant un mug et un bougeoir.\n\nRéservation obligatoire
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-dobjets-hygge-pont-labbe-fr-5979119/
@@ -879,15 +864,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979116-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251215T103000
 DTEND:20251215T123000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
  bol)\, un set apéro (une planche de présentation et un bol) ou set cocoo
- ning en créant un mug et un bougeoir.\n\nRéservation obligatoire\n\n📞
-  02 98 66 83 51
+ ning en créant un mug et un bougeoir.\n\nRéservation obligatoire
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-dobjets-hygge-pont-labbe-fr-5979116/
@@ -895,14 +879,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979113-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251204T183000
 DTEND:20251204T203000
 SUMMARY:Atelier - Création et décoration de noël
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Illuminez les fêtes par vos pièces chaleureuses\, Fabriquez 
  des décorations de Noël qui vous ressemblent\n\nRéservation obligatoire
- \n\n📞 02 98 66 83 51
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-et-decoration-de-noel-pont-labbe-fr-5979113/
@@ -910,15 +893,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5979117-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251211T183000
 DTEND:20251211T203000
 SUMMARY:Atelier création d’objets “Hygge”
 LOCATION:22 Place Gambetta - Pont-l'Abbé
 DESCRIPTION:Créez un set de petit déjeuner (Une assiette à toast et un 
  bol)\, un set apéro (une planche de présentation et un bol) ou set cocoo
- ning en créant un mug et un bougeoir.\n\nRéservation obligatoire\n\n📞
-  02 98 66 83 51
+ ning en créant un mug et un bougeoir.\n\nRéservation obligatoire
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tion-dobjets-hygge-pont-labbe-fr-5979117/
@@ -926,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986578-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260321T193000
 DTEND:20260321T213000
 SUMMARY:Concert de la Saint-Patrick - Tribute to U2\, Achtung babies
@@ -962,7 +944,7 @@ DESCRIPTION:ACHTUNG BABIES a débuté en 1993 à Rome. Ils ont fait leurs
  e d'atteindre des résultats inaccessibles\, même pour des artistes dispo
  sant de gros budgets et bénéficiant des avantages de l'industrie\, sans 
  label ni production.\n\nEn première partie\, concert de INISH DEW.\n\nRé
- servation sur : BilletWeb.\n\n📞 02 98 82 83 56
+ servation sur : BilletWeb.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-de-l
  a-saint-patrick-tribute-to-u2-achtung-babies-guilvinec-fr-5986578/
@@ -970,7 +952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986611-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260303T143000
 DTEND:20260303T163000
 SUMMARY:Projection film documentaire - La Loire
@@ -982,8 +964,7 @@ DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
  onneau et Dong Wei ont suivi la Loire pas à pas. Ils ont vécu quatre sai
  sons sur le fleuve\, observant les paysages\, les rives\, les poissons et 
  les pêcheurs. La Loire déborde en hiver ou au printemps puis se réduit 
- à des veines d’eau\, en tirant ses langues de sable en été.\n\n📞 0
- 2 98 56 74 19
+ à des veines d’eau\, en tirant ses langues de sable en été.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
  ilm-documentaire-la-loire-combrit-fr-5986611/
@@ -991,7 +972,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986580-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251203T143000
 DTEND:20251203T163000
 SUMMARY:Ciné docs - Himalaya\, entre Bhoutan et Myanmar
@@ -1011,7 +992,7 @@ DESCRIPTION:Entre Bhoutan et Myanmar\, Himalaya méconnu est la découvert
  nes populations tribales dépositaires de riches\, étonnantes et très va
  riées traditions culturelles mais aussi\, religieuses.\n\nUn film étonna
  nt sur un Etat Indien à la forte personnalité...\n\nEn présence du réa
- lisateur Alain Wodey.\n\n📞 02 98 82 83 56
+ lisateur Alain Wodey.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-hi
  malaya-entre-bhoutan-et-myanmar-guilvinec-fr-5986580/
@@ -1019,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986607-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260210T143000
 DTEND:20260210T163000
 SUMMARY:Projection film documentaire - Les Terres boréales
@@ -1033,7 +1014,7 @@ DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
  tes et en même temps si fragiles. Il a rencontré ces hommes vivant en sy
  mbiose avec elles\, et il livre\, à travers le film « Terres boréales\,
   Alaska\, Groenland\, Spitzberg et Sibérie« \, quelques pépites de voya
- ge de la vie en Nord.\n\n📞 02 98 56 74 19
+ ge de la vie en Nord.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
  ilm-documentaire-les-terres-boreales-combrit-fr-5986607/
@@ -1041,7 +1022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986612-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251202T143000
 DTEND:20251202T163000
 SUMMARY:Projection film documentaire - L'Himalaya
@@ -1058,7 +1039,7 @@ DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
  x moments de vie parmi des communautés de culture tibétaine et certaines
   populations tribales dépositaires de riches\, étonnantes et très vari
  ées traditions culturelles\, mais aussi religieuses. Un film étonnant su
- r un État indien à la forte personnalité.\n\n📞 02 98 56 74 19
+ r un État indien à la forte personnalité.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
  ilm-documentaire-lhimalaya-combrit-fr-5986612/
@@ -1066,7 +1047,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986609-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260113T143000
 DTEND:20260113T163000
 SUMMARY:Projection film documentaire - Le Pérou
@@ -1080,7 +1061,7 @@ DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
  ations et des hommes ». \nLes spectateurs partent ainsi à la découverte
   des contrées et des populations mystérieuses de ce pays mythique\, de l
  a côte du Pacifique\,  à la cordillère des Andes en passant par le Mach
- u Pichu et le lac Titicaca.\n\n📞 02 98 56 74 19
+ u Pichu et le lac Titicaca.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/projection-f
  ilm-documentaire-le-perou-combrit-fr-5986609/
@@ -1088,7 +1069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988571-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260410T203000
 DTEND:20260410T223000
 SUMMARY:Humour - Paul de St-Sernin
@@ -1104,7 +1085,7 @@ DESCRIPTION:Quand je me suis lancé dans le stand-up\, un mec m’a dit :
   vide à combler\, rien à me prouver. Moi je veux juste faire marrer les 
  gens\, c’est tout…\nLe Saviez-vous ? Paul de Saint Sernin est le snipe
  r dans l’émission “ Quelle époque !  » de Léa Salamé sur France 2
- .\n\n📞 02 98 58 60 19
+ .
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/humour-paul-
  de-st-sernin-penmarch-fr-5988571/
@@ -1112,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260131T203000
 DTEND:20260131T223000
 SUMMARY:Théâtre - Les aventuriers de minuit
@@ -1129,7 +1110,7 @@ DESCRIPTION:Quand Jules Verne et Arthur Conan Doyle défient le crime !\n1
  u rire et de l’aventure !\nUne comédie policière Julien et Florence Le
  febvre\nMise en scène de Elie Rapp et Ludovic Laroche\nAvec Stéphanie Ba
  ssibey\, Émilie Cazenave\, Pierre-Arnaud Juin\, Ludovic Laroche\, Jeanne 
- Réot\, Nicolas Saint-Georges\n\n📞 02 98 58 60 19
+ Réot\, Nicolas Saint-Georges
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/theatre-les-
  aventuriers-de-minuit-penmarch-fr-5988569/
@@ -1137,7 +1118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988562-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260214T203000
 DTEND:20260214T223000
 SUMMARY:Concert - The Celtic Social Club
@@ -1152,7 +1133,7 @@ DESCRIPTION:Chaque concert du Celtic Social Club est une expérience : une
  a su capturer sur le nouvel album YOU SHOULD KNOW (sortie le 25 octobre 20
  25).\nEntre Clash\, Pogues\, Waterboys et Fontaines D.C.\, The Celtic Soci
  al Club affirme un son unique\, festif et inventif — à vivre absolument
-  en concert.\n\n📞 02 98 58 60 19
+  en concert.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-the-
  celtic-social-club-penmarch-fr-5988562/
@@ -1160,7 +1141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988586-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260304T143000
 DTEND:20260304T163000
 SUMMARY:Ciné docs - Australie\, du grand Ouest à la Tasmanie
@@ -1176,7 +1157,7 @@ DESCRIPTION:L’Ouest sauvage\, du Pilbara rouge aux récifs coraliens où
  able. Un grand tour littoral entre des îles paradisiaques et des falaises
   vertigineuses. L’esprit traditionnel «tassie»\, la fête rétro d’E
  vandale et Hobart\, la capitale.\n\nEn présence du réalisateur Jean Char
- bonneau.\n\n📞 02 98 82 83 56
+ bonneau.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-au
  stralie-du-grand-ouest-a-la-tasmanie-guilvinec-fr-5988586/
@@ -1184,7 +1165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988573-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260412T170000
 DTEND:20260412T190000
 SUMMARY:Théâtre - Trois femmes au bord de la crise de mère
@@ -1199,8 +1180,7 @@ DESCRIPTION:Sandrine\, 45 ans\, a une folle envie de vivre seule. Mais ell
  é tout l’occasion de parler maternité\, féminité\, sexualité\, bonh
  eur et joie de vivre en famille. \nLes hommes ne sont pas loin\, mais à b
  onne distance pour de nombreuses confidences de femmes à femmes.\nDe Pasc
- ale Moine-Frémy et Jérôme Paquatte\nGenre : comédie sociale\n\n📞 02
-  98 58 60 19
+ ale Moine-Frémy et Jérôme Paquatte\nGenre : comédie sociale
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/theatre-troi
  s-femmes-au-bord-de-la-crise-de-mere-penmarch-fr-5988573/
@@ -1208,7 +1188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988576-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260122T190000
 DTEND:20260122T210000
 SUMMARY:Cirque - Biographies
@@ -1226,7 +1206,7 @@ DESCRIPTION:Cie EA EO / Neta Oren & Pierre Laloge.\nConfidences spectacula
  e vie d’artiste et du temps qui passe. Entre jonglage et poésie urbaine
  \, le duo invente un dialogue captivant et plein d’imagination.\nTexte N
  eta Oren\, Éric Longequel et Pierre Laloge Mise en scène Éric Longequel
-  Jonglage Neta Oren\n\n📞 02 98 58 60 19
+  Jonglage Neta Oren
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cirque-biogr
  aphies-penmarch-fr-5988576/
@@ -1234,7 +1214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988587-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260228T000000
 DTEND:20260301T235959
 SUMMARY:Concert Neodance contest
@@ -1250,8 +1230,7 @@ DESCRIPTION:Neodance contest\nLe Neodance Contest -Édition 2025 est un co
  TION.\n\nLe concours est organisé par Neodance Academy et ses partenaires
   : Atelier danse nastasia \, Centre chorégraphie Duolab \, Danse Erquelin
  nes\, Diamond school\, École de danse\, Sandie Trévien\, Ecole de danse 
- Severine Bonnin\, Freedanse\, Mix dance\, Needs Dance Crew.\n\n📞 02 98 
- 66 00 40
+ Severine Bonnin\, Freedanse\, Mix dance\, Needs Dance Crew.
 CATEGORIES:Danse
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-neod
  ance-contest-pont-labbe-fr-5988587/
@@ -1259,7 +1238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988575-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Humour - Akim Omiri
@@ -1270,8 +1249,7 @@ DESCRIPTION:Dans son deuxième spectacle\, Akim scrute avec sarcasme les q
  istes. Plus qu’un simple divertissement\, ce spectacle s’attaque aux e
  njeux sociaux de fond. Avec un rire libérateur\, Akim ne se contente pas 
  de survoler les sujets \; il sensibilise\, informe et se questionne pour r
- eplacer chaque sujet dans son véritable : Contexte.\n\n📞 02 98 58 60 1
- 9
+ eplacer chaque sujet dans son véritable : Contexte.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/humour-akim-
  omiri-penmarch-fr-5988575/
@@ -1279,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260121T143000
 DTEND:20260121T163000
 SUMMARY:Ciné docs - Irlande\, carrément à l'Ouest
@@ -1299,7 +1277,7 @@ DESCRIPTION:L’Irlande\, c’est avant tout une beauté sauvage\, un roc
  à vélo. Il ira ainsi à la rencontre des Irlandais et aura l’occasion 
  de partager leur quotidien\, de mieux comprendre l’évolution de ce pays
   qu’il fréquente depuis longtemps.\n\nEn présence du réalisateur Jean
- -Luc Diquélou.\n\n📞 02 98 82 83 56
+ -Luc Diquélou.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-ir
  lande-carrement-a-louest-guilvinec-fr-5988583/
@@ -1307,7 +1285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988584-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260107T143000
 DTEND:20260107T163000
 SUMMARY:Ciné docs - Peuples du froid\, Sibérie\, Mongolie\, Himalaya
@@ -1319,7 +1297,7 @@ DESCRIPTION:Nomades Nénètses de Sibérie\, Mongols et Kazakhs d'Asie cen
  ment naturel. Ces peuples ne possèdent pas grand chose mais se sentent li
  bres. Un équilibre précaire néanmoins car leur avenir est gravement men
  acé par les changements climatiques.\n\nEn présence du réalisateur Jacq
- ues Ducoin.\n\n📞 02 98 82 83 56
+ ues Ducoin.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-pe
  uples-du-froid-siberie-mongolie-himalaya-guilvinec-fr-5988584/
@@ -1327,7 +1305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988581-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260325T143000
 DTEND:20260325T163000
 SUMMARY:Ciné docs - Guyane\, une pépite en Amazonie
@@ -1351,7 +1329,7 @@ DESCRIPTION:Dans cette lointaine région d’outre-mer\, nous embarquons p
  fait l’une des régions les plus riches d’Amérique du Sud.\nCe périp
  le est une expédition authentique\, un voyage au cœur d’un territoire 
  préservé et unique au monde.\n\nEn présence du réalisateur Yohann Bric
- het.\n\n📞 02 98 82 83 56
+ het.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-gu
  yane-une-pepite-en-amazonie-guilvinec-fr-5988581/
@@ -1359,7 +1337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988579-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:Ciné docs - Odyslande\, quatre saisons en Islande à vélo
@@ -1375,7 +1353,7 @@ DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
   les baleines à bosses. Mais aussi des islandais qui témoignent de la pa
  ssion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage\,
   fascinant\, rude et beau au fil des quatre saisons.\n\nEn présence du r
- éalisateur Jean-Philippe Bossut.\n\n📞 02 98 82 83 56
+ éalisateur Jean-Philippe Bossut.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-od
  yslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-5988579/
@@ -1383,14 +1361,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5992241-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251219T180000
 DTEND:20251219T200000
 SUMMARY:Soirée philo
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Atelier de philosophie animé par Jean-Yves Boudéhen. \nLa di
  scussion portera sur le thème : Peut-on juger la culture à laquelle nous
-  appartenons ?\n\nOuvert à tous.\n\n📞 02 98 51 90 81
+  appartenons ?\n\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/soiree-philo
  -combrit-fr-5992241/
@@ -1398,7 +1376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994147-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260507T203000
 DTEND:20260507T223000
 SUMMARY:Spectacle - Philippe Manoeuvre
@@ -1409,7 +1387,7 @@ DESCRIPTION:Philippe Manoeuvre\, figure emblématique du journalisme music
  regard\, gouailleur et tendre\, d'un éternel enfant (du rock). De la musi
  que\, de la nostalgie mais jamais poussiéreuse\, de l'émotion. De l'hume
  ur\, de l'humour\, de l’imprévu. Du rock\nSpectacle proposé par l'asso
- ciation GOD SAVE THE KOUIGN\n\n📞 02 98 58 60 19
+ ciation GOD SAVE THE KOUIGN
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-ph
  ilippe-manoeuvre-penmarch-fr-5994147/
@@ -1417,13 +1395,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994189-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T100000
 DTEND:20251206T120000
 SUMMARY:Braderie du Secours Populaire
 LOCATION:165 rue Lucien Le Lay - Penmarch
 DESCRIPTION:Vente de vêtements\, jouets\, meubles\, livres\, vaisselle…
-  Entrée gratuite\, accessible à tous.\n\n📞 06 58 25 94 92
+  Entrée gratuite\, accessible à tous.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/braderie-du-
  secours-populaire-penmarch-fr-5994189/
@@ -1431,7 +1409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6000455-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251204T140000
 DTEND:20251204T160000
 SUMMARY:Atelier créations de Noël avec Sophie Jamelot
@@ -1443,7 +1421,7 @@ DESCRIPTION:L’artiste Sophie Jamelot expose actuellement ses oeuvres dan
  …\n\nCet atelier s’adresse à des adultes et adolescents (à partir de
   14 ans) et ne requière pas de compétences artistiques particulières!\n
  \nMatériel fourni - 8 personnes maximum.\nInscription  sur le site de la 
- librairie.\n\n📞 02 98 59 94 25
+ librairie.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tions-de-noel-avec-sophie-jamelot-guilvinec-fr-6000455/
@@ -1451,7 +1429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015560-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Spectacle - Marion Mezadorian - Craquage
@@ -1464,7 +1442,7 @@ DESCRIPTION:La comédienne revient avec un nouveau spectacle\, rempli d'hu
  n vertige où il perd les\npédales et éprouve l'indéniable plaisir du p
  étage de plombs\, et une furieuse envie\nde DIRE. C'est drôle\, jouissif
  \, sidérant\, émouvant\, et ça nous donnerait presque\nenvie de craquer
-  un peu nous aussi…\n\nRéservation en ligne.\n\n📞 02 98 82 83 56
+  un peu nous aussi…\n\nRéservation en ligne.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-ma
  rion-mezadorian-craquage-guilvinec-fr-6015560/
@@ -1472,7 +1450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015561-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260221T203000
 DTEND:20260221T223000
 SUMMARY:Concert caritatif Association Mamgdala - Les Vrillés
@@ -1484,7 +1462,7 @@ DESCRIPTION:Concert de rock Celtique.\n\n19h : ouverture des portes.\n19h3
  rtifs et solidaires\, principalement des treks et randonnées. Leur object
  if est de partager\, ces instants avec des personnes qui ont été ou sont
   confrontés à la maladie\, au handicap.\n\nRéservation en ligne possibl
- e.\n\n📞 02 98 82 83 56
+ e.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-cari
  tatif-association-mamgdala-les-vrilles-guilvinec-fr-6015561/
@@ -1492,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015574-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260328T200000
 DTEND:20260328T220000
 SUMMARY:Comédie - Sortez moi de là
@@ -1506,7 +1484,7 @@ DESCRIPTION:Quand l'enterrement de vie de jeune fille part en vrille\, les
  s secrets et les non-dits s'en mêlent\, la journée prend une tournure in
  attendue et l'heure des règlements de compte ne tarde pas à sonner...\n\
  nUne comédie rafraîchissante et touchante\, portée par trois femmes ple
- ines d'énergie !\n\nSur réservation en ligne.\n\n📞 02 98 82 83 56
+ ines d'énergie !\n\nSur réservation en ligne.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/comedie-sort
  ez-moi-de-la-guilvinec-fr-6015574/
@@ -1514,7 +1492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015572-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260605T200000
 DTEND:20260605T220000
 SUMMARY:Comédie - L'art du couple
@@ -1529,7 +1507,7 @@ DESCRIPTION:S'aimer c'est facile\, mais se supporter ?\nL'amour est une é
  , drôlerie des situations quotidiennes\, chacun peut se reconnaître (ou 
  reconnaître l'autre\, tout dépend de son degré de mauvaise foi !).\n\nU
  ne comédie pétillante et sexy qui booste votre libido.\n\nSur réservati
- on en ligne.\n\n📞 02 98 82 83 56
+ on en ligne.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/comedie-lart
  -du-couple-guilvinec-fr-6015572/
@@ -1537,7 +1515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021033-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251205T093000
 DTEND:20251205T113000
 SUMMARY:Marche aquatique
@@ -1559,7 +1537,7 @@ DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
  d’exercices physiques et de mouvements de relaxation.\nNous prêtons la 
  combi\, mais il faut des chaussons\, gants et cagoule.\nRendez-vous 30 min
  utes avant le début de la séance.\nSur réservation. Places limitées à
-  20 personnes.\n\n📞 02 98 87 89 43
+  20 personnes.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-aquat
  ique-plobannalec-lesconil-fr-6021033/
@@ -1567,7 +1545,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021031-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T103000
 DTEND:20251206T123000
 SUMMARY:Marche aquatique
@@ -1589,7 +1567,7 @@ DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
  d’exercices physiques et de mouvements de relaxation.\nNous prêtons la 
  combi\, mais il faut des chaussons\, gants et cagoule.\nRendez-vous 30 min
  utes avant le début de la séance.\nSur réservation. Places limitées à
-  20 personnes.\n\n📞 02 98 87 89 43
+  20 personnes.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-aquat
  ique-plobannalec-lesconil-fr-6021031/
@@ -1597,7 +1575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021012-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251203T150000
 DTEND:20251203T170000
 SUMMARY:Atelier en famille :  Fabrication d’un savon de Noël avec Delph
@@ -1605,7 +1583,7 @@ SUMMARY:Atelier en famille :  Fabrication d’un savon de Noël avec Delph
 LOCATION:37 Lieu-dit Mesmeur - Pouldreuzic
 DESCRIPTION:Lors de cet atelier d’une heure\, les enfants apprendront à
   fabriquer un savon (sans soude) adapté à leurs besoins.\n A partir de 6
-  ans avec la présence obligatoire d’un adulte.\n\n📞 02 98 54 41 86
+  ans avec la présence obligatoire d’un adulte.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-en-f
  amille-fabrication-dun-savon-de-noel-avec-delphine-de-bulles-de-roses-poul
@@ -1614,7 +1592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6021030-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251212T160000
 DTEND:20251212T180000
 SUMMARY:Marche aquatique
@@ -1636,7 +1614,7 @@ DESCRIPTION:Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une s
  d’exercices physiques et de mouvements de relaxation.\nNous prêtons la 
  combi\, mais il faut des chaussons\, gants et cagoule.\nRendez-vous 30 min
  utes avant le début de la séance.\nSur réservation. Places limitées à
-  20 personnes.\n\n📞 02 98 87 89 43
+  20 personnes.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-aquat
  ique-plobannalec-lesconil-fr-6021030/
@@ -1644,13 +1622,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031550-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260522T000000
 DTEND:20260523T235959
 SUMMARY:Courts Of Chaos Festival - Heavy metal
 LOCATION:39 bis Avenue Georges Le Bail - Plozévet
 DESCRIPTION:Pour découvrir ou redécouvrir des genres musicaux cathartiqu
- es en diable de France et d'ailleurs !\n\n📞 06 86 23 56 26
+ es en diable de France et d'ailleurs !
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/courts-of-ch
  aos-festival-heavy-metal-plozevet-fr-6031550/
@@ -1658,14 +1636,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031545-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T090000
 DTEND:20251207T110000
 SUMMARY:Troc et puces du collège Notre Dame De Penhors
 LOCATION:Hent Kreisker - Pouldreuzic
 DESCRIPTION:C'est le bon moment pour faire des bonnes affaires !\nBuvette 
- et restauration sur place.\nGratuit moins de 12 ans.\n\n📞 06 68 81 55 7
- 6
+ et restauration sur place.\nGratuit moins de 12 ans.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/troc-et-puce
  s-du-college-notre-dame-de-penhors-pouldreuzic-fr-6031545/
@@ -1673,12 +1650,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031547-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Avant premiére : Warm up Courts Of Chaos Festival
 LOCATION:39 bis Avenue Georges Le Bail - Plozévet
-DESCRIPTION:Concerts de Heavy Métal\n\n📞 06 86 23 56 26
+DESCRIPTION:Concerts de Heavy Métal
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/avant-premie
  re-warm-up-courts-of-chaos-festival-plozevet-fr-6031547/
@@ -1686,7 +1663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6033985-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T000000
 DTEND:20251207T235959
 SUMMARY:Marché de Noël
@@ -1702,7 +1679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6034017-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260227T170000
 DTEND:20260228T235959
 SUMMARY:Shaker Fest - Nouvelle Orléans des années 20
@@ -1717,13 +1694,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6039198-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T100000
 DTEND:20251213T120000
 SUMMARY:Matinée jeux de société
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Matinée jeux de société ouverte à tous. \n\nEntrée libre.
- \n\n📞 02 98 51 90 81
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/matinee-jeux
  -de-societe-combrit-fr-6039198/
@@ -1731,14 +1707,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044522-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Jazz In Loc - Master class pour enfants
 LOCATION:21 Rue du Phare - Loctudy
 DESCRIPTION:Aurélien initiera à nouveau les plus jeunes aux claquettes e
- t au charleston dans une ambiance années folles pendant une matinée.\n\n
- 📞 02 98 82 37 99
+ t au charleston dans une ambiance années folles pendant une matinée.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/jazz-in-loc-
  master-class-pour-enfants-loctudy-fr-6044522/
@@ -1746,7 +1721,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044528-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260806T000000
 DTEND:20260806T235959
 SUMMARY:Concert - Jazz In Loc
@@ -1754,7 +1729,7 @@ LOCATION:Manoir de Kervereguen - Loctudy
 DESCRIPTION:Aurélien Lehmann présentera son tout nouveau spectacle\, une
   comédie musicale endiablée qui traverse les années folles de Paris à 
  Harlem aux rythmes de Jelly Roll Morton\, Duke Ellington\, Cole Porter\, G
- eorge Gershwin ou encore Count Basie.\n\n📞 02 98 82 37 99
+ eorge Gershwin ou encore Count Basie.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-jazz
  -in-loc-loctudy-fr-6044528/
@@ -1762,7 +1737,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044526-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Concert - Jazz In Loc
@@ -1771,7 +1746,7 @@ DESCRIPTION:Émilie Hédou et le Soul Serenade\, c’est un formidable bai
  n d’optimisme et de fraîcheur qui revisiteront les grands classiques d
  e la Soul et du Rhythm & Blues (Otis Redding\, Aretha Franklin\, Sam Cooke
  …) pour une soirée de ferveur et de joie partagée dans ce lieu magique
- .\n\n📞 02 98 82 37 99
+ .
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-jazz
  -in-loc-loctudy-fr-6044526/
@@ -1779,14 +1754,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044536-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T100000
 DTEND:20251206T120000
 SUMMARY:Vente de livres
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Livres de poche\, romans\, bd\, romans policiers et littératu
  re jeunesse seront mis en vente à petits prix.\n\nOrganisée par la médi
- athèque.\n\n📞 02 98 51 90 81
+ athèque.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/vente-de-liv
  res-combrit-fr-6044536/
@@ -1794,13 +1769,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6045460-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260412T090000
 DTEND:20260412T110000
 SUMMARY:Vide jardin de printemps
 LOCATION:Rue de l'Ecole - Tréméoc
 DESCRIPTION:L’association « Loisirs pour tous » organise son vide jard
- in à la salle omnisport de Tréméoc.\n\n📞 06 81 55 88 86
+ in à la salle omnisport de Tréméoc.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/vide-jardin-
  de-printemps-tremeoc-fr-6045460/
@@ -1808,7 +1783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772809-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260621T090000
 DTEND:20260621T110000
 SUMMARY:Rando des bois
@@ -1823,8 +1798,7 @@ DESCRIPTION:Le comité de Sauvegarde de la chapelle Saint-Ronan organise d
  confirmer\n\nAnimations gratuites :\n•	Fabrication de pain et riz au lai
  t sur place\n•	Exposition de véhicules anciens toute la journée\n•	A
  nimations musicales l’après-midi\n•	Espace enfants (jeux\, pêche à 
- la ligne\, etc)\n•	Autres animations (informations à venir)\n\n📞 06 
- 52 62 10 34
+ la ligne\, etc)\n•	Autres animations (informations à venir)
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rando-des-bo
  is-plozevet-fr-5772809/
@@ -1832,13 +1806,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6049334-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260920T090000
 DTEND:20260920T110000
 SUMMARY:Salon Bigouden du Disque
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
-DESCRIPTION:le Rdv des passionnés de disque! Porgramme à venir.\n\n📞 
- 06 75 36 49 62
+DESCRIPTION:le Rdv des passionnés de disque! Porgramme à venir.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/salon-bigoud
  en-du-disque-pont-labbe-fr-6049334/
@@ -1846,7 +1819,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061302-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251216T200000
 DTEND:20251216T220000
 SUMMARY:Ensemble Matheus - Les maîtres du baroque
@@ -1856,7 +1829,7 @@ DESCRIPTION:L’Ensemble Matheus\, dirigé par le chef d'orchestre Jean-Ch
  découverte : " Les Maîtres du baroque "\, avec des œuvre de Bach\, Tele
  mann\, Vivaldi.\n\nEn présence du  chef\, trois violons\, alto\, violonce
  lle\, contrebasse\, luth\, flûte à bec\, traverso.\n\nBilletterie en lig
- ne.\n\n📞 02 98 91 38 07
+ ne.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/ensemble-mat
  heus-les-maitres-du-baroque-plozevet-fr-6061302/
@@ -1864,7 +1837,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061324-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T100000
 DTEND:20251206T120000
 SUMMARY:Fête de Noël
@@ -1873,8 +1846,7 @@ DESCRIPTION:Fête de Noël dans un lieu atypique avec la présence d'artis
  ans et d'associations locaux. \nVenez découvrir la magie de Noël dans ce
   lieu chargé d'histoire.\nAu programme : \n- Maquillage et pêche à la l
  igne \n- Tombola gratuite des artisans \n- Kouign et buvette avec vin chau
- d\n\n\n\nOrganisé par le comité d'animation du Guilvinec\n\n📞 06 63 9
- 2 40 23
+ d\n\n\n\nOrganisé par le comité d'animation du Guilvinec
 CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/fete-de-noel
  -guilvinec-fr-6061324/
@@ -1882,7 +1854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061298-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260117T140000
 DTEND:20260117T160000
 SUMMARY:Finsit'aire de jeux
@@ -1897,7 +1869,7 @@ DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
  ts !)\nLes festivaliers pourront aussi voter pour le prix des Z’illus\, 
  qui récompense le plus beau jeu de l’année.\n\nL’équipe de Finist
  ’aire de jeux vous attend nombreuses et nombreux !\n\nRestauration et bu
- vette sur place.\n\n📞 02 98 82 66 00
+ vette sur place.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/finsitaire-d
  e-jeux-ploneour-lanvern-fr-6061298/
@@ -1905,7 +1877,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061298-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260118T100000
 DTEND:20260118T120000
 SUMMARY:Finsit'aire de jeux
@@ -1920,7 +1892,7 @@ DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
  ts !)\nLes festivaliers pourront aussi voter pour le prix des Z’illus\, 
  qui récompense le plus beau jeu de l’année.\n\nL’équipe de Finist
  ’aire de jeux vous attend nombreuses et nombreux !\n\nRestauration et bu
- vette sur place.\n\n📞 02 98 82 66 00
+ vette sur place.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/finsitaire-d
  e-jeux-ploneour-lanvern-fr-6061298/
@@ -1928,7 +1900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6069754-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T133000
 DTEND:20251213T153000
 SUMMARY:Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12è
@@ -1938,7 +1910,7 @@ DESCRIPTION:Un moment idéal pour découvrir l'univers des 30 artistes pr
  ésents et échanger avec eux autour de leur art et leurs créations. Atel
  iers d'arts et salon de thé. Une mine d'or pour trouver des idées cadeau
  x pour les fêtes pour faire plaisir ou se faire plaisir !\n\nAnimations e
- nfants\, petite restauration.\n\n📞 06 29 07 91 24
+ nfants\, petite restauration.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rendez-vous-
  dhiver-salon-de-createurs-et-artisans-dart-12eme-edition-guilvinec-fr-6069
@@ -1947,7 +1919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6069754-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T100000
 DTEND:20251214T120000
 SUMMARY:Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12è
@@ -1957,7 +1929,7 @@ DESCRIPTION:Un moment idéal pour découvrir l'univers des 30 artistes pr
  ésents et échanger avec eux autour de leur art et leurs créations. Atel
  iers d'arts et salon de thé. Une mine d'or pour trouver des idées cadeau
  x pour les fêtes pour faire plaisir ou se faire plaisir !\n\nAnimations e
- nfants\, petite restauration.\n\n📞 06 29 07 91 24
+ nfants\, petite restauration.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rendez-vous-
  dhiver-salon-de-createurs-et-artisans-dart-12eme-edition-guilvinec-fr-6069
@@ -1966,7 +1938,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6071903-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260214T200000
 DTEND:20260214T220000
 SUMMARY:Humour - Yann Guillarme - LIBRE
@@ -1983,8 +1955,7 @@ DESCRIPTION:Libre *\nAdjectif. Se dit d’une personne qui a le pouvoir\,
  paradoxes\, libre de vous les livrer sur scène\, Libre à vous de les pre
  ndre… (prenez les je souhaite devenir riche assez vite)\nAlors\, venez\,
   viens\, venons libre comme on est\, libre tant qu'on est vivant\, libre t
- ant qu'on peut aimer\, déconner et  rire.\n \n\nRéservation en ligne.\n\
- n📞 02 98 82 83 56
+ ant qu'on peut aimer\, déconner et  rire.\n \n\nRéservation en ligne.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/humour-yann-
  guillarme-libre-guilvinec-fr-6071903/
@@ -1992,7 +1963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6076318-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251204T180000
 DTEND:20251204T200000
 SUMMARY:Générations numériques : Information\, fake news et théorie du
@@ -2002,7 +1973,7 @@ DESCRIPTION:Dans une période de défiance médiatique accrue\, comment ac
  compagner les jeunes et développer leur discernement et esprit critique ?
  \nAtelier ludique\, animé par l’association Synapses.\nAtelier ouvert 
  à tous – conseillé aux parents accompagnés ou pas de leurs adolescent
- s\n\n📞 02 98 54 49 04
+ s
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/generations-
  numeriques-information-fake-news-et-theorie-du-complot-peumerit-fr-6076318
@@ -2011,7 +1982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6077971-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251203T170000
 DTEND:20251203T190000
 SUMMARY:Spectacle SOURIS ! Par la Cie Toutito Treatro
@@ -2019,8 +1990,7 @@ LOCATION:39 bis Avenue Georges le Bail - Plozévet
 DESCRIPTION:Rendez-vous pour un spectacle familial dès 4 ans par la Cie T
  outito Treatro . En théâtre gestuel et visuel\, découvrez avec tendress
  e et humour la perte de la première dent de lait : curiosité\, aventure 
- et poésie. Un moment doux à partager et magique à partager en famille.\
- n\n📞 02 98 54 49 09
+ et poésie. Un moment doux à partager et magique à partager en famille.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-so
  uris-par-la-cie-toutito-treatro-plozevet-fr-6077971/
@@ -2028,13 +1998,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6077958-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251219T170000
 DTEND:20251219T190000
 SUMMARY:Marché de Noël à Trevannec
 LOCATION:Chemin de Trevannec - Pont-l'Abbé
 DESCRIPTION:Marché de créateurs et d'artisans locaux avec musique concer
- t au coin du feu\, crêpes et planches apéro.\n\n📞 06 61 26 02 85
+ t au coin du feu\, crêpes et planches apéro.
 CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-de-no
  el-a-trevannec-pont-labbe-fr-6077958/
@@ -2042,7 +2012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260512T194200
 DTEND:20260512T214200
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -2078,7 +2048,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079918-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T160000
 DTEND:20251213T180000
 SUMMARY:Concert du groupe vocal Jack et les Anémones
@@ -2099,7 +2069,7 @@ DESCRIPTION:Jack et les Anémones est un groupe vocal créé en pays Bigou
   participant(e) ayant la possibilité de chanter tantôt en lead\, tantôt
   en choeur. Les arrangements sont originaux et personnalisés\, et la pré
  sentation dynamique.\n\nNombre de places limité - Sur réservation  - lib
- re participation\n\n📞 02 98 58 62 31
+ re participation
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-du-g
  roupe-vocal-jack-et-les-anemones-penmarch-fr-6079918/
@@ -2107,13 +2077,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079926-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260106T143000
 DTEND:20260106T163000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.\n\n📞 02 98 51 90 81
+  littéraires.\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
  age-combrit-fr-6079926/
@@ -2121,14 +2091,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079930-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260103T090000
 DTEND:20260103T110000
 SUMMARY:Repair café
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:Venez apprendre à réparer et à entretenir votre vélo et le
   petit matériel électroménager lors du Repair Café\, animé par la ré
- serve civique communale.\n\n📞 02 98 56 33 14
+ serve civique communale.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/repair-cafe-
  combrit-fr-6079930/
@@ -2136,7 +2106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260512T205300
 DTEND:20260512T225300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -2172,7 +2142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260512T192300
 DTEND:20260512T212300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -2208,7 +2178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260512T211700
 DTEND:20260512T231700
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -2244,7 +2214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260512T202000
 DTEND:20260512T222000
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -2280,7 +2250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6086716-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260228T203000
 DTEND:20260228T223000
 SUMMARY:Comédie - Vive Bouchon !
@@ -2295,7 +2265,7 @@ DESCRIPTION:La troupe de théatre "Six Pieds sur Scène" présente une nou
  entraîner les Bouchonnais dans une désopilante aventure\nde Bruxelles à
   New York ! Leur monde est fou\, fou\, fou !!!\n\nUne comédie de Jean Del
  l et Gérald Sibleyras\n\nVente sur place les vendredi 20 et 27 Février d
- e 13h30 à 17h et le jour du spectacle.\n\n📞 06.70.46.10.98
+ e 13h30 à 17h et le jour du spectacle.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/comedie-vive
  -bouchon-guilvinec-fr-6086716/
@@ -2303,7 +2273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087333-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251212T163000
 DTEND:20251212T183000
 SUMMARY:Marché de Noël de l'Ecole Notre Dame de Lorette
@@ -2323,7 +2293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20261121T203000
 DTEND:20261121T223000
 SUMMARY:Concert - The Stranglers
@@ -2345,7 +2315,7 @@ DESCRIPTION:Le groupe mythique THE STRANGLERS\, revient à Cap Caval pour
  \, This Song (2021)\, La folie (1981)\, Golden Brown (1981)\, The Last Men
   on the Moon (2021)\, Peaches (1977) And If you should see (2021) Always t
  he Sun (1986)\, (Get a) Grip (on Yourself) (1977)\, Walk On By (1978)\, et
- c\n\n📞 02 98 58 60 19
+ c
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-the-
  stranglers-penmarch-fr-6087357/
@@ -2353,7 +2323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090921-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260612T170000
 DTEND:20260614T235959
 SUMMARY:Festival God Save The Kouign Vol.7
@@ -2364,7 +2334,7 @@ DESCRIPTION:À l’affiche de cette 7ème édition : annonce de la program
  ie de Penmarc’h\, See Tickets et à la Fnac (avec frais de location)\, d
  ans les bars Le Doris à Kérity Penmarc’h\, Chez Bruno au bourg de Penm
  arc’h\, à La Mars à Pont-l’Abbé\, au Bana à Plobannalec et au Yack
- a à Plonéour-Lanvern\n\n📞 02 98 58 60 19
+ a à Plonéour-Lanvern
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/festival-god
  -save-the-kouign-vol-7-penmarch-fr-6090921/
@@ -2372,7 +2342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251221T150000
 DTEND:20251221T170000
 SUMMARY:Concert de Noël - Bombarde chants et orgue
@@ -2397,14 +2367,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091420-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260118T093000
 DTEND:20260125T235959
 SUMMARY:Stage de vannerie
 LOCATION:113 Rue Lucien le Lay - Penmarch
 DESCRIPTION:Réalisation d’un objet vannerie en rotin. Les fournitures s
  ont comprises. Le stage est organisé par l’association penmarc’haise 
- Un brin bigoud.\n\n📞 06 84 01 63 69
+ Un brin bigoud.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/stage-de-van
  nerie-penmarch-fr-6091420/
@@ -2412,14 +2382,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6091394-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251218T093000
 DTEND:20251218T113000
 SUMMARY:Stage de vannerie
 LOCATION:113 Rue Lucien le Lay - Penmarch
 DESCRIPTION:Réalisation d’un objet vannerie en rotin. Les fournitures s
  ont comprises. Le stage est organisé par l’association penmarc’haise 
- Un brin bigoud.\n\n📞 06 84 01 63 69
+ Un brin bigoud.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/stage-de-van
  nerie-penmarch-fr-6091394/
@@ -2427,7 +2397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6093370-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T183000
 DTEND:20251220T203000
 SUMMARY:Concert - Chorale Da Capo
@@ -2435,7 +2405,7 @@ LOCATION:Le Bourg - Guilvinec
 DESCRIPTION:La chorale Da Capo interprétera un florilège de chants de No
  êl et de chants sacrés de tous pays.\n\nDirection : Serge MEDOT\nPianist
  e : Zéphyrin CAUSIN\nSoliste : Franck BOUTELEUX\n\nParticipation libre au
-  profit de la SNSM\n\n📞 06 06 66 67 40
+  profit de la SNSM
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-chor
  ale-da-capo-guilvinec-fr-6093370/
@@ -2443,7 +2413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6096311-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T200000
 DTEND:20251220T220000
 SUMMARY:Concert avec le duo Hoboes
@@ -2451,8 +2421,7 @@ LOCATION:9 Rue de Pont l'Abbé - Pouldreuzic
 DESCRIPTION:Le duo Hoboes (folk\, blues et country traditionnelle) vous pr
  opose un vagabondage musical le long des voies ferrées des USA dans les p
  as de Nanci Griffith\, Joan Baez\, Woody et Arlo guthrie et de tous ces so
- ngwriters qui nous ont fait rêver.\n\nPetite restauration sur place\n\n
- 📞 06 80 55 36 37
+ ngwriters qui nous ont fait rêver.\n\nPetite restauration sur place
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-avec
  -le-duo-hoboes-pouldreuzic-fr-6096311/
@@ -2460,14 +2429,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6101836-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T190000
 DTEND:20251213T210000
 SUMMARY:concert - 120 ans de la Laïcité
 LOCATION:Rue Jules Ferry - Pont-l'Abbé
 DESCRIPTION:Pour fêter les 120 ans de la Laïcité\, concert organisé av
  ec les groupes Kind of weird (Rock/fusion) et Elo de lu (Electro)\n\nOrgan
- isé par l'Amicale Laïque de Pont-l'Abbé\n\n📞 02 98 87 39 69
+ isé par l'Amicale Laïque de Pont-l'Abbé
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-120-
  ans-de-la-laicite-pont-labbe-fr-6101836/
@@ -2475,7 +2444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6101840-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T193000
 DTEND:20251206T213000
 SUMMARY:Telethon - Grande soirée diner cabaret
@@ -2485,7 +2454,7 @@ DESCRIPTION:Au profit du TELETHON .\nVenez passer une bonne soirée tout e
  leux de chapon / pommes salardaises\nCharlotte aux fraises\nApéritif et c
  afé offerts\n\nAnimé par l'association Ar Vaskodenn de l'Île-Tudy\n\nR
  éservation avant le 28 Novembre par téléphone\n\nSoirée organisée par
-  Force T\n\n📞 06 06 48 68 41
+  Force T
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-gra
  nde-soiree-diner-cabaret-pont-labbe-fr-6101840/
@@ -2493,13 +2462,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260919T140000
 DTEND:20260920T235959
 SUMMARY:Festival au pré
 LOCATION:Lieu-dit Saint-Germain - Plogastel-Saint-Germain
-DESCRIPTION:Festival qui mêle patrimoine et culture.\nProgramme à venir\
- n\n📞 06 45 63 91 28
+DESCRIPTION:Festival qui mêle patrimoine et culture.\nProgramme à venir
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/festival-au-
  pre-plogastel-saint-germain-fr-5772897/
@@ -2507,7 +2475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125003-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T090000
 DTEND:20251207T110000
 SUMMARY:Marché de Noël
@@ -2527,7 +2495,7 @@ DESCRIPTION:Une quarantaine d’artisans\, commerçants et associations so
  s\, les visiteurs pourront déjeuner sur place.\n\nLe Père Noël nous fer
  a l’honneur de passer la journée à Penmarc’h ! À 15h30\, place à l
  a musique avec le bagad an Dreizherien\, qui apportera une touche bretonne
-  festive et entraînante.\n\n📞 02 98 58 60 19
+  festive et entraînante.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-de-no
  el-penmarch-fr-6125003/
@@ -2535,7 +2503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125004-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T103000
 DTEND:20251207T123000
 SUMMARY:Marché de Noël des petits lutins
@@ -2558,7 +2526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125005-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T170000
 DTEND:20251206T190000
 SUMMARY:Conférence médicale - Les pathologies digestives hautes - Dr Kam
@@ -2566,8 +2534,7 @@ SUMMARY:Conférence médicale - Les pathologies digestives hautes - Dr Kam
 LOCATION:13 rue Principale - Île-Tudy
 DESCRIPTION:Conférence médicale par le Dr Kamal Gergès\, chirurgien : l
  es pathologies digestives hautes (œsophage\, estomac\, reflux gastro-œso
- phagien).\n\nOrganisée par l'association L'île aux idées.\n\n📞 06 10
-  15 69 03
+ phagien).\n\nOrganisée par l'association L'île aux idées.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/conference-m
  edicale-les-pathologies-digestives-hautes-dr-kamal-gerges-ile-tudy-fr-6125
@@ -2576,7 +2543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125006-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T163000
 DTEND:20251214T183000
 SUMMARY:Concert - Chorale Kanerien Kergoz
@@ -2592,7 +2559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125008-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251231T140000
 DTEND:20251231T160000
 SUMMARY:Atelier nature du Nouvel An
@@ -2604,7 +2571,7 @@ DESCRIPTION:Quoi de mieux qu’un bol d’air en famille\, autour de la Ma
  nt inventés\, en ce temps où le Père Noël était moins généreux qu
  ’aujourd’hui. Les cadeaux que la nature nous offre sont partout ! Il s
  uffit d’ouvrir les yeux et les oreilles !\n\nInscription préalable indi
- spensable par téléphone.\n\n📞 07 88 09 14 01
+ spensable par téléphone.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-natu
  re-du-nouvel-an-treguennec-fr-6125008/
@@ -2612,7 +2579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125010-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T140000
 DTEND:20251223T160000
 SUMMARY:Atelier nature de Noël
@@ -2624,7 +2591,7 @@ DESCRIPTION:Quoi de mieux qu’un bol d’air en famille\, autour de Maiso
  es ont inventés\, en ce temps où le Père Noël était moins généreux 
  qu’aujourd’hui. Les cadeaux que la nature nous offre sont partout ! Il
   suffit d’ouvrir les yeux et les oreilles !\n\nInscription préalable in
- dispensable par téléphone.\n\n📞 07 88 09 14 01
+ dispensable par téléphone.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-natu
  re-de-noel-treguennec-fr-6125010/
@@ -2632,7 +2599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125009-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251229T100000
 DTEND:20251229T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
@@ -2642,7 +2609,6 @@ DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
  ais de techniques ancestrales de vannerie et de l’osier (un matériau lo
  cal et renouvelable !) Une manière concrète de questionner notre rapport
   à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.
- \n\n📞 07 88 09 14 01
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-natu
  re-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125009/
@@ -2650,7 +2616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125011-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251231T100000
 DTEND:20251231T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
@@ -2660,7 +2626,6 @@ DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
  ais de techniques ancestrales de vannerie et de l’osier (un matériau lo
  cal et renouvelable !) Une manière concrète de questionner notre rapport
   à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.
- \n\n📞 07 88 09 14 01
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-natu
  re-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125011/
@@ -2668,7 +2633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125012-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260102T200000
 DTEND:20260102T220000
 SUMMARY:Balade nature - Au clair de lune autour de Tronoën
@@ -2684,7 +2649,7 @@ DESCRIPTION:En marchant le soir au clair de lune\, les paysages de la palu
  océan. \nCe souffle réveillera sûrement de vielles légendes enfouies d
  ans cette mystérieuse palud\, si ce n’est au fond de votre cœur…\n\n
  Prévoir des vêtements chauds et une lampe.\nInscription indispensable pa
- r téléphone.\n\n📞 07 88 09 14 01
+ r téléphone.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/balade-natur
  e-au-clair-de-lune-autour-de-tronoen-saint-jean-trolimon-fr-6125012/
@@ -2692,7 +2657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125013-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251230T100000
 DTEND:20251230T120000
 SUMMARY:Atelier nature participatif - Tressage d'une nouvelle cabane
@@ -2702,7 +2667,6 @@ DESCRIPTION:Sur le sentier situé le long de l’étang de Saint-Vio \, l
  ais de techniques ancestrales de vannerie et de l’osier (un matériau lo
  cal et renouvelable !) Une manière concrète de questionner notre rapport
   à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.
- \n\n📞 07 88 09 14 01
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-natu
  re-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125013/
@@ -2710,7 +2674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125014-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T110000
 DTEND:20251223T130000
 SUMMARY:Atelier créatif de Noël - 6/10 ans
@@ -2718,7 +2682,7 @@ LOCATION:8 impasse du Nord - Loctudy
 DESCRIPTION:Pendant les vacances scolaires\, nous proposons à vos enfants
   de découvrir le musée accompagnés d’une médiatrice culturelle par l
  e biais d'un atelier créatif pour fabriquer une carte de Noël.\n\nJauge 
- limitée\, réservation obligatoire.\n\n📞 02 98 98 83 99
+ limitée\, réservation obligatoire.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-crea
  tif-de-noel-6-10-ans-loctudy-fr-6125014/
@@ -2726,7 +2690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125015-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251224T110000
 DTEND:20251224T130000
 SUMMARY:Visite sensorielle - 3/6 ans
@@ -2738,7 +2702,7 @@ DESCRIPTION:Pendant les vacances scolaires\, nous proposons à vos enfants
  lle est sensible aux bruits\, aux couleurs et aux odeurs. Ouvre bien tes o
  reilles\, tes yeux et tes narines pour découvrir ce qu’entendait\, voya
  it et sentait Pola dans sa vie quotidienne auprès des Le Gall.\n\nRéserv
- ation obligatoire\n\n📞 02 98 98 83 99
+ ation obligatoire
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/visite-senso
  rielle-3-6-ans-loctudy-fr-6125015/
@@ -2746,13 +2710,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125016-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251226T110000
 DTEND:20251226T130000
 SUMMARY:Animation jeux de société
 LOCATION:8 impasse du Nord - Loctudy
 DESCRIPTION:Pour les enfants et adultes de 4 à 99 ans !\nGratuit - Sur in
- scription.\n\n📞 02 98 98 83 99
+ scription.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/animation-je
  ux-de-societe-loctudy-fr-6125016/
@@ -2760,7 +2724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125018-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:TEST 2 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
@@ -2777,7 +2741,7 @@ DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
   les baleines à bosses. Mais aussi des islandais qui témoignent de la pa
  ssion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage\,
   fascinant\, rude et beau au fil des quatre saisons.\n\nEn présence du r
- éalisateur Jean-Philippe Bossut.\n\n📞 02 98 82 83 56
+ éalisateur Jean-Philippe Bossut.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/test-2-cine-
  docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125018/
@@ -2785,7 +2749,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:TEST- Ciné docs - Odyslande\, quatre saisons en Islande à vélo
@@ -2801,7 +2765,7 @@ DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
   les baleines à bosses. Mais aussi des islandais qui témoignent de la pa
  ssion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage\,
   fascinant\, rude et beau au fil des quatre saisons.\n\nEn présence du r
- éalisateur Jean-Philippe Bossut.\n\n📞 02 98 82 83 56
+ éalisateur Jean-Philippe Bossut.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/test-cine-do
  cs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125019/
@@ -2809,7 +2773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125020-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260408T143000
 DTEND:20260410T235959
 SUMMARY:TEST 3 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
@@ -2826,7 +2790,7 @@ DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
   les baleines à bosses. Mais aussi des islandais qui témoignent de la pa
  ssion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage\,
   fascinant\, rude et beau au fil des quatre saisons.\n\nEn présence du r
- éalisateur Jean-Philippe Bossut.\n\n📞 02 98 82 83 56
+ éalisateur Jean-Philippe Bossut.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/test-3-cine-
  docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125020/
@@ -2834,7 +2798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125020-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:TEST 3 - Ciné docs - Odyslande\, quatre saisons en Islande à vé
@@ -2851,7 +2815,7 @@ DESCRIPTION:« Nous rêvons tous de parcourir la planète terre\, mais pou
   les baleines à bosses. Mais aussi des islandais qui témoignent de la pa
  ssion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage\,
   fascinant\, rude et beau au fil des quatre saisons.\n\nEn présence du r
- éalisateur Jean-Philippe Bossut.\n\n📞 02 98 82 83 56
+ éalisateur Jean-Philippe Bossut.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/test-3-cine-
  docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125020/
@@ -2859,7 +2823,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T090000
 DTEND:20251223T110000
 SUMMARY:Les rendez-vous nature - Initiation au monde des oiseaux
@@ -2871,7 +2835,7 @@ DESCRIPTION:Découverte de nids d’oiseaux suivie d'une balade dans le bo
  accueil d’oiseaux ayant fait le voyage depuis le nord de l’Europe.\nDi
  stance : 3 km\nSorties et ateliers susceptibles d'être annulés en cas d'
  intempéries.\nMerci de préparer l'appoint pour le règlement des activit
- és.\n\nOrganisé par la CCPBS\n\n📞 07 88 09 14 01
+ és.\n\nOrganisé par la CCPBS
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/les-rendez-v
  ous-nature-initiation-au-monde-des-oiseaux-pont-labbe-fr-6125021/
@@ -2879,7 +2843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125022-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T140000
 DTEND:20251223T160000
 SUMMARY:Les rendez-vous nature - Initiation au monde des oiseaux
@@ -2891,7 +2855,7 @@ DESCRIPTION:Découverte de nids d’oiseaux suivie d'une balade dans le bo
  accueil d’oiseaux ayant fait le voyage depuis le nord de l’Europe.\nDi
  stance : 3 km\nSorties et ateliers susceptibles d'être annulés en cas d'
  intempéries.\nMerci de préparer l'appoint pour le règlement des activit
- és.\n\nOrganisé par la CCPBS\n\n📞 07 88 09 14 01
+ és.\n\nOrganisé par la CCPBS
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/les-rendez-v
  ous-nature-initiation-au-monde-des-oiseaux-pont-labbe-fr-6125022/
@@ -2899,14 +2863,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T100000
 DTEND:20251214T120000
 SUMMARY:Marché de Noël
 LOCATION:13 rue Principale - Île-Tudy
 DESCRIPTION:Nombreux exposants\, petite restauration (crêpes\, kouigns & 
- vin chaud).\n\nOrganisé par l'association Un Horizon d'Espoir.\n\n📞 06
-  63 56 66 88
+ vin chaud).\n\nOrganisé par l'association Un Horizon d'Espoir.
 CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/marche-de-no
  el-ile-tudy-fr-6125023/
@@ -2914,7 +2877,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260801T140000
 DTEND:20260801T160000
 SUMMARY:La Balade des Arts - Promenade artistique
@@ -2930,7 +2893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260802T100000
 DTEND:20260802T120000
 SUMMARY:La Balade des Arts - Promenade artistique
@@ -2946,7 +2909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125025-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251205T100000
 DTEND:20251205T120000
 SUMMARY:Atelier - Mon Post -Partum sur l'allaitement
@@ -2970,7 +2933,7 @@ DESCRIPTION:Thème du jour : «L’allaitement : se préparer\, s’écout
  e relaxation et d’échanges\n\nÀ la fin de l'atelier\, nous vous transm
  ettrons un livret PDF avec des ressources pour aborder le mieux possible c
  ette période de post-partum : lectures\, coordonnées utiles\, recettes\,
-  etc.\n\n📞 06 35 24 71 81
+  etc.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-mon-
  post-partum-sur-lallaitement-ploneour-lanvern-fr-6125025/
@@ -2978,7 +2941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125027-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T100000
 DTEND:20251213T120000
 SUMMARY:Marché de Noël
@@ -2994,7 +2957,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125028-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T090000
 DTEND:20251206T110000
 SUMMARY:Téléthon - Activités sportives
@@ -3012,7 +2975,7 @@ DESCRIPTION:De Combrit à Pont-l’Abbé\, à  pied ou à vélo… Ensembl
   gagner !\nPot de l'amitié offert par la commune de Combrit.\nNavette ret
  our offerte avec les autocars Le Cœur à 12h45 ou 14h30 (transport des sa
  cs et retour des vélos assurés).\n\nLes participants sont tenus de respe
- cter le code de la route.\n\n📞 07 64 01 81 90
+ cter le code de la route.
 CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-act
  ivites-sportives-combrit-fr-6125028/
@@ -3020,7 +2983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125029-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T100000
 DTEND:20251214T120000
 SUMMARY:Noël à Tréméoc
@@ -3034,7 +2997,7 @@ DESCRIPTION:Rendez-vous pour une grande journée festive pleine de surpris
  ux\, jouets et livres au profit du Secours populaire de Pont-l'Abbé.\n \n
  Gaufres\, kouigns\, barbe à papa\, buvette (apportez votre gobelet).\n\nL
  e Père Noël fera son entrée à 11h pour  pour offrir des chocolats aux 
- enfants : un moment à ne pas manquer !\n\n📞 02 98 87 08 06
+ enfants : un moment à ne pas manquer !
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/noel-a-treme
  oc-tremeoc-fr-6125029/
@@ -3042,7 +3005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125032-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T090000
 DTEND:20251207T110000
 SUMMARY:Arrivée du Père Noël à Penmarc'h
@@ -3053,7 +3016,7 @@ DESCRIPTION:45 échoppes de Noël dont 40 artisans locaux proposeront des
  és localement\, un circuit court pour le père Noël qui sera présent de
   9h à 18h afin de poser avec les enfants sur son trône. Deux Food Trucks
   seront présents sur l'esplanade. \nPrésence du Bagad An Dreizherien à 
- 15h30.\n\n📞 02 98 58 60 19
+ 15h30.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/arrivee-du-p
  ere-noel-a-penmarch-penmarch-fr-6125032/
@@ -3061,7 +3024,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125033-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260615T100000
 DTEND:20260615T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3071,7 +3034,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-treffiagat-fr-6125033/
@@ -3079,7 +3042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125034-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260501T100000
 DTEND:20260501T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3089,7 +3052,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-treffiagat-fr-6125034/
@@ -3097,14 +3060,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125035-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T160000
 DTEND:20251214T180000
 SUMMARY:Concert - Dremmwel
 LOCATION:396 rue Lucien Le Lay - Penmarch
 DESCRIPTION:En concert chez Cathy\, le groupe de musique bretonne Dremmwel
   fêtera ses 40 ans de scène en 2026 !\n\nNombre de places limité - Sur 
- réservation  - libre participation.\n\n📞 02 98 58 62 31
+ réservation  - libre participation.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-drem
  mwel-penmarch-fr-6125035/
@@ -3112,12 +3075,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260801T100000
 DTEND:20260801T120000
 SUMMARY:Fête du Patrimoine
 LOCATION:lieu dit Saint Germain - Plogastel-Saint-Germain
-DESCRIPTION:Programme à venir\n\n📞 06 62 13 76 24
+DESCRIPTION:Programme à venir
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/fete-du-patr
  imoine-plogastel-saint-germain-fr-5882569/
@@ -3125,7 +3088,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125038-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T090000
 DTEND:20251206T110000
 SUMMARY:Opération déstockage au Secours populaire
@@ -3138,13 +3101,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125037-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T160000
 DTEND:20251207T180000
 SUMMARY:Contes Le Café de l'Excelsior
 LOCATION:Bar Chez Cathy - Penmarch
 DESCRIPTION:Conte théâtral d'après le roman de Philippe Claudel\nLibre 
- participation. Sur réservation\n\n📞 02 98 58 62 31
+ participation. Sur réservation
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/contes-le-ca
  fe-de-lexcelsior-penmarch-fr-6125037/
@@ -3152,7 +3115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125040-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T140000
 DTEND:20251206T160000
 SUMMARY:Café philo - Suis-je le produit de mon passé ?
@@ -3165,7 +3128,7 @@ DESCRIPTION:Café philo \nAncien professeur de philosophie à Quimper et C
  s aussi avec l’association « Les amis de la philosophie » de Combrit. 
  Cette séance tentera de répondre à la question suivante : « Suis-je le
   produit de mon passé ? »\nGratuit / Sur inscription\n\nOrganisé par ma
-  médiathèque Julien Gracq\n\n📞 02 98 82 31 88
+  médiathèque Julien Gracq
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cafe-philo-s
  uis-je-le-produit-de-mon-passe-pont-labbe-fr-6125040/
@@ -3173,7 +3136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125041-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251205T180000
 DTEND:20251205T200000
 SUMMARY:Spectacle enfant - Pop Up
@@ -3186,7 +3149,7 @@ DESCRIPTION:Spectacle « Pop Up »\n\nAvec Amandine Dolé & Sébastien Pro
  qui prennent vie et deux comédiens\, deux collectionneurs de mots et d’
  images\, qui entrent dans le décor pour jouer avec !\n\n\nVoyages de 40 m
  inutes / Destinés aux enfants de 3 à 10 ans / Gratuit / Sur inscription\
- n\nOrganisé par la médiathèque Julien Gracq\n\n📞 02 98 82 31 88
+ n\nOrganisé par la médiathèque Julien Gracq
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/spectacle-en
  fant-pop-up-pont-labbe-fr-6125041/
@@ -3194,7 +3157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125044-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260422T133000
 DTEND:20260422T153000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3204,7 +3167,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-guilvinec-fr-6125044/
@@ -3212,7 +3175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125042-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260515T090000
 DTEND:20260515T110000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3222,7 +3185,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-guilvinec-fr-6125042/
@@ -3230,7 +3193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125043-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260120T190000
 DTEND:20260120T210000
 SUMMARY:Passeurs de Bulles - Table ronde - BD sur ordonnance
@@ -3240,8 +3203,7 @@ DESCRIPTION:BD sur ordonnance\n\nComment la bande dessinée peut-elle acco
   librairie « Livres et Bulles » et les professionnelle de santé de la C
  PTS.\n\n Dans de le cadre de « Passeurs de Bulles »\, un évènement du 
  collectif des bibliothèques du Pays Bigouden Sud.\n\nGratuit / Sur inscri
- ption.\n\n\nOrganisé par la médiathèque Julien Gracq\n\n📞 02 98 82 3
- 1 88
+ ption.\n\n\nOrganisé par la médiathèque Julien Gracq
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/passeurs-de-
  bulles-table-ronde-bd-sur-ordonnance-pont-labbe-fr-6125043/
@@ -3249,7 +3211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125046-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260102T090000
 DTEND:20260102T110000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3259,7 +3221,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-treffiagat-fr-6125046/
@@ -3267,7 +3229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125045-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260321T100000
 DTEND:20260321T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3277,7 +3239,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-treffiagat-fr-6125045/
@@ -3285,7 +3247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260418T100000
 DTEND:20260418T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3295,7 +3257,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-treffiagat-fr-6125047/
@@ -3303,7 +3265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125048-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251210T100000
 DTEND:20251210T120000
 SUMMARY:Jeux de société
@@ -3311,7 +3273,7 @@ LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:Jeux de société\n\nValentine de la Maison Pour Tous – Cent
  re Social de Pont-l’Abbé vous propose une matinée jeux de société à
   la médiathèque.\n\nGratuit / Tout public\n\nOrganisé par la médiathè
- que\n\n📞 02 98 82 31 88
+ que
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/jeux-de-soci
  ete-pont-labbe-fr-6125048/
@@ -3319,7 +3281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T160000
 DTEND:20251223T180000
 SUMMARY:Ciné-vacances - Spécial films de noël
@@ -3328,7 +3290,7 @@ DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
  hème de Noël\, les mardis\, jeudis et vendredis des vacances scolaires 
  à 16h.\n\nRendez-vous les 23-26-27-30 décembre et les 2-3 janvier à 16h
  .\n\n Gratuit / Tout public à partir de 4 ans.\n\nOrganisé par la média
- thèque\n\n📞 02 98 82 31 88
+ thèque
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-vacance
  s-special-films-de-noel-pont-labbe-fr-6125051/
@@ -3336,7 +3298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251226T160000
 DTEND:20251227T235959
 SUMMARY:Ciné-vacances - Spécial films de noël
@@ -3345,7 +3307,7 @@ DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
  hème de Noël\, les mardis\, jeudis et vendredis des vacances scolaires 
  à 16h.\n\nRendez-vous les 23-26-27-30 décembre et les 2-3 janvier à 16h
  .\n\n Gratuit / Tout public à partir de 4 ans.\n\nOrganisé par la média
- thèque\n\n📞 02 98 82 31 88
+ thèque
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-vacance
  s-special-films-de-noel-pont-labbe-fr-6125051/
@@ -3353,7 +3315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-2@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251230T160000
 DTEND:20251230T180000
 SUMMARY:Ciné-vacances - Spécial films de noël
@@ -3362,7 +3324,7 @@ DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
  hème de Noël\, les mardis\, jeudis et vendredis des vacances scolaires 
  à 16h.\n\nRendez-vous les 23-26-27-30 décembre et les 2-3 janvier à 16h
  .\n\n Gratuit / Tout public à partir de 4 ans.\n\nOrganisé par la média
- thèque\n\n📞 02 98 82 31 88
+ thèque
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-vacance
  s-special-films-de-noel-pont-labbe-fr-6125051/
@@ -3370,7 +3332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125051-3@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260102T160000
 DTEND:20260103T235959
 SUMMARY:Ciné-vacances - Spécial films de noël
@@ -3379,7 +3341,7 @@ DESCRIPTION:La médiathèque vous propose des films d’animation sur le t
  hème de Noël\, les mardis\, jeudis et vendredis des vacances scolaires 
  à 16h.\n\nRendez-vous les 23-26-27-30 décembre et les 2-3 janvier à 16h
  .\n\n Gratuit / Tout public à partir de 4 ans.\n\nOrganisé par la média
- thèque\n\n📞 02 98 82 31 88
+ thèque
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-vacance
  s-special-films-de-noel-pont-labbe-fr-6125051/
@@ -3387,7 +3349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125049-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251210T150000
 DTEND:20251210T170000
 SUMMARY:Atelier DIY - Oh pop-up
@@ -3399,7 +3361,7 @@ DESCRIPTION:Atelier DIY « Oh pop-up ! »\n\nJulien Laparade vous propose
  -up : découper\, coller\, plier\, déplacer\, observer…\n\nMontrer auss
  i qu’une simple feuille de papier peut se transformer en véritable obje
  t d’art !\n\nGratuit / à partir de 8 ans / Sur inscription\n\nOrganisé
-  par la médiathèque Julien Gracq\n\n📞 02 98 82 31 88
+  par la médiathèque Julien Gracq
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-diy-
  oh-pop-up-pont-labbe-fr-6125049/
@@ -3407,7 +3369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125053-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251217T110000
 DTEND:20251217T130000
 SUMMARY:L'heure du conte 3-8 ans - Spécial livres Pop up
@@ -3415,7 +3377,7 @@ LOCATION:Rue des Carmes - Pont-l'Abbé
 DESCRIPTION:Anne accueille les enfants pour un moment de lecture de livres
   pop-up…\n\nLe public est invité à découvrir toute la richesse et la 
  diversité du livre animé\, le temps d’une matinée.\n\n Gratuit / Pour
-  les enfants à partir de 3 ans.\n\n📞 02 98 82 31 88
+  les enfants à partir de 3 ans.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lheure-du-co
  nte-3-8-ans-special-livres-pop-up-pont-labbe-fr-6125053/
@@ -3423,7 +3385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125052-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260416T093000
 DTEND:20260416T113000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3433,7 +3395,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-guilvinec-fr-6125052/
@@ -3441,7 +3403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125050-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251223T110000
 DTEND:20251223T130000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3451,7 +3413,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-guilvinec-fr-6125050/
@@ -3459,7 +3421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125054-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260218T100000
 DTEND:20260218T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -3469,7 +3431,7 @@ DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
  ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
  che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
   mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nR
- éservation obligatoire.\n\n📞 06 18 53 04 63
+ éservation obligatoire.
 CATEGORIES:Nature et détente
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
  verte-de-lestran-peche-a-pied-guilvinec-fr-6125054/
@@ -3477,7 +3439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125056-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251214T173000
 DTEND:20251214T193000
 SUMMARY:Concert  - Flûte guitare - Alain Ehkirch et Michel Grizard
@@ -3487,7 +3449,7 @@ DESCRIPTION:Autour de deux instruments populaires\, la flûte et la guitar
  tant à l'honneur Giuliani\, Paganini\, Ginastera et la musique hongroise.
  \n\n- Billetterie en ligne et par téléphone\n- SUPAVAM (chez Aurèl)\, a
  venue des sports à l'Île-Tudy (paiement par chèques et espèces uniquem
- ent)\n- Sur place avant le concert\n\n📞 06 09 71 02 35
+ ent)\n- Sur place avant le concert
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-flut
  e-guitare-alain-ehkirch-et-michel-grizard-ile-tudy-fr-6125056/
@@ -3495,7 +3457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125055-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251213T140000
 DTEND:20251213T160000
 SUMMARY:Atelier d'écriture
@@ -3506,8 +3468,7 @@ DESCRIPTION:Une envie d’écrire et de partager ses textes et réflexions
  mune\, afin d’exercer vos plumes.\n\nSans prétention ni pression. L’i
  dée n’est pas de créer des Chefs-d’œuvre en une session\, mais plut
  ôt de se réunir entre amateurs pour partager un moment convivial et cré
- atif.\n\n \nGratuit / Sur inscription\n\nOrganisé par la médiathèque\n\
- n📞 02 98 82 31 88
+ atif.\n\n \nGratuit / Sur inscription\n\nOrganisé par la médiathèque
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-pont-labbe-fr-6125055/
@@ -3515,7 +3476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125057-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260207T163000
 DTEND:20260207T183000
 SUMMARY:Ciné docs - PÉROU – des civilisations et des hommes
@@ -3533,7 +3494,7 @@ DESCRIPTION:Le Pérou\, qui n’a pas rêvé en entendant ce nom\, synonym
  i font le bonheur des trekkeurs et sont le domaine des éleveurs d’alpac
  as\, à la laine si douce...\nEnfin le fameux lac Titicaca avec ses cultur
  es en terrasses\, à 4000 m d’altitude...\n\n Suivi du Concert du groupe
-  OPAKUNA - Musiques des Andes\n\n📞 02 98 82 83 56
+  OPAKUNA - Musiques des Andes
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-pe
  rou-des-civilisations-et-des-hommes-guilvinec-fr-6125057/
@@ -3541,7 +3502,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125058-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251205T170000
 DTEND:20251205T190000
 SUMMARY:Téléthon - Animations diverses
@@ -3549,7 +3510,7 @@ LOCATION:29710 Pouldreuzic
 DESCRIPTION:Cette année encore l'équipe de Pouldreuzic participe au Tél
  éthon et propose diverses animations :\n\n à 17 H venez vous initier au 
  pilates\, yoga avec Hélène - Le sport sera suivi à 18 H d'un apéritif 
- musical avec le violoniste Jean-Claude CAMORS. -\n\n📞 06 98 23 70 47
+ musical avec le violoniste Jean-Claude CAMORS. -
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-ani
  mations-diverses-pouldreuzic-fr-6125058/
@@ -3557,7 +3518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125059-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251206T090000
 DTEND:20251206T110000
 SUMMARY:Téléthon - Animations diverses
@@ -3569,7 +3530,7 @@ DESCRIPTION:A partir de 9 H vente de crêpes\, gâteaux\, café\, thé\, c
  estre\, concours de galoche\, chants de marins avec les voix de la mer et 
  le tirage de la tombola \n\nCes festivités se clôtureront par un Karaok
  é au bar resto rapide Les Zigues avec le vin chaud et le jus de pommes au
-  profit du Téléthon.\n\n📞 06 98 23 70 47
+  profit du Téléthon.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-ani
  mations-diverses-pouldreuzic-fr-6125059/
@@ -3577,7 +3538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125059-1@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260106T000000
 DTEND:20260106T235959
 SUMMARY:Téléthon - Animations diverses
@@ -3589,7 +3550,7 @@ DESCRIPTION:A partir de 9 H vente de crêpes\, gâteaux\, café\, thé\, c
  estre\, concours de galoche\, chants de marins avec les voix de la mer et 
  le tirage de la tombola \n\nCes festivités se clôtureront par un Karaok
  é au bar resto rapide Les Zigues avec le vin chaud et le jus de pommes au
-  profit du Téléthon.\n\n📞 06 98 23 70 47
+  profit du Téléthon.
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-ani
  mations-diverses-pouldreuzic-fr-6125059/
@@ -3597,13 +3558,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125632-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260203T143000
 DTEND:20260203T163000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.\n\n📞 02 98 51 90 81
+  littéraires.\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
  age-combrit-fr-6125632/
@@ -3611,13 +3572,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260120T143000
 DTEND:20260120T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
- igatoire.\n\n📞 02 98 51 90 81
+ igatoire.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-combrit-fr-6125636/
@@ -3625,13 +3586,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125634-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260303T150000
 DTEND:20260303T170000
 SUMMARY:Lecture partage
 LOCATION:2 Rue du Stade - Combrit
 DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.\n\n📞 02 98 51 90 81
+  littéraires.\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
  age-combrit-fr-6125634/
@@ -3639,14 +3600,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125633-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260130T180000
 DTEND:20260130T200000
 SUMMARY:Soirée philo
 LOCATION:5 Hent Ty Plouz - Combrit
 DESCRIPTION:L'atelier de philosophie\, animé par Jean-Yves Boudéhen\, po
  rtera sur le thème :\nLa religion et la raison entrent-elles nécessairem
- ent en conflit ?\n\nOuvert à tous.\n\n📞 02 98 51 90 81
+ ent en conflit ?\n\nOuvert à tous.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/soiree-philo
  -combrit-fr-6125633/
@@ -3654,13 +3615,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125635-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260217T143000
 DTEND:20260217T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
- igatoire.\n\n📞 02 98 51 90 81
+ igatoire.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-combrit-fr-6125635/
@@ -3668,13 +3629,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125637-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20260317T143000
 DTEND:20260317T163000
 SUMMARY:Atelier d'écriture
 LOCATION:2 rue du Stade - Combrit
 DESCRIPTION:Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obl
- igatoire.\n\n📞 02 98 51 90 81
+ igatoire.
 CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-combrit-fr-6125637/
@@ -3682,13 +3643,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125643-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T170000
 DTEND:20251207T190000
 SUMMARY:Théatre : Comment qu'c'est ?
 LOCATION:39 Avenue Georges Le Bail - Plozévet
-DESCRIPTION:Au profit du Téléthon - Pièce de Jérôme GUIOMACH\n\n📞 
- 02 98 91 30 10
+DESCRIPTION:Au profit du Téléthon - Pièce de Jérôme GUIOMACH
 CATEGORIES:Animation locale (Kermesse / Loto...)
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/theatre-comm
  ent-qucest-plozevet-fr-6125643/
@@ -3696,7 +3656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125641-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T140000
 DTEND:20251207T160000
 SUMMARY:Hip Hop
@@ -3705,7 +3665,7 @@ DESCRIPTION:L’association Hip hop New School organise des ateliers autou
  r du hip hop avec au programme :\n\n14h- 15h  : atelier parents-enfants ou
  vert à tous\n\n15h15 : battle inter-secteur avec tous les élèves\n\nEsp
  ace café goûter\nAtelier découpage totebag\n\nOrganisé par L’associa
- tion Hip hop New School\n\n📞 09 53 32 21 93
+ tion Hip hop New School
 CATEGORIES:Danse
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/hip-hop-pont
  -labbe-fr-6125641/
@@ -3713,12 +3673,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125647-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251227T193000
 DTEND:20251227T213000
 SUMMARY:Soirée DJ SET
 LOCATION:3 Avenue du Port - Treffiagat
-DESCRIPTION:Soirée DJ SET avec DJ Bapt' !\n\n📞 06 48 10 97 44
+DESCRIPTION:Soirée DJ SET avec DJ Bapt' !
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/soiree-dj-se
  t-treffiagat-fr-6125647/
@@ -3726,7 +3686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125652-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T190000
 DTEND:20251220T210000
 SUMMARY:Rencontre-Dédicace avec Franck BESSIERE
@@ -3746,7 +3706,7 @@ DESCRIPTION:« Quand l`identité transcende les limites de l`espèce. Un r
  se tourne aussi vers l’écriture\, avec des sujets qui le passionnent. V
  enez rencontrer l’auteur et découvrir son premier roman. Gratuit mais r
  éservation souhaitée car jauge limitée.\n\nInscription sur le site de l
- a librairie.\n\n📞 02 98 59 94 25
+ a librairie.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rencontre-de
  dicace-avec-franck-bessiere-guilvinec-fr-6125652/
@@ -3754,7 +3714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125650-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251231T190000
 DTEND:20251231T210000
 SUMMARY:Concert - Do & Volga
@@ -3765,8 +3725,7 @@ DESCRIPTION:Do & Volga\, c’est la rencontre entre un guitariste de Pont
  ante et sensible. Ensemble\, ils explorent un répertoire éclectique alla
  nt de Marilyn Manson à Bob Marley\, en passant par T.A.T.U. ou Linkin Par
  k.\nDo & Volga ne rejouent pas simplement des morceaux connus : ils leur i
- nsufflent une nouvelle vie\, teintée de blues et de soul.\n\n📞 06 48 1
- 0 97 44
+ nsufflent une nouvelle vie\, teintée de blues et de soul.
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/concert-do-v
  olga-treffiagat-fr-6125650/
@@ -3774,7 +3733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125653-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251220T190000
 DTEND:20251220T210000
 SUMMARY:Rencontre-Dédicace avec Franck BESSIERE
@@ -3793,8 +3752,7 @@ DESCRIPTION:« Quand l`identité transcende les limites de l`espèce. Un r
  turellement vers sa première passion\, la photographie. Aujourd’hui il 
  se tourne aussi vers l’écriture\, avec des sujets qui le passionnent. V
  enez rencontrer l’auteur et découvrir son premier roman. Gratuit sur r
- éservation.\nInscription sur le site de la librairie.\n\n📞 02 98 59 94
-  25
+ éservation.\nInscription sur le site de la librairie.
 CATEGORIES:Sports et loisirs
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rencontre-de
  dicace-avec-franck-bessiere-guilvinec-fr-6125653/
@@ -3802,14 +3760,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125656-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20251202T140030
+DTSTAMP:20251202T140355
 DTSTART:20251207T150000
 DTEND:20251207T170000
 SUMMARY:Telethon - concerts
 LOCATION:Rue Mstislav Rostropovitch - Pont-l'Abbé
 DESCRIPTION:Venez assister au concert de Gwen Aod et leur de chants de mar
  in et des Sixties Begood au profit du Téléthon.\nBuvette\, crêpes\, kou
- igns\, gâteaux ...\n\n📞 02 98 66 00 40
+ igns\, gâteaux ...
 CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/telethon-con
  certs-pont-labbe-fr-6125656/

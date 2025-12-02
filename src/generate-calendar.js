@@ -283,14 +283,7 @@ function parseEventDates(event) {
 }
 
 function buildEventDescription(event) {
-  const parts = [];
-  if (event.description) {
-    parts.push(event.description);
-  }
-  if (event.phone?.number) {
-    parts.push(`📞 ${event.phone.number}`);
-  }
-  return parts.join("\n\n");
+  return event.description || "";
 }
 
 function buildEventLocation(event) {
