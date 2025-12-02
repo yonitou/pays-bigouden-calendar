@@ -118,6 +118,33 @@ async function fetchUrlsFromSitemap(sitemapUrl) {
   return urls.map((u) => u.replace(/<\/?loc>/g, ""));
 }
 
+function isEventTooLong(event) {
+  if (!event.dates?.length) return false;
+
+  for (const d of event.dates) {
+    const start = d.start?.startDate;
+    const end = d.end?.endDate;
+    if (start && end) {
+      const durationDays = (new Date(end) - new Date(start)) / (1000 * 60 * 60 * 24);
+      if (durationDays > 31) return true; // Une période de plus d'un mois
+    }
+  }
+
+  // Aussi vérifier l'écart entre première et dernière date
+  const dates = event.dates.map(d => d.start?.startDate).filter(Boolean).sort();
+  if (dates.length >= 2) {
+    const spanDays = (new Date(dates[dates.length - 1]) - new Date(dates[0])) / (1000 * 60 * 60 * 24);
+    if (spanDays > 31) return true;
+  }
+
+  return false;
+}
+
+function isExposition(event) {
+  const title = event.title?.toLowerCase() || "";
+  return title.includes("expo") || title.includes("exhibition");
+}
+
 async function fetchEventFromUrl(url) {
   try {
     const response = await fetch(url);
@@ -132,7 +159,13 @@ async function fetchEventFromUrl(url) {
       return null;
     }
 
-    return transformHwSheetToEvent(hwSheet, url);
+    const event = transformHwSheetToEvent(hwSheet, url);
+
+    if (isEventTooLong(event) || isExposition(event)) {
+      return null;
+    }
+
+    return event;
   } catch {
     return null;
   }
