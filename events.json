@@ -475,7 +475,7 @@
     "sheetId": "5774233",
     "bordereau": "FMA",
     "title": "Repair café",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Autres Evènements",
     "description": "Venez apprendre à réparer et à entretenir votre vélo et le petit matériel électroménager lors du Repair Café, animé par la réserve civique communale.",
     "town": "Combrit",
     "address": "5 Hent Ty Plouz",
@@ -976,35 +976,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/3-eme-edition-de-la-fete-du-rire-pouldreuzic-fr-5967665/"
   },
   {
-    "sheetId": "5969941",
-    "bordereau": "FMA",
-    "title": "Concert - MÿA – Robinson Khoury / Lynn Adib",
-    "type": "Musique",
-    "description": "Robinson Khoury est un jeune et talentueux artiste : tromboniste, chanteur et compositeur, il multiplie les expériences au sein d’orchestres prestigieux et collabore entre autres régulièrement avec Ibrahim Maalouf ou encore le Sacre du tympan.\n\nMÿa est une création onirique qui puise du côté de mélodies anciennes, de chants grégoriens, de rythmes sur peaux comme de maqâmat de la musique arabe… et y ajoute une dimension électronique, analogique et modulaire pour représenter l’inconnu des temps oubliés.\n\nAux percussions digitales et à la voix : Anissa Nehari, musicienne au dynamisme sensible, envoûtante et envoûtée par les rythmes du monde. Au piano, synthétiseurs et voix c’est Léo Jassef, un artiste toucheà-tout d’une grande sensibilité qu’on a pu entendre aux côtés de Yom. Robinson Khoury complète ce trio au trombone, différents instruments à embouchure, à la voix et au synthétiseur modulaire. En guest, la voix lumineuse de la chanteuse syrienne Lynn Adib.",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Mstislav Rostropovitch",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "02 98 66 00 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-02T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2025-12-02T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-mya-robinson-khoury-lynn-adib-pont-labbe-fr-5969941/"
-  },
-  {
     "sheetId": "5969947",
     "bordereau": "FMA",
     "title": "Ciné Doc : Terres Boréales",
@@ -1177,35 +1148,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/concert-thalea-plozevet-fr-5969971/"
-  },
-  {
-    "sheetId": "5972574",
-    "bordereau": "FMA",
-    "title": "Lecture partage",
-    "type": "Culturelle",
-    "description": "Échange autour des derniers coups de cœur et coups de gueule littéraires.\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "2 Rue du Stade",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-02T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-02T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-5972574/"
   },
   {
     "sheetId": "5972583",
@@ -1682,35 +1624,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-les-terres-boreales-combrit-fr-5986607/"
   },
   {
-    "sheetId": "5986612",
-    "bordereau": "FMA",
-    "title": "Projection film documentaire - L'Himalaya",
-    "type": "Culturelle",
-    "description": "Depuis 2022, des films documentaires de voyage sont projetés à l’espace sportif de Croas-Ver, à l’initiative du CCAS. Les réalisateurs, membres de l’association Le Cercle des Voyageurs, sont présents lors des projections.\n\nAujourd'hui, direction l’Himalaya avec Alain Wodey. \nSitué entre Bhoutan et Myanmar, Himalaya est un État très discret du nord est de l’Inde. Plusieurs séjours ont été nécessaires pour que se dévoile cette « Porte de la Sérénité », État surveillé de près par son grand voisin chinois qui en revendique toujours une partie. Ce sera l’occasion pour les spectateurs de partager des chaleureux moments de vie parmi des communautés de culture tibétaine et certaines populations tribales dépositaires de riches, étonnantes et très variées traditions culturelles, mais aussi religieuses. Un film étonnant sur un État indien à la forte personnalité.",
-    "town": "Combrit",
-    "address": "2 Rue du Stade",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 56 74 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-02T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-02T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-lhimalaya-combrit-fr-5986612/"
-  },
-  {
     "sheetId": "5986609",
     "bordereau": "FMA",
     "title": "Projection film documentaire - Le Pérou",
@@ -2092,7 +2005,7 @@
     "bordereau": "FMA",
     "title": "Soirée philo",
     "type": "Culturelle",
-    "description": "Atelier de philosophie animé par Jean-Yves Boudéhen. \nLa discussion portera sur le thème : Peut-on juger la culture à laquelle nous appartenons ?\n\nOuvert à tous.",
+    "description": "Atelier de philosophie animé par Jean-Yves Boudéhen. \nLa discussion portera sur le thème : Suis-je le produit de mon passé ?\n\nOuvert à tous.",
     "town": "Combrit",
     "address": "5 Hent Ty Plouz",
     "gps": {
@@ -2910,7 +2823,7 @@
     "bordereau": "FMA",
     "title": "Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12ème édition",
     "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Un moment idéal pour découvrir l'univers des 30 artistes présents et échanger avec eux autour de leur art et leurs créations. Ateliers d'arts et salon de thé. Une mine d'or pour trouver des idées cadeaux pour les fêtes pour faire plaisir ou se faire plaisir !\n\nAnimations enfants, petite restauration.",
+    "description": "Pour cette 12ème édition, 28 artistes de la région seront présents. Un moment idéal pour découvrir leurs univers tous différents et échanger avec eux autour de leur art et leurs créations. Une Mine d'or pour trouver des idées cadeaux pour les fêtes pour faire plaisir ou se faire plaisir!\n\nAvec la présence d'un salon de thé éphémère qui proposera des douceurs, gâteaux et boissons aux saveurs festives et hivernales: café gourmand, thé de Noël, chocolat chaud, expresso, vin chaud, cinnamon rolls, pains d’épices, cup cake, gaufres liégeoises, pains d’épices etc…\n\nLe Jumelage Guilvinec-Sevrier propose comme chaque année de délicieux fromages savoyards. \n\nAnimations enfants, petite restauration.\n\nOrganisé par l'OGEC école Sainte Anne du Guilvinec",
     "town": "Guilvinec",
     "address": "Rue Méjou Bihan",
     "gps": {
@@ -3149,7 +3062,7 @@
     "sheetId": "6079930",
     "bordereau": "FMA",
     "title": "Repair café",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Autres Evènements",
     "description": "Venez apprendre à réparer et à entretenir votre vélo et le petit matériel électroménager lors du Repair Café, animé par la réserve civique communale.",
     "town": "Combrit",
     "address": "5 Hent Ty Plouz",
@@ -3998,103 +3911,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/animation-jeux-de-societe-loctudy-fr-6125016/"
-  },
-  {
-    "sheetId": "6125018",
-    "bordereau": "FMA",
-    "title": "TEST 2 - Ciné docs - Odyslande, quatre saisons en Islande à vélo",
-    "type": "Culturelle",
-    "description": "« Nous rêvons tous de parcourir la planète terre, mais pourquoi se limiter à elle seule ? Découvrons Mars, la Lune, Mercure… en un seul pays ».\nC’est à vélo que Jean-Philippe Bossut parcours durant plusieurs mois une Islande cachée, hors des sentiers battus. \nIl lui faut bien de la ténacité pour la découvrir dans ses recoins les plus inaccessibles et malgré les obstacles d’un climat éprouvant. En récompense la magie du soleil de minuit et les incroyables aurores boréales.\nIl pénètre au cœur des volcans, pagaye entre les icebergs ou rencontre les baleines à bosses. Mais aussi des islandais qui témoignent de la passion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage, fascinant, rude et beau au fil des quatre saisons.\n\nEn présence du réalisateur Jean-Philippe Bossut.",
-    "town": "Guilvinec",
-    "address": "Rue Méjou Bihan",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-08T00:00:00+02:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-04-08T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/test-2-cine-docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125018/"
-  },
-  {
-    "sheetId": "6125019",
-    "bordereau": "FMA",
-    "title": "TEST- Ciné docs - Odyslande, quatre saisons en Islande à vélo",
-    "type": "Culturelle",
-    "description": "« Nous rêvons tous de parcourir la planète terre, mais pourquoi se limiter à elle seule ? Découvrons Mars, la Lune, Mercure… en un seul pays ».\nC’est à vélo que Jean-Philippe Bossut parcours durant plusieurs mois une Islande cachée, hors des sentiers battus. \nIl lui faut bien de la ténacité pour la découvrir dans ses recoins les plus inaccessibles et malgré les obstacles d’un climat éprouvant. En récompense la magie du soleil de minuit et les incroyables aurores boréales.\nIl pénètre au cœur des volcans, pagaye entre les icebergs ou rencontre les baleines à bosses. Mais aussi des islandais qui témoignent de la passion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage, fascinant, rude et beau au fil des quatre saisons.\n\nEn présence du réalisateur Jean-Philippe Bossut.",
-    "town": "Guilvinec",
-    "address": "Rue Méjou Bihan",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-08T00:00:00+02:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-04-08T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/test-cine-docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125019/"
-  },
-  {
-    "sheetId": "6125020",
-    "bordereau": "FMA",
-    "title": "TEST 3 - Ciné docs - Odyslande, quatre saisons en Islande à vélo",
-    "type": "Culturelle",
-    "description": "« Nous rêvons tous de parcourir la planète terre, mais pourquoi se limiter à elle seule ? Découvrons Mars, la Lune, Mercure… en un seul pays ».\nC’est à vélo que Jean-Philippe Bossut parcours durant plusieurs mois une Islande cachée, hors des sentiers battus. \nIl lui faut bien de la ténacité pour la découvrir dans ses recoins les plus inaccessibles et malgré les obstacles d’un climat éprouvant. En récompense la magie du soleil de minuit et les incroyables aurores boréales.\nIl pénètre au cœur des volcans, pagaye entre les icebergs ou rencontre les baleines à bosses. Mais aussi des islandais qui témoignent de la passion pour leur île qu’ils aiment et veulent préserver.\n\nUn voyage, fascinant, rude et beau au fil des quatre saisons.\n\nEn présence du réalisateur Jean-Philippe Bossut.",
-    "town": "Guilvinec",
-    "address": "Rue Méjou Bihan",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-04-08T00:00:00+02:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-04-10T23:59:59+02:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-08T00:00:00+02:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-04-08T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/test-3-cine-docs-odyslande-quatre-saisons-en-islande-a-velo-guilvinec-fr-6125020/"
   },
   {
     "sheetId": "6125021",
@@ -5420,7 +5236,7 @@
     "sheetId": "6125652",
     "bordereau": "FMA",
     "title": "Rencontre-Dédicace avec Franck BESSIERE",
-    "type": "Sports et loisirs",
+    "type": "Culturelle",
     "description": "« Quand l`identité transcende les limites de l`espèce. Un roman de Franck Bessière où deux destins, humain et animal, s`entrelacent dans un monde en mutation. Le vieux loup a quitté la meute. Il le sait, il le sent : sa louve, qui a cheminé à ses côtés pendant de si nombreuses lunes, est partie en direction du territoire des humains. Il doit partir à sa recherche. La protéger. Coûte que coûte. » (TANA Editions – 17,90€ – 141p)\n\nFranck Bessière est un photographe indépendant basé à Toulon, travaillant sur tout PACA depuis 2008. Après des études à la faculté de Rennes 2 en langue, il part se former à travers l’Europe, notamment à Rome où il y resta quelques années. Fort d’une expérience dans divers secteurs d’activité, il s’oriente tout naturellement vers sa première passion, la photographie. Aujourd’hui il se tourne aussi vers l’écriture, avec des sujets qui le passionnent. Venez rencontrer l’auteur et découvrir son premier roman. Gratuit mais réservation souhaitée car jauge limitée.\n\nInscription sur le site de la librairie.",
     "town": "Guilvinec",
     "address": "1 Rue Jean Baudry",
@@ -5531,5 +5347,606 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/telethon-concerts-pont-labbe-fr-6125656/"
+  },
+  {
+    "sheetId": "6127651",
+    "bordereau": "FMA",
+    "title": "Sortie découverte de l'estran - Pêche à pied",
+    "type": "Nature et détente",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "town": "Loctudy",
+    "address": "14 Rue de Lodonnec",
+    "gps": {
+      "latitude": "47.8133199",
+      "longitude": "-4.1731641"
+    },
+    "phone": {
+      "number": "06 18 53 04 63"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-05-16T00:00:00+02:00",
+          "startTime": "à 09h30"
+        },
+        "end": {
+          "endDate": "2026-05-16T23:59:59+02:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127651/"
+  },
+  {
+    "sheetId": "6127652",
+    "bordereau": "FMA",
+    "title": "Concert - Chorale Tournesol",
+    "type": "Musique",
+    "description": "La chorale Tournesol, dirigée par Bernard Kalonn, donnera un concert sur le thème : \" Chemins autour du Requiem de Mozart et Sussmayer \".\n\nLa première partie sera assurée par des chants gospel de la chorale Goldspell de l'association Tournesol.\nPuis, le chœur reprendra les grands morceaux du Requiem mêlant classique et modernité, sonorités traditionnelles ou empruntées à l'Afrique.\n\nSans réservation.",
+    "town": "Combrit",
+    "address": "21 rue du Général de Gaulle",
+    "gps": {
+      "latitude": "47.8653133",
+      "longitude": "-4.2208303"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-tournesol-combrit-fr-6127652/"
+  },
+  {
+    "sheetId": "6127656",
+    "bordereau": "FMA",
+    "title": "Festival Très Tôt Théâtre - Souris ! - Dès 4-5 ans",
+    "type": "Culturelle",
+    "description": "\" Souris ! \" est un spectacle qui explore les deux facettes d'un même événement : la perte de la première dent de lait.\nD’un côté, le point d’un vue d’un enfant : ses craintes, son quotidien bousculé par cette dent qui bouge. De l’autre, l’univers effervescent des « souris à dent » où un jeune souriceau reçoit sa première mission : récupérer sous l’oreiller de l’enfant sa toute première dent. En recto verso, ces deux personnages vivront, sous nos yeux, un moment clef de leurs vies d’enfants qui contribuera à les faire grandir. A travers un théâtre gestuel et visuel mêlé à l’atmosphère muséale, le public sera guidé au cœur du petit mais non moins incroyable musée des « souris à dent ».\n\nDans un dispositif bi-frontal, les œuvres exposées prendront vie grâce aux interprètes qui déploieront un univers visuel poétique et décalé. \" SOURIS ! \" est une invitation à célébrer ces « petits riens » du quotidien qui paradoxalement, par leur simplicité, nous transportent vers l’universel.\n\nDans le cadre du festival Théâtre à tout âge, représentation du spectacle « Souris » de la Cie Toutito Teatro.",
+    "town": "Combrit",
+    "address": "2 Rue du Stade",
+    "gps": {
+      "latitude": "47.8837844",
+      "longitude": "-4.1559748"
+    },
+    "phone": {
+      "number": "02 98 51 94 40"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 17h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/festival-tres-tot-theatre-souris-des-4-5-ans-combrit-fr-6127656/"
+  },
+  {
+    "sheetId": "6127623",
+    "bordereau": "FMA",
+    "title": "Petit Marché de Noël",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Marché avec 2  chalets composé de l'association d'animation des Camélias et du Lycée Laënnec proposerons de la petite restauration\n\nOrganisé par la mairie et  l'association d'animation des Camélias et du Lycée Laënnec",
+    "town": "Pont-l'Abbé",
+    "address": "Place de la République",
+    "gps": {
+      "latitude": "47.86511",
+      "longitude": "-4.22419"
+    },
+    "phone": {
+      "number": "02 98 87 23 55"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-13T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-13T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/petit-marche-de-noel-pont-labbe-fr-6127623/"
+  },
+  {
+    "sheetId": "6127626",
+    "bordereau": "FMA",
+    "title": "Petit Marché de Noël",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Marché avec 2  chalets composé du comité d'animation de Pors Moro avec vente d'objets de décoration, boissons, crêpes et kouigns\n\nOrganisé par la mairie et  le comité d'animation de Pors Moro",
+    "town": "Pont-l'Abbé",
+    "address": "Place de la République",
+    "gps": {
+      "latitude": "47.86511",
+      "longitude": "-4.22419"
+    },
+    "phone": {
+      "number": "02 98 87 02 13"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/petit-marche-de-noel-pont-labbe-fr-6127626/"
+  },
+  {
+    "sheetId": "6127630",
+    "bordereau": "FMA",
+    "title": "Concert - duo Heaven",
+    "type": "Musique",
+    "description": "Le duo Heaven composé de Patrice (Fouesnant) et Diane (Pont-l’Abbé) joue des  reprises pop, rock, folk .\n\nOrganisé par la Mairie, L'union des commerçants et le comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Place Gambetta",
+    "gps": {
+      "latitude": "47.86462",
+      "longitude": "-4.22186"
+    },
+    "phone": {
+      "number": "06 75 36 49 62"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-22T00:00:00+01:00",
+          "startTime": "à 17h00"
+        },
+        "end": {
+          "endDate": "2025-12-22T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/concert-duo-heaven-pont-labbe-fr-6127630/"
+  },
+  {
+    "sheetId": "6127622",
+    "bordereau": "FMA",
+    "title": "Soirée philo",
+    "type": "Culturelle",
+    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'art transforme-t-il notre conscience du réel ?\n\nOuvert à tous.",
+    "town": "Combrit",
+    "address": "5 Hent Ty Plouz",
+    "gps": {
+      "latitude": "47.88767",
+      "longitude": "-4.15423"
+    },
+    "phone": {
+      "number": "02 98 51 90 81"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-03-27T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2026-03-27T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127622/"
+  },
+  {
+    "sheetId": "6127621",
+    "bordereau": "FMA",
+    "title": "Feu d'artifice de Noël de Pont-l'Abbé",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Feu d'artifice tiré depuis le Triskell à 19h30\n\nOrganisé par la Mairie, l'Union des commerçants et le Comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Rue Mstislav Rostropovitch",
+    "gps": {
+      "latitude": "47.86888",
+      "longitude": "-4.22564"
+    },
+    "phone": {
+      "number": "02 98 66 09 09"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-21T00:00:00+01:00",
+          "startTime": "à 19h30"
+        },
+        "end": {
+          "endDate": "2025-12-21T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/feu-dartifice-de-noel-de-pont-labbe-pont-labbe-fr-6127621/"
+  },
+  {
+    "sheetId": "6127627",
+    "bordereau": "FMA",
+    "title": "Soirée philo",
+    "type": "Culturelle",
+    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'hypothèse d'un inconscient psychanalytique revient-elle à admettre un autre en soi  ?\n\nOuvert à tous.",
+    "town": "Combrit",
+    "address": "5 Hent Ty Plouz",
+    "gps": {
+      "latitude": "47.88767",
+      "longitude": "-4.15423"
+    },
+    "phone": {
+      "number": "02 98 51 90 81"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-02-27T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2026-02-27T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127627/"
+  },
+  {
+    "sheetId": "6127632",
+    "bordereau": "FMA",
+    "title": "Marché de Noël de Pont-l'Abbé",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Marché avec 8 chalets composés d'artisans locaux et d'associations locales  avec animations  :\n\nDu 20 au 23 décembre : un sculpteur de ballon et dégustation de barbe à papa\n21 décembre : Feu d'artifice tiré depuis le Triskell à 19h30\n22 décembre : Spectacle de musique Duo Heaven de 17h à 19h\n26 décembre : Spectacle Bigouden light de 18h à 19h30\n27 décembre : Station de ski de la compagnie rennaise Machtiern (slalom, bobsleigh, boules de neige) 15h à 16h et 17h à 18h.\n\nUn manège pour enfant sera présent tous les jours\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Place Gambetta",
+    "gps": {
+      "latitude": "47.86462",
+      "longitude": "-4.22186"
+    },
+    "phone": {
+      "number": "06 75 36 49 62"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-20T00:00:00+01:00",
+          "startTime": null
+        },
+        "end": {
+          "endDate": "2025-12-28T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-de-pont-labbe-pont-labbe-fr-6127632/"
+  },
+  {
+    "sheetId": "6127634",
+    "bordereau": "FMA",
+    "title": "Chantier nature collaboratif",
+    "type": "Nature et détente",
+    "description": "Début 2026, 250 arbres seront plantés par les écoliers de Tréméoc et Pont-l’Abbé.\nPour que l’opération, menée par des enfants de 9,10 et 11 ans, puisse se faire dans de bonnes conditions, les habitants sont invités à préparer le chantier !\n\nPrévoir tenue de travail (chaude et ne craignant pas la boue), s’équiper de bottes et prévoir une paire de gants et une bêche.",
+    "town": "Tréméoc",
+    "address": "29120 Tréméoc",
+    "gps": {
+      "latitude": "47.8811979",
+      "longitude": "-4.2283948"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 14h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/chantier-nature-collaboratif-tremeoc-fr-6127634/"
+  },
+  {
+    "sheetId": "6127646",
+    "bordereau": "FMA",
+    "title": "Téléthon - Randonnée pédestre",
+    "type": "Autres Evènements",
+    "description": "Marche au profit du Téléthon.\nPlusieurs circuits seront proposés en fonction des possibilités de chacun et chacune.\n\nOrganisée par l'association Saint-Jean Sports et Losirs.",
+    "town": "Saint-Jean-Trolimon",
+    "address": "Place de la République",
+    "gps": {
+      "latitude": "47.86627",
+      "longitude": "-4.28105"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-04T00:00:00+01:00",
+          "startTime": "à 14h00"
+        },
+        "end": {
+          "endDate": "2025-12-04T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/telethon-randonnee-pedestre-saint-jean-trolimon-fr-6127646/"
+  },
+  {
+    "sheetId": "6127640",
+    "bordereau": "FMA",
+    "title": "Spectacle enfant - Les lutins farceurs et le mystère du père Noël disparu",
+    "type": "Culturelle",
+    "description": "Spectacle destinés aux enfants \n\nOrganisé par le comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Rue Jules Ferry",
+    "gps": {
+      "latitude": "47.86605",
+      "longitude": "-4.21808"
+    },
+    "phone": {
+      "number": "06 75 36 49 62"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-23T00:00:00+01:00",
+          "startTime": "à 16h30"
+        },
+        "end": {
+          "endDate": "2025-12-23T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/spectacle-enfant-les-lutins-farceurs-et-le-mystere-du-pere-noel-disparu-pont-labbe-fr-6127640/"
+  },
+  {
+    "sheetId": "6127645",
+    "bordereau": "FMA",
+    "title": "Spectacle trio Per Vari KERVAREC - Pellgent",
+    "type": "Musique",
+    "description": "Spectacle du trio Per Vari KERVAREC, Tony DUDOGNON, Brieuc COLLETER\nconcert bombarde, orgue, biniou : « pellgent » (messe de minuit)\n\nlibre participation\n\nOrganisé par les Amis de l'orgue",
+    "town": "Pont-l'Abbé",
+    "address": "Place des Carmes",
+    "gps": {
+      "latitude": "47.8662",
+      "longitude": "-4.2195"
+    },
+    "phone": {
+      "number": "06 50 47 11 59"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-28T00:00:00+01:00",
+          "startTime": "à 16h00"
+        },
+        "end": {
+          "endDate": "2025-12-28T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/spectacle-trio-per-vari-kervarec-pellgent-pont-labbe-fr-6127645/"
+  },
+  {
+    "sheetId": "6127648",
+    "bordereau": "FMA",
+    "title": "Sortie découverte de l'estran - Pêche à pied",
+    "type": "Nature et détente",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "town": "Loctudy",
+    "address": "14 Rue de Lodonnec",
+    "gps": {
+      "latitude": "47.8133199",
+      "longitude": "-4.1731641"
+    },
+    "phone": {
+      "number": "06 18 53 04 63"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-04-21T00:00:00+02:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2026-04-21T23:59:59+02:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127648/"
+  },
+  {
+    "sheetId": "6127649",
+    "bordereau": "FMA",
+    "title": "Sortie découverte de l'estran - Pêche à pied",
+    "type": "Nature et détente",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "town": "Loctudy",
+    "address": "14 Rue de Lodonnec",
+    "gps": {
+      "latitude": "47.8133199",
+      "longitude": "-4.1731641"
+    },
+    "phone": {
+      "number": "06 18 53 04 63"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-04-17T00:00:00+02:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2026-04-17T23:59:59+02:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127649/"
+  },
+  {
+    "sheetId": "6127642",
+    "bordereau": "FMA",
+    "title": "Spectacle - Bigouden Light",
+    "type": "Musique",
+    "description": "Le spectacle Bigouden Light est un spectacle nocturne de rue tout public, inspiré par la vie des femmes de Bretagne, avec des chorégraphies dans des costumes lumineux, et se déroule en sept tableaux.\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Place Gambetta",
+    "gps": {
+      "latitude": "47.86462",
+      "longitude": "-4.22186"
+    },
+    "phone": {
+      "number": "06 75 36 49 62"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-26T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2025-12-26T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/spectacle-bigouden-light-pont-labbe-fr-6127642/"
+  },
+  {
+    "sheetId": "6127637",
+    "bordereau": "FMA",
+    "title": "Téléthon - Randonnée pédestre",
+    "type": "Autres Evènements",
+    "description": "Randonnée de 9 km au profit du Téléthon.\nVin chaud, café et gâteaux vous attendent, pendant et après l'effort !\n\nÉvénement organisé par l'Association de Sauvegarde et d'Entretien du Patrimoine de Tréméoc.\n\nParticipation libre.",
+    "town": "Tréméoc",
+    "address": "Rue de l'École",
+    "gps": {
+      "latitude": "47.9078039",
+      "longitude": "-4.2080837"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-07T00:00:00+01:00",
+          "startTime": "à 09h00"
+        },
+        "end": {
+          "endDate": "2025-12-07T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/telethon-randonnee-pedestre-tremeoc-fr-6127637/"
+  },
+  {
+    "sheetId": "6127639",
+    "bordereau": "FMA",
+    "title": "Spectacle - Station de ski",
+    "type": "Culturelle",
+    "description": "Le spectacle station de ski est un spectacle de rue tout public, avec slalom, bobsleigh, boules de neige et de la bonne humeur\n\nEntre création artistique et installation ludique pour adultes et enfants, cette nouvelle création de la compagnie\nMachtiern est une manière de décaler ses perceptions, de partir au ski sans aller bien loin, de voyager sur place. Le\nthème du ski ouvre des pistes de création, de rire, de décalage artistique, d’insolite.\nDifférentes machines de jeu, construites dans nos ateliers, sont installées dans un espace scénique circulaire avec au\ncentre un pylône métallique (hauteur : 3 mètres) servant de support aux machines à neige.\nDes turbulences artistiques sont au rendez vous avec le jeu des quatre comédiens « moniteurs de ski ». Les jeux\nproposés au public sont mécaniques et visuels et nécessitent pour la plupart dextérité et sens de l’humour.\n\nLe spectacle :\n\nUne plongée dans un univers artistique unique et original.\nUn moment ludique riche en expérience et émotion.\nUne ambiance conviviale et familiale où chacun trouve sa place.\nUn univers décalé pour mieux se rencontrer\nEt (surtout), l'occasion de sortir sa combi et ses après-ski des années 80, de mettre un bonnet à pompon, d'arborer\nfièrement sa premier étoile, de se pavaner avec un snowboard sur l'épaule sans jamais avoir mis les pieds à la montagne,\nde danser sous la neige, de slalomer sans risque, de remorter une compétition d'alpinisme et bien sûr de profiter de\nl'expérience, du conseil et du sérieux des moniteurs de ski.\n\nLes jeux:\n\nLancer de boules de neige sur cloches de vaches alpines devant un décor de montagnes. A l'aide d’un propulseur à\nair comprimé, il faut viser les cloches qui ne demandent qu'à tinter.\nBalance ton Bob (Jeu de force. un bobsleigh montée sur roulements est propulsé afin de faire le tour du circuit\n(environ 10 mètres).\nLe grand slalom (Jeu de dextérité. Une paire de ski montée sur glissière, un tapis roulant qui défile, ATTENTION\nAUX PORTES ! ).\nUne proposition artistique ponctuée de tempêtes de neige avec une ambiance musicale en continu. Durée : 2h par\njour.\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
+    "town": "Pont-l'Abbé",
+    "address": "Place Gambetta",
+    "gps": {
+      "latitude": "47.86462",
+      "longitude": "-4.22186"
+    },
+    "phone": {
+      "number": "06 75 36 49 62"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-27T00:00:00+01:00",
+          "startTime": "à 15h00"
+        },
+        "end": {
+          "endDate": "2025-12-27T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/spectacle-station-de-ski-pont-labbe-fr-6127639/"
+  },
+  {
+    "sheetId": "6127647",
+    "bordereau": "FMA",
+    "title": "Sortie découverte de l'estran - Pêche à pied",
+    "type": "Nature et détente",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "town": "Loctudy",
+    "address": "14 Rue de Lodonnec",
+    "gps": {
+      "latitude": "47.8133199",
+      "longitude": "-4.1731641"
+    },
+    "phone": {
+      "number": "06 18 53 04 63"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-24T00:00:00+01:00",
+          "startTime": "à 12h00"
+        },
+        "end": {
+          "endDate": "2025-12-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127647/"
+  },
+  {
+    "sheetId": "6127650",
+    "bordereau": "FMA",
+    "title": "Sortie découverte de l'estran - Pêche à pied",
+    "type": "Nature et détente",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "town": "Loctudy",
+    "address": "14 Rue de Lodonnec",
+    "gps": {
+      "latitude": "47.8133199",
+      "longitude": "-4.1731641"
+    },
+    "phone": {
+      "number": "06 18 53 04 63"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-02-19T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2026-02-19T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
   }
 ]
