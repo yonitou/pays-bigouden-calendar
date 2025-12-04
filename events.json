@@ -1566,35 +1566,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-la-loire-combrit-fr-5986611/"
   },
   {
-    "sheetId": "5986580",
-    "bordereau": "FMA",
-    "title": "Ciné docs - Himalaya, entre Bhoutan et Myanmar",
-    "type": "Culturelle",
-    "description": "Entre Bhoutan et Myanmar, Himalaya méconnu est la découverte de l’Arunachal Pradesh, un état très discret du Nord Est de l’Inde, en Himalaya.\n\nDès 1972, Alain Wodey l’a côtoyé de nombreuses fois avant de pouvoir enfin s’y rendre.\nPlusieurs séjours ont été nécessaires pour que se dévoile cette « Porte de la Sérénité », état surveillé de près par son grand voisin Chinois qui en revendique toujours une partie.\n\nVous allez découvrir en parcourant de nombreux itinéraires, dans les vastes forêts tropicales humides, les vallées profondes et les hautes montagnes, la grande variété et diversité de cet état, depuis la grande plaine du Brahmapoutre aux frontières de la Région Autonome du Tibet et du Myanmar.\nCe sera l’occasion de partager de chaleureux moments de vie parmi des communautés de culture tibétaine et certaines populations tribales dépositaires de riches, étonnantes et très variées traditions culturelles mais aussi, religieuses.\n\nUn film étonnant sur un Etat Indien à la forte personnalité...\n\nEn présence du réalisateur Alain Wodey.",
-    "town": "Guilvinec",
-    "address": "Rue Méjou Bihan",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-03T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-docs-himalaya-entre-bhoutan-et-myanmar-guilvinec-fr-5986580/"
-  },
-  {
     "sheetId": "5986607",
     "bordereau": "FMA",
     "title": "Projection film documentaire - Les Terres boréales",
@@ -2291,35 +2262,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/marche-aquatique-plobannalec-lesconil-fr-6021031/"
   },
   {
-    "sheetId": "6021012",
-    "bordereau": "FMA",
-    "title": "Atelier en famille :  Fabrication d’un savon de Noël avec Delphine de Bulles de Roses !",
-    "type": "Culturelle",
-    "description": "Lors de cet atelier d’une heure, les enfants apprendront à fabriquer un savon (sans soude) adapté à leurs besoins.\n A partir de 6 ans avec la présence obligatoire d’un adulte.",
-    "town": "Pouldreuzic",
-    "address": "37 Lieu-dit Mesmeur",
-    "gps": {
-      "latitude": "47.9634678",
-      "longitude": "-4.3035777"
-    },
-    "phone": {
-      "number": "02 98 54 41 86"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-03T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-en-famille-fabrication-dun-savon-de-noel-avec-delphine-de-bulles-de-roses-pouldreuzic-fr-6021012/"
-  },
-  {
     "sheetId": "6021030",
     "bordereau": "FMA",
     "title": "Marche aquatique",
@@ -2914,35 +2856,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/generations-numeriques-information-fake-news-et-theorie-du-complot-peumerit-fr-6076318/"
-  },
-  {
-    "sheetId": "6077971",
-    "bordereau": "FMA",
-    "title": "Spectacle SOURIS ! Par la Cie Toutito Treatro",
-    "type": "Culturelle",
-    "description": "Rendez-vous pour un spectacle familial dès 4 ans par la Cie Toutito Treatro . En théâtre gestuel et visuel, découvrez avec tendresse et humour la perte de la première dent de lait : curiosité, aventure et poésie. Un moment doux à partager et magique à partager en famille.",
-    "town": "Plozévet",
-    "address": "39 bis Avenue Georges le Bail",
-    "gps": {
-      "latitude": "47.9854913",
-      "longitude": "-4.4199472"
-    },
-    "phone": {
-      "number": "02 98 54 49 09"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-03T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/spectacle-souris-par-la-cie-toutito-treatro-plozevet-fr-6077971/"
   },
   {
     "sheetId": "6077958",
@@ -5380,9 +5293,9 @@
   {
     "sheetId": "6127652",
     "bordereau": "FMA",
-    "title": "Concert - Chorale Tournesol",
+    "title": "Concert - Chemins autour du Requiem de Mozart et Sussmayer",
     "type": "Musique",
-    "description": "La chorale Tournesol, dirigée par Bernard Kalonn, donnera un concert sur le thème : \" Chemins autour du Requiem de Mozart et Sussmayer \".\n\nLa première partie sera assurée par des chants gospel de la chorale Goldspell de l'association Tournesol.\nPuis, le chœur reprendra les grands morceaux du Requiem mêlant classique et modernité, sonorités traditionnelles ou empruntées à l'Afrique.\n\nSans réservation.",
+    "description": "La chorale Tournesol, dirigée par Bernard Kalonn, donnera un concert sur le thème : \" Chemins autour du Requiem de Mozart et Sussmayer \".\n\nConcert en deux parties :\nGospel et chants africains par le groupe Goldspell.\nPour le Requiem revisité de Mozart et Sussmayer, les chanteurs sont accompagnés de 3 musiciens (percussion, guitare et accordéon). Les amateurs du chœur Tournesol chantent A capella et sans partition.\n\nSans réservation.",
     "town": "Combrit",
     "address": "21 rue du Général de Gaulle",
     "gps": {
@@ -5948,5 +5861,501 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
+  },
+  {
+    "sheetId": "6129804",
+    "bordereau": "FMA",
+    "title": "Bébés lecteurs",
+    "type": "Culturelle",
+    "description": "“Noël”. Séance animée par Marlène Mussard. \n\nSur réservation\nOrganisé par la médiathèque de Loctudy",
+    "town": "Loctudy",
+    "address": "71 Rue Sébastien Guiziou",
+    "gps": {
+      "latitude": "47.8327175",
+      "longitude": "-4.1694478"
+    },
+    "phone": {
+      "number": "02 98 87 98 57"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/bebes-lecteurs-loctudy-fr-6129804/"
+  },
+  {
+    "sheetId": "6129807",
+    "bordereau": "FMA",
+    "title": "Bal XIXe au Manoir de Kerazan",
+    "type": "Culturelle",
+    "description": "En partenariat avec les associations de reconstitution historique Bottines et Canotiers et Dentelles et Redingotes. Cette année, pour Noël, le manoir de Kerazan prend vie lors d’une après-midi ! Vivez un bal au manoir de Kerazan et voyagez dans le temps !\nAssistez à des danses, rencontrez des personnes en costumes d’époques et initiez-vous à la vie des bourgeois des années 1890. Sans réservation.",
+    "town": "Loctudy",
+    "address": "Rue du Suler",
+    "gps": {
+      "latitude": "47.84122",
+      "longitude": "-4.19665"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-21T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2025-12-21T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/bal-xixe-au-manoir-de-kerazan-loctudy-fr-6129807/"
+  },
+  {
+    "sheetId": "6129812",
+    "bordereau": "FMA",
+    "title": "Loisirs créatifs de Noël - Enfants",
+    "type": "Culturelle",
+    "description": "Jeunes dès 7 ans. Fabrication de décorations de Noël, aquarelle, couronnes, goûter de Noël (samedi 20). Tout le matériel est fourni.\nSur réservation",
+    "town": "Loctudy",
+    "address": "Maison des associations",
+    "gps": {
+      "latitude": "47.83064",
+      "longitude": "-4.17569"
+    },
+    "phone": {
+      "number": "06 87 04 00 66"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-20T00:00:00+01:00",
+          "startTime": "à 14h00"
+        },
+        "end": {
+          "endDate": "2025-12-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/loisirs-creatifs-de-noel-enfants-loctudy-fr-6129812/"
+  },
+  {
+    "sheetId": "6129816",
+    "bordereau": "FMA",
+    "title": "Club de lecture",
+    "type": "Culturelle",
+    "description": "Venez partager vos coups de coeur littéraire.\nOrganisé par la médiathèque de Loctudy",
+    "town": "Loctudy",
+    "address": "71 Rue Sébastien Guiziou",
+    "gps": {
+      "latitude": "47.8327175",
+      "longitude": "-4.1694478"
+    },
+    "phone": {
+      "number": "02 98 87 98 57"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-17T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2025-12-17T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/club-de-lecture-loctudy-fr-6129816/"
+  },
+  {
+    "sheetId": "6129810",
+    "bordereau": "FMA",
+    "title": "Ciné doc : L’été des soeurs Tempête",
+    "type": null,
+    "description": "Un documentaire de Mathilde Aplincourt.",
+    "town": "Loctudy",
+    "address": "Salle polyvalente",
+    "gps": {
+      "latitude": "47.83264",
+      "longitude": "-4.17425"
+    },
+    "phone": {
+      "number": "02 98 87 92 67"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-07T00:00:00+01:00",
+          "startTime": "à 17h30"
+        },
+        "end": {
+          "endDate": "2025-12-07T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lete-des-soeurs-tempete-loctudy-fr-6129810/"
+  },
+  {
+    "sheetId": "6129805",
+    "bordereau": "FMA",
+    "title": "Atelier créatif Passeur de Bulles",
+    "type": "Culturelle",
+    "description": "Atelier par Théo Calméjane, auteur de la bande dessinée Pillow man. A partir de 8 ans, sur inscription\n\nOrganisé par le Collectif des bibliothèques du Pays bigouden sud",
+    "town": "Plobannalec-Lesconil",
+    "address": "Place de la Mairie",
+    "gps": {
+      "latitude": "47.8238945",
+      "longitude": "-4.2288281"
+    },
+    "phone": {
+      "number": "02 98 82 25 55"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-10T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-10T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-creatif-passeur-de-bulles-plobannalec-lesconil-fr-6129805/"
+  },
+  {
+    "sheetId": "6129811",
+    "bordereau": "FMA",
+    "title": "Journée jeux",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Les associations Rando Loisirs et Amicale laïque vous accueillent pour une journée consacrée aux jeux de société.",
+    "town": "Loctudy",
+    "address": "Médiathèque",
+    "gps": {
+      "latitude": "47.83264",
+      "longitude": "-4.16924"
+    },
+    "phone": {
+      "number": "02 98 87 98 57"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-10T00:00:00+01:00",
+          "startTime": null
+        },
+        "end": {
+          "endDate": "2025-12-10T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/journee-jeux-loctudy-fr-6129811/"
+  },
+  {
+    "sheetId": "6129823",
+    "bordereau": "FMA",
+    "title": "Arts in Loc - Vide ateliers",
+    "type": "Culturelle",
+    "description": "8 artistes / artisans proposeront bijoux, peintures, sculptures, céramiques, art-textile.\nEntrée libre et gratuite.",
+    "town": "Loctudy",
+    "address": "2 Rue de Langoz",
+    "gps": {
+      "latitude": "47.8326503",
+      "longitude": "-4.1683817"
+    },
+    "phone": {
+      "number": "06 16 98 60 57"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-15T00:00:00+01:00",
+          "startTime": "à 14h30"
+        },
+        "end": {
+          "endDate": "2025-12-21T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/arts-in-loc-vide-ateliers-loctudy-fr-6129823/"
+  },
+  {
+    "sheetId": "6129822",
+    "bordereau": "FMA",
+    "title": "Atelier d'écriture",
+    "type": "Culturelle",
+    "description": "Inscrivez-vous pour assister à cet atelier et exprimer votre créativité.\n\nOrganisé par la médiathèque de Loctudy",
+    "town": "Loctudy",
+    "address": "71 Rue Sébastien Guiziou",
+    "gps": {
+      "latitude": "47.83264",
+      "longitude": "-4.16924"
+    },
+    "phone": {
+      "number": "02 98 87 98 57"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-19T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-19T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-loctudy-fr-6129822/"
+  },
+  {
+    "sheetId": "6129825",
+    "bordereau": "FMA",
+    "title": "Arts in Loc - Vide ateliers",
+    "type": "Culturelle",
+    "description": "11 artistes / artisans proposeront peintures, photographies, sculptures, petits tableaux verre de mer et coquillage. \nEntrée libre et gratuite.",
+    "town": "Loctudy",
+    "address": "2 Rue de Langoz",
+    "gps": {
+      "latitude": "47.8326503",
+      "longitude": "-4.1683817"
+    },
+    "phone": {
+      "number": "06 16 98 60 57"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-08T00:00:00+01:00",
+          "startTime": "à 14h30"
+        },
+        "end": {
+          "endDate": "2025-12-14T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/arts-in-loc-vide-ateliers-loctudy-fr-6129825/"
+  },
+  {
+    "sheetId": "6129855",
+    "bordereau": "FMA",
+    "title": "Pierrot dit et chante Nougaro",
+    "type": "Musique",
+    "description": "L'ivre d'amour et de mots\nAu piano Jean-Gilbert Sévilla.\nSur réservation - Participation au chapeau",
+    "town": "Penmarch",
+    "address": "Bar Chez Cathy",
+    "gps": {
+      "latitude": "47.8182697",
+      "longitude": "-4.3778156"
+    },
+    "phone": {
+      "number": "02 98 58 62 31"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-28T00:00:00+01:00",
+          "startTime": "à 16h00"
+        },
+        "end": {
+          "endDate": "2025-12-28T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/pierrot-dit-et-chante-nougaro-penmarch-fr-6129855/"
+  },
+  {
+    "sheetId": "6129820",
+    "bordereau": "FMA",
+    "title": "Samedis des histoires",
+    "type": "Culturelle",
+    "description": "En compagnie de l’association Lire et Faire Lire, venez assister à des lectures pour des enfants de 3 à 7 ans.\n\nOrganisé par la médiathèque de Loctudy",
+    "town": "Loctudy",
+    "address": "71 Rue Sébastien Guiziou",
+    "gps": {
+      "latitude": "47.8327175",
+      "longitude": "-4.1694478"
+    },
+    "phone": {
+      "number": "02 98 87 98 57"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-20T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2025-12-20T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/samedis-des-histoires-loctudy-fr-6129820/"
+  },
+  {
+    "sheetId": "6129818",
+    "bordereau": "FMA",
+    "title": "Atelier d'art floral",
+    "type": "Nature et détente",
+    "description": "Les participants à l'atelier devront ramener des branches de sapin, du bois mort et des cyclamens.\nDès 15 ans, réservation conseillée",
+    "town": "Loctudy",
+    "address": "Rue du Suler",
+    "gps": {
+      "latitude": "47.84122",
+      "longitude": "-4.19665"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-21T00:00:00+01:00",
+          "startTime": "à 14h30"
+        },
+        "end": {
+          "endDate": "2025-12-21T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-dart-floral-loctudy-fr-6129818/"
+  },
+  {
+    "sheetId": "6129872",
+    "bordereau": "FMA",
+    "title": "Jeu de piste - L'enquête de Noël - 7 ans et plus",
+    "type": "Culturelle",
+    "description": "C’est Noël à Kerazan ! Comme chaque année, Joseph-Georges Astor, le propriétaire, accueille des enfants orphelins pour leur faire vivre un Noël magique. Joseph-Georges a fait une liste de cadeaux de Noël pour les enfants mai elle a disparu. Aide-le à refaire la liste avant qu’il ne soit trop tard.\nEn continu – Sans réservation – Compris dans le billet d’entrée",
+    "town": "Loctudy",
+    "address": "Rue du Suler",
+    "gps": {
+      "latitude": "47.84122",
+      "longitude": "-4.19665"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-21T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2025-12-23T23:59:59+01:00"
+        }
+      },
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-26T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2025-12-30T23:59:59+01:00"
+        }
+      },
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2026-01-02T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2026-01-04T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/jeu-de-piste-lenquete-de-noel-7-ans-et-plus-loctudy-fr-6129872/"
+  },
+  {
+    "sheetId": "6129869",
+    "bordereau": "FMA",
+    "title": "Concert - Chorale La Chansonnerie",
+    "type": "Musique",
+    "description": "Le répertoire est varié : classique, variété, jazz.\nLibre participation - Réservation obligatoire.",
+    "town": "Penmarch",
+    "address": "Bar chez Cathy",
+    "gps": {
+      "latitude": "47.8182263",
+      "longitude": "-4.3778370"
+    },
+    "phone": {
+      "number": "02 98 58 62 31"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-20T00:00:00+01:00",
+          "startTime": "à 16h30"
+        },
+        "end": {
+          "endDate": "2025-12-20T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-la-chansonnerie-penmarch-fr-6129869/"
+  },
+  {
+    "sheetId": "6129873",
+    "bordereau": "FMA",
+    "title": "Jeu de piste - Où sont les rennes du Père-Noël - 3 ans et plus",
+    "type": "Culturelle",
+    "description": "C’est Noël à Kerazan ! Comme chaque année, Joseph-Georges Astor, le propriétaire, accueille des enfants orphelins pour leur faire vivre un Noël magique. Joseph-Georges a fait une liste de cadeaux de Noël pour les enfants mai elle a disparu. Aide-le à refaire la liste avant qu’il ne soit trop tard.\nEn continu – Sans réservation – Compris dans le billet d’entrée",
+    "town": "Loctudy",
+    "address": "Rue du Suler",
+    "gps": {
+      "latitude": "47.84122",
+      "longitude": "-4.19665"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-21T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2025-12-23T23:59:59+01:00"
+        }
+      },
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2025-12-26T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2025-12-30T23:59:59+01:00"
+        }
+      },
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2026-01-02T00:00:00+01:00",
+          "startTime": "à 13h00"
+        },
+        "end": {
+          "endDate": "2026-01-04T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/jeu-de-piste-ou-sont-les-rennes-du-pere-noel-3-ans-et-plus-loctudy-fr-6129873/"
   }
 ]
