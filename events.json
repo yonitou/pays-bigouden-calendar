@@ -1450,35 +1450,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979116/"
   },
   {
-    "sheetId": "5979113",
-    "bordereau": "FMA",
-    "title": "Atelier - Création et décoration de noël",
-    "type": "Autres Evènements",
-    "description": "Illuminez les fêtes par vos pièces chaleureuses, Fabriquez des décorations de Noël qui vous ressemblent\n\nRéservation obligatoire",
-    "town": "Pont-l'Abbé",
-    "address": "22 Place Gambetta",
-    "gps": {
-      "latitude": "47.86458",
-      "longitude": "-4.22269"
-    },
-    "phone": {
-      "number": "02 98 66 83 51"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-04T00:00:00+01:00",
-          "startTime": "à 18h30"
-        },
-        "end": {
-          "endDate": "2025-12-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-et-decoration-de-noel-pont-labbe-fr-5979113/"
-  },
-  {
     "sheetId": "5979117",
     "bordereau": "FMA",
     "title": "Atelier création d’objets “Hygge”",
@@ -2057,35 +2028,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/braderie-du-secours-populaire-penmarch-fr-5994189/"
-  },
-  {
-    "sheetId": "6000455",
-    "bordereau": "FMA",
-    "title": "Atelier créations de Noël avec Sophie Jamelot",
-    "type": "Sports et loisirs",
-    "description": "L’artiste Sophie Jamelot expose actuellement ses oeuvres dans le café-librairie, également animatrice artistique, elle vous propose un atelier sur le thème de Noël, Sophie vous accompagnera dans la réalisation d’une carte de vœux à pampilles en papier pleine de poésie…\n\nCet atelier s’adresse à des adultes et adolescents (à partir de 14 ans) et ne requière pas de compétences artistiques particulières!\n\nMatériel fourni - 8 personnes maximum.\nInscription  sur le site de la librairie.",
-    "town": "Guilvinec",
-    "address": "1 Rue Jean Baudry",
-    "gps": {
-      "latitude": "47.7964672",
-      "longitude": "-4.2803449"
-    },
-    "phone": {
-      "number": "02 98 59 94 25"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-04T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creations-de-noel-avec-sophie-jamelot-guilvinec-fr-6000455/"
   },
   {
     "sheetId": "6015560",
@@ -2827,35 +2769,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/humour-yann-guillarme-libre-guilvinec-fr-6071903/"
-  },
-  {
-    "sheetId": "6076318",
-    "bordereau": "FMA",
-    "title": "Générations numériques : Information, fake news et théorie du complot",
-    "type": "Autres Evènements",
-    "description": "Dans une période de défiance médiatique accrue, comment accompagner les jeunes et développer leur discernement et esprit critique ?\nAtelier ludique, animé par l’association Synapses.\nAtelier ouvert à tous – conseillé aux parents accompagnés ou pas de leurs adolescents",
-    "town": "Peumérit",
-    "address": "1 Hent Pont Iliz",
-    "gps": {
-      "latitude": "47.9396833",
-      "longitude": "-4.3089579"
-    },
-    "phone": {
-      "number": "02 98 54 49 04"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-04T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2025-12-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/generations-numeriques-information-fake-news-et-theorie-du-complot-peumerit-fr-6076318/"
   },
   {
     "sheetId": "6077958",
@@ -4155,7 +4068,7 @@
     "bordereau": "FMA",
     "title": "Concert - Dremmwel",
     "type": "Musique",
-    "description": "En concert chez Cathy, le groupe de musique bretonne Dremmwel fêtera ses 40 ans de scène en 2026 !\n\nNombre de places limité - Sur réservation  - libre participation.",
+    "description": "De retour d'une tournée allemande particulièrement réussie, Dremmwel jouera son dernier concert de l'année Chez Cathy, un lieu que le groupe affectionne particulièrement pour son originalité, sa simplicité et l' accueil chaleureux qui gagne le cœur d'un public toujours réceptif. \nAu fil du temps, Dremmwel s'est produit sur une quantité de scènes parfois insolites. Les musiciens qui se sont succcédés n'ont eu de cesse par de nombreux projets de promouvoir ce que la musique bretonne renferme de plus intime. \nLe concert en forme de carnet de route témoigne d'un esprit créatif et s'inscrit, avec la complicité d'artistes de latitudes diverses, dans une démarche prompte à laisser courir son imagination.\n\nSur réservation par téléphone, places limitées.",
     "town": "Penmarch",
     "address": "396 rue Lucien Le Lay",
     "gps": {
@@ -5577,33 +5490,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/chantier-nature-collaboratif-tremeoc-fr-6127634/"
   },
   {
-    "sheetId": "6127646",
-    "bordereau": "FMA",
-    "title": "Téléthon - Randonnée pédestre",
-    "type": "Autres Evènements",
-    "description": "Marche au profit du Téléthon.\nPlusieurs circuits seront proposés en fonction des possibilités de chacun et chacune.\n\nOrganisée par l'association Saint-Jean Sports et Losirs.",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Place de la République",
-    "gps": {
-      "latitude": "47.86627",
-      "longitude": "-4.28105"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-04T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-randonnee-pedestre-saint-jean-trolimon-fr-6127646/"
-  },
-  {
     "sheetId": "6127640",
     "bordereau": "FMA",
     "title": "Spectacle enfant - Les lutins farceurs et le mystère du père Noël disparu",
@@ -6066,7 +5952,7 @@
   {
     "sheetId": "6129823",
     "bordereau": "FMA",
-    "title": "Arts in Loc - Vide ateliers",
+    "title": "Arts in Loc - Noël en Galerie",
     "type": "Culturelle",
     "description": "8 artistes / artisans proposeront bijoux, peintures, sculptures, céramiques, art-textile.\nEntrée libre et gratuite.",
     "town": "Loctudy",
@@ -6126,7 +6012,7 @@
     "bordereau": "FMA",
     "title": "Arts in Loc - Vide ateliers",
     "type": "Culturelle",
-    "description": "11 artistes / artisans proposeront peintures, photographies, sculptures, petits tableaux verre de mer et coquillage. \nEntrée libre et gratuite.",
+    "description": "11 artistes proposeront photographies, peintures / dessins sur differents supports avec differentes techniques, collages verre de mer et coquillages, sculptures,....\n\nEntrée libre et gratuite.",
     "town": "Loctudy",
     "address": "2 Rue de Langoz",
     "gps": {
@@ -6357,5 +6243,148 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/jeu-de-piste-ou-sont-les-rennes-du-pere-noel-3-ans-et-plus-loctudy-fr-6129873/"
+  },
+  {
+    "sheetId": "6132112",
+    "bordereau": "FMA",
+    "title": "Matinée Jeux",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Matinée Jeux placée sous le signe de la convivialité, de la découverte et du partage. \nOuverte à tous, novices et confirmés, à partir de 4 ans.\nIl est possible d’apporter ses propres jeux.",
+    "town": "Plonéour-Lanvern",
+    "address": "Place de la mairie",
+    "gps": {
+      "latitude": "47.903",
+      "longitude": "-4.28264"
+    },
+    "phone": {
+      "number": "06 70 37 15 33"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-23T00:00:00+01:00",
+          "startTime": "à 09h00"
+        },
+        "end": {
+          "endDate": "2025-12-23T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/matinee-jeux-ploneour-lanvern-fr-6132112/"
+  },
+  {
+    "sheetId": "6132123",
+    "bordereau": "FMA",
+    "title": "Arrivée du Père Noël en bateau",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Arrivée du Père Noël au ponton de la SNSM !",
+    "town": "Treffiagat",
+    "address": "Avenue du port",
+    "gps": {
+      "latitude": "47.7940402",
+      "longitude": "-4.2774821"
+    },
+    "phone": {
+      "number": "02 98 58 14 47"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-19T00:00:00+01:00",
+          "startTime": "à 18h00"
+        },
+        "end": {
+          "endDate": "2025-12-19T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/arrivee-du-pere-noel-en-bateau-treffiagat-fr-6132123/"
+  },
+  {
+    "sheetId": "6132129",
+    "bordereau": "FMA",
+    "title": "Chantier participatif - récolte d'osier à Saint-Vio",
+    "type": "Nature et détente",
+    "description": "Depuis quatre ans, un parcours artistique de 2 km accessible depuis la Maison de la Baie d'Audierne se construit.\nLes oeuvres qui le jalonnent sont intégrées dans le paysage et ne créent pas de dérangement.\nElles sont pour la plupart en osier : un matériau local et 100% recyclable.\n\nAfin de les entretenir ou d'en créer de nouvelles, disposer d'osier est indispensable !\nLa CCPBS propose un chantier participatif de récolte de l'osier et d'entretien de l'oseraie de Saint-Vio.\nCette ancienne oseraie avait été abandonnée au moment de la modernisation de l'agriculture.\nElle a commencé à être restaurée en 2021 dans le cadre du projet \"Art et Nature\".\n\nS'équiper de bottes et prévoir une paire de gants et un sécateur.\nS'ils le souhaitent, les participants pourront repartir avec une petite botte d'osier. \nLe chantier sera précédé d'une présentation du lieu et des enjeux de conservation du site.\n\nRéservation indispensable par téléphone.",
+    "town": "Tréguennec",
+    "address": "65 route de St-Vio",
+    "gps": {
+      "latitude": "47.8696778",
+      "longitude": "-4.3373874"
+    },
+    "phone": {
+      "number": "07 88 09 14 01"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-10T00:00:00+01:00",
+          "startTime": "à 14h00"
+        },
+        "end": {
+          "endDate": "2025-12-10T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/chantier-participatif-recolte-dosier-a-saint-vio-treguennec-fr-6132129/"
+  },
+  {
+    "sheetId": "6132132",
+    "bordereau": "FMA",
+    "title": "Téléthon - Tournoi de Galoche",
+    "type": "Sports et loisirs",
+    "description": "Dans le cadre du Téléthon, le club de Galoche de Plomeur organise un tournoi en binôme.\n\nOuvert à toutes et à tous.\n\nDébut des inscriptions sur place à 14h.",
+    "town": "Plomeur",
+    "address": "Rue Isidore Le Garo",
+    "gps": {
+      "latitude": "47.8403015",
+      "longitude": "-4.2799204"
+    },
+    "phone": {
+      "number": "06 64 00 95 75"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-06T00:00:00+01:00",
+          "startTime": "à 14h00"
+        },
+        "end": {
+          "endDate": "2025-12-06T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/telethon-tournoi-de-galoche-plomeur-fr-6132132/"
+  },
+  {
+    "sheetId": "6132130",
+    "bordereau": "FMA",
+    "title": "Les rendez-vous nature - À la découverte des dunes et paluds bigoudènes",
+    "type": "Nature et détente",
+    "description": "Au programme : reconnaissance des roches locales et de leurs secrets, lecture des paysages de la baie d'Audierne à travers une approche artistique, observation des oiseaux et de leurs chants.\n\nNous vous conseillons de porter des chaussures adaptées à la marche, de prendre un vêtement adapté à la météo et des jumelles. Les chiens ne sont pas autorisés pendant les sorties nature.\n\nOrganisé par la CCPBS.\n\nSur réservation par mail.",
+    "town": "Tréguennec",
+    "address": "Route de Saint-Vio",
+    "gps": {
+      "latitude": "47.8697799",
+      "longitude": "-4.3374418"
+    },
+    "phone": null,
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-13T00:00:00+01:00",
+          "startTime": "à 14h30"
+        },
+        "end": {
+          "endDate": "2025-12-13T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-a-la-decouverte-des-dunes-et-paluds-bigoudenes-treguennec-fr-6132130/"
   }
 ]
