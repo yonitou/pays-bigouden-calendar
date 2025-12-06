@@ -86,10 +86,13 @@ function transformHwSheetToEvent(hwSheet, url) {
     type: hwSheet.type,
     description: hwSheet.description,
     town: hwSheet.locality,
-    address: hwSheet.contacts?.establishment?.address1 ||
+    address:
+      hwSheet.contacts?.establishment?.address1 ||
       hwSheet.contacts?.establishment?.address2 ||
       (hwSheet.contacts?.establishment?.zipCode
-        ? `${hwSheet.contacts.establishment.zipCode} ${hwSheet.contacts.establishment.commune || ''}`
+        ? `${hwSheet.contacts.establishment.zipCode} ${
+            hwSheet.contacts.establishment.commune || ""
+          }`
         : null),
     gps: hwSheet.geolocations
       ? {
@@ -125,15 +128,21 @@ function isEventTooLong(event) {
     const start = d.start?.startDate;
     const end = d.end?.endDate;
     if (start && end) {
-      const durationDays = (new Date(end) - new Date(start)) / (1000 * 60 * 60 * 24);
+      const durationDays =
+        (new Date(end) - new Date(start)) / (1000 * 60 * 60 * 24);
       if (durationDays > 31) return true; // Une période de plus d'un mois
     }
   }
 
   // Aussi vérifier l'écart entre première et dernière date
-  const dates = event.dates.map(d => d.start?.startDate).filter(Boolean).sort();
+  const dates = event.dates
+    .map((d) => d.start?.startDate)
+    .filter(Boolean)
+    .sort();
   if (dates.length >= 2) {
-    const spanDays = (new Date(dates[dates.length - 1]) - new Date(dates[0])) / (1000 * 60 * 60 * 24);
+    const spanDays =
+      (new Date(dates[dates.length - 1]) - new Date(dates[0])) /
+      (1000 * 60 * 60 * 24);
     if (spanDays > 31) return true;
   }
 
