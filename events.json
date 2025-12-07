@@ -1,34 +1,5 @@
 [
   {
-    "sheetId": "5426397",
-    "bordereau": "FMA",
-    "title": "Concert - Stéphane",
-    "type": "Musique",
-    "description": "Auteure compositrice et interprète à l’univers musical pop teinté de rock et d’électro.\nDernière date de la tournée !\n\nRéservation sur : FNAC, BilletRéduc, Coeur de scène, BilletWeb. Tarif en fonction du site.",
-    "town": "Guilvinec",
-    "address": "Rue Méjour Bihan",
-    "gps": {
-      "latitude": "47.7972130",
-      "longitude": "-4.2840750"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-stephane-guilvinec-fr-5426397/"
-  },
-  {
     "sheetId": "5426444",
     "bordereau": "FMA",
     "title": "Atelier de cuisine à l'Hatelier - Menu de Fêtes",
@@ -470,35 +441,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-plozevet-fr-5773096/"
-  },
-  {
-    "sheetId": "5774233",
-    "bordereau": "FMA",
-    "title": "Repair café",
-    "type": "Autres Evènements",
-    "description": "Venez apprendre à réparer et à entretenir votre vélo et le petit matériel électroménager lors du Repair Café, animé par la réserve civique communale.",
-    "town": "Combrit",
-    "address": "5 Hent Ty Plouz",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 56 33 14"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/repair-cafe-combrit-fr-5774233/"
   },
   {
     "sheetId": "5882469",
@@ -2001,35 +1943,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-philippe-manoeuvre-penmarch-fr-5994147/"
   },
   {
-    "sheetId": "5994189",
-    "bordereau": "FMA",
-    "title": "Braderie du Secours Populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Vente de vêtements, jouets, meubles, livres, vaisselle… Entrée gratuite, accessible à tous.",
-    "town": "Penmarch",
-    "address": "165 rue Lucien Le Lay",
-    "gps": {
-      "latitude": "47.8173620",
-      "longitude": "-4.3768930"
-    },
-    "phone": {
-      "number": "06 58 25 94 92"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/braderie-du-secours-populaire-penmarch-fr-5994189/"
-  },
-  {
     "sheetId": "6015560",
     "bordereau": "FMA",
     "title": "Spectacle - Marion Mezadorian - Craquage",
@@ -2144,35 +2057,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/comedie-lart-du-couple-guilvinec-fr-6015572/"
-  },
-  {
-    "sheetId": "6021031",
-    "bordereau": "FMA",
-    "title": "Marche aquatique",
-    "type": "Sports et loisirs",
-    "description": "Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une séance d’une heure de marche aquatique les vendredis et/ou samedis matin.\nComment se déroule la séance :\nÉchauffement sur le bord de mer avant de se lancer dans l’eau. Immerger jusqu’au torse environ et les pieds dans le sable, vous allez marcher, faire des pas chassés, des montées de genoux, le tout dans l’eau de mer avec un paysage splendide à perte de vue. C’est donc un sport d’endurance, tout en étant assez doux pour le corps.\n\nLes bienfaits de la marche aquatique :\n– fait travailler le cardio\n– améliore la circulation sanguine\n– aide à perdre du poids\n– lutte contre le stress grâce à l’oxygénation des poumons et des muscles\n\nEn suivant les conseils de Lucie et Yann, nos moniteurs diplômés, vous passerez un moment convivial tout en faisant du sport en douceur.\n\nHoraire : le vendredi ou samedi matin selon les marées (mardi ou vendredi en février)\n\nUne balade d’une heure, entrecoupée d’exercices physiques et de mouvements de relaxation.\nNous prêtons la combi, mais il faut des chaussons, gants et cagoule.\nRendez-vous 30 minutes avant le début de la séance.\nSur réservation. Places limitées à 20 personnes.",
-    "town": "Plobannalec-Lesconil",
-    "address": "2 Rue Victor Hugo",
-    "gps": {
-      "latitude": "47.7982684",
-      "longitude": "-4.2130273"
-    },
-    "phone": {
-      "number": "02 98 87 89 43"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h30"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-aquatique-plobannalec-lesconil-fr-6021031/"
   },
   {
     "sheetId": "6021030",
@@ -2461,35 +2345,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-jazz-in-loc-loctudy-fr-6044526/"
   },
   {
-    "sheetId": "6044536",
-    "bordereau": "FMA",
-    "title": "Vente de livres",
-    "type": "Culturelle",
-    "description": "Livres de poche, romans, bd, romans policiers et littérature jeunesse seront mis en vente à petits prix.\n\nOrganisée par la médiathèque.",
-    "town": "Combrit",
-    "address": "2 rue du Stade",
-    "gps": {
-      "latitude": "47.8839662",
-      "longitude": "-4.1559551"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/vente-de-livres-combrit-fr-6044536/"
-  },
-  {
     "sheetId": "6045460",
     "bordereau": "FMA",
     "title": "Vide jardin de printemps",
@@ -2604,35 +2459,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/ensemble-matheus-les-maitres-du-baroque-plozevet-fr-6061302/"
-  },
-  {
-    "sheetId": "6061324",
-    "bordereau": "FMA",
-    "title": "Fête de Noël",
-    "type": "Manifestation commerciale",
-    "description": "Fête de Noël dans un lieu atypique avec la présence d'artisans et d'associations locaux. \nVenez découvrir la magie de Noël dans ce lieu chargé d'histoire.\nAu programme : \n- Maquillage et pêche à la ligne \n- Tombola gratuite des artisans \n- Kouign et buvette avec vin chaud\n\n\n\nOrganisé par le comité d'animation du Guilvinec",
-    "town": "Guilvinec",
-    "address": "4 Allée de Kergoz",
-    "gps": {
-      "latitude": "47.8012629",
-      "longitude": "-4.2814715"
-    },
-    "phone": {
-      "number": "06 63 92 40 23"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/fete-de-noel-guilvinec-fr-6061324/"
   },
   {
     "sheetId": "6061298",
@@ -3279,35 +3105,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-120-ans-de-la-laicite-pont-labbe-fr-6101836/"
   },
   {
-    "sheetId": "6101840",
-    "bordereau": "FMA",
-    "title": "Telethon - Grande soirée diner cabaret",
-    "type": "Culturelle",
-    "description": "Au profit du TELETHON .\nVenez passer une bonne soirée tout en faisant une bonne action .\nAu menu :\nPâté de saumon en croûte\nMoelleux de chapon / pommes salardaises\nCharlotte aux fraises\nApéritif et café offerts\n\nAnimé par l'association Ar Vaskodenn de l'Île-Tudy\n\nRéservation avant le 28 Novembre par téléphone\n\nSoirée organisée par Force T",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Mstislav Rostropovitch",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "06 06 48 68 41"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 19h30"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-grande-soiree-diner-cabaret-pont-labbe-fr-6101840/"
-  },
-  {
     "sheetId": "5772897",
     "bordereau": "FMA",
     "title": "Festival au pré",
@@ -3391,35 +3188,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-des-petits-lutins-combrit-fr-6125004/"
-  },
-  {
-    "sheetId": "6125005",
-    "bordereau": "FMA",
-    "title": "Conférence médicale - Les pathologies digestives hautes - Dr Kamal Gergès",
-    "type": "Autres Evènements",
-    "description": "Conférence médicale par le Dr Kamal Gergès, chirurgien : les pathologies digestives hautes (œsophage, estomac, reflux gastro-œsophagien).\n\nOrganisée par l'association L'île aux idées.",
-    "town": "Île-Tudy",
-    "address": "13 rue Principale",
-    "gps": {
-      "latitude": "47.8440964",
-      "longitude": "-4.1684632"
-    },
-    "phone": {
-      "number": "06 10 15 69 03"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/conference-medicale-les-pathologies-digestives-hautes-dr-kamal-gerges-ile-tudy-fr-6125005/"
   },
   {
     "sheetId": "6125006",
@@ -3861,35 +3629,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-treffiagat-fr-6125027/"
   },
   {
-    "sheetId": "6125028",
-    "bordereau": "FMA",
-    "title": "Téléthon - Activités sportives",
-    "type": "Autres Evènements",
-    "description": "De Combrit à Pont-l’Abbé, à  pied ou à vélo… Ensemble, combattons la maladie !\nParticipons aux activités pour aider les chercheurs.\n\nAu départ de la Mairie :\n\n- 9h : 12 km marche \n- 9h30 : 30 km VTT (casque obligatoire)\n- 10h : 12 km marche nordique\n- 10h : 12 km marche rapide\n- 10h30 : 12 km course à pied\n\nAu départ du parking de la gare :\n\n- 10h30 : 5,5 km marche\n- 11h : 5,5 km course à pied\n- 11h : 5,5 km marche rapide\n- 11h : 5.5 km marche nordique\n- 11h15 : 5,5 km vélo (casque obligatoire)\n\nArrivées et regroupements des sportifs au Triskell à Pont-l'Abbé à partir de 12h.\nPossibilité de restauration à 12h sur réservation (10€ le repas).\nTirage de lots de cadeaux à gagner !\nPot de l'amitié offert par la commune de Combrit.\nNavette retour offerte avec les autocars Le Cœur à 12h45 ou 14h30 (transport des sacs et retour des vélos assurés).\n\nLes participants sont tenus de respecter le code de la route.",
-    "town": "Combrit",
-    "address": "8 Rue du Général de Gaulle",
-    "gps": {
-      "latitude": "47.8870587",
-      "longitude": "-4.1548703"
-    },
-    "phone": {
-      "number": "07 64 01 81 90"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-activites-sportives-combrit-fr-6125028/"
-  },
-  {
     "sheetId": "6125029",
     "bordereau": "FMA",
     "title": "Noël à Tréméoc",
@@ -4064,33 +3803,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
   },
   {
-    "sheetId": "6125038",
-    "bordereau": "FMA",
-    "title": "Opération déstockage au Secours populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Vente de vêtements, objets, livres.",
-    "town": "Loctudy",
-    "address": "203 rue du Gén de Penfentenyo",
-    "gps": {
-      "latitude": "47.8311205",
-      "longitude": "-4.1824650"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/operation-destockage-au-secours-populaire-loctudy-fr-6125038/"
-  },
-  {
     "sheetId": "6125037",
     "bordereau": "FMA",
     "title": "Contes Le Café de l'Excelsior",
@@ -4118,35 +3830,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/contes-le-cafe-de-lexcelsior-penmarch-fr-6125037/"
-  },
-  {
-    "sheetId": "6125040",
-    "bordereau": "FMA",
-    "title": "Café philo - Suis-je le produit de mon passé ?",
-    "type": "Culturelle",
-    "description": "Café philo \nAncien professeur de philosophie à Quimper et Concarneau, Jean-Yves Boudehen anime chaque mois un café lecture à la médiathèque.\nConvaincu que « La philosophie est une chose trop importante pour être réservée aux élèves de Terminale », il continue à faire connaître cette discipline, avec les lecteurs de la médiathèque mais aussi avec l’association « Les amis de la philosophie » de Combrit. Cette séance tentera de répondre à la question suivante : « Suis-je le produit de mon passé ? »\nGratuit / Sur inscription\n\nOrganisé par ma médiathèque Julien Gracq",
-    "town": "Pont-l'Abbé",
-    "address": "Rue des Carmes",
-    "gps": {
-      "latitude": "47.86542",
-      "longitude": "-4.21982"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cafe-philo-suis-je-le-produit-de-mon-passe-pont-labbe-fr-6125040/"
   },
   {
     "sheetId": "6125044",
@@ -4643,45 +4326,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-docs-perou-des-civilisations-et-des-hommes-guilvinec-fr-6125057/"
   },
   {
-    "sheetId": "6125059",
-    "bordereau": "FMA",
-    "title": "Téléthon - Animations diverses",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "A partir de 9 H vente de crêpes, gâteaux, café, thé, cartes de vœux, d'anniversaire, boule de Noël... Les enfants ne sont pas oubliés avec des séances de maquillage, extension, tresses, l'heure du conte, démonstration de hip hop Et à partir de 14 H randonnée pédestre, concours de galoche, chants de marins avec les voix de la mer et le tirage de la tombola \n\nCes festivités se clôtureront par un Karaoké au bar resto rapide Les Zigues avec le vin chaud et le jus de pommes au profit du Téléthon.",
-    "town": "Pouldreuzic",
-    "address": "29710 Pouldreuzic",
-    "gps": {
-      "latitude": "47.9545165",
-      "longitude": "-4.3610249"
-    },
-    "phone": {
-      "number": "06 98 23 70 47"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-06T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2026-01-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-animations-diverses-pouldreuzic-fr-6125059/"
-  },
-  {
     "sheetId": "6125632",
     "bordereau": "FMA",
     "title": "Lecture partage",
@@ -5088,62 +4732,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127651/"
   },
   {
-    "sheetId": "6127652",
-    "bordereau": "FMA",
-    "title": "Concert - Chemins autour du Requiem de Mozart et Sussmayer",
-    "type": "Musique",
-    "description": "La chorale Tournesol, dirigée par Bernard Kalonn, donnera un concert sur le thème : \" Chemins autour du Requiem de Mozart et Sussmayer \".\n\nConcert en deux parties :\nGospel et chants africains par le groupe Goldspell.\nPour le Requiem revisité de Mozart et Sussmayer, les chanteurs sont accompagnés de 3 musiciens (percussion, guitare et accordéon). Les amateurs du chœur Tournesol chantent A capella et sans partition.\n\nSans réservation.",
-    "town": "Combrit",
-    "address": "21 rue du Général de Gaulle",
-    "gps": {
-      "latitude": "47.8653133",
-      "longitude": "-4.2208303"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-tournesol-combrit-fr-6127652/"
-  },
-  {
-    "sheetId": "6127656",
-    "bordereau": "FMA",
-    "title": "Festival Très Tôt Théâtre - Souris ! - Dès 4-5 ans",
-    "type": "Culturelle",
-    "description": "\" Souris ! \" est un spectacle qui explore les deux facettes d'un même événement : la perte de la première dent de lait.\nD’un côté, le point d’un vue d’un enfant : ses craintes, son quotidien bousculé par cette dent qui bouge. De l’autre, l’univers effervescent des « souris à dent » où un jeune souriceau reçoit sa première mission : récupérer sous l’oreiller de l’enfant sa toute première dent. En recto verso, ces deux personnages vivront, sous nos yeux, un moment clef de leurs vies d’enfants qui contribuera à les faire grandir. A travers un théâtre gestuel et visuel mêlé à l’atmosphère muséale, le public sera guidé au cœur du petit mais non moins incroyable musée des « souris à dent ».\n\nDans un dispositif bi-frontal, les œuvres exposées prendront vie grâce aux interprètes qui déploieront un univers visuel poétique et décalé. \" SOURIS ! \" est une invitation à célébrer ces « petits riens » du quotidien qui paradoxalement, par leur simplicité, nous transportent vers l’universel.\n\nDans le cadre du festival Théâtre à tout âge, représentation du spectacle « Souris » de la Cie Toutito Teatro.",
-    "town": "Combrit",
-    "address": "2 Rue du Stade",
-    "gps": {
-      "latitude": "47.8837844",
-      "longitude": "-4.1559748"
-    },
-    "phone": {
-      "number": "02 98 51 94 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/festival-tres-tot-theatre-souris-des-4-5-ans-combrit-fr-6127656/"
-  },
-  {
     "sheetId": "6127623",
     "bordereau": "FMA",
     "title": "Petit Marché de Noël",
@@ -5171,35 +4759,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/petit-marche-de-noel-pont-labbe-fr-6127623/"
-  },
-  {
-    "sheetId": "6127626",
-    "bordereau": "FMA",
-    "title": "Petit Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Marché avec 2  chalets composé du comité d'animation de Pors Moro avec vente d'objets de décoration, boissons, crêpes et kouigns\n\nOrganisé par la mairie et  le comité d'animation de Pors Moro",
-    "town": "Pont-l'Abbé",
-    "address": "Place de la République",
-    "gps": {
-      "latitude": "47.86511",
-      "longitude": "-4.22419"
-    },
-    "phone": {
-      "number": "02 98 87 02 13"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/petit-marche-de-noel-pont-labbe-fr-6127626/"
   },
   {
     "sheetId": "6127630",
@@ -5345,33 +4904,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-de-pont-labbe-pont-labbe-fr-6127632/"
-  },
-  {
-    "sheetId": "6127634",
-    "bordereau": "FMA",
-    "title": "Chantier nature collaboratif",
-    "type": "Nature et détente",
-    "description": "Début 2026, 250 arbres seront plantés par les écoliers de Tréméoc et Pont-l’Abbé.\nPour que l’opération, menée par des enfants de 9,10 et 11 ans, puisse se faire dans de bonnes conditions, les habitants sont invités à préparer le chantier !\n\nPrévoir tenue de travail (chaude et ne craignant pas la boue), s’équiper de bottes et prévoir une paire de gants et une bêche.",
-    "town": "Tréméoc",
-    "address": "29120 Tréméoc",
-    "gps": {
-      "latitude": "47.8811979",
-      "longitude": "-4.2283948"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/chantier-nature-collaboratif-tremeoc-fr-6127634/"
   },
   {
     "sheetId": "6127640",
@@ -5631,35 +5163,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
-  },
-  {
-    "sheetId": "6129804",
-    "bordereau": "FMA",
-    "title": "Bébés lecteurs",
-    "type": "Culturelle",
-    "description": "“Noël”. Séance animée par Marlène Mussard. \n\nSur réservation\nOrganisé par la médiathèque de Loctudy",
-    "town": "Loctudy",
-    "address": "71 Rue Sébastien Guiziou",
-    "gps": {
-      "latitude": "47.8327175",
-      "longitude": "-4.1694478"
-    },
-    "phone": {
-      "number": "02 98 87 98 57"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/bebes-lecteurs-loctudy-fr-6129804/"
   },
   {
     "sheetId": "6129807",
@@ -6216,35 +5719,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/chantier-participatif-recolte-dosier-a-saint-vio-treguennec-fr-6132129/"
   },
   {
-    "sheetId": "6132132",
-    "bordereau": "FMA",
-    "title": "Téléthon - Tournoi de Galoche",
-    "type": "Sports et loisirs",
-    "description": "Dans le cadre du Téléthon, le club de Galoche de Plomeur organise un tournoi en binôme.\n\nOuvert à toutes et à tous.\n\nDébut des inscriptions sur place à 14h.",
-    "town": "Plomeur",
-    "address": "Rue Isidore Le Garo",
-    "gps": {
-      "latitude": "47.8403015",
-      "longitude": "-4.2799204"
-    },
-    "phone": {
-      "number": "06 64 00 95 75"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-tournoi-de-galoche-plomeur-fr-6132132/"
-  },
-  {
     "sheetId": "6132130",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - À la découverte des dunes et paluds bigoudènes",
@@ -6270,35 +5744,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-a-la-decouverte-des-dunes-et-paluds-bigoudenes-treguennec-fr-6132130/"
-  },
-  {
-    "sheetId": "6133923",
-    "bordereau": "FMA",
-    "title": "Marché de Noël créateurs de La P'tite Boîte Recyclerie",
-    "type": "Manifestation commerciale",
-    "description": "Une dizaine d' associations et de professionnels vous proposerons des créations originales réalisées à partir de matériaux recyclés (textiles,  luminaires, vitraux, cadres, etc.) et vous aurez aussi accès à l'ensemble de la boutique de la Recyclerie et des créations de l'équipe des bénévoles pour vous donner des bonnes idées de cadeaux de seconde main ( jeux, jouets, livres, dvds ,vaisselle, bijoux, savons, coussins, pochettes etc.)  \n\nOrganisé par  La P'tite Boîte Recyclerie",
-    "town": "Pont-l'Abbé",
-    "address": "Rue de Ster Vad",
-    "gps": {
-      "latitude": "47.87471",
-      "longitude": "-4.22354"
-    },
-    "phone": {
-      "number": "09 84 51 12 83"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-createurs-de-la-ptite-boite-recyclerie-pont-labbe-fr-6133923/"
   },
   {
     "sheetId": "6133925",
@@ -6415,5 +5860,266 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/vide-atelier-de-la-mairie-1ere-edition-combrit-fr-6133909/"
+  },
+  {
+    "sheetId": "6135353",
+    "bordereau": "FMA",
+    "title": "Journée portes Ouverte Braderie du Secours populaire",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
+    "town": "Plobannalec-Lesconil",
+    "address": "8 rue Jean Jaurès",
+    "gps": {
+      "latitude": "47.7982162",
+      "longitude": "-4.2165999"
+    },
+    "phone": {
+      "number": "07 86 43 68 87"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-03-28T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2026-03-28T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135353/"
+  },
+  {
+    "sheetId": "6135354",
+    "bordereau": "FMA",
+    "title": "Braderie du Secours populaire",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
+    "town": "Plobannalec-Lesconil",
+    "address": "8 rue Jean Jaurès",
+    "gps": {
+      "latitude": "47.7982162",
+      "longitude": "-4.2165999"
+    },
+    "phone": {
+      "number": "07 86 43 68 87"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2026-04-17T00:00:00+02:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2026-04-18T23:59:59+02:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/braderie-du-secours-populaire-plobannalec-lesconil-fr-6135354/"
+  },
+  {
+    "sheetId": "6135361",
+    "bordereau": "FMA",
+    "title": "Un souper de mots - Lecture musicale et théâtralisée",
+    "type": "Culturelle",
+    "description": "Les petits et grands sont conviés à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\n20h30 : lecture théâtralisée d'extraits d'ouvrages illustrant différents aspects du thème \"Villes et campagnes\" avec accompagnement musical.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
+    "town": "Saint-Jean-Trolimon",
+    "address": "29120 Saint-Jean-Trolimon",
+    "gps": {
+      "latitude": "47.8661737",
+      "longitude": "-4.2810228"
+    },
+    "phone": {
+      "number": "02 98 82 00 34"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-24T00:00:00+01:00",
+          "startTime": "à 20h30"
+        },
+        "end": {
+          "endDate": "2026-01-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-lecture-musicale-et-theatralisee-saint-jean-trolimon-fr-6135361/"
+  },
+  {
+    "sheetId": "6135359",
+    "bordereau": "FMA",
+    "title": "Journée portes Ouverte Braderie du Secours populaire",
+    "type": "Animation locale (Kermesse / Loto...)",
+    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
+    "town": "Plobannalec-Lesconil",
+    "address": "8 rue Jean Jaurès",
+    "gps": {
+      "latitude": "47.7982162",
+      "longitude": "-4.2165999"
+    },
+    "phone": {
+      "number": "07 86 43 68 87"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-31T00:00:00+01:00",
+          "startTime": "à 10h00"
+        },
+        "end": {
+          "endDate": "2026-01-31T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135359/"
+  },
+  {
+    "sheetId": "6135357",
+    "bordereau": "FMA",
+    "title": "Nuit de la lecture",
+    "type": "Autres Evènements",
+    "description": "Organisée par l'association Lire à Plobannalec-Lesconil, cet événement national.\nVenez lire vos textes ou créations sur le thème \"Villes et campagnes\"\nSoirée avec intermèdes musicaux et pot de convivialité.\nGratuit",
+    "town": "Plobannalec-Lesconil",
+    "address": "Place de la Mairie",
+    "gps": {
+      "latitude": "47.8239706",
+      "longitude": "-4.2287769"
+    },
+    "phone": {
+      "number": "02 98 82 25 55"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-23T00:00:00+01:00",
+          "startTime": null
+        },
+        "end": {
+          "endDate": "2026-01-23T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/nuit-de-la-lecture-plobannalec-lesconil-fr-6135357/"
+  },
+  {
+    "sheetId": "6135356",
+    "bordereau": "FMA",
+    "title": "Atelier soupe de mot",
+    "type": "Culturelle",
+    "description": "Vous êtes invités à une soirée chaleureuse placée sous le signe du partage, de la créativité et du plaisir de lire autour du thème « Villes et campagnes ».\nPour ouvrir la soirée, les auteurs de l’association Histoire d’écrire proposeront une animation autour de leurs albums jeunesse, suivie d’un atelier d’écriture participatif intitulé « Soupe de mots ». Les enfants et les familles seront invités à imaginer, jouer et créer des histoires inspirées du thème « Villes et campagnes ». Un moment convivial pour libérer l’imagination et découvrir les coulisses de la création littéraire.\n\nEn continu pendant la soirée\n\nDès 19h, un potage chaud et des gâteaux, préparés par les bénévoles, seront proposés au public. Chacun est également invité à apporter une gourmandise à partager. Les auteurs seront présents tout au long de la soirée pour échanger, dévoiler leurs secrets d’écriture et dédicacer leurs ouvrages.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire",
+    "town": "Saint-Jean-Trolimon",
+    "address": "29120 Saint-Jean-Trolimon",
+    "gps": {
+      "latitude": "47.8661737",
+      "longitude": "-4.2810228"
+    },
+    "phone": {
+      "number": "02 98 82 00 34"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-24T00:00:00+01:00",
+          "startTime": "à 18h30"
+        },
+        "end": {
+          "endDate": "2026-01-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-soupe-de-mot-saint-jean-trolimon-fr-6135356/"
+  },
+  {
+    "sheetId": "6135355",
+    "bordereau": "FMA",
+    "title": "Un souper de mots",
+    "type": "Culturelle",
+    "description": "Vous êtes invités à une soirée chaleureuse placée sous le signe du partage, de la créativité et du plaisir de lire autour du thème « Villes et campagnes ».\n\nÀ 18h30 — Atelier jeunesse et “Soupe de mots”\n\nPour ouvrir la soirée, les auteurs de l’association Histoire d’écrire proposeront une animation autour de leurs albums jeunesse, suivie d’un atelier d’écriture participatif intitulé « Soupe de mots ». Les enfants et les familles seront invités à imaginer, jouer et créer des histoires inspirées du thème « Villes et campagnes ». Un moment convivial pour libérer l’imagination et découvrir les coulisses de la création littéraire.\n\nEn continu pendant la soirée : \nDès 19h, un potage chaud et des gâteaux, préparés par les bénévoles, seront proposés au public. Chacun est également invité à apporter une gourmandise à partager. Les auteurs seront présents tout au long de la soirée pour échanger, dévoiler leurs secrets d’écriture et dédicacer leurs ouvrages.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
+    "town": "Saint-Jean-Trolimon",
+    "address": "29120 Saint-Jean-Trolimon",
+    "gps": {
+      "latitude": "47.8661737",
+      "longitude": "-4.2810228"
+    },
+    "phone": {
+      "number": "02 98 82 00 34"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-24T00:00:00+01:00",
+          "startTime": "à 18h30"
+        },
+        "end": {
+          "endDate": "2026-01-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-saint-jean-trolimon-fr-6135355/"
+  },
+  {
+    "sheetId": "6135358",
+    "bordereau": "FMA",
+    "title": "Un souper de mots - Lectures d'albums jeunesse",
+    "type": "Culturelle",
+    "description": "Les petits et grands sont conviés à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\nDe 18h30 à 19h15 : lectures d'extraits d'albums jeunesse des auteurs de l'association \"Histoire d'écrire\"\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
+    "town": "Saint-Jean-Trolimon",
+    "address": "29120 Saint-Jean-Trolimon",
+    "gps": {
+      "latitude": "47.8661737",
+      "longitude": "-4.2810228"
+    },
+    "phone": {
+      "number": "02 98 82 00 34"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-24T00:00:00+01:00",
+          "startTime": "à 18h30"
+        },
+        "end": {
+          "endDate": "2026-01-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-lectures-dalbums-jeunesse-saint-jean-trolimon-fr-6135358/"
+  },
+  {
+    "sheetId": "6135360",
+    "bordereau": "FMA",
+    "title": "Un souper de mots - Témoignage d'un néorural et débat sur l'installation en ruralité",
+    "type": "Culturelle",
+    "description": "Petits et grands sont conviés  à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\n20h : témoignage d'un Trolimonais sur ses motivations à migrer de la ville à la campagne et les défis auxquels il a dû faire face lors de son installation dans une commune rurale de 970 habitants.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
+    "town": "Saint-Jean-Trolimon",
+    "address": "29120 Saint-Jean-Trolimon",
+    "gps": {
+      "latitude": "47.8661737",
+      "longitude": "-4.2810228"
+    },
+    "phone": {
+      "number": "02 98 82 00 34"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2026-01-24T00:00:00+01:00",
+          "startTime": "à 18h30"
+        },
+        "end": {
+          "endDate": "2026-01-24T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-temoignage-dun-neorural-et-debat-sur-linstallation-en-ruralite-saint-jean-trolimon-fr-6135360/"
   }
 ]
