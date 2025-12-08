@@ -145,45 +145,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-5426481/"
   },
   {
-    "sheetId": "5426636",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Le traditionnel Marché de Noël de Plobannalec-Lesconil aura lieu les samedi 6 et dimanche 7 décembre et sera comme toujours organisé par le Comité de Jumelage et ses adhérents.\nCette année, 55 exposants seront présents, avec une grande diversité de stands. Les visiteurs pourront déambuler dans les allées et trouver des idées de cadeaux originaux. Objets de décoration pour la maison, produits de bouche de différents terroirs français, bijoux, produits cosmétiques, tout pour les emplettes de Noël !\nLes villes jumelées de Glienicke (Allemagne) et de Broadclyst (Royaume-Uni) seront présentes et proposeront des produits locaux.\nLe Père Noël sera bien sûr au rendez-vous, samedi à partir de 14h et dimanche à partir de\n11h. Un bel espace joliment décoré lui a été préparé pour qu’il puisse recevoir les enfants et écouter toutes leurs souhaits pour Noël. Des photos avec le Père Noël seront proposées.\nUn spectacle de magie aura lieu le dimanche à 16h. Un manège animera également ces 2\njours et des balades à poney seront organisées.\nPour régaler nos papilles, les organisateurs ont prévu : du vin chaud et du chocolat chaud\navec de bonnes brioches locales, ainsi que des crêpes, galettes-saucisses et autres kouigns !\nA ne pas négliger, samedi et dimanche, l’English Tea Time, avec thé, scones et marmelade,\nvery British !\n\nC’est donc un beau week-end aux parfums de Noël qui attend les visiteurs à Plobannalec-\nLesconil, salle de Pont-Plat.\n\nA noter : cette année, nous mettons gratuitement un stand à disposition de l’association Un\nenfant, un avenir, qui aide les enfants ou adolescents, qu'ils soient hospitalisés, en rupture\nsociale ou avec un handicap, à donner un sens à leur vie en leur apportant les clés pour qu'ils soient créateurs de leur avenir. \n\nEntrée et parking gratuits – Salle omnisports de Pont-Plat à Plobannalec-Lesconil.\n\nContact : jumelage.plobannalec.lesconil@gmail.com – Denis Jeanson – 06 58 82 93 80",
-    "town": "Plobannalec-Lesconil",
-    "address": "29740 Plobannalec-Lesconil",
-    "gps": {
-      "latitude": "47.8108457",
-      "longitude": "-4.2280625"
-    },
-    "phone": {
-      "number": "06 58 82 93 80"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-06T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-plobannalec-lesconil-fr-5426636/"
-  },
-  {
     "sheetId": "5426639",
     "bordereau": "FMA",
     "title": "Le Père noël Maritime - Le Noël de Bag Leskon",
@@ -240,35 +201,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-hypnose-kent-penmarch-fr-5426785/"
-  },
-  {
-    "sheetId": "5426897",
-    "bordereau": "FMA",
-    "title": "Vente solidaire par Solidarité Bigoudène",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Solidarité Bigoudène propose le premier dimanche de chaque mois une vente solidaire à la salle polyvalente.\n\nVenez faire le plein de bonnes affaires !\nVêtements de seconde main, livres, petits meubles, vaisselle, tissus... une occasion de se faire plaisir par une action solidaire, mais aussi de réfléchir et de lutter contre la surconsommation.",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Place de la République",
-    "gps": {
-      "latitude": "47.8661118",
-      "longitude": "-4.2809984"
-    },
-    "phone": {
-      "number": "06 33 75 11 05"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/vente-solidaire-par-solidarite-bigoudene-saint-jean-trolimon-fr-5426897/"
   },
   {
     "sheetId": "5428758",
@@ -1061,35 +993,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lextraordinaire-tournee-du-facteur-maignan-pouldreuzic-fr-5969932/"
-  },
-  {
-    "sheetId": "5969971",
-    "bordereau": "FMA",
-    "title": "Concert Thaléa",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Venez découvrir un chef d’œuvre imposant du début du baroque, les Vêpres de la Bienheureuse Vierge (1610) de MONTERVERDI.\nDans sa quête d’authenticité, à travers son interprétation historique, l’Ensemble vocal TALEA met en valeur les intentions du compositeur et les tendances de l’époque. Monteverdi a écrit les « Vêpres » dans le style concertato de la seconda prattica, qui était évident dans la musique profane et les opéras du début du baroque. Le fait que Monteverdi ait choisi ce style théâtral pour la musique sacrée est central pour TALEA. Notre ambition est de réaliser cette œuvre avec tous les outils dont dispose le compositeur baroque : éclairage dramatique, mouvements dans l’espace afin de valoriser la rhétorique du texte et de la musique.\n\nN'oubliez pas de réserver vos places en ligne pour ce concert impromptu (voir le lien sous le numéro de téléphone) !",
-    "town": "Plozévet",
-    "address": "11 Rue d'Audierne",
-    "gps": {
-      "latitude": "47.98611",
-      "longitude": "-4.42699"
-    },
-    "phone": {
-      "number": "06 89 62 35 05"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 17h30"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-thalea-plozevet-fr-5969971/"
   },
   {
     "sheetId": "5972583",
@@ -2117,35 +2020,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/courts-of-chaos-festival-heavy-metal-plozevet-fr-6031550/"
   },
   {
-    "sheetId": "6031545",
-    "bordereau": "FMA",
-    "title": "Troc et puces du collège Notre Dame De Penhors",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "C'est le bon moment pour faire des bonnes affaires !\nBuvette et restauration sur place.\nGratuit moins de 12 ans.",
-    "town": "Pouldreuzic",
-    "address": "Hent Kreisker",
-    "gps": {
-      "latitude": "47.9551",
-      "longitude": "-4.3614"
-    },
-    "phone": {
-      "number": "06 68 81 55 76"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/troc-et-puces-du-college-notre-dame-de-penhors-pouldreuzic-fr-6031545/"
-  },
-  {
     "sheetId": "6031547",
     "bordereau": "FMA",
     "title": "Avant premiére : Warm up Courts Of Chaos Festival",
@@ -2173,33 +2047,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/avant-premiere-warm-up-courts-of-chaos-festival-plozevet-fr-6031547/"
-  },
-  {
-    "sheetId": "6033985",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Plongez dans la magie de Noël !\n\nMarché avec des artisans locaux \nIlluminations, ballades en calèche, vin chaud, tartiflette...\nBien évidemment le père Noël et ses lutins, et pleins de surprises  vous attendent…",
-    "town": "Landudec",
-    "address": "29710 Landudec",
-    "gps": {
-      "latitude": "48.00026",
-      "longitude": "-4.337"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-06T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-landudec-fr-6033985/"
   },
   {
     "sheetId": "6034017",
@@ -3134,62 +2981,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/festival-au-pre-plogastel-saint-germain-fr-5772897/"
   },
   {
-    "sheetId": "6125003",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Une quarantaine d’artisans, commerçants et associations sont attendus. Les visiteurs trouveront des idées cadeaux pour préparer les fêtes de fin d’année avec des produits bigoudens et de l’Ouest Cornouaille : poteries, livres, sacs, jeux de société, bijoux, peintures… Les associations penmarc’haises seront, elles aussi, bien représentées avec la SNSM, la PenmaR’Ose, Aquéduc, Bastet, les Talents Dévoilés, Passions bigoudènes et Fatou Kaba (artisanat africain).\n\nLes associations des parents d’élèves des trois écoles proposeront des boissons chaudes et des gâteaux faits maison. Sous le barnum extérieur, les incontournables crêpes et kouigns régaleront petits et grands. Les bénéfices de cette journée permettront de participer au financement des activités scolaires. Deux food trucks locaux seront également présents, les visiteurs pourront déjeuner sur place.\n\nLe Père Noël nous fera l’honneur de passer la journée à Penmarc’h ! À 15h30, place à la musique avec le bagad an Dreizherien, qui apportera une touche bretonne festive et entraînante.",
-    "town": "Penmarch",
-    "address": "Salle Cap Caval",
-    "gps": {
-      "latitude": "47.8135735",
-      "longitude": "-4.3375436"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-penmarch-fr-6125003/"
-  },
-  {
-    "sheetId": "6125004",
-    "bordereau": "FMA",
-    "title": "Marché de Noël des petits lutins",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Venez partager un moment convivial, trouver vos cadeaux et profiter de la féérie de Noël ! \n\nAu programme:\n\nMarché des petits lutins : Créations uniques réalisées avec amour par les enfants et les parents. \n\nAnimations et jeux :\n\n-Visite du père Noël à 11h et 15h\n-Photos souvenirs avec le Père Noël \n-Balades à poney durant l'après-midi\n-Pêche à la ligne\n-Espace jeux pour les enfants\n-Animations et ambiance festive pour toute la famille \n\nRestauration et boissons :\n\n-Hot dogs\n-Crêpes sucrées et douceurs gourmandes\n-Buvette : Chocolat chaud, Champagne🥂vin chaud, bières, softs, café, thé\n\nTombola : Tirage à 16h.\nNombreux lots à gagner ! \n\nOrganisé par l’APEL de l’école Notre-Dame de la Clarté.",
-    "town": "Combrit",
-    "address": "5 rue Ar Vigoudenn",
-    "gps": {
-      "latitude": "47.88724",
-      "longitude": "-4.1574"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 10h30"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-des-petits-lutins-combrit-fr-6125004/"
-  },
-  {
     "sheetId": "6125006",
     "bordereau": "FMA",
     "title": "Concert - Chorale Kanerien Kergoz",
@@ -3658,35 +3449,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/noel-a-tremeoc-tremeoc-fr-6125029/"
   },
   {
-    "sheetId": "6125032",
-    "bordereau": "FMA",
-    "title": "Arrivée du Père Noël à Penmarc'h",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "45 échoppes de Noël dont 40 artisans locaux proposeront des bijoux originaux, des décorations, de la maroquinerie, des jeux de société, des savons, des bougies.\nDe quoi faire le plein de cadeaux créés localement, un circuit court pour le père Noël qui sera présent de 9h à 18h afin de poser avec les enfants sur son trône. Deux Food Trucks seront présents sur l'esplanade. \nPrésence du Bagad An Dreizherien à 15h30.",
-    "town": "Penmarch",
-    "address": "Avenue de Skibbereen",
-    "gps": {
-      "latitude": "47.8134628",
-      "longitude": "-4.3376244"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/arrivee-du-pere-noel-a-penmarch-penmarch-fr-6125032/"
-  },
-  {
     "sheetId": "6125033",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
@@ -3801,35 +3563,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
-  },
-  {
-    "sheetId": "6125037",
-    "bordereau": "FMA",
-    "title": "Contes Le Café de l'Excelsior",
-    "type": "Culturelle",
-    "description": "Conte théâtral d'après le roman de Philippe Claudel\nLibre participation. Sur réservation",
-    "town": "Penmarch",
-    "address": "Bar Chez Cathy",
-    "gps": {
-      "latitude": "47.8183323",
-      "longitude": "-4.3777559"
-    },
-    "phone": {
-      "number": "02 98 58 62 31"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/contes-le-cafe-de-lexcelsior-penmarch-fr-6125037/"
   },
   {
     "sheetId": "6125044",
@@ -4500,64 +4233,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125637/"
   },
   {
-    "sheetId": "6125643",
-    "bordereau": "FMA",
-    "title": "Théatre : Comment qu'c'est ?",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Au profit du Téléthon - Pièce de Jérôme GUIOMACH",
-    "town": "Plozévet",
-    "address": "39 Avenue Georges Le Bail",
-    "gps": {
-      "latitude": "47.98581",
-      "longitude": "-4.42045"
-    },
-    "phone": {
-      "number": "02 98 91 30 10"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/theatre-comment-qucest-plozevet-fr-6125643/"
-  },
-  {
-    "sheetId": "6125641",
-    "bordereau": "FMA",
-    "title": "Hip Hop",
-    "type": "Danse",
-    "description": "L’association Hip hop New School organise des ateliers autour du hip hop avec au programme :\n\n14h- 15h  : atelier parents-enfants ouvert à tous\n\n15h15 : battle inter-secteur avec tous les élèves\n\nEspace café goûter\nAtelier découpage totebag\n\nOrganisé par L’association Hip hop New School",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Jules Ferry",
-    "gps": {
-      "latitude": "47.86605",
-      "longitude": "-4.21808"
-    },
-    "phone": {
-      "number": "09 53 32 21 93"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/hip-hop-pont-labbe-fr-6125641/"
-  },
-  {
     "sheetId": "6125647",
     "bordereau": "FMA",
     "title": "Soirée DJ SET",
@@ -4672,35 +4347,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/rencontre-dedicace-avec-franck-bessiere-guilvinec-fr-6125653/"
-  },
-  {
-    "sheetId": "6125656",
-    "bordereau": "FMA",
-    "title": "Telethon - concerts",
-    "type": "Musique",
-    "description": "Venez assister au concert de Gwen Aod et leur de chants de marin et des Sixties Begood au profit du Téléthon.\nBuvette, crêpes, kouigns, gâteaux ...",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Mstislav Rostropovitch",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "02 98 66 00 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-concerts-pont-labbe-fr-6125656/"
   },
   {
     "sheetId": "6127651",
@@ -5051,33 +4697,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-bigouden-light-pont-labbe-fr-6127642/"
   },
   {
-    "sheetId": "6127637",
-    "bordereau": "FMA",
-    "title": "Téléthon - Randonnée pédestre",
-    "type": "Autres Evènements",
-    "description": "Randonnée de 9 km au profit du Téléthon.\nVin chaud, café et gâteaux vous attendent, pendant et après l'effort !\n\nÉvénement organisé par l'Association de Sauvegarde et d'Entretien du Patrimoine de Tréméoc.\n\nParticipation libre.",
-    "town": "Tréméoc",
-    "address": "Rue de l'École",
-    "gps": {
-      "latitude": "47.9078039",
-      "longitude": "-4.2080837"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-randonnee-pedestre-tremeoc-fr-6127637/"
-  },
-  {
     "sheetId": "6127639",
     "bordereau": "FMA",
     "title": "Spectacle - Station de ski",
@@ -5248,35 +4867,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/club-de-lecture-loctudy-fr-6129816/"
-  },
-  {
-    "sheetId": "6129810",
-    "bordereau": "FMA",
-    "title": "Ciné doc : L’été des soeurs Tempête",
-    "type": null,
-    "description": "Un documentaire de Mathilde Aplincourt.",
-    "town": "Loctudy",
-    "address": "Salle polyvalente",
-    "gps": {
-      "latitude": "47.83264",
-      "longitude": "-4.17425"
-    },
-    "phone": {
-      "number": "02 98 87 92 67"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-07T00:00:00+01:00",
-          "startTime": "à 17h30"
-        },
-        "end": {
-          "endDate": "2025-12-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lete-des-soeurs-tempete-loctudy-fr-6129810/"
   },
   {
     "sheetId": "6129805",
