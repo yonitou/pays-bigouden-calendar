@@ -5711,5 +5711,63 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-temoignage-dun-neorural-et-debat-sur-linstallation-en-ruralite-saint-jean-trolimon-fr-6135360/"
+  },
+  {
+    "sheetId": "6136418",
+    "bordereau": "FMA",
+    "title": "Cours de danse modern'jazz les jeudis soir",
+    "type": "Culturelle",
+    "description": "En janvier, venez prendre des cours de danse modern'jazz les jeudis soir à Landudec !\n\nNiveaux : débutants et intermédiaires.\n\nInfos et réservations via les contacts indiqués sur l'affiche.",
+    "town": "Landudec",
+    "address": "1 Rue Ar Gore",
+    "gps": {
+      "latitude": "48.00325",
+      "longitude": "-4.33352"
+    },
+    "phone": {
+      "number": "06 88 10 89 48"
+    },
+    "dates": [
+      {
+        "oneday": false,
+        "start": {
+          "startDate": "2026-01-08T00:00:00+01:00",
+          "startTime": "à 19h45"
+        },
+        "end": {
+          "endDate": "2026-01-29T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/cours-de-danse-modernjazz-les-jeudis-soir-landudec-fr-6136418/"
+  },
+  {
+    "sheetId": "6136421",
+    "bordereau": "FMA",
+    "title": "Rock party  - Concert de rock et danse",
+    "type": "Culturelle",
+    "description": "Avec le groupe de rock'n'roll The Good Ol' Guys. \nVenez danser ! Ambiance Garantie !",
+    "town": "Landudec",
+    "address": "17 Rue du Sacré-Coeur",
+    "gps": {
+      "latitude": "48.00362",
+      "longitude": "-4.33378"
+    },
+    "phone": {
+      "number": "07 82 23 49 64"
+    },
+    "dates": [
+      {
+        "oneday": true,
+        "start": {
+          "startDate": "2025-12-13T00:00:00+01:00",
+          "startTime": "à 20h30"
+        },
+        "end": {
+          "endDate": "2025-12-13T23:59:59+01:00"
+        }
+      }
+    ],
+    "url": "https://www.destination-paysbigouden.com/offres/rock-party-concert-de-rock-et-danse-landudec-fr-6136421/"
   }
 ]
