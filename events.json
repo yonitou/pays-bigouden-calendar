@@ -1,34 +1,5 @@
 [
   {
-    "sheetId": "5426447",
-    "bordereau": "FMA",
-    "title": "Atelier de cuisine à l'Hatelier - Menu de Fêtes",
-    "type": "Autres Evènements",
-    "description": "Animé par Michel Bouyer.\nL'atelier se termine par la dégustation des plats cuisinés en compagnie du chef, un moment convivial et gourmand ! \nMinimum 4 participants.",
-    "town": "Guilvinec",
-    "address": "Le Port - Terrasse panoramique",
-    "gps": {
-      "latitude": "47.7931767",
-      "longitude": "-4.2852765"
-    },
-    "phone": {
-      "number": "02 98 58 28 38"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-de-cuisine-a-lhatelier-menu-de-fetes-guilvinec-fr-5426447/"
-  },
-  {
     "sheetId": "5426448",
     "bordereau": "FMA",
     "title": "Noël en fête",
@@ -2506,35 +2477,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/stage-de-vannerie-penmarch-fr-6091394/"
   },
   {
-    "sheetId": "6093370",
-    "bordereau": "FMA",
-    "title": "Concert - Chorale Da Capo",
-    "type": "Musique",
-    "description": "La chorale Da Capo interprétera un florilège de chants de Noêl et de chants sacrés de tous pays.\n\nDirection : Serge MEDOT\nPianiste : Zéphyrin CAUSIN\nSoliste : Franck BOUTELEUX\n\nParticipation libre au profit de la SNSM",
-    "town": "Guilvinec",
-    "address": "Le Bourg",
-    "gps": {
-      "latitude": "47.7950598",
-      "longitude": "-4.2880883"
-    },
-    "phone": {
-      "number": "06 06 66 67 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 18h30"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-da-capo-guilvinec-fr-6093370/"
-  },
-  {
     "sheetId": "6096311",
     "bordereau": "FMA",
     "title": "Concert avec le duo Hoboes",
@@ -3094,7 +3036,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Treffiagat",
     "address": "Rue de la plage",
     "gps": {
@@ -3123,7 +3065,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Treffiagat",
     "address": "Rue de la plage",
     "gps": {
@@ -3210,7 +3152,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Guilvinec",
     "address": "Rdv parking rue Jules Guesde",
     "gps": {
@@ -3239,7 +3181,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Guilvinec",
     "address": "Rdv parking rue Jules Guesde",
     "gps": {
@@ -3297,7 +3239,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Treffiagat",
     "address": "Rue de la plage",
     "gps": {
@@ -3326,7 +3268,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Treffiagat",
     "address": "Rue de la plage",
     "gps": {
@@ -3355,7 +3297,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Treffiagat",
     "address": "Rue de la plage",
     "gps": {
@@ -3378,35 +3320,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125047/"
-  },
-  {
-    "sheetId": "6125048",
-    "bordereau": "FMA",
-    "title": "Jeux de société",
-    "type": "Culturelle",
-    "description": "Jeux de société\n\nValentine de la Maison Pour Tous – Centre Social de Pont-l’Abbé vous propose une matinée jeux de société à la médiathèque.\n\nGratuit / Tout public\n\nOrganisé par la médiathèque",
-    "town": "Pont-l'Abbé",
-    "address": "Rue des Carmes",
-    "gps": {
-      "latitude": "47.86542",
-      "longitude": "-4.21982"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/jeux-de-societe-pont-labbe-fr-6125048/"
   },
   {
     "sheetId": "6125051",
@@ -3468,35 +3381,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-vacances-special-films-de-noel-pont-labbe-fr-6125051/"
   },
   {
-    "sheetId": "6125049",
-    "bordereau": "FMA",
-    "title": "Atelier DIY - Oh pop-up",
-    "type": "Culturelle",
-    "description": "Atelier DIY « Oh pop-up ! »\n\nJulien Laparade vous propose de découvrir les techniques diverses et variées du livre animé avec l’apprentissage du kirigami, des tirettes, des pop-up…\n\nLors de cet atelier, vous êtes invité à vous amuser tout en créant une carte pop-up : découper, coller, plier, déplacer, observer…\n\nMontrer aussi qu’une simple feuille de papier peut se transformer en véritable objet d’art !\n\nGratuit / à partir de 8 ans / Sur inscription\n\nOrganisé par la médiathèque Julien Gracq",
-    "town": "Pont-l'Abbé",
-    "address": "Place Benjamin Delessert",
-    "gps": {
-      "latitude": "47.86555",
-      "longitude": "-4.21943"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-diy-oh-pop-up-pont-labbe-fr-6125049/"
-  },
-  {
     "sheetId": "6125053",
     "bordereau": "FMA",
     "title": "L'heure du conte 3-8 ans - Spécial livres Pop up",
@@ -3530,7 +3414,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Guilvinec",
     "address": "Rdv parking rue Jules Guesde",
     "gps": {
@@ -3559,7 +3443,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Guilvinec",
     "address": "Rdv parking rue Jules Guesde",
     "gps": {
@@ -3588,7 +3472,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Guilvinec",
     "address": "Rdv parking rue Jules Guesde",
     "gps": {
@@ -3994,7 +3878,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Loctudy",
     "address": "14 Rue de Lodonnec",
     "gps": {
@@ -4255,7 +4139,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Loctudy",
     "address": "14 Rue de Lodonnec",
     "gps": {
@@ -4284,7 +4168,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Loctudy",
     "address": "14 Rue de Lodonnec",
     "gps": {
@@ -4371,7 +4255,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Loctudy",
     "address": "14 Rue de Lodonnec",
     "gps": {
@@ -4400,7 +4284,7 @@
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
     "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo.\n\nRéservation obligatoire.",
+    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
     "town": "Loctudy",
     "address": "14 Rue de Lodonnec",
     "gps": {
@@ -4508,64 +4392,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/club-de-lecture-loctudy-fr-6129816/"
-  },
-  {
-    "sheetId": "6129805",
-    "bordereau": "FMA",
-    "title": "Atelier créatif Passeur de Bulles",
-    "type": "Culturelle",
-    "description": "Atelier par Théo Calméjane, auteur de la bande dessinée Pillow man. A partir de 8 ans, sur inscription\n\nOrganisé par le Collectif des bibliothèques du Pays bigouden sud",
-    "town": "Plobannalec-Lesconil",
-    "address": "Place de la Mairie",
-    "gps": {
-      "latitude": "47.8238945",
-      "longitude": "-4.2288281"
-    },
-    "phone": {
-      "number": "02 98 82 25 55"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creatif-passeur-de-bulles-plobannalec-lesconil-fr-6129805/"
-  },
-  {
-    "sheetId": "6129811",
-    "bordereau": "FMA",
-    "title": "Journée jeux",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Les associations Rando Loisirs et Amicale laïque vous accueillent pour une journée consacrée aux jeux de société.",
-    "town": "Loctudy",
-    "address": "Médiathèque",
-    "gps": {
-      "latitude": "47.83264",
-      "longitude": "-4.16924"
-    },
-    "phone": {
-      "number": "02 98 87 98 57"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/journee-jeux-loctudy-fr-6129811/"
   },
   {
     "sheetId": "6129823",
@@ -4919,35 +4745,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/arrivee-du-pere-noel-en-bateau-treffiagat-fr-6132123/"
-  },
-  {
-    "sheetId": "6132129",
-    "bordereau": "FMA",
-    "title": "Chantier participatif - récolte d'osier à Saint-Vio",
-    "type": "Nature et détente",
-    "description": "Depuis quatre ans, un parcours artistique de 2 km accessible depuis la Maison de la Baie d'Audierne se construit.\nLes oeuvres qui le jalonnent sont intégrées dans le paysage et ne créent pas de dérangement.\nElles sont pour la plupart en osier : un matériau local et 100% recyclable.\n\nAfin de les entretenir ou d'en créer de nouvelles, disposer d'osier est indispensable !\nLa CCPBS propose un chantier participatif de récolte de l'osier et d'entretien de l'oseraie de Saint-Vio.\nCette ancienne oseraie avait été abandonnée au moment de la modernisation de l'agriculture.\nElle a commencé à être restaurée en 2021 dans le cadre du projet \"Art et Nature\".\n\nS'équiper de bottes et prévoir une paire de gants et un sécateur.\nS'ils le souhaitent, les participants pourront repartir avec une petite botte d'osier. \nLe chantier sera précédé d'une présentation du lieu et des enjeux de conservation du site.\n\nRéservation indispensable par téléphone.",
-    "town": "Tréguennec",
-    "address": "65 route de St-Vio",
-    "gps": {
-      "latitude": "47.8696778",
-      "longitude": "-4.3373874"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-10T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/chantier-participatif-recolte-dosier-a-saint-vio-treguennec-fr-6132129/"
   },
   {
     "sheetId": "6132130",
@@ -5358,7 +5155,7 @@
     "bordereau": "FMA",
     "title": "Cours de danse modern'jazz les jeudis soir",
     "type": "Culturelle",
-    "description": "En janvier, venez prendre des cours de danse modern'jazz les jeudis soir à Landudec !\n\nNiveaux : débutants et intermédiaires.\n\nInfos et réservations via les contacts indiqués sur l'affiche.",
+    "description": "En janvier, venez prendre des cours de danse modern'jazz les jeudis soir à Landudec !\nNiveaux : débutants et intermédiaires.\nInfos et réservations via les contacts indiqués sur l'affiche.",
     "town": "Landudec",
     "address": "1 Rue Ar Gore",
     "gps": {
