@@ -907,35 +907,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979116/"
   },
   {
-    "sheetId": "5979117",
-    "bordereau": "FMA",
-    "title": "Atelier création d’objets “Hygge”",
-    "type": "Autres Evènements",
-    "description": "Créez un set de petit déjeuner (Une assiette à toast et un bol), un set apéro (une planche de présentation et un bol) ou set cocooning en créant un mug et un bougeoir.\n\nRéservation obligatoire",
-    "town": "Pont-l'Abbé",
-    "address": "22 Place Gambetta",
-    "gps": {
-      "latitude": "47.86458",
-      "longitude": "-4.22269"
-    },
-    "phone": {
-      "number": "02 98 66 83 51"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-11T00:00:00+01:00",
-          "startTime": "à 18h30"
-        },
-        "end": {
-          "endDate": "2025-12-11T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979117/"
-  },
-  {
     "sheetId": "5986578",
     "bordereau": "FMA",
     "title": "Concert de la Saint-Patrick - Tribute to U2, Achtung babies",
@@ -4695,7 +4666,7 @@
     "type": "Animation locale (Kermesse / Loto...)",
     "description": "Matinée Jeux placée sous le signe de la convivialité, de la découverte et du partage. \nOuverte à tous, novices et confirmés, à partir de 4 ans.\nIl est possible d’apporter ses propres jeux.",
     "town": "Plonéour-Lanvern",
-    "address": "Place de la mairie",
+    "address": "Salle polyvalente",
     "gps": {
       "latitude": "47.903",
       "longitude": "-4.28264"
@@ -4722,7 +4693,7 @@
     "bordereau": "FMA",
     "title": "Arrivée du Père Noël en bateau",
     "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Arrivée du Père Noël au ponton de la SNSM !",
+    "description": "Arrivée du Père Noël au ponton de la SNSM !\nCadeaux pour les enfants, vin chaud, kouign.\n\nOrgansié par la sattion SNSM Le Guilvinec Léchiagat Lesconil.\nCadeaux offerts par l'association Solidarité Bigoudène).\n\nLa boutique SNSM sera ouverte les 20 et 21 décembre de 10h à 18h.",
     "town": "Treffiagat",
     "address": "Avenue du port",
     "gps": {
@@ -4751,14 +4722,16 @@
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - À la découverte des dunes et paluds bigoudènes",
     "type": "Nature et détente",
-    "description": "Au programme : reconnaissance des roches locales et de leurs secrets, lecture des paysages de la baie d'Audierne à travers une approche artistique, observation des oiseaux et de leurs chants.\n\nNous vous conseillons de porter des chaussures adaptées à la marche, de prendre un vêtement adapté à la météo et des jumelles. Les chiens ne sont pas autorisés pendant les sorties nature.\n\nOrganisé par la CCPBS.\n\nSur réservation par mail.",
+    "description": "Découvrez les dunes et paluds bigoudènes autrement !\n\nLe projet de réserve naturelle régionale des dunes et paluds bigoudènes entre dans sa phase de consultation du public.\nÀ cette occasion, les deux communautés de communes du Pays bigouden vous invitent à un après-midi immersif, en plein cœur des sites naturels protégés.\n\nAu programme, trois animations courtes et conviviales (environ 20 min chacune) pour comprendre les enjeux de la future réserve :\n\n→  Roches locales :\nIdentifier les roches qui structurent le littoral bigouden et découvrir leurs secrets.\n→ Lecture de paysage :\nComprendre comment se forment les paysages de la baie d’Audierne, du micro-détail au panorama.\n→ Oiseaux sédentaires et migrateurs :\nObserver, écouter, reconnaître les espèces qui peuplent les dunes et paluds.\n\nEt pour aller plus loin…un temps d’échange vous permettra de poser vos questions sur le projet : missions, fonctionnement, gouvernance, enjeux naturalistes.\nUn moment convivial clôturera l’après-midi.\n\nNous vous conseillons de porter des chaussures adaptées à la marche, de prendre un vêtement adapté à la météo et des jumelles. Les chiens ne sont pas autorisés pendant les sorties nature.\n\nOrganisé par la CCPBS.\n\nSur réservation.",
     "town": "Tréguennec",
     "address": "Route de Saint-Vio",
     "gps": {
       "latitude": "47.8697799",
       "longitude": "-4.3374418"
     },
-    "phone": null,
+    "phone": {
+      "number": "07 88 09 14 01"
+    },
     "dates": [
       {
         "oneday": true,
