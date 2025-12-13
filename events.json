@@ -1545,35 +1545,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/comedie-lart-du-couple-guilvinec-fr-6015572/"
   },
   {
-    "sheetId": "6021030",
-    "bordereau": "FMA",
-    "title": "Marche aquatique",
-    "type": "Sports et loisirs",
-    "description": "Envie de vous oxygéner ?\nRejoignez Lucie et Yann pour une séance d’une heure de marche aquatique les vendredis et/ou samedis matin.\nComment se déroule la séance :\nÉchauffement sur le bord de mer avant de se lancer dans l’eau. Immerger jusqu’au torse environ et les pieds dans le sable, vous allez marcher, faire des pas chassés, des montées de genoux, le tout dans l’eau de mer avec un paysage splendide à perte de vue. C’est donc un sport d’endurance, tout en étant assez doux pour le corps.\n\nLes bienfaits de la marche aquatique :\n– fait travailler le cardio\n– améliore la circulation sanguine\n– aide à perdre du poids\n– lutte contre le stress grâce à l’oxygénation des poumons et des muscles\n\nEn suivant les conseils de Lucie et Yann, nos moniteurs diplômés, vous passerez un moment convivial tout en faisant du sport en douceur.\n\nHoraire : le vendredi ou samedi matin selon les marées (mardi ou vendredi en février)\n\nUne balade d’une heure, entrecoupée d’exercices physiques et de mouvements de relaxation.\nNous prêtons la combi, mais il faut des chaussons, gants et cagoule.\nRendez-vous 30 minutes avant le début de la séance.\nSur réservation. Places limitées à 20 personnes.",
-    "town": "Plobannalec-Lesconil",
-    "address": "2 Rue Victor Hugo",
-    "gps": {
-      "latitude": "47.7982684",
-      "longitude": "-4.2130273"
-    },
-    "phone": {
-      "number": "02 98 87 89 43"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-12T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-12T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-aquatique-plobannalec-lesconil-fr-6021030/"
-  },
-  {
     "sheetId": "6031550",
     "bordereau": "FMA",
     "title": "Courts Of Chaos Festival - Heavy metal",
@@ -2276,33 +2247,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/comedie-vive-bouchon-guilvinec-fr-6086716/"
-  },
-  {
-    "sheetId": "6087333",
-    "bordereau": "FMA",
-    "title": "Marché de Noël de l'Ecole Notre Dame de Lorette",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "En attendant le père Noël...\n\nL'APEL Notre Dame de Lorette vous invite à sa 3eme édition du marché de Noël dans la cour d'école!\n\nUn moment chaleureux pour petits et grands!\n\n- Artisans et créateurs locaux : de belles idées cadeaux et savoirs-faire d'ici\n- chants et créations des enfants de l'école\n- présence du père Noël\n- tirage de la tombola de Noël\n- petite restauration et buvette\n\nUne belle occasion de plonger dans la magie de Noël tout en soutenant l'école et les artisans locaux.",
-    "town": "Pouldreuzic",
-    "address": "9 Rue de l'École des Filles",
-    "gps": {
-      "latitude": "47.95303",
-      "longitude": "-4.36098"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-12T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2025-12-12T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-de-lecole-notre-dame-de-lorette-pouldreuzic-fr-6087333/"
   },
   {
     "sheetId": "6087357",
