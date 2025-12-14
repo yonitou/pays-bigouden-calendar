@@ -87,35 +87,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-5426481/"
   },
   {
-    "sheetId": "5426639",
-    "bordereau": "FMA",
-    "title": "Le Père noël Maritime - Le Noël de Bag Leskon",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Rendez-vous à 16h30 au chantier Le Cœur, contes de Noël par l'association lire à Plobannalec.\nArrivée du père Noël sur le Sauveur des Petits à 17h00 au port de Lesconil (Quai Est) avec vin chaud, chocolat chaud, kouign.... Et distribution de chocolat aux enfants  sages.\nEn cas de mauvais temps le Père Noël arrivera au chantier Le Cœur par le jardin.\nProgrammation à confirmer.",
-    "town": "Plobannalec-Lesconil",
-    "address": "Quai Est",
-    "gps": {
-      "latitude": "47.7977087",
-      "longitude": "-4.2145009"
-    },
-    "phone": {
-      "number": "02 98 82 37 99"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/le-pere-noel-maritime-le-noel-de-bag-leskon-plobannalec-lesconil-fr-5426639/"
-  },
-  {
     "sheetId": "5426785",
     "bordereau": "FMA",
     "title": "Spectacle hypnose - Kent",
@@ -172,33 +143,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/concert-de-noel-loctudy-fr-5772401/"
-  },
-  {
-    "sheetId": "5773096",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Magie de Noël avant l'heure :  des idées cadeaux présentées par des créateurs et des artisans.\nBuvette - Restauration - Passage du Père Noël - Animations diverses.",
-    "town": "Plozévet",
-    "address": "39 Avenue Georges Le Bail",
-    "gps": {
-      "latitude": "47.98562",
-      "longitude": "-4.42047"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-plozevet-fr-5773096/"
   },
   {
     "sheetId": "5882469",
@@ -1630,35 +1574,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/shaker-fest-nouvelle-orleans-des-annees-20-ploneour-lanvern-fr-6034017/"
   },
   {
-    "sheetId": "6039198",
-    "bordereau": "FMA",
-    "title": "Matinée jeux de société",
-    "type": "Sports et loisirs",
-    "description": "Matinée jeux de société ouverte à tous. \n\nEntrée libre.",
-    "town": "Combrit",
-    "address": "2 rue du Stade",
-    "gps": {
-      "latitude": "47.8834756",
-      "longitude": "-4.1550227"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/matinee-jeux-de-societe-combrit-fr-6039198/"
-  },
-  {
     "sheetId": "6044522",
     "bordereau": "FMA",
     "title": "Jazz In Loc - Master class pour enfants",
@@ -2023,35 +1938,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/redadeg-2026-course-de-relais-solidaire-plobannalec-lesconil-fr-6079924/"
-  },
-  {
-    "sheetId": "6079918",
-    "bordereau": "FMA",
-    "title": "Concert du groupe vocal Jack et les Anémones",
-    "type": "Musique",
-    "description": "Jack et les Anémones est un groupe vocal créé en pays Bigouden sud en 2012 par Félicie Garric et Jean-Luc Brosse, musiciens professionnels, et constitué d’une quinzaine de participants bénévoles qui se réunissent chaque mardi soir. Motivés exclusivement par le plaisir de chanter, ils se produisent dans des lieux très divers en fonction des demandes et de leur disponibilité et partagent ainsi des moments de plaisir et de convivialité. Le nom « Jack et les Anémones » a été imaginé à partir de la première chanson que nous avons travaillée (Fiche Le Camp Jack) et du local dans lequel nous répétons (ancienne salle des Anémones).\n\nQuel répertoire ? Il est constitué de chansons françaises et anglophones des années 40 à nos jours. Pop, Doo Wop, Rock’n roll, Swing, ballades… la liste n’est pas close. Les chansons sont choisies de manière à permettre des harmonies vocales à 2 ou 3 pupitres, chaque participant(e) ayant la possibilité de chanter tantôt en lead, tantôt en choeur. Les arrangements sont originaux et personnalisés, et la présentation dynamique.\n\nNombre de places limité - Sur réservation  - libre participation",
-    "town": "Penmarch",
-    "address": "396 rue Lucien Le Lay",
-    "gps": {
-      "latitude": "47.8182056",
-      "longitude": "-4.3777621"
-    },
-    "phone": {
-      "number": "02 98 58 62 31"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-du-groupe-vocal-jack-et-les-anemones-penmarch-fr-6079918/"
   },
   {
     "sheetId": "6079926",
@@ -2419,35 +2305,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/concert-avec-le-duo-hoboes-pouldreuzic-fr-6096311/"
-  },
-  {
-    "sheetId": "6101836",
-    "bordereau": "FMA",
-    "title": "concert - 120 ans de la Laïcité",
-    "type": "Musique",
-    "description": "Pour fêter les 120 ans de la Laïcité, concert organisé avec les groupes Kind of weird (Rock/fusion) et Elo de lu (Electro)\n\nOrganisé par l'Amicale Laïque de Pont-l'Abbé",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Jules Ferry",
-    "gps": {
-      "latitude": "47.8656440",
-      "longitude": "-4.2188993"
-    },
-    "phone": {
-      "number": "02 98 87 39 69"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 19h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-120-ans-de-la-laicite-pont-labbe-fr-6101836/"
   },
   {
     "sheetId": "5772897",
@@ -2889,33 +2746,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/la-balade-des-arts-promenade-artistique-treffiagat-fr-6125024/"
-  },
-  {
-    "sheetId": "6125027",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Présence d'une trentaine d'artisans locaux, spectacle des enfants à 16h30, venue du Père Noël (arrivée prévue à 17h30 !).\n\nBuvette, vin chaud, kouigns, bar à huîtres.\n\nOrganisé par l'APE de Léchiagat.",
-    "town": "Treffiagat",
-    "address": "2 rue des écoles",
-    "gps": {
-      "latitude": "47.7970027",
-      "longitude": "-4.2721439"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-treffiagat-fr-6125027/"
   },
   {
     "sheetId": "6125029",
@@ -3441,35 +3271,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-flute-guitare-alain-ehkirch-et-michel-grizard-ile-tudy-fr-6125056/"
   },
   {
-    "sheetId": "6125055",
-    "bordereau": "FMA",
-    "title": "Atelier d'écriture",
-    "type": "Culturelle",
-    "description": "Une envie d’écrire et de partager ses textes et réflexions avec d’autres passionnés, amateurs ou juste curieux ?\n\nSur deux heures de temps on vous propose de vous réunir, autour d’une consigne commune, afin d’exercer vos plumes.\n\nSans prétention ni pression. L’idée n’est pas de créer des Chefs-d’œuvre en une session, mais plutôt de se réunir entre amateurs pour partager un moment convivial et créatif.\n\n \nGratuit / Sur inscription\n\nOrganisé par la médiathèque",
-    "town": "Pont-l'Abbé",
-    "address": "Place Benjamin Delessert",
-    "gps": {
-      "latitude": "47.86555",
-      "longitude": "-4.21943"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-pont-labbe-fr-6125055/"
-  },
-  {
     "sheetId": "6125057",
     "bordereau": "FMA",
     "title": "Ciné docs - PÉROU – des civilisations et des hommes",
@@ -3816,35 +3617,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127651/"
-  },
-  {
-    "sheetId": "6127623",
-    "bordereau": "FMA",
-    "title": "Petit Marché de Noël",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Marché avec 2  chalets composé de l'association d'animation des Camélias et du Lycée Laënnec proposerons de la petite restauration\n\nOrganisé par la mairie et  l'association d'animation des Camélias et du Lycée Laënnec",
-    "town": "Pont-l'Abbé",
-    "address": "Place de la République",
-    "gps": {
-      "latitude": "47.86511",
-      "longitude": "-4.22419"
-    },
-    "phone": {
-      "number": "02 98 87 23 55"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/petit-marche-de-noel-pont-labbe-fr-6127623/"
   },
   {
     "sheetId": "6127630",
@@ -4662,35 +4434,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/arrivee-du-pere-noel-en-bateau-treffiagat-fr-6132123/"
   },
   {
-    "sheetId": "6132130",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - À la découverte des dunes et paluds bigoudènes",
-    "type": "Nature et détente",
-    "description": "Découvrez les dunes et paluds bigoudènes autrement !\n\nLe projet de réserve naturelle régionale des dunes et paluds bigoudènes entre dans sa phase de consultation du public.\nÀ cette occasion, les deux communautés de communes du Pays bigouden vous invitent à un après-midi immersif, en plein cœur des sites naturels protégés.\n\nAu programme, trois animations courtes et conviviales (environ 20 min chacune) pour comprendre les enjeux de la future réserve :\n\n→  Roches locales :\nIdentifier les roches qui structurent le littoral bigouden et découvrir leurs secrets.\n→ Lecture de paysage :\nComprendre comment se forment les paysages de la baie d’Audierne, du micro-détail au panorama.\n→ Oiseaux sédentaires et migrateurs :\nObserver, écouter, reconnaître les espèces qui peuplent les dunes et paluds.\n\nEt pour aller plus loin…un temps d’échange vous permettra de poser vos questions sur le projet : missions, fonctionnement, gouvernance, enjeux naturalistes.\nUn moment convivial clôturera l’après-midi.\n\nNous vous conseillons de porter des chaussures adaptées à la marche, de prendre un vêtement adapté à la météo et des jumelles. Les chiens ne sont pas autorisés pendant les sorties nature.\n\nOrganisé par la CCPBS.\n\nSur réservation.",
-    "town": "Tréguennec",
-    "address": "Route de Saint-Vio",
-    "gps": {
-      "latitude": "47.8697799",
-      "longitude": "-4.3374418"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-a-la-decouverte-des-dunes-et-paluds-bigoudenes-treguennec-fr-6132130/"
-  },
-  {
     "sheetId": "6133925",
     "bordereau": "FMA",
     "title": "Fête de la Langoustine",
@@ -5095,34 +4838,5 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/cours-de-danse-modernjazz-les-jeudis-soir-landudec-fr-6136418/"
-  },
-  {
-    "sheetId": "6136421",
-    "bordereau": "FMA",
-    "title": "Rock party  - Concert de rock et danse",
-    "type": "Culturelle",
-    "description": "Avec le groupe de rock'n'roll The Good Ol' Guys. \nVenez danser ! Ambiance Garantie !",
-    "town": "Landudec",
-    "address": "17 Rue du Sacré-Coeur",
-    "gps": {
-      "latitude": "48.00362",
-      "longitude": "-4.33378"
-    },
-    "phone": {
-      "number": "07 82 23 49 64"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/rock-party-concert-de-rock-et-danse-landudec-fr-6136421/"
   }
 ]
