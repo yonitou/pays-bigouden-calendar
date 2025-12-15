@@ -435,35 +435,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-terres-boreales-pouldreuzic-fr-5969947/"
   },
   {
-    "sheetId": "5969935",
-    "bordereau": "FMA",
-    "title": "festival Théâtre à tous âges - Le poisson qui vivait dans les arbres",
-    "type": "Culturelle",
-    "description": "Avec ce second projet destiné à un jeune public, Sylvain Riéjou s’associe à l’auteur, illustrateur et comédien Hervé Walbecq. Sur scène, un duo d’interprètes joue et évolue avec des animaux oniriques projetés sur un grand écran sous forme de dessins animés. Dans cette aventure, drôle et poétique, animaux et humains se rencontrent, fusionnent, sans barrière de langage, ni limite à l’imaginaire.\n\nCette représentation est organisée dans le cadre du festival Théâtre à Tout Âge.",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Mstislav Rostropovitch",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "02 98 66 00 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/festival-theatre-a-tous-ages-le-poisson-qui-vivait-dans-les-arbres-pont-labbe-fr-5969935/"
-  },
-  {
     "sheetId": "5969933",
     "bordereau": "FMA",
     "title": "Ciné Doc : La Loire",
@@ -1816,45 +1787,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/finsitaire-de-jeux-ploneour-lanvern-fr-6061298/"
   },
   {
-    "sheetId": "6069754",
-    "bordereau": "FMA",
-    "title": "Rendez-vous d'hiver - Salon de créateurs et artisans d'art - 12ème édition",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Pour cette 12ème édition, 28 artistes de la région seront présents. Un moment idéal pour découvrir leurs univers tous différents et échanger avec eux autour de leur art et leurs créations. Une Mine d'or pour trouver des idées cadeaux pour les fêtes pour faire plaisir ou se faire plaisir!\n\nAvec la présence d'un salon de thé éphémère qui proposera des douceurs, gâteaux et boissons aux saveurs festives et hivernales: café gourmand, thé de Noël, chocolat chaud, expresso, vin chaud, cinnamon rolls, pains d’épices, cup cake, gaufres liégeoises, pains d’épices etc…\n\nLe Jumelage Guilvinec-Sevrier propose comme chaque année de délicieux fromages savoyards. \n\nAnimations enfants, petite restauration.\n\nOrganisé par l'OGEC école Sainte Anne du Guilvinec",
-    "town": "Guilvinec",
-    "address": "Rue Méjou Bihan",
-    "gps": {
-      "latitude": "47.7978875",
-      "longitude": "-4.2771911"
-    },
-    "phone": {
-      "number": "06 29 07 91 24"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-13T00:00:00+01:00",
-          "startTime": "à 13h30"
-        },
-        "end": {
-          "endDate": "2025-12-13T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/rendez-vous-dhiver-salon-de-createurs-et-artisans-dart-12eme-edition-guilvinec-fr-6069754/"
-  },
-  {
     "sheetId": "6071903",
     "bordereau": "FMA",
     "title": "Humour - Yann Guillarme - LIBRE",
@@ -2336,33 +2268,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/festival-au-pre-plogastel-saint-germain-fr-5772897/"
   },
   {
-    "sheetId": "6125006",
-    "bordereau": "FMA",
-    "title": "Concert - Chorale Kanerien Kergoz",
-    "type": "Musique",
-    "description": "Sous la direction de sa cheffe de chœur Jackie le Bihan, la chorale Kanerien Kergoz du Guilvinec présentera un répertoire varié, mêlant traditionnel et contemporain, variété française et chants du monde...\n\nLibre participation.",
-    "town": "Plomeur",
-    "address": "Route de Saint-Jean-Trolimon",
-    "gps": {
-      "latitude": "47.8627114",
-      "longitude": "-4.2545714"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-kanerien-kergoz-plomeur-fr-6125006/"
-  },
-  {
     "sheetId": "6125008",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - Atelier nature du Nouvel An",
@@ -2682,35 +2587,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-initiation-au-monde-des-oiseaux-pont-labbe-fr-6125022/"
   },
   {
-    "sheetId": "6125023",
-    "bordereau": "FMA",
-    "title": "Marché de Noël",
-    "type": "Manifestation commerciale",
-    "description": "Nombreux exposants, petite restauration (crêpes, kouigns & vin chaud).\n\nOrganisé par l'association Un Horizon d'Espoir.",
-    "town": "Île-Tudy",
-    "address": "13 rue Principale",
-    "gps": {
-      "latitude": "47.8440957",
-      "longitude": "-4.1685512"
-    },
-    "phone": {
-      "number": "06 63 56 66 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-ile-tudy-fr-6125023/"
-  },
-  {
     "sheetId": "6125024",
     "bordereau": "FMA",
     "title": "La Balade des Arts - Promenade artistique",
@@ -2746,35 +2622,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/la-balade-des-arts-promenade-artistique-treffiagat-fr-6125024/"
-  },
-  {
-    "sheetId": "6125029",
-    "bordereau": "FMA",
-    "title": "Noël à Tréméoc",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Rendez-vous pour une grande journée festive pleine de surprises, d’animations et de douceur de vivre… le tout dans une ambiance 100% Noël !\n\nAu programme :\n\n- Marché de Noël avec artisans et créateurs\n- Concours de maisons en pain d'épices\n- Concours du pull de Noël\n- Ateliers créatifs\n- Photos de Noël\n- Jeux bretons pour s'amuser en famille\n- Jeu du Panier garni (offert par Le Commerce)\n\nCollecte de jeux, jouets et livres au profit du Secours populaire de Pont-l'Abbé.\n \nGaufres, kouigns, barbe à papa, buvette (apportez votre gobelet).\n\nLe Père Noël fera son entrée à 11h pour  pour offrir des chocolats aux enfants : un moment à ne pas manquer !",
-    "town": "Tréméoc",
-    "address": "Rue de l'École",
-    "gps": {
-      "latitude": "47.9074088",
-      "longitude": "-4.2092321"
-    },
-    "phone": {
-      "number": "02 98 87 08 06"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/noel-a-tremeoc-tremeoc-fr-6125029/"
   },
   {
     "sheetId": "6125033",
@@ -2833,35 +2680,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125034/"
-  },
-  {
-    "sheetId": "6125035",
-    "bordereau": "FMA",
-    "title": "Concert - Dremmwel",
-    "type": "Musique",
-    "description": "De retour d'une tournée allemande particulièrement réussie, Dremmwel jouera son dernier concert de l'année Chez Cathy, un lieu que le groupe affectionne particulièrement pour son originalité, sa simplicité et l' accueil chaleureux qui gagne le cœur d'un public toujours réceptif. \nAu fil du temps, Dremmwel s'est produit sur une quantité de scènes parfois insolites. Les musiciens qui se sont succcédés n'ont eu de cesse par de nombreux projets de promouvoir ce que la musique bretonne renferme de plus intime. \nLe concert en forme de carnet de route témoigne d'un esprit créatif et s'inscrit, avec la complicité d'artistes de latitudes diverses, dans une démarche prompte à laisser courir son imagination.\n\nSur réservation par téléphone, places limitées.",
-    "town": "Penmarch",
-    "address": "396 rue Lucien Le Lay",
-    "gps": {
-      "latitude": "47.8182056",
-      "longitude": "-4.3777621"
-    },
-    "phone": {
-      "number": "02 98 58 62 31"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-dremmwel-penmarch-fr-6125035/"
   },
   {
     "sheetId": "5882569",
@@ -3240,35 +3058,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125054/"
-  },
-  {
-    "sheetId": "6125056",
-    "bordereau": "FMA",
-    "title": "Concert  - Flûte guitare - Alain Ehkirch et Michel Grizard",
-    "type": "Musique",
-    "description": "Autour de deux instruments populaires, la flûte et la guitare, Alain Ehkirch et Michel Grizard ont composé un programme original mettant à l'honneur Giuliani, Paganini, Ginastera et la musique hongroise.\n\n- Billetterie en ligne et par téléphone\n- SUPAVAM (chez Aurèl), avenue des sports à l'Île-Tudy (paiement par chèques et espèces uniquement)\n- Sur place avant le concert",
-    "town": "Île-Tudy",
-    "address": "Rue de l'Église",
-    "gps": {
-      "latitude": "47.8428896",
-      "longitude": "-4.1676732"
-    },
-    "phone": {
-      "number": "06 09 71 02 35"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 17h30"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-flute-guitare-alain-ehkirch-et-michel-grizard-ile-tudy-fr-6125056/"
   },
   {
     "sheetId": "6125057",
@@ -4139,35 +3928,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-loctudy-fr-6129822/"
   },
   {
-    "sheetId": "6129825",
-    "bordereau": "FMA",
-    "title": "Arts in Loc - Vide ateliers",
-    "type": "Culturelle",
-    "description": "11 artistes proposeront photographies, peintures / dessins sur differents supports avec differentes techniques, collages verre de mer et coquillages, sculptures,....\n\nEntrée libre et gratuite.",
-    "town": "Loctudy",
-    "address": "2 Rue de Langoz",
-    "gps": {
-      "latitude": "47.8326503",
-      "longitude": "-4.1683817"
-    },
-    "phone": {
-      "number": "06 16 98 60 57"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-08T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/arts-in-loc-vide-ateliers-loctudy-fr-6129825/"
-  },
-  {
     "sheetId": "6129855",
     "bordereau": "FMA",
     "title": "Pierrot dit et chante Nougaro",
@@ -4490,35 +4250,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/before-fete-de-la-langoustine-plobannalec-lesconil-fr-6133928/"
-  },
-  {
-    "sheetId": "6133907",
-    "bordereau": "FMA",
-    "title": "Téléthon - Course 1 adulte 1 enfant",
-    "type": "Sports et loisirs",
-    "description": "Running Nature Tréméoc court avec l'école Jean Bideau : 1 enfant court avec 1 adulte dans le cadre du Téléthon.\n\n- 400 m pour les Grandes Sections et CP\n- 800 m pour les CE1-CE2\n- 1200 pour les CM1-CM2\n\nInscriptions sur place à partir de 9h30.\n\nTous les bénéfices sont reversés au Téléhton.",
-    "town": "Tréméoc",
-    "address": "Rue de l'école",
-    "gps": {
-      "latitude": "47.9079478",
-      "longitude": "-4.2079657"
-    },
-    "phone": {
-      "number": "02 98 82 37 99"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-14T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/telethon-course-1-adulte-1-enfant-tremeoc-fr-6133907/"
   },
   {
     "sheetId": "6133909",
