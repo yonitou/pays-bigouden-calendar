@@ -793,35 +793,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979119/"
   },
   {
-    "sheetId": "5979116",
-    "bordereau": "FMA",
-    "title": "Atelier création d’objets “Hygge”",
-    "type": "Autres Evènements",
-    "description": "Créez un set de petit déjeuner (Une assiette à toast et un bol), un set apéro (une planche de présentation et un bol) ou set cocooning en créant un mug et un bougeoir.\n\nRéservation obligatoire",
-    "town": "Pont-l'Abbé",
-    "address": "22 Place Gambetta",
-    "gps": {
-      "latitude": "47.86458",
-      "longitude": "-4.22269"
-    },
-    "phone": {
-      "number": "02 98 66 83 51"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-15T00:00:00+01:00",
-          "startTime": "à 10h30"
-        },
-        "end": {
-          "endDate": "2025-12-15T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979116/"
-  },
-  {
     "sheetId": "5986578",
     "bordereau": "FMA",
     "title": "Concert de la Saint-Patrick - Tribute to U2, Achtung babies",
@@ -2442,93 +2413,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-nature-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125013/"
   },
   {
-    "sheetId": "6125014",
-    "bordereau": "FMA",
-    "title": "Atelier créatif de Noël - 6/10 ans",
-    "type": "Culturelle",
-    "description": "Pendant les vacances scolaires, nous proposons à vos enfants de découvrir le musée accompagnés d’une médiatrice culturelle par le biais d'un atelier créatif pour fabriquer une carte de Noël.\n\nJauge limitée, réservation obligatoire.",
-    "town": "Loctudy",
-    "address": "8 impasse du Nord",
-    "gps": {
-      "latitude": "47.8353760",
-      "longitude": "-4.1683929"
-    },
-    "phone": {
-      "number": "02 98 98 83 99"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creatif-de-noel-6-10-ans-loctudy-fr-6125014/"
-  },
-  {
-    "sheetId": "6125015",
-    "bordereau": "FMA",
-    "title": "Visite sensorielle - 3/6 ans",
-    "type": "Culturelle",
-    "description": "Pendant les vacances scolaires, nous proposons à vos enfants de découvrir le musée accompagnés d’une médiatrice culturelle par le biais d’une histoire contée multisensorielle, Pola le petit chat.\n\nPola était le petit chat de la famille Le Gall. Comme tous les chats, elle est sensible aux bruits, aux couleurs et aux odeurs. Ouvre bien tes oreilles, tes yeux et tes narines pour découvrir ce qu’entendait, voyait et sentait Pola dans sa vie quotidienne auprès des Le Gall.\n\nRéservation obligatoire",
-    "town": "Loctudy",
-    "address": "8 impasse du Nord",
-    "gps": {
-      "latitude": "47.8353760",
-      "longitude": "-4.1683929"
-    },
-    "phone": {
-      "number": "02 98 98 83 99"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-24T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/visite-sensorielle-3-6-ans-loctudy-fr-6125015/"
-  },
-  {
-    "sheetId": "6125016",
-    "bordereau": "FMA",
-    "title": "Animation jeux de société",
-    "type": "Autres Evènements",
-    "description": "Pour les enfants et adultes de 4 à 99 ans !\nGratuit - Sur inscription.",
-    "town": "Loctudy",
-    "address": "8 impasse du Nord",
-    "gps": {
-      "latitude": "47.8353760",
-      "longitude": "-4.1683929"
-    },
-    "phone": {
-      "number": "02 98 98 83 99"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-26T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-26T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/animation-jeux-de-societe-loctudy-fr-6125016/"
-  },
-  {
     "sheetId": "6125021",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - Initiation au monde des oiseaux",
@@ -3785,33 +3669,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
   },
   {
-    "sheetId": "6129807",
-    "bordereau": "FMA",
-    "title": "Bal XIXe au Manoir de Kerazan",
-    "type": "Culturelle",
-    "description": "En partenariat avec les associations de reconstitution historique Bottines et Canotiers et Dentelles et Redingotes. Cette année, pour Noël, le manoir de Kerazan prend vie lors d’une après-midi ! Vivez un bal au manoir de Kerazan et voyagez dans le temps !\nAssistez à des danses, rencontrez des personnes en costumes d’époques et initiez-vous à la vie des bourgeois des années 1890. Sans réservation.",
-    "town": "Loctudy",
-    "address": "Rue du Suler",
-    "gps": {
-      "latitude": "47.84122",
-      "longitude": "-4.19665"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/bal-xixe-au-manoir-de-kerazan-loctudy-fr-6129807/"
-  },
-  {
     "sheetId": "6129812",
     "bordereau": "FMA",
     "title": "Loisirs créatifs de Noël - Enfants",
@@ -3986,80 +3843,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/samedis-des-histoires-loctudy-fr-6129820/"
   },
   {
-    "sheetId": "6129818",
-    "bordereau": "FMA",
-    "title": "Atelier d'art floral",
-    "type": "Nature et détente",
-    "description": "Les participants à l'atelier devront ramener des branches de sapin, du bois mort et des cyclamens.\nDès 15 ans, réservation conseillée",
-    "town": "Loctudy",
-    "address": "Rue du Suler",
-    "gps": {
-      "latitude": "47.84122",
-      "longitude": "-4.19665"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-dart-floral-loctudy-fr-6129818/"
-  },
-  {
-    "sheetId": "6129872",
-    "bordereau": "FMA",
-    "title": "Jeu de piste - L'enquête de Noël - 7 ans et plus",
-    "type": "Culturelle",
-    "description": "C’est Noël à Kerazan ! Comme chaque année, Joseph-Georges Astor, le propriétaire, accueille des enfants orphelins pour leur faire vivre un Noël magique. Joseph-Georges a fait une liste de cadeaux de Noël pour les enfants mai elle a disparu. Aide-le à refaire la liste avant qu’il ne soit trop tard.\nEn continu – Sans réservation – Compris dans le billet d’entrée",
-    "town": "Loctudy",
-    "address": "Rue du Suler",
-    "gps": {
-      "latitude": "47.84122",
-      "longitude": "-4.19665"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-26T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2025-12-30T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-02T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2026-01-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/jeu-de-piste-lenquete-de-noel-7-ans-et-plus-loctudy-fr-6129872/"
-  },
-  {
     "sheetId": "6129869",
     "bordereau": "FMA",
     "title": "Concert - Chorale La Chansonnerie",
@@ -4087,53 +3870,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-la-chansonnerie-penmarch-fr-6129869/"
-  },
-  {
-    "sheetId": "6129873",
-    "bordereau": "FMA",
-    "title": "Jeu de piste - Où sont les rennes du Père-Noël - 3 ans et plus",
-    "type": "Culturelle",
-    "description": "C’est Noël à Kerazan ! Comme chaque année, Joseph-Georges Astor, le propriétaire, accueille des enfants orphelins pour leur faire vivre un Noël magique. Joseph-Georges a fait une liste de cadeaux de Noël pour les enfants mai elle a disparu. Aide-le à refaire la liste avant qu’il ne soit trop tard.\nEn continu – Sans réservation – Compris dans le billet d’entrée",
-    "town": "Loctudy",
-    "address": "Rue du Suler",
-    "gps": {
-      "latitude": "47.84122",
-      "longitude": "-4.19665"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-26T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2025-12-30T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-02T00:00:00+01:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2026-01-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/jeu-de-piste-ou-sont-les-rennes-du-pere-noel-3-ans-et-plus-loctudy-fr-6129873/"
   },
   {
     "sheetId": "6132112",
