@@ -58,35 +58,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/baignade-collective-le-bain-des-sirenes-loctudy-fr-5426454/"
   },
   {
-    "sheetId": "5426481",
-    "bordereau": "FMA",
-    "title": "Journée portes Ouverte Braderie du Secours populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
-    "town": "Plobannalec-Lesconil",
-    "address": "Maison des associations",
-    "gps": {
-      "latitude": "47.7982162",
-      "longitude": "-4.2165999"
-    },
-    "phone": {
-      "number": "07 86 43 68 87"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-5426481/"
-  },
-  {
     "sheetId": "5426785",
     "bordereau": "FMA",
     "title": "Spectacle hypnose - Kent",
@@ -464,35 +435,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-la-loire-pouldreuzic-fr-5969933/"
   },
   {
-    "sheetId": "5969934",
-    "bordereau": "FMA",
-    "title": "Spectacle illusionniste - French twins",
-    "type": "Culturelle",
-    "description": "Les jumeaux illusionnistes 3.0 d’America’s Got Talent, La France a un Incroyable Talent…présentent un show hors du commun mêlant magie, illusion et technologie.\n\nPionniers de la magie digitale 3.0, ces illusionnistes renommés débarquent dans toute la France pour une expérience époustouflante.\n\nAprès une tournée internationale, découvrez un show unique très visuel et très interactif où des objets traversent et apparaissent d’un écran géant, les spectateurs sont acteurs du spectacle et participent, offrant des illusions digitales et des hologrammes jamais vus en France.",
-    "town": "Pont-l'Abbé",
-    "address": "Le Triskell",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "02 98 66 00 40"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/spectacle-illusionniste-french-twins-pont-labbe-fr-5969934/"
-  },
-  {
     "sheetId": "5969932",
     "bordereau": "FMA",
     "title": "Ciné Doc : L'extraordinaire tournée du facteur Maignan",
@@ -520,35 +462,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lextraordinaire-tournee-du-facteur-maignan-pouldreuzic-fr-5969932/"
-  },
-  {
-    "sheetId": "5972614",
-    "bordereau": "FMA",
-    "title": "Matinée en breton - Causerie en breton",
-    "type": "Culturelle",
-    "description": "La municipalité, en collaboration avec le Bagad et cercle celtique de Combrit, propose une nouvelle matinée en breton.\n\nUne causerie ouverte sur différents sujets.",
-    "town": "Combrit",
-    "address": "Ti ar Soñjoù - La Maison des idées",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 56 33 14"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/matinee-en-breton-causerie-en-breton-combrit-fr-5972614/"
   },
   {
     "sheetId": "5975259",
@@ -2007,35 +1920,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/stage-de-vannerie-penmarch-fr-6091420/"
   },
   {
-    "sheetId": "6096311",
-    "bordereau": "FMA",
-    "title": "Concert avec le duo Hoboes",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Le duo Hoboes (folk, blues et country traditionnelle) vous propose un vagabondage musical le long des voies ferrées des USA dans les pas de Nanci Griffith, Joan Baez, Woody et Arlo guthrie et de tous ces songwriters qui nous ont fait rêver.\n\nPetite restauration sur place",
-    "town": "Pouldreuzic",
-    "address": "Les Zigues",
-    "gps": {
-      "latitude": "47.9543139",
-      "longitude": "-4.3596477"
-    },
-    "phone": {
-      "number": "06 80 55 36 37"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-avec-le-duo-hoboes-pouldreuzic-fr-6096311/"
-  },
-  {
     "sheetId": "5772897",
     "bordereau": "FMA",
     "title": "Festival au pré",
@@ -2973,35 +2857,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/soiree-dj-set-treffiagat-fr-6125647/"
   },
   {
-    "sheetId": "6125652",
-    "bordereau": "FMA",
-    "title": "Rencontre-Dédicace avec Franck BESSIERE",
-    "type": "Culturelle",
-    "description": "« Quand l`identité transcende les limites de l`espèce. Un roman de Franck Bessière où deux destins, humain et animal, s`entrelacent dans un monde en mutation. Le vieux loup a quitté la meute. Il le sait, il le sent : sa louve, qui a cheminé à ses côtés pendant de si nombreuses lunes, est partie en direction du territoire des humains. Il doit partir à sa recherche. La protéger. Coûte que coûte. » (TANA Editions – 17,90€ – 141p)\n\nFranck Bessière est un photographe indépendant basé à Toulon, travaillant sur tout PACA depuis 2008. Après des études à la faculté de Rennes 2 en langue, il part se former à travers l’Europe, notamment à Rome où il y resta quelques années. Fort d’une expérience dans divers secteurs d’activité, il s’oriente tout naturellement vers sa première passion, la photographie. Aujourd’hui il se tourne aussi vers l’écriture, avec des sujets qui le passionnent. Venez rencontrer l’auteur et découvrir son premier roman. Gratuit mais réservation souhaitée car jauge limitée.\n\nInscription sur le site de la librairie.",
-    "town": "Guilvinec",
-    "address": "Café librairie De l’encre à l’écran",
-    "gps": {
-      "latitude": "47.7964672",
-      "longitude": "-4.2803449"
-    },
-    "phone": {
-      "number": "02 98 59 94 25"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 19h00"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/rencontre-dedicace-avec-franck-bessiere-guilvinec-fr-6125652/"
-  },
-  {
     "sheetId": "6125650",
     "bordereau": "FMA",
     "title": "Concert - Do & Volga",
@@ -3522,64 +3377,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/pierrot-dit-et-chante-nougaro-penmarch-fr-6129855/"
-  },
-  {
-    "sheetId": "6129820",
-    "bordereau": "FMA",
-    "title": "Samedis des histoires",
-    "type": "Culturelle",
-    "description": "En compagnie de l’association Lire et Faire Lire, venez assister à des lectures pour des enfants de 3 à 7 ans.\n\nOrganisé par la médiathèque de Loctudy",
-    "town": "Loctudy",
-    "address": "Médiathèque",
-    "gps": {
-      "latitude": "47.8327175",
-      "longitude": "-4.1694478"
-    },
-    "phone": {
-      "number": "02 98 87 98 57"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/samedis-des-histoires-loctudy-fr-6129820/"
-  },
-  {
-    "sheetId": "6129869",
-    "bordereau": "FMA",
-    "title": "Concert - Chorale La Chansonnerie",
-    "type": "Musique",
-    "description": "Le répertoire est varié : classique, variété, jazz.\n\n Recette \"au chapeau\" pour les enfants en pédiatrie (CHU Quimper). \n\nRéservation obligatoire.",
-    "town": "Penmarch",
-    "address": "Bar chez Cathy",
-    "gps": {
-      "latitude": "47.8182263",
-      "longitude": "-4.3778370"
-    },
-    "phone": {
-      "number": "02 98 58 62 31"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2025-12-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-chorale-la-chansonnerie-penmarch-fr-6129869/"
   },
   {
     "sheetId": "6132112",
