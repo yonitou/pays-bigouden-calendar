@@ -1,34 +1,5 @@
 [
   {
-    "sheetId": "5426448",
-    "bordereau": "FMA",
-    "title": "Noël en fête",
-    "type": "Manifestation commerciale",
-    "description": "Plus de 20 exposants seront présents : créateurs, artisans d’art, gourmandises locales et\nassociations caritatives.\n• Des idées cadeaux uniques : bijoux, décoration, produits de beauté, créations artisanales...\nparfait pour les achats de dernière minute ou les trouvailles inattendues.\n• Des spécialités locales à déguster : crèmes et sirops de châtaigne, jus de pommes artisanaux,\ndouceurs régionales...\n• Un bar et une petite restauration seront proposés sur place, avec notamment vin chaud,\nchocolat chaud et kouign.\nStands caritatifs : Secours Populaire, Dames Picots et Force T (au profit du Téléthon).\n• Remise d’un chèque de donation à la SNSM, en fin d’après-midi, après l’arrivée du Père\nNoël.\n\nAnimations pour les plus petits\n• Attractions gratuites : manège, déambulation d’un clown-magicien ...\n• Et moment phare : l’arrivée magique du Père Noël à 17h30, à bord de la vedette SNSM\nMargodig.\n\nLa journée se terminera par un feu d’artifice féerique pour enchanter petits et grands.",
-    "town": "Loctudy",
-    "address": "Place des Anciens Combattants",
-    "gps": {
-      "latitude": "47.83244",
-      "longitude": "-4.17448"
-    },
-    "phone": {
-      "number": "06 08 98 10 53"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/noel-en-fete-loctudy-fr-5426448/"
-  },
-  {
     "sheetId": "5426454",
     "bordereau": "FMA",
     "title": "Baignade collective - Le bain des sirènes",
@@ -85,35 +56,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-hypnose-kent-penmarch-fr-5426785/"
-  },
-  {
-    "sheetId": "5772401",
-    "bordereau": "FMA",
-    "title": "Concert de Noël",
-    "type": "Culturelle",
-    "description": "L'association des Amis de l'orgue propose un concert de Noël orgue et bombarde.",
-    "town": "Loctudy",
-    "address": "Rue de Poulpeye",
-    "gps": {
-      "latitude": "47.8315490",
-      "longitude": "-4.1763221"
-    },
-    "phone": {
-      "number": "02.98.87.53.78"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-de-noel-loctudy-fr-5772401/"
   },
   {
     "sheetId": "5882469",
@@ -1864,33 +1806,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/festival-god-save-the-kouign-vol-7-penmarch-fr-6090921/"
   },
   {
-    "sheetId": "6090924",
-    "bordereau": "FMA",
-    "title": "Concert de Noël - Bombarde chants et orgue",
-    "type": "Culturelle",
-    "description": "André Le Meut et Philippe Bataille n'ont pas leur pareil pour transmettre la flamme de leur passion pour la musique. Attaque nette et incisive des marches et des danses, extrême sensibilité dans la modulation du phrasé des cantiques et mélodies : de la musique bretonne ample et généreuse, débordant d'énergie et d'émotion !\n\n\nAndré Le Meut - talabarder (sonneur de bombarde) , a toujours perpétué la tradition et la musique du pays vannetais. Il joue de la bombarde et chante dans de multiples formations musicales, et a remporté de nombreux prix.\nPhilippe Bataille est professeur de Formation musicale à Blois et professeur d'orgue à l'école de Musique de l'Aubrière à Fondettes depuis la rentrée 2025-2026. Il est titulaire du grand orgue de la Basilique Saint Martin de Tours. En 2000, il fonde un duo avec André le Meut, talabarder, ils ont enregistrés trois CD.\n\nLibre participation. Eglise chauffée.",
-    "town": "Loctudy",
-    "address": "Eglise Saint-Tudy",
-    "gps": {
-      "latitude": "47.8316409",
-      "longitude": "-4.1759809"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-de-noel-bombarde-chants-et-orgue-loctudy-fr-6090924/"
-  },
-  {
     "sheetId": "6091420",
     "bordereau": "FMA",
     "title": "Stage de vannerie",
@@ -2973,35 +2888,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127622/"
   },
   {
-    "sheetId": "6127621",
-    "bordereau": "FMA",
-    "title": "Feu d'artifice de Noël de Pont-l'Abbé",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Feu d'artifice tiré depuis le Triskell à 19h30\n\nOrganisé par la Mairie, l'Union des commerçants et le Comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Rue Mstislav Rostropovitch",
-    "gps": {
-      "latitude": "47.86888",
-      "longitude": "-4.22564"
-    },
-    "phone": {
-      "number": "02 98 66 09 09"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-21T00:00:00+01:00",
-          "startTime": "à 19h30"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/feu-dartifice-de-noel-de-pont-labbe-pont-labbe-fr-6127621/"
-  },
-  {
     "sheetId": "6127627",
     "bordereau": "FMA",
     "title": "Soirée philo",
@@ -3319,35 +3205,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/loisirs-creatifs-de-noel-enfants-loctudy-fr-6129812/"
-  },
-  {
-    "sheetId": "6129823",
-    "bordereau": "FMA",
-    "title": "Arts in Loc - Noël en Galerie",
-    "type": "Culturelle",
-    "description": "8 artistes / artisans proposeront bijoux, peintures, sculptures, céramiques, art-textile.\nEntrée libre et gratuite.",
-    "town": "Loctudy",
-    "address": "Galerie",
-    "gps": {
-      "latitude": "47.8326503",
-      "longitude": "-4.1683817"
-    },
-    "phone": {
-      "number": "06 16 98 60 57"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-15T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2025-12-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/arts-in-loc-noel-en-galerie-loctudy-fr-6129823/"
   },
   {
     "sheetId": "6129855",
