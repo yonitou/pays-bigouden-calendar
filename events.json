@@ -2830,35 +2830,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127651/"
   },
   {
-    "sheetId": "6127630",
-    "bordereau": "FMA",
-    "title": "Concert - duo Heaven",
-    "type": "Musique",
-    "description": "Le duo Heaven composé de Patrice (Fouesnant) et Diane (Pont-l’Abbé) joue des  reprises pop, rock, folk .\n\nOrganisé par la Mairie, L'union des commerçants et le comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Place Gambetta",
-    "gps": {
-      "latitude": "47.86462",
-      "longitude": "-4.22186"
-    },
-    "phone": {
-      "number": "06 75 36 49 62"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-22T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2025-12-22T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-duo-heaven-pont-labbe-fr-6127630/"
-  },
-  {
     "sheetId": "6127622",
     "bordereau": "FMA",
     "title": "Soirée philo",
@@ -2936,7 +2907,7 @@
         "oneday": false,
         "start": {
           "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": null
+          "startTime": "à 10h00"
         },
         "end": {
           "endDate": "2025-12-28T23:59:59+01:00"
