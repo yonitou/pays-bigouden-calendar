@@ -1893,35 +1893,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-du-nouvel-an-treguennec-fr-6125008/"
   },
   {
-    "sheetId": "6125010",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Atelier nature de Noël",
-    "type": "Nature et détente",
-    "description": "Quoi de mieux qu’un bol d’air en famille, autour de Maison de la baie d’Audierne, à la veille des  fêtes ? \nAu cours d’une balade de 2 km, chacun pourra expérimenter son habilité à fabriquer des jeux et jouets buissonniers, comme un clin d’œil à nos aïeux qui les ont inventés, en ce temps où le Père Noël était moins généreux qu’aujourd’hui. Les cadeaux que la nature nous offre sont partout ! Il suffit d’ouvrir les yeux et les oreilles !\n\nInscription préalable indispensable par téléphone.",
-    "town": "Tréguennec",
-    "address": "Maison de la Baie d'Audierne",
-    "gps": {
-      "latitude": "47.8895870",
-      "longitude": "-4.3343120"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-de-noel-treguennec-fr-6125010/"
-  },
-  {
     "sheetId": "6125009",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - Atelier nature participatif - Tressage d'une nouvelle cabane",
@@ -2036,64 +2007,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125013/"
-  },
-  {
-    "sheetId": "6125021",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Initiation au monde des oiseaux",
-    "type": "Nature et détente",
-    "description": "Découverte de nids d’oiseaux suivie d'une balade dans le bois de Rosquerno à l’écoute des passereaux : rouge-gorge, mésanges, roitelets, peu avares de babillages hivernaux.\nEn chemin, les arbres laisseront entrevoir l'estuaire de la rivière de Pont-l’Abbé, lieu d’accueil d’oiseaux ayant fait le voyage depuis le nord de l’Europe.\nDistance : 3 km\nSorties et ateliers susceptibles d'être annulés en cas d'intempéries.\nMerci de préparer l'appoint pour le règlement des activités.\n\nOrganisé par la CCPBS",
-    "town": "Pont-l'Abbé",
-    "address": "Parking face au centre équestre",
-    "gps": {
-      "latitude": "47.8554076",
-      "longitude": "-4.1992621"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-initiation-au-monde-des-oiseaux-pont-labbe-fr-6125021/"
-  },
-  {
-    "sheetId": "6125022",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Initiation au monde des oiseaux",
-    "type": "Nature et détente",
-    "description": "Découverte de nids d’oiseaux suivie d'une balade dans le bois de Rosquerno à l’écoute des passereaux : rouge-gorge, mésanges, roitelets, peu avares de babillages hivernaux.\nEn chemin, les arbres laisseront entrevoir l'estuaire de la rivière de Pont-l’Abbé, lieu d’accueil d’oiseaux ayant fait le voyage depuis le nord de l’Europe.\nDistance : 3 km\nSorties et ateliers susceptibles d'être annulés en cas d'intempéries.\nMerci de préparer l'appoint pour le règlement des activités.\n\nOrganisé par la CCPBS",
-    "town": "Pont-l'Abbé",
-    "address": "Parking face au centre équestre",
-    "gps": {
-      "latitude": "47.8554076",
-      "longitude": "-4.1992621"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-initiation-au-monde-des-oiseaux-pont-labbe-fr-6125022/"
   },
   {
     "sheetId": "6125024",
@@ -2480,35 +2393,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125052/"
-  },
-  {
-    "sheetId": "6125050",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Guilvinec",
-    "address": "Plage de la grève blanche",
-    "gps": {
-      "latitude": "47.7956355",
-      "longitude": "-4.2928349"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125050/"
   },
   {
     "sheetId": "6125054",
@@ -2917,35 +2801,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-de-pont-labbe-pont-labbe-fr-6127632/"
   },
   {
-    "sheetId": "6127640",
-    "bordereau": "FMA",
-    "title": "Spectacle enfant - Les lutins farceurs et le mystère du père Noël disparu",
-    "type": "Culturelle",
-    "description": "Spectacle destinés aux enfants \n\nOrganisé par le comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Patronage Laïque",
-    "gps": {
-      "latitude": "47.86605",
-      "longitude": "-4.21808"
-    },
-    "phone": {
-      "number": "06 75 36 49 62"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/spectacle-enfant-les-lutins-farceurs-et-le-mystere-du-pere-noel-disparu-pont-labbe-fr-6127640/"
-  },
-  {
     "sheetId": "6127645",
     "bordereau": "FMA",
     "title": "Concert de Noël",
@@ -3205,35 +3060,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/pierrot-dit-et-chante-nougaro-penmarch-fr-6129855/"
-  },
-  {
-    "sheetId": "6132112",
-    "bordereau": "FMA",
-    "title": "Matinée Jeux",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Matinée Jeux placée sous le signe de la convivialité, de la découverte et du partage. \nOuverte à tous, novices et confirmés, à partir de 4 ans.\nIl est possible d’apporter ses propres jeux.",
-    "town": "Plonéour-Lanvern",
-    "address": "Salle polyvalente Place de la mairie",
-    "gps": {
-      "latitude": "47.903",
-      "longitude": "-4.28264"
-    },
-    "phone": {
-      "number": "06 70 37 15 33"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/matinee-jeux-ploneour-lanvern-fr-6132112/"
   },
   {
     "sheetId": "6133925",
