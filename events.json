@@ -2946,35 +2946,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-station-de-ski-pont-labbe-fr-6127639/"
   },
   {
-    "sheetId": "6127647",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Loctudy",
-    "address": "Plage de Lodonnec (côté crêperie)",
-    "gps": {
-      "latitude": "47.8133199",
-      "longitude": "-4.1731641"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-24T00:00:00+01:00",
-          "startTime": "à 12h00"
-        },
-        "end": {
-          "endDate": "2025-12-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127647/"
-  },
-  {
     "sheetId": "6127650",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
@@ -3002,35 +2973,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
-  },
-  {
-    "sheetId": "6129812",
-    "bordereau": "FMA",
-    "title": "Loisirs créatifs de Noël - Enfants",
-    "type": "Culturelle",
-    "description": "Jeunes dès 7 ans. Fabrication de décorations de Noël, aquarelle, couronnes, goûter de Noël (samedi 20). Tout le matériel est fourni.\nSur réservation",
-    "town": "Loctudy",
-    "address": "Maison des associations",
-    "gps": {
-      "latitude": "47.83064",
-      "longitude": "-4.17569"
-    },
-    "phone": {
-      "number": "06 87 04 00 66"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/loisirs-creatifs-de-noel-enfants-loctudy-fr-6129812/"
   },
   {
     "sheetId": "6129855",
