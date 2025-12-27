@@ -2888,35 +2888,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127649/"
   },
   {
-    "sheetId": "6127642",
-    "bordereau": "FMA",
-    "title": "Spectacle - Bigouden Light",
-    "type": "Musique",
-    "description": "Le spectacle Bigouden Light est un spectacle nocturne de rue tout public, inspiré par la vie des femmes de Bretagne, avec des chorégraphies dans des costumes lumineux, et se déroule en sept tableaux.\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Place Gambetta",
-    "gps": {
-      "latitude": "47.86462",
-      "longitude": "-4.22186"
-    },
-    "phone": {
-      "number": "06 75 36 49 62"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-26T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2025-12-26T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/spectacle-bigouden-light-pont-labbe-fr-6127642/"
-  },
-  {
     "sheetId": "6127639",
     "bordereau": "FMA",
     "title": "Spectacle - Station de ski",
