@@ -1,34 +1,5 @@
 [
   {
-    "sheetId": "5426454",
-    "bordereau": "FMA",
-    "title": "Baignade collective - Le bain des sirènes",
-    "type": "Insolite",
-    "description": "Plongez dans la tradition hivernale !\nPrêts pour un grand bol d’air iodé ?\nLe Bain des Sirènes revient pour une nouvelle édition, ouvert à toutes et à tous : une expérience\nrafraîchissante, vivifiante et pleine d’énergie pour bien finir l’année !\nRendez-vous pour la 2ème année consécutive sur la plage de Langoz.\n\nDéguisés ou non, tout le monde est bienvenu !\nPrêts pour un grand bol d’air iodé ?\nVenez seul(e), en famille ou entre amis — en maillot, en combinaison ou même déguisé(e) pour\nles plus audacieux !\nLe bain se fera sous la surveillance des bénévoles de la SNSM, garants d’une baignade en\ntoute sécurité.\n\nChaleur et convivialité garanties\nAprès le plongeon, retrouvez-vous autour d’une boisson chaude offerte pour réchauffer les\ncorps... et les sourires.\nUn moment simple, chaleureux et convivial, fidèle à l’esprit du FAR.\n\nUn rendez-vous festif avant de tourner la page de l’année\nAmbiance détendue, fous rires, photos souvenirs et esprit collectif : le Bain des Sirènes, c’est\nl’occasion parfaite de partager un moment inoubliable avant le passage à la nouvelle année.\n\nÀ vos maillots !",
-    "town": "Loctudy",
-    "address": "Plage de Langoz",
-    "gps": {
-      "latitude": "47.81355",
-      "longitude": "-4.17248"
-    },
-    "phone": {
-      "number": "06 08 98 10 53"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-28T00:00:00+01:00",
-          "startTime": "à 11h00"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/baignade-collective-le-bain-des-sirenes-loctudy-fr-5426454/"
-  },
-  {
     "sheetId": "5426785",
     "bordereau": "FMA",
     "title": "Spectacle hypnose - Kent",
@@ -520,74 +491,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/conference-le-grand-banquet-la-saga-larzul-guilvinec-fr-5975267/"
-  },
-  {
-    "sheetId": "5979115",
-    "bordereau": "FMA",
-    "title": "Atelier création d’objets “Hygge”",
-    "type": "Autres Evènements",
-    "description": "Créez un set de petit déjeuner (Une assiette à toast et un bol), un set apéro (une planche de présentation et un bol) ou set cocooning en créant un mug et un bougeoir.\n\nRéservation obligatoire",
-    "town": "Pont-l'Abbé",
-    "address": "Slow Café Céramique",
-    "gps": {
-      "latitude": "47.86458",
-      "longitude": "-4.22269"
-    },
-    "phone": {
-      "number": "02 98 66 83 51"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-22T00:00:00+01:00",
-          "startTime": "à 10h30"
-        },
-        "end": {
-          "endDate": "2025-12-22T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-28T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979115/"
-  },
-  {
-    "sheetId": "5979119",
-    "bordereau": "FMA",
-    "title": "Atelier création d’objets “Hygge”",
-    "type": "Autres Evènements",
-    "description": "Créez un set de petit déjeuner (Une assiette à toast et un bol), un set apéro (une planche de présentation et un bol) ou set cocooning en créant un mug et un bougeoir.\n\nRéservation obligatoire",
-    "town": "Pont-l'Abbé",
-    "address": "Slow Café Céramique",
-    "gps": {
-      "latitude": "47.86458",
-      "longitude": "-4.22269"
-    },
-    "phone": {
-      "number": "02 98 66 83 51"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-28T00:00:00+01:00",
-          "startTime": "à 10h30"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-creation-dobjets-hygge-pont-labbe-fr-5979119/"
   },
   {
     "sheetId": "5986578",
@@ -2627,35 +2530,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125637/"
   },
   {
-    "sheetId": "6125647",
-    "bordereau": "FMA",
-    "title": "Soirée DJ SET",
-    "type": "Musique",
-    "description": "Soirée DJ SET avec DJ Bapt' !",
-    "town": "Treffiagat",
-    "address": "Le She & Il",
-    "gps": {
-      "latitude": "47.79586",
-      "longitude": "-4.27329"
-    },
-    "phone": {
-      "number": "06 48 10 97 44"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-27T00:00:00+01:00",
-          "startTime": "à 19h30"
-        },
-        "end": {
-          "endDate": "2025-12-27T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/soiree-dj-set-treffiagat-fr-6125647/"
-  },
-  {
     "sheetId": "6125650",
     "bordereau": "FMA",
     "title": "Concert - Do & Volga",
@@ -2772,64 +2646,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127627/"
   },
   {
-    "sheetId": "6127632",
-    "bordereau": "FMA",
-    "title": "Marché de Noël de Pont-l'Abbé",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Marché avec 8 chalets composés d'artisans locaux et d'associations locales  avec animations  :\n\nDu 20 au 23 décembre : un sculpteur de ballon et dégustation de barbe à papa\n21 décembre : Feu d'artifice tiré depuis le Triskell à 19h30\n22 décembre : Spectacle de musique Duo Heaven de 17h à 19h\n26 décembre : Spectacle Bigouden light de 18h à 19h30\n27 décembre : Station de ski de la compagnie rennaise Machtiern (slalom, bobsleigh, boules de neige) 15h à 16h et 17h à 18h.\n\nUn manège pour enfant sera présent tous les jours\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Place Gambetta",
-    "gps": {
-      "latitude": "47.86462",
-      "longitude": "-4.22186"
-    },
-    "phone": {
-      "number": "06 75 36 49 62"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-20T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/marche-de-noel-de-pont-labbe-pont-labbe-fr-6127632/"
-  },
-  {
-    "sheetId": "6127645",
-    "bordereau": "FMA",
-    "title": "Concert de Noël",
-    "type": "Musique",
-    "description": "Concert orgue violon voix : Mark Schutz - Pauline Beau - Ensemble vocal\nŒuvres instrumentales\nChants traditionnels de Noël de Bretagne et d'ailleurs\n\n\nlibre participation\n\nOrganisé par les Amis de l'orgue",
-    "town": "Pont-l'Abbé",
-    "address": "Eglise ND des Carmes",
-    "gps": {
-      "latitude": "47.8662",
-      "longitude": "-4.2195"
-    },
-    "phone": {
-      "number": "06 50 47 11 59"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-28T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-de-noel-pont-labbe-fr-6127645/"
-  },
-  {
     "sheetId": "6127648",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
@@ -2888,35 +2704,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127649/"
   },
   {
-    "sheetId": "6127639",
-    "bordereau": "FMA",
-    "title": "Spectacle - Station de ski",
-    "type": "Culturelle",
-    "description": "Le spectacle station de ski est un spectacle de rue tout public, avec slalom, bobsleigh, boules de neige et de la bonne humeur\n\nEntre création artistique et installation ludique pour adultes et enfants, cette nouvelle création de la compagnie\nMachtiern est une manière de décaler ses perceptions, de partir au ski sans aller bien loin, de voyager sur place. Le\nthème du ski ouvre des pistes de création, de rire, de décalage artistique, d’insolite.\nDifférentes machines de jeu, construites dans nos ateliers, sont installées dans un espace scénique circulaire avec au\ncentre un pylône métallique (hauteur : 3 mètres) servant de support aux machines à neige.\nDes turbulences artistiques sont au rendez vous avec le jeu des quatre comédiens « moniteurs de ski ». Les jeux\nproposés au public sont mécaniques et visuels et nécessitent pour la plupart dextérité et sens de l’humour.\n\nLe spectacle :\n\nUne plongée dans un univers artistique unique et original.\nUn moment ludique riche en expérience et émotion.\nUne ambiance conviviale et familiale où chacun trouve sa place.\nUn univers décalé pour mieux se rencontrer\nEt (surtout), l'occasion de sortir sa combi et ses après-ski des années 80, de mettre un bonnet à pompon, d'arborer\nfièrement sa premier étoile, de se pavaner avec un snowboard sur l'épaule sans jamais avoir mis les pieds à la montagne,\nde danser sous la neige, de slalomer sans risque, de remorter une compétition d'alpinisme et bien sûr de profiter de\nl'expérience, du conseil et du sérieux des moniteurs de ski.\n\nLes jeux:\n\nLancer de boules de neige sur cloches de vaches alpines devant un décor de montagnes. A l'aide d’un propulseur à\nair comprimé, il faut viser les cloches qui ne demandent qu'à tinter.\nBalance ton Bob (Jeu de force. un bobsleigh montée sur roulements est propulsé afin de faire le tour du circuit\n(environ 10 mètres).\nLe grand slalom (Jeu de dextérité. Une paire de ski montée sur glissière, un tapis roulant qui défile, ATTENTION\nAUX PORTES ! ).\nUne proposition artistique ponctuée de tempêtes de neige avec une ambiance musicale en continu. Durée : 2h par\njour.\n\nOrganisé par la mairie, l'union des commerçants et le comité d'animation",
-    "town": "Pont-l'Abbé",
-    "address": "Place Gambetta",
-    "gps": {
-      "latitude": "47.86462",
-      "longitude": "-4.22186"
-    },
-    "phone": {
-      "number": "06 75 36 49 62"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-27T00:00:00+01:00",
-          "startTime": "à 15h00"
-        },
-        "end": {
-          "endDate": "2025-12-27T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/spectacle-station-de-ski-pont-labbe-fr-6127639/"
-  },
-  {
     "sheetId": "6127650",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
@@ -2944,35 +2731,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
-  },
-  {
-    "sheetId": "6129855",
-    "bordereau": "FMA",
-    "title": "Pierrot dit et chante Nougaro",
-    "type": "Musique",
-    "description": "L'ivre d'amour et de mots\nAu piano Jean-Gilbert Sévilla.\nSur réservation - Participation au chapeau",
-    "town": "Penmarch",
-    "address": "Bar Chez Cathy",
-    "gps": {
-      "latitude": "47.8182697",
-      "longitude": "-4.3778156"
-    },
-    "phone": {
-      "number": "02 98 58 62 31"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-28T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/pierrot-dit-et-chante-nougaro-penmarch-fr-6129855/"
   },
   {
     "sheetId": "6133925",
