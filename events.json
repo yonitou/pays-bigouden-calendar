@@ -1796,35 +1796,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-du-nouvel-an-treguennec-fr-6125008/"
   },
   {
-    "sheetId": "6125009",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Atelier nature participatif - Tressage d'une nouvelle cabane",
-    "type": "Nature et détente",
-    "description": "Sur le sentier situé le long de l’étang de Saint-Vio , l’objectif est de construire collectivement une nouvelle cabane par le biais de techniques ancestrales de vannerie et de l’osier (un matériau local et renouvelable !) Une manière concrète de questionner notre rapport à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.",
-    "town": "Tréguennec",
-    "address": "Maison de la Baie d'Audierne",
-    "gps": {
-      "latitude": "47.8696778",
-      "longitude": "-4.3373874"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-29T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-29T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125009/"
-  },
-  {
     "sheetId": "6125011",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - Atelier nature participatif - Tressage d'une nouvelle cabane",
