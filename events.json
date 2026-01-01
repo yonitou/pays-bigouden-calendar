@@ -1767,64 +1767,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/festival-au-pre-plogastel-saint-germain-fr-5772897/"
   },
   {
-    "sheetId": "6125008",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Atelier nature du Nouvel An",
-    "type": "Nature et détente",
-    "description": "Quoi de mieux qu’un bol d’air en famille, autour de la Maison de la baie d’Audierne, entre les  fêtes ? \nAu cours d’une balade de 2 km, chacun pourra expérimenter son habilité à fabriquer des jeux et jouets buissonniers, comme un clin d’œil à nos aïeux qui les ont inventés, en ce temps où le Père Noël était moins généreux qu’aujourd’hui. Les cadeaux que la nature nous offre sont partout ! Il suffit d’ouvrir les yeux et les oreilles !\n\nInscription préalable indispensable par téléphone.",
-    "town": "Tréguennec",
-    "address": "Maison de la Baie d'Audierne",
-    "gps": {
-      "latitude": "47.8895870",
-      "longitude": "-4.3343120"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-31T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2025-12-31T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-du-nouvel-an-treguennec-fr-6125008/"
-  },
-  {
-    "sheetId": "6125011",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Atelier nature participatif - Tressage d'une nouvelle cabane",
-    "type": "Nature et détente",
-    "description": "Sur le sentier situé le long de l’étang de Saint-Vio , l’objectif est de construire collectivement une nouvelle cabane par le biais de techniques ancestrales de vannerie et de l’osier (un matériau local et renouvelable !) Une manière concrète de questionner notre rapport à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.",
-    "town": "Tréguennec",
-    "address": "Maison de la Baie d'Audierne",
-    "gps": {
-      "latitude": "47.8696778",
-      "longitude": "-4.3373874"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-31T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-31T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125011/"
-  },
-  {
     "sheetId": "6125012",
     "bordereau": "FMA",
     "title": "Les rendez-vous nature - Balade nature - Au clair de lune autour de Tronoën",
@@ -1852,35 +1794,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-balade-nature-au-clair-de-lune-autour-de-tronoen-saint-jean-trolimon-fr-6125012/"
-  },
-  {
-    "sheetId": "6125013",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Atelier nature participatif - Tressage d'une nouvelle cabane",
-    "type": "Nature et détente",
-    "description": "Sur le sentier situé le long de l’étang de Saint-Vio , l’objectif est de construire collectivement une nouvelle cabane par le biais de techniques ancestrales de vannerie et de l’osier (un matériau local et renouvelable !) Une manière concrète de questionner notre rapport à la nature.\n\nPrévoir des vêtements chauds et apporter un sécateur.",
-    "town": "Tréguennec",
-    "address": "Maison de la Baie d'Audierne",
-    "gps": {
-      "latitude": "47.8696778",
-      "longitude": "-4.3373874"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-30T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2025-12-30T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-atelier-nature-participatif-tressage-dune-nouvelle-cabane-treguennec-fr-6125013/"
   },
   {
     "sheetId": "6125024",
@@ -2499,35 +2412,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125637/"
-  },
-  {
-    "sheetId": "6125650",
-    "bordereau": "FMA",
-    "title": "Concert - Do & Volga",
-    "type": "Musique",
-    "description": "Do & Volga, c’est la rencontre entre un guitariste de Pont l’abbé et une chanteuse des Monts d’Arrée. \n\nFormé en 2025, le duo acoustique réunit une voix puissante et expressive et une guitare vibrante et sensible. Ensemble, ils explorent un répertoire éclectique allant de Marilyn Manson à Bob Marley, en passant par T.A.T.U. ou Linkin Park.\nDo & Volga ne rejouent pas simplement des morceaux connus : ils leur insufflent une nouvelle vie, teintée de blues et de soul.",
-    "town": "Treffiagat",
-    "address": "Le She & Il",
-    "gps": {
-      "latitude": "47.79586",
-      "longitude": "-4.27329"
-    },
-    "phone": {
-      "number": "06 48 10 97 44"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-31T00:00:00+01:00",
-          "startTime": "à 19h00"
-        },
-        "end": {
-          "endDate": "2025-12-31T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-do-volga-treffiagat-fr-6125650/"
   },
   {
     "sheetId": "6127651",
