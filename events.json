@@ -756,7 +756,7 @@
   {
     "sheetId": "5988576",
     "bordereau": "FMA",
-    "title": "Cirque - Biographies",
+    "title": "Biographies - Festival Circonova",
     "type": "Culturelle",
     "description": "Cie EA EO / Neta Oren & Pierre Laloge.\nConfidences spectaculaires. Au milieu de la piste circulaire, Neta Oren et ses balles. Un métronome bat la mesure à 160 pulsations par minute. Derrière son micro, un rappeur. Interprète du dialogue intérieur de la jongleuse, Pierre Laloge révèle en rimes et en punchlines l’état mental de sa partenaire, qui évolue au fur et à mesure du spectacle. À quoi pense cette artiste, déterminée à ne rien laisser tomber ? La concentration extrême, l’angoisse du raté, l’euphorie libératrice. Au rythme des balles qui fusent, rebondissent sur les genoux et les cuisses, les pensées se télescopent. Il est question du quotidien, de la liste des courses, d’une vie d’artiste et du temps qui passe. Entre jonglage et poésie urbaine, le duo invente un dialogue captivant et plein d’imagination.\nTexte Neta Oren, Éric Longequel et Pierre Laloge Mise en scène Éric Longequel Jonglage Neta Oren",
     "town": "Penmarch",
@@ -1709,35 +1709,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/festival-god-save-the-kouign-vol-7-penmarch-fr-6090921/"
   },
   {
-    "sheetId": "6091420",
-    "bordereau": "FMA",
-    "title": "Stage de vannerie",
-    "type": "Autres Evènements",
-    "description": "Réalisation d’un objet vannerie en rotin. Les fournitures sont comprises. Le stage est organisé par l’association penmarc’haise Un brin bigoud.",
-    "town": "Penmarch",
-    "address": "Salle Ile Fougère",
-    "gps": {
-      "latitude": "47.8166553",
-      "longitude": "-4.3752294"
-    },
-    "phone": {
-      "number": "06 84 01 63 69"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-18T00:00:00+01:00",
-          "startTime": "à 09h30"
-        },
-        "end": {
-          "endDate": "2026-01-25T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/stage-de-vannerie-penmarch-fr-6091420/"
-  },
-  {
     "sheetId": "5772897",
     "bordereau": "FMA",
     "title": "Festival au pré",
@@ -1765,35 +1736,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/festival-au-pre-plogastel-saint-germain-fr-5772897/"
-  },
-  {
-    "sheetId": "6125012",
-    "bordereau": "FMA",
-    "title": "Les rendez-vous nature - Balade nature - Au clair de lune autour de Tronoën",
-    "type": "Nature et détente",
-    "description": "En marchant le soir au clair de lune, les paysages de la palud de Tronoën prennent une dimension fantasmagorique, intemporelle, comme si nous étions plongés dans cette époque décrite par Anatole Le Braz dans son ouvrage culte « la légende de la mort ». \nRassurez-vous, nous ne nous perdrons pas, la cathédrale des dunes sera notre amer, notre point de repère autour duquel nous marcherons, pas moins de 4 km. \n\nSoyez bien couverts car peu d’arbres peuvent prétendre pousser et vous abriter en ces lieux balayés par les vents qui viennent tout droit de l’océan. \nCe souffle réveillera sûrement de vielles légendes enfouies dans cette mystérieuse palud, si ce n’est au fond de votre cœur…\n\nPrévoir des vêtements chauds et une lampe.\nInscription indispensable par téléphone.",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Chapelle de Tronoën",
-    "gps": {
-      "latitude": "47.8562461",
-      "longitude": "-4.3283288"
-    },
-    "phone": {
-      "number": "07 88 09 14 01"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-02T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2026-01-02T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/les-rendez-vous-nature-balade-nature-au-clair-de-lune-autour-de-tronoen-saint-jean-trolimon-fr-6125012/"
   },
   {
     "sheetId": "6125024",
@@ -2007,35 +1949,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/passeurs-de-bulles-table-ronde-bd-sur-ordonnance-pont-labbe-fr-6125043/"
   },
   {
-    "sheetId": "6125046",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Treffiagat",
-    "address": "Plage de Pors Treillen",
-    "gps": {
-      "latitude": "47.7932729",
-      "longitude": "-4.2723949"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-02T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2026-01-02T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125046/"
-  },
-  {
     "sheetId": "6125045",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
@@ -2109,36 +2022,6 @@
       "number": "02 98 82 31 88"
     },
     "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-23T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-23T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2025-12-26T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-27T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2025-12-30T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2025-12-30T23:59:59+01:00"
-        }
-      },
       {
         "oneday": false,
         "start": {
