@@ -2007,35 +2007,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125047/"
   },
   {
-    "sheetId": "6125051",
-    "bordereau": "FMA",
-    "title": "Ciné-vacances - Spécial films de noël",
-    "type": "Culturelle",
-    "description": "La médiathèque vous propose des films d’animation sur le thème de Noël, les mardis, jeudis et vendredis des vacances scolaires à 16h.\n\nRendez-vous les 23-26-27-30 décembre et les 2-3 janvier à 16h.\n\n Gratuit / Tout public à partir de 4 ans.\n\nOrganisé par la médiathèque",
-    "town": "Pont-l'Abbé",
-    "address": "Médiathèque Julien Gracq",
-    "gps": {
-      "latitude": "47.86542",
-      "longitude": "-4.21982"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-02T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2026-01-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-vacances-special-films-de-noel-pont-labbe-fr-6125051/"
-  },
-  {
     "sheetId": "6125052",
     "bordereau": "FMA",
     "title": "Sortie découverte de l'estran - Pêche à pied",
