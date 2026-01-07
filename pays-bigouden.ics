@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:5426785-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260307T203000
 DTEND:20260307T223000
 SUMMARY:Spectacle hypnose - Kent
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882469-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260208T170000
 DTEND:20260208T190000
 SUMMARY:Concert - Gogo Penguin
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882738-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Concert Alan Stivell
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907736-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T200000
 DTEND:20260124T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907737-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260125T160000
 DTEND:20260125T180000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907741-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260123T200000
 DTEND:20260123T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -161,14 +161,14 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
  votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écr
  iture\, mise en scène\, scénographie Julien Candy Interprétation Juliet
  te Christmann\, Julien Candy\, Lady et des convives.
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-le
  -cabaret-renverse-plozevet-fr-5907741/
 END:VEVENT
 BEGIN:VEVENT
 UID:5907742-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260130T200000
 DTEND:20260130T220000
 SUMMARY:CIRCONOVA : La Pointe du Compas
@@ -187,14 +187,14 @@ DESCRIPTION:Dans le cadre de Circonova\, en partenariat avec le Théâtre
   sa propre voie. Ses acrobaties virtuoses accompagnent le combat intime d
  ’une jeune fille sur le chemin de son accomplissement.\n\nÉcriture Anne
   Rehbinder Mise en scène Antoine Colnot Interprète Mélodie Morin
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/circonova-la
  -pointe-du-compas-plozevet-fr-5907742/
 END:VEVENT
 BEGIN:VEVENT
 UID:5947625-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260412T140000
 DTEND:20260412T160000
 SUMMARY:Méga loto des loups de Plonéour
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5949101-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260823T090000
 DTEND:20260823T110000
 SUMMARY:Marathon des Étoiles de la Baie
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5967665-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260503T000000
 DTEND:20260503T235959
 SUMMARY:3 ème édition de la fête du rire
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969947-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260118T163000
 DTEND:20260118T183000
 SUMMARY:Ciné Doc : Terres Boréales
@@ -260,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969933-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260308T163000
 DTEND:20260308T183000
 SUMMARY:Ciné Doc : La Loire
@@ -282,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969932-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260208T163000
 DTEND:20260208T183000
 SUMMARY:Ciné Doc : L'extraordinaire tournée du facteur Maignan
@@ -303,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975259-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260115T180000
 DTEND:20260115T200000
 SUMMARY:Conférence - Pascal Dareths\, sous la mer\, invisibles
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975262-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260319T180000
 DTEND:20260319T200000
 SUMMARY:Conférence - Étape du Festival Pêcheurs du monde
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975263-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260416T180000
 DTEND:20260416T200000
 SUMMARY:Conférence - Chantier naval Gléhen Hénaff\, construire des bate
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975267-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Conférence - Le grand banquet\, la saga Larzul
@@ -385,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986578-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260321T193000
 DTEND:20260321T213000
 SUMMARY:Concert de la Saint-Patrick - Tribute to U2\, Achtung babies
@@ -429,9 +429,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986611-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260303T143000
-DTEND:20260303T163000
+DTSTAMP:20260107T074742
+DTSTART:20260203T143000
+DTEND:20260303T235959
 SUMMARY:Projection film documentaire - La Loire
 LOCATION:Centre sportif Croas Ver - Combrit
 DESCRIPTION:Depuis 2022\, des films documentaires de voyage sont projetés
@@ -449,7 +449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986607-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260210T143000
 DTEND:20260210T163000
 SUMMARY:Projection film documentaire - Les Terres boréales
@@ -471,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986609-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260113T143000
 DTEND:20260113T163000
 SUMMARY:Projection film documentaire - Le Pérou
@@ -493,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988571-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260410T203000
 DTEND:20260410T223000
 SUMMARY:Humour - Paul de St-Sernin
@@ -517,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260131T203000
 DTEND:20260131T223000
 SUMMARY:Théâtre - Les aventuriers de minuit
@@ -542,7 +542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988562-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260214T203000
 DTEND:20260214T223000
 SUMMARY:Concert - The Celtic Social Club
@@ -565,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988586-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260304T143000
 DTEND:20260304T163000
 SUMMARY:Ciné docs - Australie\, du grand Ouest à la Tasmanie
@@ -589,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988573-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260412T170000
 DTEND:20260412T190000
 SUMMARY:Théâtre - Trois femmes au bord de la crise de mère
@@ -612,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988576-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260122T190000
 DTEND:20260122T210000
 SUMMARY:Biographies - Festival Circonova
@@ -632,16 +632,16 @@ DESCRIPTION:Cie EA EO / Neta Oren & Pierre Laloge.\nConfidences spectacula
  eta Oren\, Éric Longequel et Pierre Laloge Mise en scène Éric Longequel
   Jonglage Neta Oren
 CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cirque-biogr
- aphies-penmarch-fr-5988576/
+URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/biographies-
+ festival-circonova-penmarch-fr-5988576/
 END:VEVENT
 BEGIN:VEVENT
 UID:5988587-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260228T000000
 DTEND:20260301T235959
-SUMMARY:Concert Neodance contest
+SUMMARY:Concert - Neodance contest
 LOCATION:Le Triskell - Pont-l'Abbé
 DESCRIPTION:Neodance contest\nLe Neodance Contest -Édition 2025 est un co
  ncours organisé dans le but de promouvoir la danse Modern Jazz\, Street J
@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988575-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Humour - Akim Omiri
@@ -681,7 +681,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260121T143000
 DTEND:20260121T163000
 SUMMARY:Ciné docs - Irlande\, carrément à l'Ouest
@@ -709,7 +709,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988584-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260107T143000
 DTEND:20260107T163000
 SUMMARY:Ciné docs - Peuples du froid\, Sibérie\, Mongolie\, Himalaya
@@ -729,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988581-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260325T143000
 DTEND:20260325T163000
 SUMMARY:Ciné docs - Guyane\, une pépite en Amazonie
@@ -761,7 +761,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988579-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:Ciné docs - Odyslande\, quatre saisons en Islande à vélo
@@ -785,7 +785,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994147-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260507T203000
 DTEND:20260507T223000
 SUMMARY:Spectacle - Philippe Manoeuvre
@@ -804,7 +804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015560-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Spectacle - Marion Mezadorian - Craquage
@@ -825,9 +825,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015561-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260221T203000
-DTEND:20260221T223000
+DTSTAMP:20260107T074742
+DTSTART:20260221T193000
+DTEND:20260221T213000
 SUMMARY:Concert caritatif Association Mamgdala - Les Vrillés
 LOCATION:Centre de Loisirs de la Culture - Guilvinec
 DESCRIPTION:Concert de rock Celtique.\n\n19h : ouverture des portes.\n19h3
@@ -845,7 +845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015574-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260328T200000
 DTEND:20260328T220000
 SUMMARY:Comédie - Sortez moi de là
@@ -867,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015572-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260605T200000
 DTEND:20260605T220000
 SUMMARY:Comédie - L'art du couple
@@ -890,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031550-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260522T000000
 DTEND:20260523T235959
 SUMMARY:Courts Of Chaos Festival - Heavy metal
@@ -904,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031547-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Avant premiére : Warm up Courts Of Chaos Festival
@@ -917,22 +917,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6034017-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260227T170000
+DTSTAMP:20260107T074742
+DTSTART:20260227T000000
 DTEND:20260228T235959
 SUMMARY:Shaker Fest - Nouvelle Orléans des années 20
 LOCATION:Halle Raphalen - Plonéour-Lanvern
 DESCRIPTION:Bienvenue dans l’univers envoûtant des cabarets du New Orle
  ans des années 20\, entre carnaval débridé\, rites vaudou et jazz brûl
  ant. Préparez-vous à swinguer comme sur Bourbon Street !
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/shaker-fest-
  nouvelle-orleans-des-annees-20-ploneour-lanvern-fr-6034017/
 END:VEVENT
 BEGIN:VEVENT
 UID:6044522-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Jazz In Loc - Master class pour enfants
@@ -946,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044528-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260806T000000
 DTEND:20260806T235959
 SUMMARY:Concert - Jazz In Loc
@@ -962,7 +962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044526-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Concert - Jazz In Loc
@@ -979,7 +979,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6045460-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260412T090000
 DTEND:20260412T110000
 SUMMARY:Vide jardin de printemps
@@ -993,45 +993,45 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772809-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260621T090000
 DTEND:20260621T110000
 SUMMARY:Rando des bois
 LOCATION:Saint-Ronan - Plozévet
-DESCRIPTION:Le comité de Sauvegarde de la chapelle Saint-Ronan organise d
- imanche 21 juin la 11ème édition de la Rando des bois au profit du servi
- ce pédiatrie de l’hôpital de Quimper.\n3 parcours sont proposés à pa
- rtir du site de la chapelle de St-Ronan à Plozévet - Départ libre du si
- te de 9h à 16h\nRando chantée (breton et français) à 14h30 animée par
-  Dastum Bro Gerne \nRepas champêtre à partir de 12h\nEspace crêperie to
- ute la journée\nVente de pain et riz au lait cuits sur place.\nTarifs à 
- confirmer\n\nAnimations gratuites :\n•	Fabrication de pain et riz au lai
- t sur place\n•	Exposition de véhicules anciens toute la journée\n•	A
- nimations musicales l’après-midi\n•	Espace enfants (jeux\, pêche à 
- la ligne\, etc)\n•	Autres animations (informations à venir)
-CATEGORIES:Animation locale (Kermesse / Loto...)
+DESCRIPTION:Le comité de Sauvegarde de la chapelle Saint-Ronan organise  
+ la 11ème édition de la Rando des bois au profit du service pédiatrie de
+  l’hôpital de Quimper.\n3 parcours sont proposés à partir du site de 
+ la chapelle de St-Ronan à Plozévet - Départ libre du site de 9h à 16h\
+ nRando chantée (breton et français) à 14h30 animée par Dastum Bro Gern
+ e \nRepas champêtre à partir de 12h\nEspace crêperie toute la journée\
+ nVente de pain et riz au lait cuits sur place.\nTarifs à confirmer\n\nAni
+ mations gratuites :\n•	Fabrication de pain et riz au lait sur place\n•
+ 	Exposition de véhicules anciens toute la journée\n•	Animations musica
+ les l’après-midi\n•	Espace enfants (jeux\, pêche à la ligne\, etc)\
+ n•	Autres animations (informations à venir)
+CATEGORIES:Musique
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/rando-des-bo
  is-plozevet-fr-5772809/
 END:VEVENT
 BEGIN:VEVENT
 UID:6049334-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260920T090000
 DTEND:20260920T110000
 SUMMARY:Salon Bigouden du Disque
 LOCATION:Triskell - Pont-l'Abbé
 DESCRIPTION:le Rdv des passionnés de disque! Porgramme à venir.
-CATEGORIES:Musique
+CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/salon-bigoud
  en-du-disque-pont-labbe-fr-6049334/
 END:VEVENT
 BEGIN:VEVENT
 UID:6061298-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260117T140000
-DTEND:20260117T160000
+DTEND:20260118T235959
 SUMMARY:Finsit'aire de jeux
 LOCATION:Halle Raphalen - Plonéour-Lanvern
 DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
@@ -1045,40 +1045,17 @@ DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
  qui récompense le plus beau jeu de l’année.\n\nL’équipe de Finist
  ’aire de jeux vous attend nombreuses et nombreux !\n\nRestauration et bu
  vette sur place.
-CATEGORIES:Animation locale (Kermesse / Loto...)
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/finsitaire-d
- e-jeux-ploneour-lanvern-fr-6061298/
-END:VEVENT
-BEGIN:VEVENT
-UID:6061298-1@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260118T100000
-DTEND:20260118T120000
-SUMMARY:Finsit'aire de jeux
-LOCATION:Halle Raphalen - Plonéour-Lanvern
-DESCRIPTION:L’association Bigoudice et la mairie de Plonéour-Lanvern re
- lancent le célèbre festival de jeux du Finistère sud  !\n\nInitiations 
- à tous types de jeux de société : plateau\, carte à collectionner\, fi
- gurines\, jeu de rôle\, … adaptés à tous les âges et pour tout nivea
- u !\n\nDifférentes activités seront aussi proposées comme une enquête 
- party\, des escape games\, ainsi que des tournois.\nÉditeurs\, artisans e
- t illustrateurs présenteront leurs créations (dont des prototypes inédi
- ts !)\nLes festivaliers pourront aussi voter pour le prix des Z’illus\, 
- qui récompense le plus beau jeu de l’année.\n\nL’équipe de Finist
- ’aire de jeux vous attend nombreuses et nombreux !\n\nRestauration et bu
- vette sur place.
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/finsitaire-d
  e-jeux-ploneour-lanvern-fr-6061298/
 END:VEVENT
 BEGIN:VEVENT
 UID:6071903-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260214T200000
 DTEND:20260214T220000
-SUMMARY:Humour - Yann Guillarme - LIBRE
+SUMMARY:Humour - Yann Guillarme - Libre
 LOCATION:Centre de Loisirs de la Culture - Guilvinec
 DESCRIPTION:Libre *\nAdjectif. Se dit d’une personne qui a le pouvoir\, 
  le droit de décider\, d’agir par soi-même\, quitte à faire du reggae 
@@ -1100,7 +1077,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260512T194200
 DTEND:20260512T214200
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1134,23 +1111,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/redadeg-2026
  -course-de-relais-solidaire-plobannalec-lesconil-fr-6079924/
 END:VEVENT
 BEGIN:VEVENT
-UID:6079926-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260106T143000
-DTEND:20260106T163000
-SUMMARY:Lecture partage
-LOCATION:Espace sportif Croas Ver - Médiathèque - Combrit
-DESCRIPTION:Échange autour des derniers coups de cœur et coups de gueule
-  littéraires.\nOuvert à tous.
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/lecture-part
- age-combrit-fr-6079926/
-END:VEVENT
-BEGIN:VEVENT
 UID:6079930-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260110T090000
 DTEND:20260110T110000
 SUMMARY:Repair café
@@ -1165,7 +1128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260512T205300
 DTEND:20260512T225300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1201,7 +1164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260512T192300
 DTEND:20260512T212300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1237,7 +1200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260512T211700
 DTEND:20260512T231700
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1273,7 +1236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260512T202000
 DTEND:20260512T222000
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1309,7 +1272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6086716-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260228T203000
 DTEND:20260228T223000
 SUMMARY:Comédie - Vive Bouchon !
@@ -1332,7 +1295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20261121T203000
 DTEND:20261121T223000
 SUMMARY:Concert - The Stranglers
@@ -1362,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090921-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260612T170000
 DTEND:20260614T235959
 SUMMARY:Festival God Save The Kouign Vol.7
@@ -1381,8 +1344,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260919T140000
+DTSTAMP:20260107T074742
+DTSTART:20260919T000000
 DTEND:20260920T235959
 SUMMARY:Festival au pré
 LOCATION:Enclos chapelle saint germain - Plogastel-Saint-Germain
@@ -1394,25 +1357,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260801T140000
-DTEND:20260801T160000
-SUMMARY:La Balade des Arts - Promenade artistique
-LOCATION:Enclos des phares - Treffiagat
-DESCRIPTION:Venez rencontrer les "Talents de la Pointe" : la Balade des Ar
- ts transforme la Pointe en multiples lieux d'exposition et de découverte!
- \n\nOrganisée par l'association des Riverains et Amis de la Pointe de Lé
- chiagat.
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/la-balade-de
- s-arts-promenade-artistique-treffiagat-fr-6125024/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125024-1@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260802T100000
-DTEND:20260802T120000
+DTEND:20260802T235959
 SUMMARY:La Balade des Arts - Promenade artistique
 LOCATION:Enclos des phares - Treffiagat
 DESCRIPTION:Venez rencontrer les "Talents de la Pointe" : la Balade des Ar
@@ -1426,7 +1373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125033-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260615T100000
 DTEND:20260615T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1444,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125034-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260501T100000
 DTEND:20260501T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1462,21 +1409,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260801T100000
 DTEND:20260801T120000
 SUMMARY:Fête du Patrimoine
 LOCATION:lieu dit Saint Germain Chapelle saint Germain - Plogastel-Saint-G
  ermain
 DESCRIPTION:Programme à venir
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Traditions et folklore\, fêtes
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/fete-du-patr
  imoine-plogastel-saint-germain-fr-5882569/
 END:VEVENT
 BEGIN:VEVENT
 UID:6125044-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260422T133000
 DTEND:20260422T153000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1494,7 +1441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125042-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260515T090000
 DTEND:20260515T110000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1512,7 +1459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125043-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260120T190000
 DTEND:20260120T210000
 SUMMARY:Passeurs de Bulles - Table ronde - BD sur ordonnance
@@ -1530,7 +1477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125045-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260321T100000
 DTEND:20260321T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1548,7 +1495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260418T100000
 DTEND:20260418T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1566,7 +1513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125052-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260416T093000
 DTEND:20260416T113000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1584,7 +1531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125054-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260218T100000
 DTEND:20260218T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1602,7 +1549,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125057-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260207T163000
 DTEND:20260207T183000
 SUMMARY:Ciné docs - PÉROU – des civilisations et des hommes
@@ -1628,7 +1575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125632-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260203T143000
 DTEND:20260203T163000
 SUMMARY:Lecture partage
@@ -1642,7 +1589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260120T143000
 DTEND:20260120T163000
 SUMMARY:Atelier d'écriture
@@ -1656,7 +1603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125634-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260303T150000
 DTEND:20260303T170000
 SUMMARY:Lecture partage
@@ -1670,7 +1617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125633-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260130T180000
 DTEND:20260130T200000
 SUMMARY:Soirée philo
@@ -1685,7 +1632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125635-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260217T143000
 DTEND:20260217T163000
 SUMMARY:Atelier d'écriture
@@ -1699,7 +1646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125637-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260317T143000
 DTEND:20260317T163000
 SUMMARY:Atelier d'écriture
@@ -1713,7 +1660,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127651-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260516T093000
 DTEND:20260516T113000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1731,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127622-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260327T180000
 DTEND:20260327T200000
 SUMMARY:Soirée philo
@@ -1746,7 +1693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127627-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260227T180000
 DTEND:20260227T200000
 SUMMARY:Soirée philo
@@ -1761,7 +1708,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127648-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260421T130000
 DTEND:20260421T150000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1779,7 +1726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127649-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260417T100000
 DTEND:20260417T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1797,7 +1744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127650-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260219T100000
 DTEND:20260219T120000
 SUMMARY:Sortie découverte de l'estran - Pêche à pied
@@ -1815,20 +1762,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6133925-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260808T103000
 DTEND:20260808T123000
 SUMMARY:Fête de la Langoustine
 LOCATION:29740 Plobannalec-Lesconil
 DESCRIPTION:Programmation à venir.
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Autres Evènements
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/fete-de-la-l
  angoustine-plobannalec-lesconil-fr-6133925/
 END:VEVENT
 BEGIN:VEVENT
 UID:6133928-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260807T190000
 DTEND:20260807T210000
 SUMMARY:BEFORE Fête de la Langoustine
@@ -1845,35 +1792,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135353-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260328T100000
 DTEND:20260328T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
 LOCATION:Maison des associations - Plobannalec-Lesconil
 DESCRIPTION:Venez chiner et faire de bonnes affaires à la braderie du Sec
  ours populaire !
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/journee-port
  es-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135353/
 END:VEVENT
 BEGIN:VEVENT
 UID:6135354-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260417T100000
 DTEND:20260418T235959
 SUMMARY:Braderie du Secours populaire
 LOCATION:Maison des associations - Plobannalec-Lesconil
 DESCRIPTION:Venez chiner et faire de bonnes affaires à la braderie du Sec
  ours populaire !
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/braderie-du-
  secours-populaire-plobannalec-lesconil-fr-6135354/
 END:VEVENT
 BEGIN:VEVENT
 UID:6135361-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Un souper de mots - Lecture musicale et théâtralisée
@@ -1899,21 +1846,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135359-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260131T100000
 DTEND:20260131T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
 LOCATION:Maison des associations - Plobannalec-Lesconil
 DESCRIPTION:Venez chiner et faire de bonnes affaires à la braderie du Sec
  ours populaire !
-CATEGORIES:Animation locale (Kermesse / Loto...)
+CATEGORIES:Manifestation commerciale
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/journee-port
  es-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135359/
 END:VEVENT
 BEGIN:VEVENT
 UID:6135357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260123T000000
 DTEND:20260123T235959
 SUMMARY:Nuit de la lecture
@@ -1929,7 +1876,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135356-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Atelier soupe de mot
@@ -1959,9 +1906,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135355-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260124T183000
-DTEND:20260124T203000
+DTSTAMP:20260107T074742
+DTSTART:20260124T203000
+DTEND:20260124T223000
 SUMMARY:Un souper de mots
 LOCATION:Salle Polyvalente - Saint-Jean-Trolimon
 DESCRIPTION:Vous êtes invités à une soirée chaleureuse placée sous le
@@ -1990,7 +1937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135358-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Un souper de mots - Lectures d'albums jeunesse
@@ -2015,7 +1962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135360-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260106T074617
+DTSTAMP:20260107T074742
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Un souper de mots - Témoignage d'un néorural et débat sur l'ins
@@ -2039,20 +1986,5 @@ CATEGORIES:Culturelle
 URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/un-souper-de
  -mots-temoignage-dun-neorural-et-debat-sur-linstallation-en-ruralite-saint
  -jean-trolimon-fr-6135360/
-END:VEVENT
-BEGIN:VEVENT
-UID:6136418-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260106T074617
-DTSTART:20260108T194500
-DTEND:20260129T235959
-SUMMARY:Cours de danse modern'jazz les jeudis soir
-LOCATION:L'ollivier - Landudec
-DESCRIPTION:En janvier\, venez prendre des cours de danse modern'jazz les 
- jeudis soir à Landudec !\nNiveaux : débutants et intermédiaires.\nInfos
-  et réservations via les contacts indiqués sur l'affiche.
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cours-de-dan
- se-modernjazz-les-jeudis-soir-landudec-fr-6136418/
 END:VEVENT
 END:VCALENDAR

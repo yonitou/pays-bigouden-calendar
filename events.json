@@ -148,7 +148,7 @@
     "sheetId": "5907741",
     "bordereau": "FMA",
     "title": "CIRCONOVA : Le Cabaret renversé",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Culturelle",
     "description": "Dans le cadre de Circonova, en partenariat avec le Théâtre de Cornouaille et la communauté de communes du Haut Pays Bigouden\nJulien Candy / Cie La Faux Populaire\n\nCe soir, c’est cabaret ! Sous la toile du chapiteau, 120 convives, des tables, des chaises de bistrot, une piste circulaire et un tandem déjanté pour vous accueillir, Julien Candy, saltimbanque virtuose et l’irrésistible Juliette Christmann. Au plus près des spectateurs, le duo enchaîne les numéros : vélo acrobatique, lancer de couteaux, funambulisme, jonglage et acrobaties aériennes. Sans oublier les intermèdes musicaux joués avec une trompette, une scie ou une guitare. On frissonne, on rit, l’ambiance est délicieuse.\nAvec malice, Julien Candy et sa partenaire renversent les situations et entraînent le public dans un tourbillon de numéros savoureux, prétexte à une exploration joyeuse de la vie de couple, de ses joies et ses contraintes. Un cabaret insolite à consommer sans modération. Vous réservez votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écriture, mise en scène, scénographie Julien Candy Interprétation Juliette Christmann, Julien Candy, Lady et des convives.",
     "town": "Plozévet",
     "address": "Centre culturel avel dro",
@@ -177,7 +177,7 @@
     "sheetId": "5907742",
     "bordereau": "FMA",
     "title": "CIRCONOVA : La Pointe du Compas",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Culturelle",
     "description": "Dans le cadre de Circonova, en partenariat avec le Théâtre de Cornouaille et la communauté de communes du Haut Pays Bigouden\nCie HKC\nConquérir sa liberté. Adolescente au franc-parler mordant, Tessa refuse d’être assimilée à une jolie poupée lisse. Avec ses joggings XXL et ses punchlines pleines d’humour, elle envoie valser les diktats d’une société obsédée par l’apparence et la séduction. Face à une mère terrifiée, qui voudrait la mettre sous cloche, la jeune fille remonte aux racines de son histoire familiale jusqu’à découvrir un secret bien gardé… Seule en scène avec sa roue Cyr, Mélodie Morin virevolte entre fragilité et puissance. Prisonnière symbolique du cercle étouffant des injonctions, elle lutte, se débat et se révolte pour inventer sa propre voie. Ses acrobaties virtuoses accompagnent le combat intime d’une jeune fille sur le chemin de son accomplissement.\n\nÉcriture Anne Rehbinder Mise en scène Antoine Colnot Interprète Mélodie Morin",
     "town": "Plozévet",
     "address": "Centre culturel avel dro",
@@ -201,6 +201,24 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/circonova-la-pointe-du-compas-plozevet-fr-5907742/"
+  },
+  {
+    "sheetId": "5938088",
+    "bordereau": "FMA",
+    "title": "Atelier cuisine du poisson par Scarlette Le Corre",
+    "type": "Autres Evènements",
+    "description": "Scarlette Le Corre, marin-pêcheur, vous fait une présentation des pratiques de pêches bigoudènes et vous apprend à préparer le poisson frais autour de trois recettes. \nElle vous donne ses astuces pour toujours réussir la cuisson.\n\nDégustation en fin d'atelier. Sur réservation.",
+    "town": "Guilvinec",
+    "address": "Mer et Saveurs - Scarlette Le Corre",
+    "gps": {
+      "latitude": "47.7967028",
+      "longitude": "-4.2820000"
+    },
+    "phone": {
+      "number": "02 98 58 78 98"
+    },
+    "dates": [],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-cuisine-du-poisson-par-scarlette-le-corre-guilvinec-fr-5938088/"
   },
   {
     "sheetId": "5947625",
@@ -259,6 +277,24 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/marathon-des-etoiles-de-la-baie-plomeur-fr-5949101/"
+  },
+  {
+    "sheetId": "5965312",
+    "bordereau": "FMA",
+    "title": "Séance Vô Mo",
+    "type": "Autres Evènements",
+    "description": "Séance de Vô mo organisée par l'association Pouldreuzic Loisirs.\n\nPour retrouver paix intérieure, sérénité, plénitude, pour cultiver et nourrir la joie et la bonne humeur, pour savourer le moment.et émotionnels. \nDurée : 1 heure",
+    "town": "Pouldreuzic",
+    "address": "Salle évolution école P. Jakez Helias",
+    "gps": {
+      "latitude": "47.9549630",
+      "longitude": "-4.3606720"
+    },
+    "phone": {
+      "number": "06 60 31 22 64"
+    },
+    "dates": [],
+    "url": "https://www.destination-paysbigouden.com/offres/seance-vo-mo-pouldreuzic-fr-5965312/"
   },
   {
     "sheetId": "5967665",
@@ -538,9 +574,9 @@
     },
     "dates": [
       {
-        "oneday": true,
+        "oneday": false,
         "start": {
-          "startDate": "2026-03-03T00:00:00+01:00",
+          "startDate": "2026-02-03T00:00:00+01:00",
           "startTime": "à 14h30"
         },
         "end": {
@@ -780,12 +816,12 @@
         }
       }
     ],
-    "url": "https://www.destination-paysbigouden.com/offres/cirque-biographies-penmarch-fr-5988576/"
+    "url": "https://www.destination-paysbigouden.com/offres/biographies-festival-circonova-penmarch-fr-5988576/"
   },
   {
     "sheetId": "5988587",
     "bordereau": "FMA",
-    "title": "Concert Neodance contest",
+    "title": "Concert - Neodance contest",
     "type": "Danse",
     "description": "Neodance contest\nLe Neodance Contest -Édition 2025 est un concours organisé dans le but de promouvoir la danse Modern Jazz, Street Jazz, Contemporaine, Hip-Hop, ainsi que de donner l’opportunité aux danseurs.ses de se produire sur scène et de partager leur passion.\n\nLes participants auront la possibilité de démontrer leurs compétences et leur créativité devant un jury composé de professionnels de la danse. Les lauréats de chaque étape seront qualifiés pour participer à la Grande Finale qui se tiendra en région parisienne lors de notre NEODANCE CONVENTION.\n\nLe concours est organisé par Neodance Academy et ses partenaires : Atelier danse nastasia , Centre chorégraphie Duolab , Danse Erquelinnes, Diamond school, École de danse, Sandie Trévien, Ecole de danse Severine Bonnin, Freedanse, Mix dance, Needs Dance Crew.",
     "town": "Pont-l'Abbé",
@@ -1034,7 +1070,7 @@
         "oneday": true,
         "start": {
           "startDate": "2026-02-21T00:00:00+01:00",
-          "startTime": "à 20h30"
+          "startTime": "à 19h30"
         },
         "end": {
           "endDate": "2026-02-21T23:59:59+01:00"
@@ -1163,7 +1199,7 @@
     "sheetId": "6034017",
     "bordereau": "FMA",
     "title": "Shaker Fest - Nouvelle Orléans des années 20",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Autres Evènements",
     "description": "Bienvenue dans l’univers envoûtant des cabarets du New Orleans des années 20, entre carnaval débridé, rites vaudou et jazz brûlant. Préparez-vous à swinguer comme sur Bourbon Street !",
     "town": "Plonéour-Lanvern",
     "address": "Halle Raphalen",
@@ -1177,7 +1213,7 @@
         "oneday": false,
         "start": {
           "startDate": "2026-02-27T00:00:00+01:00",
-          "startTime": "à 17h00"
+          "startTime": null
         },
         "end": {
           "endDate": "2026-02-28T23:59:59+01:00"
@@ -1306,8 +1342,8 @@
     "sheetId": "5772809",
     "bordereau": "FMA",
     "title": "Rando des bois",
-    "type": "Animation locale (Kermesse / Loto...)",
-    "description": "Le comité de Sauvegarde de la chapelle Saint-Ronan organise dimanche 21 juin la 11ème édition de la Rando des bois au profit du service pédiatrie de l’hôpital de Quimper.\n3 parcours sont proposés à partir du site de la chapelle de St-Ronan à Plozévet - Départ libre du site de 9h à 16h\nRando chantée (breton et français) à 14h30 animée par Dastum Bro Gerne \nRepas champêtre à partir de 12h\nEspace crêperie toute la journée\nVente de pain et riz au lait cuits sur place.\nTarifs à confirmer\n\nAnimations gratuites :\n•\tFabrication de pain et riz au lait sur place\n•\tExposition de véhicules anciens toute la journée\n•\tAnimations musicales l’après-midi\n•\tEspace enfants (jeux, pêche à la ligne, etc)\n•\tAutres animations (informations à venir)",
+    "type": "Musique",
+    "description": "Le comité de Sauvegarde de la chapelle Saint-Ronan organise  la 11ème édition de la Rando des bois au profit du service pédiatrie de l’hôpital de Quimper.\n3 parcours sont proposés à partir du site de la chapelle de St-Ronan à Plozévet - Départ libre du site de 9h à 16h\nRando chantée (breton et français) à 14h30 animée par Dastum Bro Gerne \nRepas champêtre à partir de 12h\nEspace crêperie toute la journée\nVente de pain et riz au lait cuits sur place.\nTarifs à confirmer\n\nAnimations gratuites :\n•\tFabrication de pain et riz au lait sur place\n•\tExposition de véhicules anciens toute la journée\n•\tAnimations musicales l’après-midi\n•\tEspace enfants (jeux, pêche à la ligne, etc)\n•\tAutres animations (informations à venir)",
     "town": "Plozévet",
     "address": "Saint-Ronan",
     "gps": {
@@ -1335,7 +1371,7 @@
     "sheetId": "6049334",
     "bordereau": "FMA",
     "title": "Salon Bigouden du Disque",
-    "type": "Musique",
+    "type": "Autres Evènements",
     "description": "le Rdv des passionnés de disque! Porgramme à venir.",
     "town": "Pont-l'Abbé",
     "address": "Triskell",
@@ -1364,7 +1400,7 @@
     "sheetId": "6061298",
     "bordereau": "FMA",
     "title": "Finsit'aire de jeux",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Autres Evènements",
     "description": "L’association Bigoudice et la mairie de Plonéour-Lanvern relancent le célèbre festival de jeux du Finistère sud  !\n\nInitiations à tous types de jeux de société : plateau, carte à collectionner, figurines, jeu de rôle, … adaptés à tous les âges et pour tout niveau !\n\nDifférentes activités seront aussi proposées comme une enquête party, des escape games, ainsi que des tournois.\nÉditeurs, artisans et illustrateurs présenteront leurs créations (dont des prototypes inédits !)\nLes festivaliers pourront aussi voter pour le prix des Z’illus, qui récompense le plus beau jeu de l’année.\n\nL’équipe de Finist’aire de jeux vous attend nombreuses et nombreux !\n\nRestauration et buvette sur place.",
     "town": "Plonéour-Lanvern",
     "address": "Halle Raphalen",
@@ -1377,20 +1413,10 @@
     },
     "dates": [
       {
-        "oneday": true,
+        "oneday": false,
         "start": {
           "startDate": "2026-01-17T00:00:00+01:00",
           "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2026-01-17T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-18T00:00:00+01:00",
-          "startTime": "à 10h00"
         },
         "end": {
           "endDate": "2026-01-18T23:59:59+01:00"
@@ -1400,9 +1426,27 @@
     "url": "https://www.destination-paysbigouden.com/offres/finsitaire-de-jeux-ploneour-lanvern-fr-6061298/"
   },
   {
+    "sheetId": "6067747",
+    "bordereau": "FMA",
+    "title": "Atelier repas autour des algues alimentaires",
+    "type": "Autres Evènements",
+    "description": "Femme patron pêcheur et personnage haut en couleur, Scarlette vous fait partager sa passion et vous présente et vous fait déguster les algues alimentaires. Vous participez à la préparation d'un menu sur ses conseils avisés . Dégustation en fin d'atelier.\n\nRéservation sur place ou par téléphone.",
+    "town": "Guilvinec",
+    "address": "Mer et Saveurs - Scarlette Le Corre",
+    "gps": {
+      "latitude": "47.7968548",
+      "longitude": "-4.2819530"
+    },
+    "phone": {
+      "number": "02 98 58 78 98"
+    },
+    "dates": [],
+    "url": "https://www.destination-paysbigouden.com/offres/atelier-repas-autour-des-algues-alimentaires-guilvinec-fr-6067747/"
+  },
+  {
     "sheetId": "6071903",
     "bordereau": "FMA",
-    "title": "Humour - Yann Guillarme - LIBRE",
+    "title": "Humour - Yann Guillarme - Libre",
     "type": "Culturelle",
     "description": "Libre *\nAdjectif. Se dit d’une personne qui a le pouvoir, le droit de décider, d’agir par soi-même, quitte à faire du reggae en étant blanc et chanter BABYLON VEUT NOUS CENSURER alors qu’on ne sait pas ce qu’est Babylone !!\nLibre de porter des lunettes fumées, d'être en couple depuis 20 ans avec, avec qui…déjà?\nLibre d’être de gauche tout en espérant devenir riche pour fuir en suisse afin de se beurrer la biscotte sous le soleil de l’évasion fiscal. Libre de le penser ou non.\nLibre d’être un peu beauf un peu gay mais quand même complètement hétéro, libre d’être un humain qui assume ses pensées et ses paradoxes, libre de vous les livrer sur scène, Libre à vous de les prendre… (prenez les je souhaite devenir riche assez vite)\nAlors, venez, viens, venons libre comme on est, libre tant qu'on est vivant, libre tant qu'on peut aimer, déconner et  rire.\n \n\nRéservation en ligne.",
     "town": "Guilvinec",
@@ -1454,35 +1498,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/redadeg-2026-course-de-relais-solidaire-plobannalec-lesconil-fr-6079924/"
-  },
-  {
-    "sheetId": "6079926",
-    "bordereau": "FMA",
-    "title": "Lecture partage",
-    "type": "Culturelle",
-    "description": "Échange autour des derniers coups de cœur et coups de gueule littéraires.\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Espace sportif Croas Ver - Médiathèque",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-06T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-01-06T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6079926/"
   },
   {
     "sheetId": "6079930",
@@ -1728,7 +1743,7 @@
         "oneday": false,
         "start": {
           "startDate": "2026-09-19T00:00:00+02:00",
-          "startTime": "à 14h00"
+          "startTime": null
         },
         "end": {
           "endDate": "2026-09-20T23:59:59+02:00"
@@ -1752,20 +1767,10 @@
     "phone": null,
     "dates": [
       {
-        "oneday": true,
+        "oneday": false,
         "start": {
           "startDate": "2026-08-01T00:00:00+02:00",
           "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2026-08-01T23:59:59+02:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-08-02T00:00:00+02:00",
-          "startTime": "à 10h00"
         },
         "end": {
           "endDate": "2026-08-02T23:59:59+02:00"
@@ -1836,7 +1841,7 @@
     "sheetId": "5882569",
     "bordereau": "FMA",
     "title": "Fête du Patrimoine",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Traditions et folklore, fêtes",
     "description": "Programme à venir",
     "town": "Plogastel-Saint-Germain",
     "address": "lieu dit Saint Germain Chapelle saint Germain",
@@ -2445,7 +2450,7 @@
     "sheetId": "6133925",
     "bordereau": "FMA",
     "title": "Fête de la Langoustine",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Autres Evènements",
     "description": "Programmation à venir.",
     "town": "Plobannalec-Lesconil",
     "address": "29740 Plobannalec-Lesconil",
@@ -2454,7 +2459,7 @@
       "longitude": "-4.2127306"
     },
     "phone": {
-      "number": "0668535225"
+      "number": "06 68 53 52 25"
     },
     "dates": [
       {
@@ -2503,7 +2508,7 @@
     "sheetId": "6135353",
     "bordereau": "FMA",
     "title": "Journée portes Ouverte Braderie du Secours populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Manifestation commerciale",
     "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
     "town": "Plobannalec-Lesconil",
     "address": "Maison des associations",
@@ -2532,7 +2537,7 @@
     "sheetId": "6135354",
     "bordereau": "FMA",
     "title": "Braderie du Secours populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Manifestation commerciale",
     "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
     "town": "Plobannalec-Lesconil",
     "address": "Maison des associations",
@@ -2590,7 +2595,7 @@
     "sheetId": "6135359",
     "bordereau": "FMA",
     "title": "Journée portes Ouverte Braderie du Secours populaire",
-    "type": "Animation locale (Kermesse / Loto...)",
+    "type": "Manifestation commerciale",
     "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
     "town": "Plobannalec-Lesconil",
     "address": "Maison des associations",
@@ -2693,7 +2698,7 @@
         "oneday": true,
         "start": {
           "startDate": "2026-01-24T00:00:00+01:00",
-          "startTime": "à 18h30"
+          "startTime": "à 20h30"
         },
         "end": {
           "endDate": "2026-01-24T23:59:59+01:00"
@@ -2759,34 +2764,5 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-temoignage-dun-neorural-et-debat-sur-linstallation-en-ruralite-saint-jean-trolimon-fr-6135360/"
-  },
-  {
-    "sheetId": "6136418",
-    "bordereau": "FMA",
-    "title": "Cours de danse modern'jazz les jeudis soir",
-    "type": "Culturelle",
-    "description": "En janvier, venez prendre des cours de danse modern'jazz les jeudis soir à Landudec !\nNiveaux : débutants et intermédiaires.\nInfos et réservations via les contacts indiqués sur l'affiche.",
-    "town": "Landudec",
-    "address": "L'ollivier",
-    "gps": {
-      "latitude": "48.00325",
-      "longitude": "-4.33352"
-    },
-    "phone": {
-      "number": "06 88 10 89 48"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-08T00:00:00+01:00",
-          "startTime": "à 19h45"
-        },
-        "end": {
-          "endDate": "2026-01-29T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cours-de-danse-modernjazz-les-jeudis-soir-landudec-fr-6136418/"
   }
 ]
