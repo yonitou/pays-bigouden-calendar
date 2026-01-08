@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:5426785-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260307T203000
 DTEND:20260307T223000
 SUMMARY:Spectacle hypnose - Kent
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882469-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260208T170000
 DTEND:20260208T190000
 SUMMARY:Concert - Gogo Penguin
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5882738-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Concert Alan Stivell
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907736-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T200000
 DTEND:20260124T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907737-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260125T160000
 DTEND:20260125T180000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907741-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260123T200000
 DTEND:20260123T220000
 SUMMARY:CIRCONOVA : Le Cabaret renversé
@@ -168,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5907742-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260130T200000
 DTEND:20260130T220000
 SUMMARY:CIRCONOVA : La Pointe du Compas
@@ -194,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5947625-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260412T140000
 DTEND:20260412T160000
 SUMMARY:Méga loto des loups de Plonéour
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5949101-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260823T090000
 DTEND:20260823T110000
 SUMMARY:Marathon des Étoiles de la Baie
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5967665-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260503T000000
 DTEND:20260503T235959
 SUMMARY:3 ème édition de la fête du rire
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969947-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260118T163000
 DTEND:20260118T183000
 SUMMARY:Ciné Doc : Terres Boréales
@@ -260,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969933-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260308T163000
 DTEND:20260308T183000
 SUMMARY:Ciné Doc : La Loire
@@ -282,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5969932-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260208T163000
 DTEND:20260208T183000
 SUMMARY:Ciné Doc : L'extraordinaire tournée du facteur Maignan
@@ -303,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975259-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260115T180000
 DTEND:20260115T200000
 SUMMARY:Conférence - Pascal Dareths\, sous la mer\, invisibles
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975262-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260319T180000
 DTEND:20260319T200000
 SUMMARY:Conférence - Étape du Festival Pêcheurs du monde
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975263-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260416T180000
 DTEND:20260416T200000
 SUMMARY:Conférence - Chantier naval Gléhen Hénaff\, construire des bate
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5975267-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Conférence - Le grand banquet\, la saga Larzul
@@ -385,7 +385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986578-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260321T193000
 DTEND:20260321T213000
 SUMMARY:Concert de la Saint-Patrick - Tribute to U2\, Achtung babies
@@ -429,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986611-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260203T143000
 DTEND:20260303T235959
 SUMMARY:Projection film documentaire - La Loire
@@ -449,7 +449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986607-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260210T143000
 DTEND:20260210T163000
 SUMMARY:Projection film documentaire - Les Terres boréales
@@ -471,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5986609-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260113T143000
 DTEND:20260113T163000
 SUMMARY:Projection film documentaire - Le Pérou
@@ -493,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988571-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260410T203000
 DTEND:20260410T223000
 SUMMARY:Humour - Paul de St-Sernin
@@ -517,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260131T203000
 DTEND:20260131T223000
 SUMMARY:Théâtre - Les aventuriers de minuit
@@ -542,7 +542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988562-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260214T203000
 DTEND:20260214T223000
 SUMMARY:Concert - The Celtic Social Club
@@ -565,7 +565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988586-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260304T143000
 DTEND:20260304T163000
 SUMMARY:Ciné docs - Australie\, du grand Ouest à la Tasmanie
@@ -589,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988573-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260412T170000
 DTEND:20260412T190000
 SUMMARY:Théâtre - Trois femmes au bord de la crise de mère
@@ -612,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988576-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260122T190000
 DTEND:20260122T210000
 SUMMARY:Biographies - Festival Circonova
@@ -638,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988587-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260228T000000
 DTEND:20260301T235959
 SUMMARY:Concert - Neodance contest
@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988575-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Humour - Akim Omiri
@@ -681,7 +681,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988583-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260121T143000
 DTEND:20260121T163000
 SUMMARY:Ciné docs - Irlande\, carrément à l'Ouest
@@ -707,29 +707,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-ir
  lande-carrement-a-louest-guilvinec-fr-5988583/
 END:VEVENT
 BEGIN:VEVENT
-UID:5988584-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260107T143000
-DTEND:20260107T163000
-SUMMARY:Ciné docs - Peuples du froid\, Sibérie\, Mongolie\, Himalaya
-LOCATION:Centre de loisirs et de la culture - Guilvinec
-DESCRIPTION:Nomades Nénètses de Sibérie\, Mongols et Kazakhs d'Asie cen
- trale\, Zanskarpas de l'Himalaya\, tous vivent dans des conditions diffici
- les et parfois extrêmes. \nJacques Ducoin nous emmène à leur rencontre 
- et témoigne de modes de vies respectueux des traditions et de l'environne
- ment naturel. Ces peuples ne possèdent pas grand chose mais se sentent li
- bres. Un équilibre précaire néanmoins car leur avenir est gravement men
- acé par les changements climatiques.\n\nEn présence du réalisateur Jacq
- ues Ducoin.
-CATEGORIES:Culturelle
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/cine-docs-pe
- uples-du-froid-siberie-mongolie-himalaya-guilvinec-fr-5988584/
-END:VEVENT
-BEGIN:VEVENT
 UID:5988581-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260325T143000
 DTEND:20260325T163000
 SUMMARY:Ciné docs - Guyane\, une pépite en Amazonie
@@ -761,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5988579-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260408T143000
 DTEND:20260408T163000
 SUMMARY:Ciné docs - Odyslande\, quatre saisons en Islande à vélo
@@ -785,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5994147-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260507T203000
 DTEND:20260507T223000
 SUMMARY:Spectacle - Philippe Manoeuvre
@@ -804,7 +784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015560-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260403T203000
 DTEND:20260403T223000
 SUMMARY:Spectacle - Marion Mezadorian - Craquage
@@ -825,7 +805,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015561-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260221T193000
 DTEND:20260221T213000
 SUMMARY:Concert caritatif Association Mamgdala - Les Vrillés
@@ -845,7 +825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015574-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260328T200000
 DTEND:20260328T220000
 SUMMARY:Comédie - Sortez moi de là
@@ -867,7 +847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6015572-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260605T200000
 DTEND:20260605T220000
 SUMMARY:Comédie - L'art du couple
@@ -890,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031550-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260522T000000
 DTEND:20260523T235959
 SUMMARY:Courts Of Chaos Festival - Heavy metal
@@ -904,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6031547-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260521T180000
 DTEND:20260521T200000
 SUMMARY:Avant premiére : Warm up Courts Of Chaos Festival
@@ -917,7 +897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6034017-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260227T000000
 DTEND:20260228T235959
 SUMMARY:Shaker Fest - Nouvelle Orléans des années 20
@@ -932,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044522-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Jazz In Loc - Master class pour enfants
@@ -946,7 +926,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044528-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260806T000000
 DTEND:20260806T235959
 SUMMARY:Concert - Jazz In Loc
@@ -962,7 +942,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6044526-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260807T000000
 DTEND:20260807T235959
 SUMMARY:Concert - Jazz In Loc
@@ -979,7 +959,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6045460-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260412T090000
 DTEND:20260412T110000
 SUMMARY:Vide jardin de printemps
@@ -993,7 +973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772809-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260621T090000
 DTEND:20260621T110000
 SUMMARY:Rando des bois
@@ -1016,7 +996,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6049334-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260920T090000
 DTEND:20260920T110000
 SUMMARY:Salon Bigouden du Disque
@@ -1029,7 +1009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6061298-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260117T140000
 DTEND:20260118T235959
 SUMMARY:Finsit'aire de jeux
@@ -1052,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6071903-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260214T200000
 DTEND:20260214T220000
 SUMMARY:Humour - Yann Guillarme - Libre
@@ -1077,7 +1057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079924-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260512T194200
 DTEND:20260512T214200
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1113,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6079930-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260110T090000
 DTEND:20260110T110000
 SUMMARY:Repair café
@@ -1128,7 +1108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080021-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260512T205300
 DTEND:20260512T225300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1164,7 +1144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080019-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260512T192300
 DTEND:20260512T212300
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1200,7 +1180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080023-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260512T211700
 DTEND:20260512T231700
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1236,7 +1216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6080047-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260512T202000
 DTEND:20260512T222000
 SUMMARY:Redadeg 2026 - Course de relais solidaire
@@ -1272,7 +1252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6086716-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260228T203000
 DTEND:20260228T223000
 SUMMARY:Comédie - Vive Bouchon !
@@ -1295,7 +1275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6087357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20261121T203000
 DTEND:20261121T223000
 SUMMARY:Concert - The Stranglers
@@ -1325,7 +1305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6090921-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260612T170000
 DTEND:20260614T235959
 SUMMARY:Festival God Save The Kouign Vol.7
@@ -1344,7 +1324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5772897-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260919T000000
 DTEND:20260920T235959
 SUMMARY:Festival au pré
@@ -1357,7 +1337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125024-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260801T140000
 DTEND:20260802T235959
 SUMMARY:La Balade des Arts - Promenade artistique
@@ -1371,45 +1351,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/la-balade-de
  s-arts-promenade-artistique-treffiagat-fr-6125024/
 END:VEVENT
 BEGIN:VEVENT
-UID:6125033-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260615T100000
-DTEND:20260615T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Pors Treillen - Treffiagat
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-treffiagat-fr-6125033/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125034-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260501T100000
-DTEND:20260501T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Pors Treillen - Treffiagat
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-treffiagat-fr-6125034/
-END:VEVENT
-BEGIN:VEVENT
 UID:5882569-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260801T100000
 DTEND:20260801T120000
 SUMMARY:Fête du Patrimoine
@@ -1421,45 +1365,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/fete-du-patr
  imoine-plogastel-saint-germain-fr-5882569/
 END:VEVENT
 BEGIN:VEVENT
-UID:6125044-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260422T133000
-DTEND:20260422T153000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de la grève blanche - Guilvinec
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-guilvinec-fr-6125044/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125042-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260515T090000
-DTEND:20260515T110000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de la grève blanche - Guilvinec
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-guilvinec-fr-6125042/
-END:VEVENT
-BEGIN:VEVENT
 UID:6125043-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260120T190000
 DTEND:20260120T210000
 SUMMARY:Passeurs de Bulles - Table ronde - BD sur ordonnance
@@ -1475,81 +1383,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/passeurs-de-
  bulles-table-ronde-bd-sur-ordonnance-pont-labbe-fr-6125043/
 END:VEVENT
 BEGIN:VEVENT
-UID:6125045-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260321T100000
-DTEND:20260321T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Pors Treillen - Treffiagat
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-treffiagat-fr-6125045/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125047-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260418T100000
-DTEND:20260418T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Pors Treillen - Treffiagat
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-treffiagat-fr-6125047/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125052-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260416T093000
-DTEND:20260416T113000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de la grève blanche - Guilvinec
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-guilvinec-fr-6125052/
-END:VEVENT
-BEGIN:VEVENT
-UID:6125054-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260218T100000
-DTEND:20260218T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de la grève blanche - Guilvinec
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-guilvinec-fr-6125054/
-END:VEVENT
-BEGIN:VEVENT
 UID:6125057-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260207T163000
 DTEND:20260207T183000
 SUMMARY:Ciné docs - PÉROU – des civilisations et des hommes
@@ -1575,7 +1411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125632-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260203T143000
 DTEND:20260203T163000
 SUMMARY:Lecture partage
@@ -1589,7 +1425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125636-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260120T143000
 DTEND:20260120T163000
 SUMMARY:Atelier d'écriture
@@ -1603,7 +1439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125634-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260303T150000
 DTEND:20260303T170000
 SUMMARY:Lecture partage
@@ -1617,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125633-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260130T180000
 DTEND:20260130T200000
 SUMMARY:Soirée philo
@@ -1632,7 +1468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125635-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260217T143000
 DTEND:20260217T163000
 SUMMARY:Atelier d'écriture
@@ -1646,7 +1482,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6125637-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260317T143000
 DTEND:20260317T163000
 SUMMARY:Atelier d'écriture
@@ -1658,27 +1494,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/atelier-decr
  iture-combrit-fr-6125637/
 END:VEVENT
 BEGIN:VEVENT
-UID:6127651-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260516T093000
-DTEND:20260516T113000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Lodonnec (côté crêperie) - Loctudy
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-loctudy-fr-6127651/
-END:VEVENT
-BEGIN:VEVENT
 UID:6127622-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260327T180000
 DTEND:20260327T200000
 SUMMARY:Soirée philo
@@ -1693,7 +1511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6127627-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260227T180000
 DTEND:20260227T200000
 SUMMARY:Soirée philo
@@ -1706,63 +1524,9 @@ URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/soiree-philo
  -combrit-fr-6127627/
 END:VEVENT
 BEGIN:VEVENT
-UID:6127648-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260421T130000
-DTEND:20260421T150000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Lodonnec (côté crêperie) - Loctudy
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-loctudy-fr-6127648/
-END:VEVENT
-BEGIN:VEVENT
-UID:6127649-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260417T100000
-DTEND:20260417T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Lodonnec (côté crêperie) - Loctudy
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-loctudy-fr-6127649/
-END:VEVENT
-BEGIN:VEVENT
-UID:6127650-0@pays-bigouden-calendar
-SEQUENCE:0
-DTSTAMP:20260107T074742
-DTSTART:20260219T100000
-DTEND:20260219T120000
-SUMMARY:Sortie découverte de l'estran - Pêche à pied
-LOCATION:Plage de Lodonnec (côté crêperie) - Loctudy
-DESCRIPTION:Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord
-  de mer\, des espèces\, de l'écosystème tout en respectant l'environnem
- ent. Venez profitez d'un moment instructif et convivial en plein air.\nPê
- che à pied - approche écologique.\n\nPrévoir des bottes\, chaussures de
-  mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt
-  du matériel.\n\nRéservation obligatoire.
-CATEGORIES:Nature et détente
-URL;VALUE=URI:https://www.destination-paysbigouden.com/offres/sortie-decou
- verte-de-lestran-peche-a-pied-loctudy-fr-6127650/
-END:VEVENT
-BEGIN:VEVENT
 UID:6133925-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260808T103000
 DTEND:20260808T123000
 SUMMARY:Fête de la Langoustine
@@ -1775,7 +1539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6133928-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260807T190000
 DTEND:20260807T210000
 SUMMARY:BEFORE Fête de la Langoustine
@@ -1792,7 +1556,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135353-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260328T100000
 DTEND:20260328T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
@@ -1806,7 +1570,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135354-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260417T100000
 DTEND:20260418T235959
 SUMMARY:Braderie du Secours populaire
@@ -1820,7 +1584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135361-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Un souper de mots - Lecture musicale et théâtralisée
@@ -1846,7 +1610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135359-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260131T100000
 DTEND:20260131T120000
 SUMMARY:Journée portes Ouverte Braderie du Secours populaire
@@ -1860,7 +1624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135357-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260123T000000
 DTEND:20260123T235959
 SUMMARY:Nuit de la lecture
@@ -1876,7 +1640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135356-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Atelier soupe de mot
@@ -1906,7 +1670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135355-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T203000
 DTEND:20260124T223000
 SUMMARY:Un souper de mots
@@ -1937,7 +1701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135358-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Un souper de mots - Lectures d'albums jeunesse
@@ -1962,7 +1726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6135360-0@pays-bigouden-calendar
 SEQUENCE:0
-DTSTAMP:20260107T074742
+DTSTAMP:20260108T074851
 DTSTART:20260124T183000
 DTEND:20260124T203000
 SUMMARY:Un souper de mots - Témoignage d'un néorural et débat sur l'ins

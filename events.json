@@ -906,35 +906,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-docs-irlande-carrement-a-louest-guilvinec-fr-5988583/"
   },
   {
-    "sheetId": "5988584",
-    "bordereau": "FMA",
-    "title": "Ciné docs - Peuples du froid, Sibérie, Mongolie, Himalaya",
-    "type": "Culturelle",
-    "description": "Nomades Nénètses de Sibérie, Mongols et Kazakhs d'Asie centrale, Zanskarpas de l'Himalaya, tous vivent dans des conditions difficiles et parfois extrêmes. \nJacques Ducoin nous emmène à leur rencontre et témoigne de modes de vies respectueux des traditions et de l'environnement naturel. Ces peuples ne possèdent pas grand chose mais se sentent libres. Un équilibre précaire néanmoins car leur avenir est gravement menacé par les changements climatiques.\n\nEn présence du réalisateur Jacques Ducoin.",
-    "town": "Guilvinec",
-    "address": "Centre de loisirs et de la culture",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-07T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-01-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-docs-peuples-du-froid-siberie-mongolie-himalaya-guilvinec-fr-5988584/"
-  },
-  {
     "sheetId": "5988581",
     "bordereau": "FMA",
     "title": "Ciné docs - Guyane, une pépite en Amazonie",
@@ -1780,64 +1751,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/la-balade-des-arts-promenade-artistique-treffiagat-fr-6125024/"
   },
   {
-    "sheetId": "6125033",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Treffiagat",
-    "address": "Plage de Pors Treillen",
-    "gps": {
-      "latitude": "47.7932729",
-      "longitude": "-4.2723949"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-06-15T00:00:00+02:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-06-15T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125033/"
-  },
-  {
-    "sheetId": "6125034",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Treffiagat",
-    "address": "Plage de Pors Treillen",
-    "gps": {
-      "latitude": "47.7932729",
-      "longitude": "-4.2723949"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-05-01T00:00:00+02:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-05-01T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125034/"
-  },
-  {
     "sheetId": "5882569",
     "bordereau": "FMA",
     "title": "Fête du Patrimoine",
@@ -1867,64 +1780,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
   },
   {
-    "sheetId": "6125044",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Guilvinec",
-    "address": "Plage de la grève blanche",
-    "gps": {
-      "latitude": "47.7956355",
-      "longitude": "-4.2928349"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-22T00:00:00+02:00",
-          "startTime": "à 13h30"
-        },
-        "end": {
-          "endDate": "2026-04-22T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125044/"
-  },
-  {
-    "sheetId": "6125042",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Guilvinec",
-    "address": "Plage de la grève blanche",
-    "gps": {
-      "latitude": "47.7956355",
-      "longitude": "-4.2928349"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-05-15T00:00:00+02:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2026-05-15T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125042/"
-  },
-  {
     "sheetId": "6125043",
     "bordereau": "FMA",
     "title": "Passeurs de Bulles - Table ronde - BD sur ordonnance",
@@ -1952,122 +1807,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/passeurs-de-bulles-table-ronde-bd-sur-ordonnance-pont-labbe-fr-6125043/"
-  },
-  {
-    "sheetId": "6125045",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Treffiagat",
-    "address": "Plage de Pors Treillen",
-    "gps": {
-      "latitude": "47.7932729",
-      "longitude": "-4.2723949"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-21T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-03-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125045/"
-  },
-  {
-    "sheetId": "6125047",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Treffiagat",
-    "address": "Plage de Pors Treillen",
-    "gps": {
-      "latitude": "47.7932729",
-      "longitude": "-4.2723949"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-18T00:00:00+02:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-04-18T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-treffiagat-fr-6125047/"
-  },
-  {
-    "sheetId": "6125052",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Guilvinec",
-    "address": "Plage de la grève blanche",
-    "gps": {
-      "latitude": "47.7956355",
-      "longitude": "-4.2928349"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-16T00:00:00+02:00",
-          "startTime": "à 09h30"
-        },
-        "end": {
-          "endDate": "2026-04-16T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125052/"
-  },
-  {
-    "sheetId": "6125054",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Guilvinec",
-    "address": "Plage de la grève blanche",
-    "gps": {
-      "latitude": "47.7956355",
-      "longitude": "-4.2928349"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-18T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-02-18T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-guilvinec-fr-6125054/"
   },
   {
     "sheetId": "6125057",
@@ -2273,35 +2012,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125637/"
   },
   {
-    "sheetId": "6127651",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Loctudy",
-    "address": "Plage de Lodonnec (côté crêperie)",
-    "gps": {
-      "latitude": "47.8133199",
-      "longitude": "-4.1731641"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-05-16T00:00:00+02:00",
-          "startTime": "à 09h30"
-        },
-        "end": {
-          "endDate": "2026-05-16T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127651/"
-  },
-  {
     "sheetId": "6127622",
     "bordereau": "FMA",
     "title": "Soirée philo",
@@ -2358,93 +2068,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127627/"
-  },
-  {
-    "sheetId": "6127648",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Loctudy",
-    "address": "Plage de Lodonnec (côté crêperie)",
-    "gps": {
-      "latitude": "47.8133199",
-      "longitude": "-4.1731641"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-21T00:00:00+02:00",
-          "startTime": "à 13h00"
-        },
-        "end": {
-          "endDate": "2026-04-21T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127648/"
-  },
-  {
-    "sheetId": "6127649",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Loctudy",
-    "address": "Plage de Lodonnec (côté crêperie)",
-    "gps": {
-      "latitude": "47.8133199",
-      "longitude": "-4.1731641"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-04-17T00:00:00+02:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-04-17T23:59:59+02:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127649/"
-  },
-  {
-    "sheetId": "6127650",
-    "bordereau": "FMA",
-    "title": "Sortie découverte de l'estran - Pêche à pied",
-    "type": "Nature et détente",
-    "description": "Animé par Nicolas Fossez de OcéOnicO.\n\nDécouverte du bord de mer, des espèces, de l'écosystème tout en respectant l'environnement. Venez profitez d'un moment instructif et convivial en plein air.\nPêche à pied - approche écologique.\n\nPrévoir des bottes, chaussures de mer ou vieilles chaussures et vêtements en fonction de la météo. Prêt du matériel.\n\nRéservation obligatoire.",
-    "town": "Loctudy",
-    "address": "Plage de Lodonnec (côté crêperie)",
-    "gps": {
-      "latitude": "47.8133199",
-      "longitude": "-4.1731641"
-    },
-    "phone": {
-      "number": "06 18 53 04 63"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-19T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-02-19T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/sortie-decouverte-de-lestran-peche-a-pied-loctudy-fr-6127650/"
   },
   {
     "sheetId": "6133925",
