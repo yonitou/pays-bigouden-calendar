@@ -1471,35 +1471,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/redadeg-2026-course-de-relais-solidaire-plobannalec-lesconil-fr-6079924/"
   },
   {
-    "sheetId": "6079930",
-    "bordereau": "FMA",
-    "title": "Repair café",
-    "type": "Autres Evènements",
-    "description": "Venez apprendre à réparer et à entretenir votre vélo et le petit matériel électroménager lors du Repair Café, animé par la réserve civique communale.",
-    "town": "Combrit",
-    "address": "Maison des idées - Ti ar Soñjoù",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 56 33 14"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-10T00:00:00+01:00",
-          "startTime": "à 09h00"
-        },
-        "end": {
-          "endDate": "2026-01-10T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/repair-cafe-combrit-fr-6079930/"
-  },
-  {
     "sheetId": "6080021",
     "bordereau": "FMA",
     "title": "Redadeg 2026 - Course de relais solidaire",
