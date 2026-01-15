@@ -616,35 +616,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-les-terres-boreales-combrit-fr-5986607/"
   },
   {
-    "sheetId": "5986609",
-    "bordereau": "FMA",
-    "title": "Projection film documentaire - Le Pérou",
-    "type": "Culturelle",
-    "description": "Depuis 2022, des films documentaires de voyage sont projetés à l’espace sportif de Croas-Ver, à l’initiative du CCAS. Les réalisateurs, membres de l’association Le Cercle des Voyageurs, sont présents lors des projections.\n\nLe Pérou, synonyme de conquistadores espagnols, de trésors cachés de l’Eldorado ! \nC’est là-bas qu’emmène le réalisateur Bernard Bruel grâce à son film « Pérou, des civilisations et des hommes ». \nLes spectateurs partent ainsi à la découverte des contrées et des populations mystérieuses de ce pays mythique, de la côte du Pacifique,  à la cordillère des Andes en passant par le Machu Pichu et le lac Titicaca.",
-    "town": "Combrit",
-    "address": "Centre sportif Croas Ver",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 56 74 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-13T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-01-13T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-le-perou-combrit-fr-5986609/"
-  },
-  {
     "sheetId": "5988571",
     "bordereau": "FMA",
     "title": "Humour - Paul de St-Sernin",
@@ -1170,8 +1141,8 @@
     "sheetId": "6034017",
     "bordereau": "FMA",
     "title": "Shaker Fest - Nouvelle Orléans des années 20",
-    "type": "Autres Evènements",
-    "description": "Bienvenue dans l’univers envoûtant des cabarets du New Orleans des années 20, entre carnaval débridé, rites vaudou et jazz brûlant. Préparez-vous à swinguer comme sur Bourbon Street !",
+    "type": "Culturelle",
+    "description": "\" Pour sa 5eme édition, le Shaker Fest vous embarque pour un voyage au-delà de l'océan, direction la Nouvelle-Orléans des années folles.\nBienvenue dans ses ruelles enfumées, poussez les portes des speakeasy clandestins et plongez au cœur d'une époque où tout semblait permis ..\nMardi gras, vaudou, ambiance prohibition, jazz endiablé : préparez vous à un véritable saut dans le temps.\nConcerts live, spectacles burlesques, animations déjantées et atmosphère sulfureuse vous promettent une expérience immersive inoubliable. \"\n\n\" Speakeasy, concerts, spectacles burlesques : plongez dans la Nouvelle-Orléans des années folles pour une expérience inoubliable !! \"",
     "town": "Plonéour-Lanvern",
     "address": "Halle Raphalen",
     "gps": {
@@ -2219,7 +2190,7 @@
     "bordereau": "FMA",
     "title": "Nuit de la lecture",
     "type": "Autres Evènements",
-    "description": "Organisée par l'association Lire à Plobannalec-Lesconil, cet événement national.\nVenez lire vos textes ou créations sur le thème \"Villes et campagnes\"\nSoirée avec intermèdes musicaux et pot de convivialité.\nGratuit",
+    "description": "Cet événement national vous offre l'opportunité de venir lire vos textes ou créations sur le thème \"Villes et campagnes\".\nSoirée avec intermèdes musicaux et pot de convivialité.\nGratuit\nOrganisée par l'association Lire à Plobannalec-Lesconil.",
     "town": "Plobannalec-Lesconil",
     "address": "Médiathèque",
     "gps": {
