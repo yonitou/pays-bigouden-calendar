@@ -413,35 +413,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lextraordinaire-tournee-du-facteur-maignan-pouldreuzic-fr-5969932/"
   },
   {
-    "sheetId": "5975259",
-    "bordereau": "FMA",
-    "title": "Conférence - Pascal Dareths, sous la mer, invisibles",
-    "type": "Culturelle",
-    "description": "La vie dans un sous-marin de la Marine nationale, c’est un mélange unique d’aventure technologique, de discipline militaire et d’humanité partagée dans un huis clos extrême. \nDans ces navires invisibles, où l’on passe des semaines, parfois des mois, sans voir la lumière du jour, chaque marin apprend à composer avec l’isolement, la promiscuité et la rigueur des missions stratégiques.\n\n Conférence animée par Pascal Dareths, capitaine de frégate et commandant de la base Fusco de Lorient.\n\nSur réservation, nombre de place limitées dans l'auditorium.",
-    "town": "Guilvinec",
-    "address": "Auditorium d'Haliotika",
-    "gps": {
-      "latitude": "47.7929461",
-      "longitude": "-4.2848045"
-    },
-    "phone": {
-      "number": "02 98 58 28 38"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-15T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2026-01-15T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/conference-pascal-dareths-sous-la-mer-invisibles-guilvinec-fr-5975259/"
-  },
-  {
     "sheetId": "5975262",
     "bordereau": "FMA",
     "title": "Conférence - Étape du Festival Pêcheurs du monde",
