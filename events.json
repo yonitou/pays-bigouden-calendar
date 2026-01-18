@@ -2099,35 +2099,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/braderie-du-secours-populaire-plobannalec-lesconil-fr-6135354/"
   },
   {
-    "sheetId": "6135361",
-    "bordereau": "FMA",
-    "title": "Un souper de mots - Lecture musicale et théâtralisée",
-    "type": "Culturelle",
-    "description": "Les petits et grands sont conviés à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\n20h30 : lecture théâtralisée d'extraits d'ouvrages illustrant différents aspects du thème \"Villes et campagnes\" avec accompagnement musical.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Salle Polyvalente",
-    "gps": {
-      "latitude": "47.8661737",
-      "longitude": "-4.2810228"
-    },
-    "phone": {
-      "number": "02 98 82 00 34"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-24T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2026-01-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-lecture-musicale-et-theatralisee-saint-jean-trolimon-fr-6135361/"
-  },
-  {
     "sheetId": "6135359",
     "bordereau": "FMA",
     "title": "Journée portes Ouverte Braderie du Secours populaire",
@@ -2186,69 +2157,11 @@
     "url": "https://www.destination-paysbigouden.com/offres/nuit-de-la-lecture-plobannalec-lesconil-fr-6135357/"
   },
   {
-    "sheetId": "6135356",
-    "bordereau": "FMA",
-    "title": "Atelier soupe de mot",
-    "type": "Culturelle",
-    "description": "Vous êtes invités à une soirée chaleureuse placée sous le signe du partage, de la créativité et du plaisir de lire autour du thème « Villes et campagnes ».\nPour ouvrir la soirée, les auteurs de l’association Histoire d’écrire proposeront une animation autour de leurs albums jeunesse, suivie d’un atelier d’écriture participatif intitulé « Soupe de mots ». Les enfants et les familles seront invités à imaginer, jouer et créer des histoires inspirées du thème « Villes et campagnes ». Un moment convivial pour libérer l’imagination et découvrir les coulisses de la création littéraire.\n\nEn continu pendant la soirée\n\nDès 19h, un potage chaud et des gâteaux, préparés par les bénévoles, seront proposés au public. Chacun est également invité à apporter une gourmandise à partager. Les auteurs seront présents tout au long de la soirée pour échanger, dévoiler leurs secrets d’écriture et dédicacer leurs ouvrages.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Salle Polyvalente",
-    "gps": {
-      "latitude": "47.8661737",
-      "longitude": "-4.2810228"
-    },
-    "phone": {
-      "number": "02 98 82 00 34"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-24T00:00:00+01:00",
-          "startTime": "à 18h30"
-        },
-        "end": {
-          "endDate": "2026-01-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-soupe-de-mot-saint-jean-trolimon-fr-6135356/"
-  },
-  {
-    "sheetId": "6135355",
-    "bordereau": "FMA",
-    "title": "Un souper de mots",
-    "type": "Culturelle",
-    "description": "Vous êtes invités à une soirée chaleureuse placée sous le signe du partage, de la créativité et du plaisir de lire autour du thème « Villes et campagnes ».\n\nÀ 18h30 — Atelier jeunesse et “Soupe de mots”\n\nPour ouvrir la soirée, les auteurs de l’association Histoire d’écrire proposeront une animation autour de leurs albums jeunesse, suivie d’un atelier d’écriture participatif intitulé « Soupe de mots ». Les enfants et les familles seront invités à imaginer, jouer et créer des histoires inspirées du thème « Villes et campagnes ». Un moment convivial pour libérer l’imagination et découvrir les coulisses de la création littéraire.\n\nEn continu pendant la soirée : \nDès 19h, un potage chaud et des gâteaux, préparés par les bénévoles, seront proposés au public. Chacun est également invité à apporter une gourmandise à partager. Les auteurs seront présents tout au long de la soirée pour échanger, dévoiler leurs secrets d’écriture et dédicacer leurs ouvrages.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
-    "town": "Saint-Jean-Trolimon",
-    "address": "Salle Polyvalente",
-    "gps": {
-      "latitude": "47.8661737",
-      "longitude": "-4.2810228"
-    },
-    "phone": {
-      "number": "02 98 82 00 34"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-24T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2026-01-24T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/un-souper-de-mots-saint-jean-trolimon-fr-6135355/"
-  },
-  {
     "sheetId": "6135358",
     "bordereau": "FMA",
-    "title": "Un souper de mots - Lectures d'albums jeunesse",
+    "title": "Nuits de la lecture - Un souper de mots - Lectures d'albums jeunesse",
     "type": "Culturelle",
-    "description": "Les petits et grands sont conviés à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\nDe 18h30 à 19h15 : lectures d'extraits d'albums jeunesse des auteurs de l'association \"Histoire d'écrire\"\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
+    "description": "Saint-Jean-Trolimon participera pour la première fois aux Nuits de la lecture. Événement national à l’initiative du Ministère de la Culture et du CNL – Centre national du livre, l’édition 2026 aura pour thème « Villes et campagnes ». \nAux côtés de l’association Histoire d’écrire et du Point livres de Saint-Jean-Trolimon, la commune a concocté un riche programme en lien avec cette thématique.\n\n– 18h30-19h15 : lecture jeunesse d’un album de la collection « Fiasco », ou les aventures d’un chat fugueur, de l’autrice Martine Queffélec,\n\n– 18h30-19h30 : atelier d’écriture « Soupe de mots »,\n\n– À partir de 19h15 : potage chaud et gâteaux,\n\n– 20h-22h : témoignages de néoruraux et lectures en scène, accompagnées de musique, évoquant le cheminement des villes vers les campagnes puis vers le littoral. Cette dernière partie de la soirée proposera un voyage sensible dans les paysages du Pays bigouden à travers les lectures de portraits de Bigoudens relayés par la plume de l’écrivain Michel Suzzarini.\n\nEn continu pendant la soirée : exposition photographique de Patrice Touzeau sur les oiseaux des rivages bigoudens, exposition de livres sculptés, vente et dédicace d’ouvrages des auteurs d’Histoire d’écrire et de livres jeunesse d’occasion.\n\nLes participants à l’atelier d’écriture « Soupe de mots » auront la possibilité de remporter des Chèque Lire offerts par le CNL – Centre national du livre ! À dépenser dans les librairies du territoire !\n\nEntrée gratuite – Soupe offerte par la Mairie – Gâteaux et gourmandises à partager pour le dessert seront les bienvenus.\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
     "town": "Saint-Jean-Trolimon",
     "address": "Salle Polyvalente",
     "gps": {
@@ -2275,7 +2188,7 @@
   {
     "sheetId": "6135360",
     "bordereau": "FMA",
-    "title": "Un souper de mots - Témoignage d'un néorural et débat sur l'installation en ruralité",
+    "title": "Nuit de la lecture - Un souper de mots - Témoignage d'un néorural et débat sur l'installation en ruralité",
     "type": "Culturelle",
     "description": "Petits et grands sont conviés  à une soirée cosy autour d'une soupe de mots qui viendra réchauffer les cœurs.\nÀ partir de 19h, les papilles ne seront pas en reste avec la dégustation d'un potage et de gâteaux confectionnés par les bénévoles. Par ailleurs, chacun est invité à apporter un gâteau et à le partager avec le public présent.\nToute la soirée, les auteurs seront présents pour partager avec le public leurs secrets d'écriture et dédicacer leurs ouvrages.\n\n20h : témoignage d'un Trolimonais sur ses motivations à migrer de la ville à la campagne et les défis auxquels il a dû faire face lors de son installation dans une commune rurale de 970 habitants.\nAuteur(s) : Florence Guiziou, Michel Suzzarini et les auteurs de l'association \"Histoire d'écrire\".\n\nTout public\nInscription sur place\nEntrée gratuite\n\nOrganisé par La Mairie de Saint-Jean-Trolimon, en partenariat avec le Point livres de la commune et les écrivains de l’association Histoire d’écrire.",
     "town": "Saint-Jean-Trolimon",
