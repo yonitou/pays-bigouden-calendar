@@ -326,35 +326,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/3-eme-edition-de-la-fete-du-rire-pouldreuzic-fr-5967665/"
   },
   {
-    "sheetId": "5969947",
-    "bordereau": "FMA",
-    "title": "Ciné Doc : Terres Boréales",
-    "type": "Culturelle",
-    "description": "Alaska, Groenland, Spitzberg, Sibérie , un film de Jacques DUCOIN \n\n THÈMES : SPITZBERG - Ours polaires - Longyearbyen GROENLAND -  Chasseurs de phoques - Nuuk capitale - L’express côtier - Illulissat  - Icebergs dans la baie de Disco - Passage du Nord-Ouest et expédition Franklin  - ALASKA - Retour de chasse à la baleine - L’Iditarod, course de chiens de traîneaux SIBÉRIE - Chez les Dolganes du Taîmyr - Khatanga, découverte du mammouth Jarkov - Migration avec les Baloks tirés par les rennes\n\n Échange après le film\n Le film débute après la présentation par l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance",
-    "town": "Pouldreuzic",
-    "address": "Salle Pierre Jakez Hélias",
-    "gps": {
-      "latitude": "47.9810243",
-      "longitude": "-4.2780467"
-    },
-    "phone": {
-      "number": "06 77 45 00 87"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-18T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2026-01-18T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-doc-terres-boreales-pouldreuzic-fr-5969947/"
-  },
-  {
     "sheetId": "5969933",
     "bordereau": "FMA",
     "title": "Ciné Doc : La Loire",
@@ -1308,35 +1279,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/salon-bigouden-du-disque-pont-labbe-fr-6049334/"
-  },
-  {
-    "sheetId": "6061298",
-    "bordereau": "FMA",
-    "title": "Finsit'aire de jeux",
-    "type": "Autres Evènements",
-    "description": "L’association Bigoudice et la mairie de Plonéour-Lanvern relancent le célèbre festival de jeux du Finistère sud  !\n\nLors du festival, une quinzaine d'éditeurs présenteront leurs dernières sorties, nouveautés voire avant-premières. On retrouvera aussi des auteurs qui viendront avec leurs prototypes, des artisans vendant leurs créations (dés artisanaux, illustrations etc.). \nAu programme :\n\n    du jeu de société de tous niveaux (des jeux enfants aux jeux pour passionnés), \n    des tournois, \n    des initiations au jeu de rôles et aux jeux de figurines,\n    des sessions de loup-garou, \n    des initiations aux jeux de cartes à collectionner (magic, pokémon, lorcana...)\n    une enquête party,\n    deux escape games.\n\nVous trouverez aussi un  espace dédié  aux tout petits !\nDes boutiques seront présentes (Bouge ton pion et le war hog de Pont-L'Abbé) et de la restauration sur place sera disponible. \n\"\nL’équipe de Finist’aire de jeux vous attend nombreuses et nombreux !",
-    "town": "Plonéour-Lanvern",
-    "address": "Halle Raphalen",
-    "gps": {
-      "latitude": "47.9023",
-      "longitude": "-4.27901"
-    },
-    "phone": {
-      "number": "02 98 82 66 00"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-01-17T00:00:00+01:00",
-          "startTime": "à 14h00"
-        },
-        "end": {
-          "endDate": "2026-01-18T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/finsitaire-de-jeux-ploneour-lanvern-fr-6061298/"
   },
   {
     "sheetId": "6067747",
