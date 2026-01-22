@@ -790,35 +790,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/humour-akim-omiri-penmarch-fr-5988575/"
   },
   {
-    "sheetId": "5988583",
-    "bordereau": "FMA",
-    "title": "Ciné docs - Irlande, carrément à l'Ouest",
-    "type": "Culturelle",
-    "description": "L’Irlande, c’est avant tout une beauté sauvage, un roc sur lequel se brisent les vagues de l’océan ; une terre où l’eau, la pierre et la tourbe ont profondément façonné le paysage. Le visiteur reste sous le charme de ses habitants qui clament toujours haut et fort leur identité nationale et culturelle. Le Connemara, Dingle, les falaises de Moher, la Chaussée des Géants, la St-Patrick..., des mots qui résonnent dans nos têtes. \n\nL’Irlande voyage dans nos cœurs, par la magie des décors, dans la façon qu’ont les Irlandais de faire la fête dans les pubs obscurs et enfiévrés, dans des flots de mousse brune et le chant des violons. \n\nLa Wild Atlantic Way est la route côtière qui va de Cork (au sud de l’Irlande) jusqu’à la frontière d’Irlande Nord. Un parcours de 2500 km qu’a choisi d’entamer Jean-Luc Diquélou à vélo. Il ira ainsi à la rencontre des Irlandais et aura l’occasion de partager leur quotidien, de mieux comprendre l’évolution de ce pays qu’il fréquente depuis longtemps.\n\nEn présence du réalisateur Jean-Luc Diquélou.",
-    "town": "Guilvinec",
-    "address": "Centre de loisirs et de la culture",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-21T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-01-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-docs-irlande-carrement-a-louest-guilvinec-fr-5988583/"
-  },
-  {
     "sheetId": "5988581",
     "bordereau": "FMA",
     "title": "Ciné docs - Guyane, une pépite en Amazonie",
@@ -1635,35 +1606,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
   },
   {
-    "sheetId": "6125043",
-    "bordereau": "FMA",
-    "title": "Passeurs de Bulles - Table ronde - BD sur ordonnance",
-    "type": "Culturelle",
-    "description": "BD sur ordonnance\n\nComment la bande dessinée peut-elle accompagner soignants et patients ?\n\nUn échange animé par Paul Aimé de la librairie « Livres et Bulles » et les professionnelle de santé de la CPTS.\n\n Dans de le cadre de « Passeurs de Bulles », un évènement du collectif des bibliothèques du Pays Bigouden Sud.\n\nGratuit / Sur inscription.\n\n\nOrganisé par la médiathèque Julien Gracq",
-    "town": "Pont-l'Abbé",
-    "address": "Médiathèque Julien Gracq",
-    "gps": {
-      "latitude": "47.86542",
-      "longitude": "-4.21982"
-    },
-    "phone": {
-      "number": "02 98 82 31 88"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-20T00:00:00+01:00",
-          "startTime": "à 19h00"
-        },
-        "end": {
-          "endDate": "2026-01-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/passeurs-de-bulles-table-ronde-bd-sur-ordonnance-pont-labbe-fr-6125043/"
-  },
-  {
     "sheetId": "6125057",
     "bordereau": "FMA",
     "title": "Ciné docs - PÉROU – des civilisations et des hommes",
@@ -1720,35 +1662,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125632/"
-  },
-  {
-    "sheetId": "6125636",
-    "bordereau": "FMA",
-    "title": "Atelier d'écriture",
-    "type": "Culturelle",
-    "description": "Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obligatoire.",
-    "town": "Combrit",
-    "address": "Espace sportif",
-    "gps": {
-      "latitude": "47.8834756",
-      "longitude": "-4.1550227"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-20T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-01-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125636/"
   },
   {
     "sheetId": "6125634",
