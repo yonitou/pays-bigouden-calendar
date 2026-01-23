@@ -703,35 +703,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/theatre-trois-femmes-au-bord-de-la-crise-de-mere-penmarch-fr-5988573/"
   },
   {
-    "sheetId": "5988576",
-    "bordereau": "FMA",
-    "title": "Biographies - Festival Circonova",
-    "type": "Culturelle",
-    "description": "Cie EA EO / Neta Oren & Pierre Laloge.\nConfidences spectaculaires. Au milieu de la piste circulaire, Neta Oren et ses balles. Un métronome bat la mesure à 160 pulsations par minute. Derrière son micro, un rappeur. Interprète du dialogue intérieur de la jongleuse, Pierre Laloge révèle en rimes et en punchlines l’état mental de sa partenaire, qui évolue au fur et à mesure du spectacle. À quoi pense cette artiste, déterminée à ne rien laisser tomber ? La concentration extrême, l’angoisse du raté, l’euphorie libératrice. Au rythme des balles qui fusent, rebondissent sur les genoux et les cuisses, les pensées se télescopent. Il est question du quotidien, de la liste des courses, d’une vie d’artiste et du temps qui passe. Entre jonglage et poésie urbaine, le duo invente un dialogue captivant et plein d’imagination.\nTexte Neta Oren, Éric Longequel et Pierre Laloge Mise en scène Éric Longequel Jonglage Neta Oren",
-    "town": "Penmarch",
-    "address": "Salle Cap Caval",
-    "gps": {
-      "latitude": "47.8135003",
-      "longitude": "-4.3379902"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-22T00:00:00+01:00",
-          "startTime": "à 19h00"
-        },
-        "end": {
-          "endDate": "2026-01-22T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/biographies-festival-circonova-penmarch-fr-5988576/"
-  },
-  {
     "sheetId": "5988587",
     "bordereau": "FMA",
     "title": "Concert - Neodance contest",
