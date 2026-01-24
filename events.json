@@ -145,35 +145,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/circonova-le-cabaret-renverse-plozevet-fr-5907737/"
   },
   {
-    "sheetId": "5907741",
-    "bordereau": "FMA",
-    "title": "CIRCONOVA : Le Cabaret renversé",
-    "type": "Culturelle",
-    "description": "Dans le cadre de Circonova, en partenariat avec le Théâtre de Cornouaille et la communauté de communes du Haut Pays Bigouden\nJulien Candy / Cie La Faux Populaire\n\nCe soir, c’est cabaret ! Sous la toile du chapiteau, 120 convives, des tables, des chaises de bistrot, une piste circulaire et un tandem déjanté pour vous accueillir, Julien Candy, saltimbanque virtuose et l’irrésistible Juliette Christmann. Au plus près des spectateurs, le duo enchaîne les numéros : vélo acrobatique, lancer de couteaux, funambulisme, jonglage et acrobaties aériennes. Sans oublier les intermèdes musicaux joués avec une trompette, une scie ou une guitare. On frissonne, on rit, l’ambiance est délicieuse.\nAvec malice, Julien Candy et sa partenaire renversent les situations et entraînent le public dans un tourbillon de numéros savoureux, prétexte à une exploration joyeuse de la vie de couple, de ses joies et ses contraintes. Un cabaret insolite à consommer sans modération. Vous réservez votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écriture, mise en scène, scénographie Julien Candy Interprétation Juliette Christmann, Julien Candy, Lady et des convives.",
-    "town": "Plozévet",
-    "address": "Centre culturel avel dro",
-    "gps": {
-      "latitude": "47.98562",
-      "longitude": "-4.42047"
-    },
-    "phone": {
-      "number": "02 98 54 49 04"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-23T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2026-01-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/circonova-le-cabaret-renverse-plozevet-fr-5907741/"
-  },
-  {
     "sheetId": "5907742",
     "bordereau": "FMA",
     "title": "CIRCONOVA : La Pointe du Compas",
@@ -1630,38 +1601,19 @@
         "end": {
           "endDate": "2026-02-03T23:59:59+01:00"
         }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125632/"
-  },
-  {
-    "sheetId": "6125634",
-    "bordereau": "FMA",
-    "title": "Lecture partage",
-    "type": "Culturelle",
-    "description": "Échange autour des derniers coups de cœur et coups de gueule littéraires.\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Espace sportif Croas Ver - Médiathèque",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
+      },
       {
         "oneday": true,
         "start": {
           "startDate": "2026-03-03T00:00:00+01:00",
-          "startTime": "à 15h00"
+          "startTime": "à 14h30"
         },
         "end": {
           "endDate": "2026-03-03T23:59:59+01:00"
         }
       }
     ],
-    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125634/"
+    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125632/"
   },
   {
     "sheetId": "6125633",
@@ -1691,64 +1643,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6125633/"
-  },
-  {
-    "sheetId": "6125635",
-    "bordereau": "FMA",
-    "title": "Atelier d'écriture",
-    "type": "Culturelle",
-    "description": "Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obligatoire.",
-    "town": "Combrit",
-    "address": "Espace sportif",
-    "gps": {
-      "latitude": "47.8834756",
-      "longitude": "-4.1550227"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-17T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-02-17T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125635/"
-  },
-  {
-    "sheetId": "6125637",
-    "bordereau": "FMA",
-    "title": "Atelier d'écriture",
-    "type": "Culturelle",
-    "description": "Atelier animé par Elisabeth Teillet-Duval.\n\nInscription obligatoire.",
-    "town": "Combrit",
-    "address": "Espace sportif",
-    "gps": {
-      "latitude": "47.8834756",
-      "longitude": "-4.1550227"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-17T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-03-17T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/atelier-decriture-combrit-fr-6125637/"
   },
   {
     "sheetId": "6127622",
@@ -1952,35 +1846,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135359/"
-  },
-  {
-    "sheetId": "6135357",
-    "bordereau": "FMA",
-    "title": "Nuit de la lecture",
-    "type": "Autres Evènements",
-    "description": "Cet événement national vous offre l'opportunité de venir lire vos textes ou créations sur le thème \"Villes et campagnes\".\nSoirée avec intermèdes musicaux et pot de convivialité.\nGratuit\nOrganisée par l'association Lire à Plobannalec-Lesconil.",
-    "town": "Plobannalec-Lesconil",
-    "address": "Médiathèque",
-    "gps": {
-      "latitude": "47.8239706",
-      "longitude": "-4.2287769"
-    },
-    "phone": {
-      "number": "02 98 82 25 55"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-23T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2026-01-23T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/nuit-de-la-lecture-plobannalec-lesconil-fr-6135357/"
   },
   {
     "sheetId": "6135358",
