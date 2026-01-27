@@ -58,35 +58,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-gogo-penguin-penmarch-fr-5882469/"
   },
   {
-    "sheetId": "5907737",
-    "bordereau": "FMA",
-    "title": "CIRCONOVA : Le Cabaret renversé",
-    "type": "Culturelle",
-    "description": "Dans le cadre de Circonova, en partenariat avec le Théâtre de Cornouaille et la communauté de communes du Haut Pays Bigouden\nJulien Candy / Cie La Faux Populaire\n\nCe soir, c’est cabaret ! Sous la toile du chapiteau, 120 convives, des tables, des chaises de bistrot, une piste circulaire et un tandem déjanté pour vous accueillir, Julien Candy, saltimbanque virtuose et l’irrésistible Juliette Christmann. Au plus près des spectateurs, le duo enchaîne les numéros : vélo acrobatique, lancer de couteaux, funambulisme, jonglage et acrobaties aériennes. Sans oublier les intermèdes musicaux joués avec une trompette, une scie ou une guitare. On frissonne, on rit, l’ambiance est délicieuse.\nAvec malice, Julien Candy et sa partenaire renversent les situations et entraînent le public dans un tourbillon de numéros savoureux, prétexte à une exploration joyeuse de la vie de couple, de ses joies et ses contraintes. Un cabaret insolite à consommer sans modération. Vous réservez votre table ?\n\nSur une idée de Julien Candy et Juliette Christmann Écriture, mise en scène, scénographie Julien Candy Interprétation Juliette Christmann, Julien Candy, Lady et des convives.",
-    "town": "Plozévet",
-    "address": "Centre culturel Avel dro",
-    "gps": {
-      "latitude": "47.98562",
-      "longitude": "-4.42047"
-    },
-    "phone": {
-      "number": "02 98 54 49 04"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-25T00:00:00+01:00",
-          "startTime": "à 16h00"
-        },
-        "end": {
-          "endDate": "2026-01-25T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/circonova-le-cabaret-renverse-plozevet-fr-5907737/"
-  },
-  {
     "sheetId": "5907742",
     "bordereau": "FMA",
     "title": "CIRCONOVA : La Pointe du Compas",
@@ -272,7 +243,7 @@
     "bordereau": "FMA",
     "title": "Ciné Doc : L'extraordinaire tournée du facteur Maignan",
     "type": "Culturelle",
-    "description": "Un film de Patrick SOULABAILLE  Production Iroise / France 3, présenté par Alain MAIGNAN.\n\n Alain Maignan entreprend un tour du monde en solitaire, à la voile et sans escale. Facteur en Ille et Vilaine, marin par\n passion, il économise argent et congés pour ce voyage. Dans les cinquantièmes hurlants, il s’inquiète du retard qui pourrait l’empêcher de reprendre sa tournée. Ces 185 jours retracent l’épopée d’un homme ordinaire qui réalise un rêve extraordinaire. \n\n Échange après le film\n Le film débute après la présentation par l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance",
+    "description": "Un film de Patrick SOULABAILLE  Production Iroise / France 3, présenté par Alain MAIGNAN.\n\n Alain Maignan entreprend un tour du monde en solitaire, à la voile et sans escale. Facteur en Ille et Vilaine, marin par\n passion, il économise argent et congés pour ce voyage. Dans les cinquantièmes hurlants, il s’inquiète du retard qui pourrait l’empêcher de reprendre sa tournée. Ces 185 jours retracent l’épopée d’un homme ordinaire qui réalise un rêve extraordinaire. \n Échange après le film\n Le film débute après la présentation par l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance",
     "town": "Pouldreuzic",
     "address": "Salle Pierre Jakez Hélias",
     "gps": {
