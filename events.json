@@ -58,35 +58,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-gogo-penguin-penmarch-fr-5882469/"
   },
   {
-    "sheetId": "5907742",
-    "bordereau": "FMA",
-    "title": "CIRCONOVA : La Pointe du Compas",
-    "type": "Culturelle",
-    "description": "Dans le cadre de Circonova, en partenariat avec le Théâtre de Cornouaille et la communauté de communes du Haut Pays Bigouden\nCie HKC\nConquérir sa liberté. Adolescente au franc-parler mordant, Tessa refuse d’être assimilée à une jolie poupée lisse. Avec ses joggings XXL et ses punchlines pleines d’humour, elle envoie valser les diktats d’une société obsédée par l’apparence et la séduction. Face à une mère terrifiée, qui voudrait la mettre sous cloche, la jeune fille remonte aux racines de son histoire familiale jusqu’à découvrir un secret bien gardé… Seule en scène avec sa roue Cyr, Mélodie Morin virevolte entre fragilité et puissance. Prisonnière symbolique du cercle étouffant des injonctions, elle lutte, se débat et se révolte pour inventer sa propre voie. Ses acrobaties virtuoses accompagnent le combat intime d’une jeune fille sur le chemin de son accomplissement.\n\nÉcriture Anne Rehbinder Mise en scène Antoine Colnot Interprète Mélodie Morin",
-    "town": "Plozévet",
-    "address": "Centre culturel avel dro",
-    "gps": {
-      "latitude": "47.98562",
-      "longitude": "-4.42047"
-    },
-    "phone": {
-      "number": "02 98 54 49 04"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-30T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2026-01-30T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/circonova-la-pointe-du-compas-plozevet-fr-5907742/"
-  },
-  {
     "sheetId": "5938088",
     "bordereau": "FMA",
     "title": "Atelier cuisine du poisson par Scarlette Le Corre",
@@ -1527,35 +1498,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125632/"
-  },
-  {
-    "sheetId": "6125633",
-    "bordereau": "FMA",
-    "title": "Soirée philo",
-    "type": "Culturelle",
-    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nLa religion et la raison entrent-elles nécessairement en conflit ?\n\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Ti Ar Soñjoù",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-30T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2026-01-30T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6125633/"
   },
   {
     "sheetId": "6127622",
