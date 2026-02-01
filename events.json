@@ -442,35 +442,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/humour-paul-de-st-sernin-penmarch-fr-5988571/"
   },
   {
-    "sheetId": "5988569",
-    "bordereau": "FMA",
-    "title": "Théâtre - Les aventuriers de minuit",
-    "type": "Culturelle",
-    "description": "Quand Jules Verne et Arthur Conan Doyle défient le crime !\n1893. Alors qu’Arthur Conan Doyle, lassé de son célèbre détective, prépare l’assassinat de Sherlock Holmes, une jeune femme lui demande de l’aider à sauver son frère injustement arrêté.\nD’abord réticent, le romancier se voit entraîner dans une enquête inattendue par l’insistance d’un visiteur français qui rêve de vivre de « vraies » aventures avant d’être trop vieux : Jules Verne.\nDes docks embrumés de Londres à la mystérieuse lande de la frontière écossaise, d’énigmes en tribulations, les deux écrivains vont voyager au pays du frisson, du rire et de l’aventure !\nUne comédie policière Julien et Florence Lefebvre\nMise en scène de Elie Rapp et Ludovic Laroche\nAvec Stéphanie Bassibey, Émilie Cazenave, Pierre-Arnaud Juin, Ludovic Laroche, Jeanne Réot, Nicolas Saint-Georges",
-    "town": "Penmarch",
-    "address": "Salle Cap Caval",
-    "gps": {
-      "latitude": "47.8135003",
-      "longitude": "-4.3379902"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-31T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2026-01-31T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/theatre-les-aventuriers-de-minuit-penmarch-fr-5988569/"
-  },
-  {
     "sheetId": "5988562",
     "bordereau": "FMA",
     "title": "Concert - The Celtic Social Club",
@@ -1672,34 +1643,5 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/braderie-du-secours-populaire-plobannalec-lesconil-fr-6135354/"
-  },
-  {
-    "sheetId": "6135359",
-    "bordereau": "FMA",
-    "title": "Journée portes Ouverte Braderie du Secours populaire",
-    "type": "Manifestation commerciale",
-    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
-    "town": "Plobannalec-Lesconil",
-    "address": "Maison des associations",
-    "gps": {
-      "latitude": "47.7982162",
-      "longitude": "-4.2165999"
-    },
-    "phone": {
-      "number": "07 86 43 68 87"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-01-31T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-01-31T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135359/"
   }
 ]
