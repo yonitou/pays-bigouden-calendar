@@ -371,9 +371,9 @@
     },
     "dates": [
       {
-        "oneday": false,
+        "oneday": true,
         "start": {
-          "startDate": "2026-02-03T00:00:00+01:00",
+          "startDate": "2026-03-03T00:00:00+01:00",
           "startTime": "à 14h30"
         },
         "end": {
@@ -1504,7 +1504,7 @@
     "bordereau": "FMA",
     "title": "Soirée philo",
     "type": "Culturelle",
-    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'hypothèse d'un inconscient psychanalytique revient-elle à admettre un autre en soi  ?\n\nOuvert à tous.",
+    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'hypothèse d'un inconscient psychique revient-elle à admettre un autre en soi  ?\n\nOuvert à tous.",
     "town": "Combrit",
     "address": "Ti Ar Soñjoù",
     "gps": {
