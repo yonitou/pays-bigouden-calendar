@@ -29,35 +29,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-hypnose-kent-penmarch-fr-5426785/"
   },
   {
-    "sheetId": "5882469",
-    "bordereau": "FMA",
-    "title": "Concert - Gogo Penguin",
-    "type": "Musique",
-    "description": "GoGo Penguin est un groupe de jazz originaire de Manchester au Royaume-Uni. Il est composé du pianiste Chris Illingworth, du bassiste Nick Blacka et du batteur Jon Scott. Selon les critiques, ils se démarquent pour leurs rythmes imprévisibles, les mélodies contagieuses du piano, la puissance de leur basse  ainsi que leurs riffs très entraînants. Apparentés au nu jazz, ils composent, partagent leurs idées et jouent avec synergie pour créer un son unique.\nInvité spécial Daudi Matsiko.",
-    "town": "Penmarch",
-    "address": "Salle Cap Caval",
-    "gps": {
-      "latitude": "47.8135003",
-      "longitude": "-4.3379902"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-08T00:00:00+01:00",
-          "startTime": "à 17h00"
-        },
-        "end": {
-          "endDate": "2026-02-08T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-gogo-penguin-penmarch-fr-5882469/"
-  },
-  {
     "sheetId": "5938088",
     "bordereau": "FMA",
     "title": "Atelier cuisine du poisson par Scarlette Le Corre",
@@ -208,35 +179,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/cine-doc-la-loire-pouldreuzic-fr-5969933/"
-  },
-  {
-    "sheetId": "5969932",
-    "bordereau": "FMA",
-    "title": "Ciné Doc : L'extraordinaire tournée du facteur Maignan",
-    "type": "Culturelle",
-    "description": "Un film de Patrick SOULABAILLE  Production Iroise / France 3, présenté par Alain MAIGNAN.\n\n Alain Maignan entreprend un tour du monde en solitaire, à la voile et sans escale. Facteur en Ille et Vilaine, marin par\n passion, il économise argent et congés pour ce voyage. Dans les cinquantièmes hurlants, il s’inquiète du retard qui pourrait l’empêcher de reprendre sa tournée. Ces 185 jours retracent l’épopée d’un homme ordinaire qui réalise un rêve extraordinaire. \n Échange après le film\n Le film débute après la présentation par l’auteur d’environ 15 mn\n  Billetterie ouverte 30 mn avant la séance",
-    "town": "Pouldreuzic",
-    "address": "Salle Pierre Jakez Hélias",
-    "gps": {
-      "latitude": "47.9810243",
-      "longitude": "-4.2780467"
-    },
-    "phone": {
-      "number": "06 77 45 00 87"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-08T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2026-02-08T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-doc-lextraordinaire-tournee-du-facteur-maignan-pouldreuzic-fr-5969932/"
   },
   {
     "sheetId": "5975262",
@@ -1401,35 +1343,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
-  },
-  {
-    "sheetId": "6125057",
-    "bordereau": "FMA",
-    "title": "Ciné docs - PÉROU – des civilisations et des hommes",
-    "type": "Culturelle",
-    "description": "Le Pérou, qui n’a pas rêvé en entendant ce nom, synonyme de conquistadors espagnols, de trésors cachés de l’Eldorado !\nLe film vous emmène découvrir ces contrées et les populations mystérieuses de ce pays mythique.\nLa côte du Pacifique qui abritait les premières civilisations, et nourrit les péruviens de délicieux plats de poisson cru.\nLa cordillère des Andes qui héberge les populations indiennes en poncho coloré, puis les vallées amazoniennes, où l’on récolte le café et le chocolat du commerce équitable.\nLe Machu Picchu et les nombreux sites de la vallée sacrée de Cuzco, avec les très nombreuses constructions en pierre des Incas.\nLes hauts sommets de la cordillère blanche qui font le bonheur des trekkeurs et sont le domaine des éleveurs d’alpacas, à la laine si douce...\nEnfin le fameux lac Titicaca avec ses cultures en terrasses, à 4000 m d’altitude...\n\n Suivi du Concert du groupe OPAKUNA - Musiques des Andes",
-    "town": "Guilvinec",
-    "address": "Centre de loisirs et de la culture",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-07T00:00:00+01:00",
-          "startTime": "à 16h30"
-        },
-        "end": {
-          "endDate": "2026-02-07T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-docs-perou-des-civilisations-et-des-hommes-guilvinec-fr-6125057/"
   },
   {
     "sheetId": "6125632",
