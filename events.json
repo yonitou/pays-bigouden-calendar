@@ -355,35 +355,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/humour-paul-de-st-sernin-penmarch-fr-5988571/"
   },
   {
-    "sheetId": "5988562",
-    "bordereau": "FMA",
-    "title": "Concert - The Celtic Social Club",
-    "type": "Musique",
-    "description": "Chaque concert du Celtic Social Club est une expérience : une énergie communicative, une générosité sans limite et un public invité à entrer dans le “club” — et à y rester. Porté par un nouveau chanteur venu de Dublin, le collectif franco-irlandais déploie sur scène un mélange explosif de folk, rock et pop celtique.\nEn dix ans, le groupe s’est forgé une solide réputation grâce à sa puissance live, que le producteur anglais Nick Davis (Genesis, The Pogues, Björk, XTC) a su capturer sur le nouvel album YOU SHOULD KNOW (sortie le 25 octobre 2025).\nEntre Clash, Pogues, Waterboys et Fontaines D.C., The Celtic Social Club affirme un son unique, festif et inventif — à vivre absolument en concert.",
-    "town": "Penmarch",
-    "address": "Salle Cap Caval",
-    "gps": {
-      "latitude": "47.8135003",
-      "longitude": "-4.3379902"
-    },
-    "phone": {
-      "number": "02 98 58 60 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-14T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2026-02-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-the-celtic-social-club-penmarch-fr-5988562/"
-  },
-  {
     "sheetId": "5988586",
     "bordereau": "FMA",
     "title": "Ciné docs - Australie, du grand Ouest à la Tasmanie",
@@ -978,35 +949,6 @@
     },
     "dates": [],
     "url": "https://www.destination-paysbigouden.com/offres/atelier-repas-autour-des-algues-alimentaires-guilvinec-fr-6067747/"
-  },
-  {
-    "sheetId": "6071903",
-    "bordereau": "FMA",
-    "title": "Humour - Yann Guillarme - Libre",
-    "type": "Culturelle",
-    "description": "Libre *\nAdjectif. Se dit d’une personne qui a le pouvoir, le droit de décider, d’agir par soi-même, quitte à faire du reggae en étant blanc et chanter BABYLON VEUT NOUS CENSURER alors qu’on ne sait pas ce qu’est Babylone !!\nLibre de porter des lunettes fumées, d'être en couple depuis 20 ans avec, avec qui…déjà?\nLibre d’être de gauche tout en espérant devenir riche pour fuir en suisse afin de se beurrer la biscotte sous le soleil de l’évasion fiscal. Libre de le penser ou non.\nLibre d’être un peu beauf un peu gay mais quand même complètement hétéro, libre d’être un humain qui assume ses pensées et ses paradoxes, libre de vous les livrer sur scène, Libre à vous de les prendre… (prenez les je souhaite devenir riche assez vite)\nAlors, venez, viens, venons libre comme on est, libre tant qu'on est vivant, libre tant qu'on peut aimer, déconner et  rire.\n \n\nRéservation en ligne.",
-    "town": "Guilvinec",
-    "address": "Centre de Loisirs de la Culture",
-    "gps": {
-      "latitude": "47.7980274",
-      "longitude": "-4.2770905"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-14T00:00:00+01:00",
-          "startTime": "à 20h00"
-        },
-        "end": {
-          "endDate": "2026-02-14T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/humour-yann-guillarme-libre-guilvinec-fr-6071903/"
   },
   {
     "sheetId": "6079924",
