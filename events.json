@@ -1417,7 +1417,7 @@
     "bordereau": "FMA",
     "title": "Journée portes Ouverte Braderie du Secours populaire",
     "type": "Manifestation commerciale",
-    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
+    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !\nVêtements, livres, vaisselle...\n\nOrganisé par le Secours Populaire",
     "town": "Plobannalec-Lesconil",
     "address": "Maison des associations",
     "gps": {
@@ -1431,11 +1431,11 @@
       {
         "oneday": true,
         "start": {
-          "startDate": "2026-03-28T00:00:00+01:00",
+          "startDate": "2026-02-28T00:00:00+01:00",
           "startTime": "à 10h00"
         },
         "end": {
-          "endDate": "2026-03-28T23:59:59+01:00"
+          "endDate": "2026-02-28T23:59:59+01:00"
         }
       }
     ],
@@ -1446,7 +1446,7 @@
     "bordereau": "FMA",
     "title": "Braderie du Secours populaire",
     "type": "Manifestation commerciale",
-    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !",
+    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !\n\nOrganisé par le Secours populaire.",
     "town": "Plobannalec-Lesconil",
     "address": "Maison des associations",
     "gps": {
