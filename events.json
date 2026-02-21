@@ -1326,35 +1326,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127622/"
   },
   {
-    "sheetId": "6127627",
-    "bordereau": "FMA",
-    "title": "Soirée philo",
-    "type": "Culturelle",
-    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'hypothèse d'un inconscient psychique revient-elle à admettre un autre en soi  ?\n\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Ti Ar Soñjoù",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-20T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2026-02-20T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127627/"
-  },
-  {
     "sheetId": "6133925",
     "bordereau": "FMA",
     "title": "Fête de la Langoustine",
