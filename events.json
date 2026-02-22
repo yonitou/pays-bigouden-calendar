@@ -587,35 +587,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/spectacle-marion-mezadorian-craquage-guilvinec-fr-6015560/"
   },
   {
-    "sheetId": "6015561",
-    "bordereau": "FMA",
-    "title": "Concert caritatif Association Mamgdala - Les Vrillés",
-    "type": "Culturelle",
-    "description": "Concert de rock Celtique.\n\n19h : ouverture des portes.\n19h30 : 1ère partie avec le duo Mick & Nard.\n20h45 : Les Vrillés.\n\nBar et restauration sur place avec Paul et Babeth.\n\nAu profit de l'association Mamgdala qui a pour but de participer et d'organiser des événements sportifs et solidaires, principalement des treks et randonnées. Leur objectif est de partager, ces instants avec des personnes qui ont été ou sont confrontés à la maladie, au handicap.\n\nRéservation en ligne possible.",
-    "town": "Guilvinec",
-    "address": "Centre de Loisirs de la Culture",
-    "gps": {
-      "latitude": "47.7980274",
-      "longitude": "-4.2770905"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-21T00:00:00+01:00",
-          "startTime": "à 19h30"
-        },
-        "end": {
-          "endDate": "2026-02-21T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-caritatif-association-mamgdala-les-vrilles-guilvinec-fr-6015561/"
-  },
-  {
     "sheetId": "6015574",
     "bordereau": "FMA",
     "title": "Comédie - Sortez moi de là",
