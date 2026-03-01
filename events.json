@@ -703,33 +703,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/avant-premiere-warm-up-courts-of-chaos-festival-plozevet-fr-6031547/"
   },
   {
-    "sheetId": "6034017",
-    "bordereau": "FMA",
-    "title": "Shaker Fest - Nouvelle Orléans des années 20",
-    "type": "Culturelle",
-    "description": "\" Pour sa 5eme édition, le Shaker Fest vous embarque pour un voyage au-delà de l'océan, direction la Nouvelle-Orléans des années folles.\nBienvenue dans ses ruelles enfumées, poussez les portes des speakeasy clandestins et plongez au cœur d'une époque où tout semblait permis ..\nMardi gras, vaudou, ambiance prohibition, jazz endiablé : préparez vous à un véritable saut dans le temps.\nConcerts live, spectacles burlesques, animations déjantées et atmosphère sulfureuse vous promettent une expérience immersive inoubliable. \"\n\n\" Speakeasy, concerts, spectacles burlesques : plongez dans la Nouvelle-Orléans des années folles pour une expérience inoubliable !! \"",
-    "town": "Plonéour-Lanvern",
-    "address": "Halle Raphalen",
-    "gps": {
-      "latitude": "47.9023",
-      "longitude": "-4.27901"
-    },
-    "phone": null,
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-02-27T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2026-02-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/shaker-fest-nouvelle-orleans-des-annees-20-ploneour-lanvern-fr-6034017/"
-  },
-  {
     "sheetId": "6044522",
     "bordereau": "FMA",
     "title": "Jazz In Loc - Master class pour enfants",
@@ -1057,35 +1030,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/redadeg-2026-course-de-relais-solidaire-pont-labbe-fr-6080047/"
   },
   {
-    "sheetId": "6086716",
-    "bordereau": "FMA",
-    "title": "Comédie - Vive Bouchon !",
-    "type": "Culturelle",
-    "description": "La troupe de théatre \"Six Pieds sur Scène\" présente une nouvelle pièce : Vive Bouchon !\n\nJacques est le maire de Bouchon, un petit village perdu et dépeuplé. Pour survivre, il détourne des subventions européennes depuis des années, mais le jour où un inspecteur de l'Union Européenne vient vérifier la bonne utilisation des fonds, tout bascule car il faut vite trouver le moyen d'échapper à l'inéluctable remboursement des gigantesques sommes! Le doigt est mis dans l'engrenage qui va entraîner les Bouchonnais dans une désopilante aventure\nde Bruxelles à New York ! Leur monde est fou, fou, fou !!!\n\nUne comédie de Jean Dell et Gérald Sibleyras.\n\nVente sur place les vendredi 20 et 27 Février de 13h30 à 17h et le jour du spectacle.",
-    "town": "Guilvinec",
-    "address": "Centre de Loisirs de la Culture",
-    "gps": {
-      "latitude": "47.7980274",
-      "longitude": "-4.2770905"
-    },
-    "phone": {
-      "number": "06 70 46 10 98"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-28T00:00:00+01:00",
-          "startTime": "à 20h30"
-        },
-        "end": {
-          "endDate": "2026-02-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/comedie-vive-bouchon-guilvinec-fr-6086716/"
-  },
-  {
     "sheetId": "6087357",
     "bordereau": "FMA",
     "title": "Concert - The Stranglers",
@@ -1353,35 +1297,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/before-fete-de-la-langoustine-plobannalec-lesconil-fr-6133928/"
-  },
-  {
-    "sheetId": "6135353",
-    "bordereau": "FMA",
-    "title": "Journée portes Ouverte Braderie du Secours populaire",
-    "type": "Manifestation commerciale",
-    "description": "Venez chiner et faire de bonnes affaires à la braderie du Secours populaire !\nVêtements, livres, vaisselle...\n\nOrganisé par le Secours Populaire",
-    "town": "Plobannalec-Lesconil",
-    "address": "Maison des associations",
-    "gps": {
-      "latitude": "47.7982162",
-      "longitude": "-4.2165999"
-    },
-    "phone": {
-      "number": "07 86 43 68 87"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-28T00:00:00+01:00",
-          "startTime": "à 10h00"
-        },
-        "end": {
-          "endDate": "2026-02-28T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/journee-portes-ouverte-braderie-du-secours-populaire-plobannalec-lesconil-fr-6135353/"
   },
   {
     "sheetId": "6135354",
