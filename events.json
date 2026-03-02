@@ -413,35 +413,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/theatre-trois-femmes-au-bord-de-la-crise-de-mere-penmarch-fr-5988573/"
   },
   {
-    "sheetId": "5988587",
-    "bordereau": "FMA",
-    "title": "Concert - Neodance contest",
-    "type": "Danse",
-    "description": "Neodance contest\nLe Neodance Contest -Édition 2025 est un concours organisé dans le but de promouvoir la danse Modern Jazz, Street Jazz, Contemporaine, Hip-Hop, ainsi que de donner l’opportunité aux danseurs.ses de se produire sur scène et de partager leur passion.\n\nLes participants auront la possibilité de démontrer leurs compétences et leur créativité devant un jury composé de professionnels de la danse. Les lauréats de chaque étape seront qualifiés pour participer à la Grande Finale qui se tiendra en région parisienne lors de notre NEODANCE CONVENTION.\n\nLe concours est organisé par Neodance Academy et ses partenaires : Atelier danse nastasia , Centre chorégraphie Duolab , Danse Erquelinnes, Diamond school, École de danse, Sandie Trévien, Ecole de danse Severine Bonnin, Freedanse, Mix dance, Needs Dance Crew.",
-    "town": "Pont-l'Abbé",
-    "address": "Le Triskell",
-    "gps": {
-      "latitude": "47.8688694",
-      "longitude": "-4.2255889"
-    },
-    "phone": {
-      "number": "02 98 66 00 40"
-    },
-    "dates": [
-      {
-        "oneday": false,
-        "start": {
-          "startDate": "2026-02-28T00:00:00+01:00",
-          "startTime": null
-        },
-        "end": {
-          "endDate": "2026-03-01T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/concert-neodance-contest-pont-labbe-fr-5988587/"
-  },
-  {
     "sheetId": "5988575",
     "bordereau": "FMA",
     "title": "Humour - Akim Omiri",
