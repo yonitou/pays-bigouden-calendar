@@ -297,35 +297,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/concert-de-la-saint-patrick-tribute-to-u2-achtung-babies-guilvinec-fr-5986578/"
   },
   {
-    "sheetId": "5986611",
-    "bordereau": "FMA",
-    "title": "Projection film documentaire - La Loire",
-    "type": "Culturelle",
-    "description": "Depuis 2022, des films documentaires de voyage sont projetés à l’espace sportif de Croas-Ver, à l’initiative du CCAS. Les réalisateurs, membres de l’association Le Cercle des Voyageurs, sont présents lors des projections.\n\nPartis sur Mont Gerbier-de-Jonc, Jean Charbonneau et Dong Wei ont suivi la Loire pas à pas. Ils ont vécu quatre saisons sur le fleuve, observant les paysages, les rives, les poissons et les pêcheurs. La Loire déborde en hiver ou au printemps puis se réduit à des veines d’eau, en tirant ses langues de sable en été.",
-    "town": "Combrit",
-    "address": "Centre sportif Croas Ver",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 56 74 19"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-03T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-03-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/projection-film-documentaire-la-loire-combrit-fr-5986611/"
-  },
-  {
     "sheetId": "5988571",
     "bordereau": "FMA",
     "title": "Humour - Paul de St-Sernin",
@@ -1142,74 +1113,6 @@
       }
     ],
     "url": "https://www.destination-paysbigouden.com/offres/fete-du-patrimoine-plogastel-saint-germain-fr-5882569/"
-  },
-  {
-    "sheetId": "6125632",
-    "bordereau": "FMA",
-    "title": "Lecture partage",
-    "type": "Culturelle",
-    "description": "Échange autour des derniers coups de cœur et coups de gueule littéraires.\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Espace sportif Croas Ver - Médiathèque",
-    "gps": {
-      "latitude": "47.88395",
-      "longitude": "-4.15605"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-02-03T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-02-03T23:59:59+01:00"
-        }
-      },
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-03T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-03-03T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/lecture-partage-combrit-fr-6125632/"
-  },
-  {
-    "sheetId": "6127622",
-    "bordereau": "FMA",
-    "title": "Soirée philo",
-    "type": "Culturelle",
-    "description": "L'atelier de philosophie, animé par Jean-Yves Boudéhen, portera sur le thème :\nL'art transforme-t-il notre conscience du réel ?\n\nOuvert à tous.",
-    "town": "Combrit",
-    "address": "Ti Ar Soñjoù",
-    "gps": {
-      "latitude": "47.88767",
-      "longitude": "-4.15423"
-    },
-    "phone": {
-      "number": "02 98 51 90 81"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-27T00:00:00+01:00",
-          "startTime": "à 18h00"
-        },
-        "end": {
-          "endDate": "2026-03-27T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/soiree-philo-combrit-fr-6127622/"
   },
   {
     "sheetId": "6133925",
