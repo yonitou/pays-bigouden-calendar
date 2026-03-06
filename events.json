@@ -326,35 +326,6 @@
     "url": "https://www.destination-paysbigouden.com/offres/humour-paul-de-st-sernin-penmarch-fr-5988571/"
   },
   {
-    "sheetId": "5988586",
-    "bordereau": "FMA",
-    "title": "Ciné docs - Australie, du grand Ouest à la Tasmanie",
-    "type": "Culturelle",
-    "description": "L’Ouest sauvage, du Pilbara rouge aux récifs coraliens où transitent les requins-baleines. Du désert des Pinnacles aux pistes des prospecteurs d’or. De Kalgoorlie, la plus grande mine d’or à la côte Sud-Ouest, Wave Rock, et les plus hautes forêts. Freemantle, la ville branchée, et Perth, la capitale moderne la plus isolée du monde.\n\nLa Tasmanie, une histoire douloureuse et une nature grandiose. La forêt primaire des plus hauts arbres du monde où se récolte un miel extraordinaire. Un trésor animalier peuplé de pademelon, wombat, et du fameux diable. Un grand tour littoral entre des îles paradisiaques et des falaises vertigineuses. L’esprit traditionnel «tassie», la fête rétro d’Evandale et Hobart, la capitale.\n\nEn présence du réalisateur Jean Charbonneau.",
-    "town": "Guilvinec",
-    "address": "Centre de loisirs et de la culture",
-    "gps": {
-      "latitude": "47.7980001",
-      "longitude": "-4.2772722"
-    },
-    "phone": {
-      "number": "02 98 82 83 56"
-    },
-    "dates": [
-      {
-        "oneday": true,
-        "start": {
-          "startDate": "2026-03-04T00:00:00+01:00",
-          "startTime": "à 14h30"
-        },
-        "end": {
-          "endDate": "2026-03-04T23:59:59+01:00"
-        }
-      }
-    ],
-    "url": "https://www.destination-paysbigouden.com/offres/cine-docs-australie-du-grand-ouest-a-la-tasmanie-guilvinec-fr-5988586/"
-  },
-  {
     "sheetId": "5988573",
     "bordereau": "FMA",
     "title": "Théâtre - Trois femmes au bord de la crise de mère",
